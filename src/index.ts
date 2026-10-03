@@ -11,8 +11,15 @@ import { handleOnboardReaction } from "@/commands/onboard-reactions";
 import { Poster } from "@/poster/index";
 import { seedRecentPostings } from "@/poster/seed";
 import { ensureLiveSince } from "@/lib/live-since";
+import { createListingsSync, installListingsSync } from "@/listings/sync";
 
 const env = validateEnv();
+const listingsSync = createListingsSync({
+  token: env.GITHUB_TOKEN,
+  repo: env.LISTINGS_REPO,
+  branch: env.LISTINGS_BRANCH,
+});
+installListingsSync(listingsSync);
 
 const client = new Client({
   intents: [
@@ -36,27 +43,29 @@ async function startPosting(guildId: string) {
     console.log(`Only posting jobs published on or after ${liveSince.toISOString().slice(0, 10)}`);
 
     poster = new Poster(client, prisma);
+    const sendPosting: Poster["send"] = (posting, hash) =>
+      poster!.send(posting, hash).then((value) => {
+        listingsSync.schedule();
+        return value;
+      });
 
     if (env.BACKFILL) {
       console.log(`Running backfill (limit ${env.BACKFILL_LIMIT} per source)...`);
       await runBackfill(
         { enabled: true, limitPerSource: env.BACKFILL_LIMIT, liveSince },
-        (posting, hash) => poster!.send(posting, hash)
+        sendPosting
       );
       console.log("Backfill complete");
     }
 
-    const seeded = await seedRecentPostings(
-      (posting, hash) => poster!.send(posting, hash),
-      liveSince
-    );
+    const seeded = await seedRecentPostings(sendPosting, liveSince);
     if (seeded.sent > 0 || seeded.skipped > 0) {
       console.log(`Seeded ${seeded.sent} jobs into mapped channels (${seeded.skipped} already delivered)`);
     }
 
     manager = new SourcesManager(
       getAllAdapters(),
-      (posting, hash) => poster!.send(posting, hash),
+      sendPosting,
       (source, error) => console.error(`[${source}] ${error.message}`),
       liveSince
     );
@@ -70,6 +79,7 @@ async function startPosting(guildId: string) {
 
 async function shutdown(signal: string) {
   console.log(`Received ${signal}, shutting down...`);
+  listingsSync.stop();
   manager?.stop();
   poster?.stop();
   await prisma.$disconnect();

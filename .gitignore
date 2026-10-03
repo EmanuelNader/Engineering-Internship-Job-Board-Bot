@@ -10,6 +10,7 @@ prod.db-journal
 *.log
 .DS_Store
 coverage/
-data/
+data/**
+!data/listings.json
 .superpowers/
 docs/superpowers/

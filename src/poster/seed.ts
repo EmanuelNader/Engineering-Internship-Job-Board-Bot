@@ -6,6 +6,7 @@ import { detectRoleFamily, detectRoleTitles, isUsLocation } from "@/lib/normaliz
 import { filterEnabledRoleFamilies } from "@/config/roles.config";
 import { parseWorkdayPostedOn } from "@/lib/workday-posted";
 import type { RoleFamily } from "@/lib/types";
+import { scheduleListingsSync } from "@/listings/sync";
 
 const DEFAULT_SEED_LIMIT = 250;
 const DEAD_FAMILIES = new Set(["engineering", "design", "growth"]);
@@ -139,5 +140,6 @@ export async function seedRecentPostingsForGuild(client: Client, guildId: string
     console.log(`Seeded ${result.sent} jobs (${result.skipped} already in mapped channels)`);
   } finally {
     poster.stop();
+    scheduleListingsSync();
   }
 }

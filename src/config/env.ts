@@ -8,6 +8,10 @@ export interface AppEnv {
   GITHUB_MAX_AGE_DAYS: number;
   /** Days of already-posted listings to include on first join. 0 = onboard day only. */
   INITIAL_LOOKBACK_DAYS: number;
+  /** owner/repo that receives data/listings.json and docs/internships.md. Unset disables sync. */
+  LISTINGS_REPO?: string;
+  /** Branch those listing files are committed to. */
+  LISTINGS_BRANCH: string;
   NODE_ENV: string;
 }
 
@@ -37,6 +41,16 @@ export function validateEnv(env: NodeJS.ProcessEnv = process.env): AppEnv {
     throw new Error("INITIAL_LOOKBACK_DAYS must be a number >= 0");
   }
 
+  const listingsRepo = env.LISTINGS_REPO?.trim() || undefined;
+  if (listingsRepo && !/^[\w.-]+\/[\w.-]+$/.test(listingsRepo)) {
+    throw new Error("LISTINGS_REPO must be owner/repo");
+  }
+
+  const listingsBranch = env.LISTINGS_BRANCH?.trim() || "main";
+  if (!listingsBranch || /\s/.test(listingsBranch)) {
+    throw new Error("LISTINGS_BRANCH must be a branch name");
+  }
+
   return {
     DISCORD_TOKEN: env.DISCORD_TOKEN!,
     DATABASE_URL: env.DATABASE_URL!,
@@ -45,6 +59,8 @@ export function validateEnv(env: NodeJS.ProcessEnv = process.env): AppEnv {
     BACKFILL_LIMIT: limit,
     GITHUB_MAX_AGE_DAYS: maxAgeDays,
     INITIAL_LOOKBACK_DAYS: lookbackDays,
+    LISTINGS_REPO: listingsRepo,
+    LISTINGS_BRANCH: listingsBranch,
     NODE_ENV: env.NODE_ENV ?? "development",
   };
 }

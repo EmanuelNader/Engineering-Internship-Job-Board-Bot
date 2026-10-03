@@ -31,6 +31,8 @@ describe("validateEnv", () => {
     delete process.env.BACKFILL;
     delete process.env.BACKFILL_LIMIT;
     delete process.env.GITHUB_MAX_AGE_DAYS;
+    delete process.env.LISTINGS_REPO;
+    delete process.env.LISTINGS_BRANCH;
 
     const env = validateEnv();
     expect(env.BACKFILL).toBe(false);
@@ -38,6 +40,8 @@ describe("validateEnv", () => {
     expect(env.GITHUB_MAX_AGE_DAYS).toBe(14);
     expect(env.GITHUB_TOKEN).toBeUndefined();
     expect(env.INITIAL_LOOKBACK_DAYS).toBe(7);
+    expect(env.LISTINGS_REPO).toBeUndefined();
+    expect(env.LISTINGS_BRANCH).toBe("main");
   });
 
   it("throws when INITIAL_LOOKBACK_DAYS is negative", () => {
@@ -64,5 +68,18 @@ describe("validateEnv", () => {
     process.env.DISCORD_TOKEN = "tok";
     delete process.env.DATABASE_URL;
     expect(() => validateEnv()).toThrow(/DATABASE_URL/);
+  });
+
+  it("parses LISTINGS_REPO and rejects a value that is not owner/repo", () => {
+    process.env.DISCORD_TOKEN = "tok";
+    process.env.DATABASE_URL = "file:./dev.db";
+    process.env.LISTINGS_REPO = "acme/board";
+    process.env.LISTINGS_BRANCH = "listings";
+    const env = validateEnv();
+    expect(env.LISTINGS_REPO).toBe("acme/board");
+    expect(env.LISTINGS_BRANCH).toBe("listings");
+
+    process.env.LISTINGS_REPO = "not a repo";
+    expect(() => validateEnv()).toThrow(/LISTINGS_REPO/);
   });
 });

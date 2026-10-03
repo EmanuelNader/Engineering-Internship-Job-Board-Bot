@@ -39,6 +39,9 @@ BACKFILL=true
 BACKFILL_LIMIT=50
 GITHUB_MAX_AGE_DAYS=14
 INITIAL_LOOKBACK_DAYS=7
+# Public list committed to this repo. Empty disables. Token needs Contents read and write.
+LISTINGS_REPO=
+LISTINGS_BRANCH=main
 ```
 
 Compose overrides `DATABASE_URL` to a Docker volume (`/app/data/prod.db`). Do not point it at your laptop’s `prisma/dev.db`.
@@ -61,7 +64,7 @@ docker compose up -d --build
 
 If the pull changes channels or ping families, an admin must run **`/setup`** then **`/onboard`**. `/setup` creates new channels and ping roles; it does **not** delete leftover `#engineering-jobs`, `#design-jobs`, `#growth-jobs`, or `@Engineering` / `@Design` / `@Growth` — remove those in Discord if you no longer want them. Re-run `/onboard` so the reaction panel lists the new emojis, then drag the **job board** role above the new ping roles.
 
-No new `.env` keys. Turn families on or off with `enabled` in `src/config/roles.config.ts` (same idea as adapter `enabled`). In Discord, **`/settings`** lists those values.
+Turn families on or off with `enabled` in `src/config/roles.config.ts` (same idea as adapter `enabled`). In Discord, **`/settings`** lists those values. `LISTINGS_REPO` is optional; leave it empty to skip committing the public internship list.
 
 SQLite lives in the `intern-board-data` volume. Back it up with:
 
@@ -74,6 +77,7 @@ docker compose cp intern-board:/app/data/prod.db "backups/prod-$(date +%Y%m%d-%H
 ```bash
 cp .env.example .env
 # Fill DISCORD_TOKEN. GITHUB_TOKEN is strongly recommended (GitHub rate limits).
+# When LISTINGS_REPO is set, that token also needs contents write on the repo.
 # DATABASE_URL file:./dev.db is created at prisma/dev.db (relative to the Prisma schema).
 # Keep BACKFILL=false unless you intentionally want first-boot channel seeding.
 
@@ -107,6 +111,9 @@ GITHUB_TOKEN=your_github_pat
 BACKFILL=true
 BACKFILL_LIMIT=50
 GITHUB_MAX_AGE_DAYS=14
+# Public list committed to this repo. Empty disables. Token needs Contents read and write.
+LISTINGS_REPO=
+LISTINGS_BRANCH=main
 ```
 
 `DATABASE_URL="file:./prod.db"` is stored at **`prisma/prod.db`**, not the repo root.
