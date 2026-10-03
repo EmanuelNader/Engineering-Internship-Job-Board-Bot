@@ -91,42 +91,95 @@ function cell(value: string): string {
   return value.replace(/\|/g, "\\|").replace(/\r?\n/g, " ").trim();
 }
 
+const CATEGORY_LABELS: Record<RoleFamily, string> = {
+  swe: "Software Engineering",
+  "pm-program": "Product Management",
+  hardware: "Hardware Engineering",
+  data: "Data Science",
+  ml: "Machine Learning",
+  "civil-structural": "Civil and Structural",
+  mechanical: "Mechanical Engineering",
+  electrical: "Electrical Engineering",
+  chemical: "Chemical Engineering",
+  aerospace: "Aerospace Engineering",
+  other: "Other",
+};
+
+export const LISTINGS_START = "<!-- listings:start -->";
+export const LISTINGS_END = "<!-- listings:end -->";
+
+function safeUrl(url: string): string {
+  return url.replace(/ /g, "%20").replace(/\(/g, "%28").replace(/\)/g, "%29").replace(/\|/g, "%7C");
+}
+
 function applyLink(url: string): string {
-  const safe = url.replace(/ /g, "%20").replace(/\(/g, "%28").replace(/\)/g, "%29").replace(/\|/g, "%7C");
-  return `[Apply](${safe})`;
+  return `[Apply](${safeUrl(url)})`;
+}
+
+function companyLink(name: string, url: string): string {
+  const label = cell(name).replace(/\[/g, "").replace(/\]/g, "");
+  return `[${label}](${safeUrl(url)})`;
+}
+
+function categoryAnchor(label: string): string {
+  return label.toLowerCase().replace(/[^a-z0-9 ]/g, "").trim().replace(/\s+/g, "-");
 }
 
 function renderMarkdown(listings: InternshipListing[], now: Date): string {
-  const parts = [
-    "# Engineering internships",
-    [
-      "Generated from roles the bot posted to Discord. Do not edit by hand.",
-      "",
-      "Scraped from the [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships), [SimplifyJobs off-season](https://github.com/SimplifyJobs/Summer2027-Internships/blob/main/README-Off-Season.md), [vanshb03](https://github.com/vanshb03/Summer2027-Internships), and [speedyapply](https://github.com/speedyapply/2027-SWE-College-Jobs) lists, plus the [Greenhouse, Ashby, Lever, Workday, and iCIMS boards](../README.md#what-it-scrapes).",
-    ].join("\n"),
+  const sections = getEnabledRoleFamilies()
+    .map((family) => ({
+      label: CATEGORY_LABELS[family.family],
+      rows: listings.filter((listing) => listing.role_families.includes(family.family)),
+    }))
+    .filter((section) => section.rows.length > 0);
+
+  const roleWord = listings.length === 1 ? "role" : "roles";
+  const index = [
+    "## Browse by category",
+    "",
+    `${listings.length} ${roleWord}.`,
+    "",
+    ...sections.map(
+      (section) => `- [${section.label}](#${categoryAnchor(section.label)}) (${section.rows.length})`
+    ),
   ];
 
-  let sections = 0;
-  for (const family of getEnabledRoleFamilies()) {
-    const rows = listings.filter((listing) => listing.role_families.includes(family.family));
-    if (rows.length === 0) continue;
-    sections++;
+  const parts = [
+    "# Engineering internships",
+    "US intern, co-op, and fellowship roles posted to Discord. This section is generated. Do not edit it by hand.",
+    index.join("\n"),
+  ];
+
+  for (const section of sections) {
     const table = [
-      `## ${family.roleName}`,
+      `## ${section.label}`,
+      "",
+      "[Back to top](#browse-by-category)",
       "",
       "| Company | Role | Location | Application | Age |",
       "| --- | --- | --- | --- | :---: |",
-      ...rows.map((listing) => {
+      ...section.rows.map((listing) => {
         const posted = new Date(listing.date_posted);
         const location = listing.location ? cell(listing.location) : "—";
-        return `| **${cell(listing.company_name)}** | ${cell(listing.title)} | ${location} | ${applyLink(listing.url)} | ${formatAge(posted, now)} |`;
+        return `| ${companyLink(listing.company_name, listing.url)} | ${cell(listing.title)} | ${location} | ${applyLink(listing.url)} | ${formatAge(posted, now)} |`;
       }),
     ];
     parts.push(table.join("\n"));
   }
 
-  if (sections === 0) parts.push("No listings yet.");
+  if (sections.length === 0) parts.push("No listings yet.");
   return `${parts.join("\n\n")}\n`;
+}
+
+/** Keep the generated list at the top of README.md and leave the bot docs below the end marker. */
+export function spliceListings(readme: string, listingsMarkdown: string): string {
+  const block = `${LISTINGS_START}\n${listingsMarkdown.trim()}\n${LISTINGS_END}`;
+  const start = readme.indexOf(LISTINGS_START);
+  const end = readme.indexOf(LISTINGS_END);
+  if (start === -1 || end === -1 || end < start) {
+    return `${block}\n\n${readme.trimStart()}`;
+  }
+  return `${readme.slice(0, start)}${block}${readme.slice(end + LISTINGS_END.length)}`;
 }
 
 export function renderInternshipFiles(

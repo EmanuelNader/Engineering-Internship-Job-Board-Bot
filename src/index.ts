@@ -71,6 +71,7 @@ async function startPosting(guildId: string) {
     );
     manager.start();
     console.log("SourcesManager started");
+    void listingsSync.flush();
   } catch (err) {
     postingStarted = false;
     throw err;

@@ -1,3 +1,6 @@
+<!-- listings:start -->
+<!-- listings:end -->
+
 # Engineering Internship Job Board Bot
 
 Self-hosted Discord bot that watches public intern lists and company career pages (Greenhouse, Ashby, Lever, Workday, **iCIMS**, and GitHub READMEs), keeps **US intern / co-op / fellowship** roles, and posts each new listing into a role-family channel (SWE, PM, Hardware, Data, ML, Civil/Structural, Mechanical, Electrical, Chemical, Aerospace, Other). Members react on the `/onboard` panel (or use `/role`) to get pinged. Covers both tech and traditional engineering majors.

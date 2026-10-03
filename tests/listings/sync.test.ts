@@ -1,7 +1,7 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import nock from "nock";
 import { gitBlobSha } from "@/listings/github";
-import { renderInternshipFiles, type DeliveredPosting } from "@/listings/render";
+import { renderInternshipFiles, spliceListings, type DeliveredPosting } from "@/listings/render";
 import { createListingsSync } from "@/listings/sync";
 
 const API = "https://api.github.com";
@@ -23,11 +23,15 @@ function row(): DeliveredPosting {
   };
 }
 
+const README = "<!-- listings:start -->\nold\n<!-- listings:end -->\n# Bot\n";
+
 function renderedFiles() {
   const rendered = renderInternshipFiles([row()], NOW);
+  const readme = spliceListings(README, rendered.markdown);
   return {
     jsonSha: gitBlobSha(rendered.json),
     markdownSha: gitBlobSha(rendered.markdown),
+    readmeSha: gitBlobSha(readme),
   };
 }
 
@@ -52,12 +56,13 @@ describe("createListingsSync", () => {
   });
 
   it("skips the commit when both blobs already match", async () => {
-    const { jsonSha, markdownSha } = renderedFiles();
+    const { jsonSha, markdownSha, readmeSha } = renderedFiles();
     nock(API).get("/repos/acme/board/git/ref/heads/main").reply(200, { object: { sha: "commitsha" } });
     nock(API).get("/repos/acme/board/git/commits/commitsha").reply(200, { tree: { sha: "rootsha" } });
     nock(API).get("/repos/acme/board/git/trees/rootsha").reply(200, {
       sha: "rootsha",
       tree: [
+        { path: "README.md", type: "blob", sha: readmeSha },
         { path: "data", type: "tree", sha: "datatree" },
         { path: "docs", type: "tree", sha: "docstree" },
       ],
@@ -76,6 +81,7 @@ describe("createListingsSync", () => {
       repo: "acme/board",
       now: () => NOW,
       loadDelivered: async () => [row()],
+      readReadme: async () => README,
     });
     await sync.flush();
     expect(nock.isDone()).toBe(true);
@@ -100,6 +106,12 @@ describe("createListingsSync", () => {
         return true;
       })
       .reply(201, { sha: "sha-md" });
+    nock(API)
+      .post("/repos/acme/board/git/blobs", (body: { content: string }) => {
+        blobs.push(body);
+        return true;
+      })
+      .reply(201, { sha: "sha-readme" });
     nock(API)
       .post("/repos/acme/board/git/trees", (body: { base_tree: string; tree: { path: string; sha: string }[] }) => {
         treeBody = body;
@@ -126,18 +138,22 @@ describe("createListingsSync", () => {
       repo: "acme/board",
       now: () => NOW,
       loadDelivered: async () => [row()],
+      readReadme: async () => README,
     });
     await sync.flush();
 
     expect(nock.isDone()).toBe(true);
-    expect(blobs).toHaveLength(2);
+    expect(blobs).toHaveLength(3);
     expect(blobs[0].content).toContain('"company_name": "Stripe"');
-    expect(blobs[1].content).toContain("## SWE");
+    expect(blobs[1].content).toContain("## Software Engineering");
+    expect(blobs[1].content).toContain("| Company | Role | Location | Application | Age |");
+    expect(blobs[2].content).toContain("# Bot");
     expect(treeBody).toEqual({
       base_tree: "rootsha",
       tree: [
         { path: "data/listings.json", mode: "100644", type: "blob", sha: "sha-json" },
         { path: "docs/internships.md", mode: "100644", type: "blob", sha: "sha-md" },
+        { path: "README.md", mode: "100644", type: "blob", sha: "sha-readme" },
       ],
     });
   });

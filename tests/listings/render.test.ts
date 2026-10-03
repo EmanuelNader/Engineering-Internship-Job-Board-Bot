@@ -45,16 +45,17 @@ describe("renderInternshipFiles", () => {
 
     const listings = JSON.parse(files.json) as { id: string; date_posted: string }[];
     expect(listings.map((listing) => listing.id)).toEqual(["hash-new", "older"]);
-    expect(files.markdown).toContain("https://github.com/SimplifyJobs/Summer2027-Internships");
-    expect(files.markdown).toContain("../README.md#what-it-scrapes");
-    expect(files.markdown).toContain("## SWE");
+    expect(files.markdown).toContain("## Browse by category");
+    expect(files.markdown).toContain("- [Software Engineering](#software-engineering) (2)");
+    expect(files.markdown).toContain("## Software Engineering");
+    expect(files.markdown).toContain("[Back to top](#browse-by-category)");
     expect(files.markdown).toContain(
-      "| **Stripe** | Software Engineer Intern | San Francisco, CA | [Apply](https://boards.greenhouse.io/stripe/jobs/1) | 1d |"
+      "| [Stripe](https://boards.greenhouse.io/stripe/jobs/1) | Software Engineer Intern | San Francisco, CA | [Apply](https://boards.greenhouse.io/stripe/jobs/1) | 1d |"
     );
     expect(files.markdown.indexOf("Software Engineer Intern")).toBeLessThan(files.markdown.indexOf("Backend Intern"));
     expect(files.markdown).toContain("| Backend Intern |");
     expect(files.markdown).toContain("| 2w |");
-    expect(files.markdown).not.toContain("## ML");
+    expect(files.markdown).not.toContain("## Machine Learning");
   });
 
   it("repeats a role in each matching family", () => {
@@ -69,8 +70,8 @@ describe("renderInternshipFiles", () => {
       NOW
     );
 
-    const swe = files.markdown.indexOf("## SWE");
-    const ml = files.markdown.indexOf("## ML");
+    const swe = files.markdown.indexOf("## Software Engineering");
+    const ml = files.markdown.indexOf("## Machine Learning");
     expect(swe).toBeGreaterThan(-1);
     expect(ml).toBeGreaterThan(swe);
     expect(files.markdown.split("[Apply](https://jobs.ashbyhq.com/openai/abc)").length - 1).toBe(2);
