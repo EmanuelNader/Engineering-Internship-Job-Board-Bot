@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1010 roles.
+1011 roles.
 
 - [Software Engineering](#software-engineering) (429)
 - [Product Management](#product-management) (26)
@@ -18,6 +18,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Electrical Engineering](#electrical-engineering) (71)
 - [Chemical Engineering](#chemical-engineering) (26)
 - [Aerospace Engineering](#aerospace-engineering) (30)
+- [Other](#other) (1)
 
 ## Software Engineering
 
@@ -1116,3 +1117,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) | Avionics Engineering Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) | 3w |
 | [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/d0630c64-6d20-4d15-ba75-aa125f0a3f49) | Avionics Internship, Power Electronics (Spring or Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/d0630c64-6d20-4d15-ba75-aa125f0a3f49) | 1mo |
 | [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f) | Avionics Internship (Spring or Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f) | 1mo |
+
+## Other
+
+[Back to top](#browse-by-category)
+
+| Company | Role | Location | Application | Age |
+| --- | --- | --- | --- | :---: |
+| [Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) | Software Engineering Intern - UX/UI 2027 | Austin, TX | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) | 2d |
