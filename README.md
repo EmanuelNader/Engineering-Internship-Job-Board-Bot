@@ -1,6 +1,6 @@
 # Engineering internships
 
-US intern, co-op, and fellowship roles posted to Discord. This page is generated. Do not edit it by hand.
+US intern, co-op, and fellowship roles posted to Discord.
 
 [What it scrapes](docs/SOURCES.md) · [How the bot works](docs/BOT.md)
 
