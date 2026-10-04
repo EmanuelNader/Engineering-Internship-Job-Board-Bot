@@ -105,9 +105,6 @@ const CATEGORY_LABELS: Record<RoleFamily, string> = {
   other: "Other",
 };
 
-export const LISTINGS_START = "<!-- listings:start -->";
-export const LISTINGS_END = "<!-- listings:end -->";
-
 function safeUrl(url: string): string {
   return url.replace(/ /g, "%20").replace(/\(/g, "%28").replace(/\)/g, "%29").replace(/\|/g, "%7C");
 }
@@ -125,7 +122,7 @@ function categoryAnchor(label: string): string {
   return label.toLowerCase().replace(/[^a-z0-9 ]/g, "").trim().replace(/\s+/g, "-");
 }
 
-function renderMarkdown(listings: InternshipListing[], now: Date): string {
+function renderMarkdown(listings: InternshipListing[], now: Date, sourcesHref: string, botHref: string): string {
   const sections = getEnabledRoleFamilies()
     .map((family) => ({
       label: CATEGORY_LABELS[family.family],
@@ -146,7 +143,11 @@ function renderMarkdown(listings: InternshipListing[], now: Date): string {
 
   const parts = [
     "# Engineering internships",
-    "US intern, co-op, and fellowship roles posted to Discord. This section is generated. Do not edit it by hand.",
+    [
+      "US intern, co-op, and fellowship roles posted to Discord. This page is generated. Do not edit it by hand.",
+      "",
+      `[What it scrapes](${sourcesHref}) · [How the bot works](${botHref})`,
+    ].join("\n"),
     index.join("\n"),
   ];
 
@@ -171,24 +172,14 @@ function renderMarkdown(listings: InternshipListing[], now: Date): string {
   return `${parts.join("\n\n")}\n`;
 }
 
-/** Keep the generated list at the top of README.md and leave the bot docs below the end marker. */
-export function spliceListings(readme: string, listingsMarkdown: string): string {
-  const block = `${LISTINGS_START}\n${listingsMarkdown.trim()}\n${LISTINGS_END}`;
-  const start = readme.indexOf(LISTINGS_START);
-  const end = readme.indexOf(LISTINGS_END);
-  if (start === -1 || end === -1 || end < start) {
-    return `${block}\n\n${readme.trimStart()}`;
-  }
-  return `${readme.slice(0, start)}${block}${readme.slice(end + LISTINGS_END.length)}`;
-}
-
 export function renderInternshipFiles(
   rows: DeliveredPosting[],
   now = new Date()
-): { json: string; markdown: string } {
+): { json: string; markdown: string; readme: string } {
   const listings = toListings(rows);
   return {
     json: `${JSON.stringify(listings, null, 2)}\n`,
-    markdown: renderMarkdown(listings, now),
+    markdown: renderMarkdown(listings, now, "SOURCES.md", "BOT.md"),
+    readme: renderMarkdown(listings, now, "docs/SOURCES.md", "docs/BOT.md"),
   };
 }

@@ -1,7 +1,7 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import nock from "nock";
 import { gitBlobSha } from "@/listings/github";
-import { renderInternshipFiles, spliceListings, type DeliveredPosting } from "@/listings/render";
+import { renderInternshipFiles, type DeliveredPosting } from "@/listings/render";
 import { createListingsSync } from "@/listings/sync";
 
 const API = "https://api.github.com";
@@ -23,15 +23,12 @@ function row(): DeliveredPosting {
   };
 }
 
-const README = "<!-- listings:start -->\nold\n<!-- listings:end -->\n# Bot\n";
-
 function renderedFiles() {
   const rendered = renderInternshipFiles([row()], NOW);
-  const readme = spliceListings(README, rendered.markdown);
   return {
     jsonSha: gitBlobSha(rendered.json),
     markdownSha: gitBlobSha(rendered.markdown),
-    readmeSha: gitBlobSha(readme),
+    readmeSha: gitBlobSha(rendered.readme),
   };
 }
 
@@ -81,7 +78,6 @@ describe("createListingsSync", () => {
       repo: "acme/board",
       now: () => NOW,
       loadDelivered: async () => [row()],
-      readReadme: async () => README,
     });
     await sync.flush();
     expect(nock.isDone()).toBe(true);
@@ -138,16 +134,17 @@ describe("createListingsSync", () => {
       repo: "acme/board",
       now: () => NOW,
       loadDelivered: async () => [row()],
-      readReadme: async () => README,
     });
     await sync.flush();
 
     expect(nock.isDone()).toBe(true);
     expect(blobs).toHaveLength(3);
     expect(blobs[0].content).toContain('"company_name": "Stripe"');
+    expect(blobs[1].content).toContain("[What it scrapes](SOURCES.md)");
     expect(blobs[1].content).toContain("## Software Engineering");
     expect(blobs[1].content).toContain("| Company | Role | Location | Application | Age |");
-    expect(blobs[2].content).toContain("# Bot");
+    expect(blobs[2].content).toContain("[What it scrapes](docs/SOURCES.md)");
+    expect(blobs[2].content).toContain("[How the bot works](docs/BOT.md)");
     expect(treeBody).toEqual({
       base_tree: "rootsha",
       tree: [

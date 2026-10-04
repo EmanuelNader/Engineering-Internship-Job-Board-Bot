@@ -45,6 +45,10 @@ describe("renderInternshipFiles", () => {
 
     const listings = JSON.parse(files.json) as { id: string; date_posted: string }[];
     expect(listings.map((listing) => listing.id)).toEqual(["hash-new", "older"]);
+    expect(files.markdown).toContain("[What it scrapes](SOURCES.md)");
+    expect(files.markdown).toContain("[How the bot works](BOT.md)");
+    expect(files.readme).toContain("[What it scrapes](docs/SOURCES.md)");
+    expect(files.readme).toContain("[How the bot works](docs/BOT.md)");
     expect(files.markdown).toContain("## Browse by category");
     expect(files.markdown).toContain("- [Software Engineering](#software-engineering) (2)");
     expect(files.markdown).toContain("## Software Engineering");

@@ -1,12 +1,9 @@
-import { readFile } from "node:fs/promises";
-import { resolve } from "node:path";
 import { prisma } from "@/db/client";
 import { commitFiles } from "./github";
 import {
   LISTINGS_JSON_PATH,
   LISTINGS_MARKDOWN_PATH,
   renderInternshipFiles,
-  spliceListings,
   type DeliveredPosting,
 } from "./render";
 
@@ -20,7 +17,6 @@ export interface ListingsSyncConfig {
   debounceMs?: number;
   now?: () => Date;
   loadDelivered?: () => Promise<DeliveredPosting[]>;
-  readReadme?: () => Promise<string>;
 }
 
 export interface ListingsSync {
@@ -58,9 +54,6 @@ export function createListingsSync(config: ListingsSyncConfig): ListingsSync {
   const debounceMs = config.debounceMs ?? DEFAULT_DEBOUNCE_MS;
   const now = config.now ?? (() => new Date());
   const load = config.loadDelivered ?? loadDeliveredPostings;
-  const readReadme =
-    config.readReadme ??
-    (() => readFile(resolve(process.cwd(), "README.md"), "utf8").catch(() => ""));
   const enabled = Boolean(token && repo);
 
   if (repo && !token) {
@@ -77,7 +70,6 @@ export function createListingsSync(config: ListingsSyncConfig): ListingsSync {
       const rows = await load();
       if (rows.length === 0) return;
       const rendered = renderInternshipFiles(rows, now());
-      const readme = spliceListings(await readReadme(), rendered.markdown);
       const [owner, name] = repo.split("/");
       if (!owner || !name) throw new Error(`Invalid LISTINGS_REPO: ${repo}`);
       const result = await commitFiles({
@@ -89,7 +81,7 @@ export function createListingsSync(config: ListingsSyncConfig): ListingsSync {
         files: [
           { path: LISTINGS_JSON_PATH, content: rendered.json },
           { path: LISTINGS_MARKDOWN_PATH, content: rendered.markdown },
-          { path: "README.md", content: readme },
+          { path: "README.md", content: rendered.readme },
         ],
       });
       if (result === "committed") {
