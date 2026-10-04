@@ -1,11 +1,10 @@
-import { getEnabledRoleFamilies, roleFamilies } from "@/config/roles.config";
-import type { RoleFamily } from "@/lib/types";
+import { filterEnabledRoleFamilies, getEnabledRoleFamilies } from "@/config/roles.config";
 import { startOfUtcDay } from "@/lib/freshness";
+import { detectRoleFamily } from "@/lib/normalize";
+import type { RoleFamily } from "@/lib/types";
 
 export const LISTINGS_JSON_PATH = "data/listings.json";
 export const LISTINGS_MARKDOWN_PATH = "docs/internships.md";
-
-const KNOWN_FAMILIES = new Set<string>(roleFamilies.map((family) => family.family));
 
 export interface DeliveredPosting {
   dedupHash: string;
@@ -54,22 +53,6 @@ function listingDate(row: DeliveredPosting): Date {
   return row.firstSeenAt;
 }
 
-function parseFamilies(raw: string): RoleFamily[] {
-  try {
-    const parsed = JSON.parse(raw) as unknown;
-    if (!Array.isArray(parsed)) return [];
-    const families: RoleFamily[] = [];
-    for (const item of parsed) {
-      if (typeof item === "string" && KNOWN_FAMILIES.has(item) && !families.includes(item as RoleFamily)) {
-        families.push(item as RoleFamily);
-      }
-    }
-    return families;
-  } catch {
-    return [];
-  }
-}
-
 function byNewest(a: InternshipListing, b: InternshipListing): number {
   const delta = Date.parse(b.date_posted) - Date.parse(a.date_posted);
   if (delta !== 0) return delta;
@@ -89,8 +72,9 @@ export function toListings(rows: DeliveredPosting[], now = new Date()): Internsh
       date_posted: listingDate(row).toISOString(),
       level: row.level,
       source: row.sourceName,
-      role_families: parseFamilies(row.roleFamily),
+      role_families: filterEnabledRoleFamilies(detectRoleFamily(row.title)),
     }))
+    .filter((listing) => listing.role_families.length > 0)
     .filter((listing) => listingAgeDays(new Date(listing.date_posted), now) <= MAX_LISTING_AGE_DAYS)
     .sort(byNewest);
 }

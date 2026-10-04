@@ -87,7 +87,7 @@ describe("renderInternshipFiles", () => {
       [
         row({
           roleFamily: JSON.stringify(["ml", "swe"]),
-          title: "Machine Learning Intern",
+          title: "Machine Learning Software Engineer Intern",
           url: "https://jobs.ashbyhq.com/openai/abc",
         }),
       ],
@@ -99,9 +99,9 @@ describe("renderInternshipFiles", () => {
     expect(swe).toBeGreaterThan(-1);
     expect(ml).toBeGreaterThan(swe);
     expect(files.markdown.split("[Apply](https://jobs.ashbyhq.com/openai/abc)").length - 1).toBe(2);
-    expect(toListings([row({ roleFamily: JSON.stringify(["ml", "swe", "nope"]) })])[0].role_families).toEqual([
-      "ml",
+    expect(toListings([row({ title: "Machine Learning Software Engineer Intern" })])[0].role_families).toEqual([
       "swe",
+      "ml",
     ]);
   });
 
