@@ -1,5 +1,18 @@
 [
   {
+    "id": "7bef67e57a8273b264c41374e30d29ba98527a23fa5d44ebe0746742fe708b36",
+    "company_name": "Kimley-Horn",
+    "title": "Motion Design Intern",
+    "location": "US-NC-Raleigh",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26847/motion-design-intern/job",
+    "date_posted": "2026-10-04T07:06:08.363Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "other"
+    ]
+  },
+  {
     "id": "5bff1bad7d444832553763fa776386b7e5066b148d624e30be812f015855d372",
     "company_name": "Baker Hughes",
     "title": "Intern - Manufacturing - 2027 (M/F/D)",
@@ -4705,6 +4718,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "dd31a448ac26a940e0a0ac5c96f3256444dcae9ea036f514864f58a5ec1b6a38",
+    "company_name": "🔥 TikTok",
+    "title": "Product Marketing Management Intern - Systems Strategy & Operations 🎓",
+    "location": "NYC",
+    "url": "https://lifeattiktok.com/search/7683679497136179509?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "other"
     ]
   },
   {
@@ -12346,6 +12372,19 @@
     "source": "greenhouse",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "44eadf407f542938277e65040f020a7c3c7964822c740d02bbde01dbec2aa76b",
+    "company_name": "Figma",
+    "title": "Product Design Intern (2027)",
+    "location": "San Francisco, CA • New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
+    "date_posted": "2026-09-14T17:36:15.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "other"
     ]
   },
   {

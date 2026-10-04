@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1011 roles.
+1014 roles.
 
 - [Software Engineering](#software-engineering) (429)
 - [Product Management](#product-management) (26)
@@ -18,7 +18,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Electrical Engineering](#electrical-engineering) (71)
 - [Chemical Engineering](#chemical-engineering) (26)
 - [Aerospace Engineering](#aerospace-engineering) (30)
-- [Other](#other) (1)
+- [Other](#other) (4)
 
 ## Software Engineering
 
@@ -1124,4 +1124,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Kimley-Horn](https://careers-kimley-horn.icims.com/jobs/26847/motion-design-intern/job) | Motion Design Intern | US-NC-Raleigh | [Apply](https://careers-kimley-horn.icims.com/jobs/26847/motion-design-intern/job) | 0d |
 | [Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) | Software Engineering Intern - UX/UI 2027 | Austin, TX | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) | 2d |
+| [🔥 TikTok](https://lifeattiktok.com/search/7683679497136179509?utm_source=Simplify&ref=Simplify) | Product Marketing Management Intern - Systems Strategy & Operations 🎓 | NYC | [Apply](https://lifeattiktok.com/search/7683679497136179509?utm_source=Simplify&ref=Simplify) | 1w |
+| [Figma](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | Product Design Intern (2027) | San Francisco, CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | 2w |
