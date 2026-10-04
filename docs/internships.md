@@ -6,16 +6,16 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1016 roles.
+1019 roles.
 
-- [Software Engineering](#software-engineering) (429)
+- [Software Engineering](#software-engineering) (430)
 - [Product Management](#product-management) (26)
-- [Hardware Engineering](#hardware-engineering) (82)
+- [Hardware Engineering](#hardware-engineering) (83)
 - [Data Science](#data-science) (178)
 - [Machine Learning](#machine-learning) (79)
 - [Civil and Structural](#civil-and-structural) (36)
 - [Mechanical Engineering](#mechanical-engineering) (88)
-- [Electrical Engineering](#electrical-engineering) (94)
+- [Electrical Engineering](#electrical-engineering) (95)
 - [Chemical Engineering](#chemical-engineering) (28)
 - [Aerospace Engineering](#aerospace-engineering) (30)
 - [Other](#other) (10)
@@ -29,6 +29,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Affirm](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | 2d |
 | [Affirm](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | Software Engineer Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | 2d |
 | [🔥 Tesla](https://www.tesla.com/careers/search/job/285508?utm_source=Simplify&ref=Simplify) | Distributed Systems Software Engineer Intern - Energy Engineering | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/285508?utm_source=Simplify&ref=Simplify) | 2d |
+| [The Hartford](https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | Tech & Data Program Summer 2027 - Software Engineer Intern - Hartford | Hartford, CT | [Apply](https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | 2d |
 | [Natera](https://job-boards.greenhouse.io/natera/jobs/6188497004?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Remote in USA | [Apply](https://job-boards.greenhouse.io/natera/jobs/6188497004?utm_source=Simplify&ref=Simplify) | 2d |
 | [ShopBack](https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15/apply?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | SF | [Apply](https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15/apply?utm_source=Simplify&ref=Simplify) | 2d |
 | [Innovative Defense Technologies](https://idtus.pinpointhq.com/en/postings/79744981-0812-4999-8af2-ce7399f521d3) | Software Engineer Intern - JobID-0302 | Arlington, VA | [Apply](https://idtus.pinpointhq.com/en/postings/79744981-0812-4999-8af2-ce7399f521d3) | 2d |
@@ -496,6 +497,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply?utm_source=Simplify&ref=Simplify) | Electrical Engineering Intern - FPGA | El Segundo, CA | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply?utm_source=Simplify&ref=Simplify) | 1d |
+| [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) | 2027 Summer Intern - Software Verification Engineer - AV/AI Platform | Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) | 2d |
 | [Arc](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008?utm_source=Simplify&ref=Simplify) | Electrical Hardware Engineering Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008?utm_source=Simplify&ref=Simplify) | 2d |
 | [Schweitzer Engineering Laboratories](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159?utm_source=Simplify&ref=Simplify) | Hardware Engineering Intern | Pullman, WA | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159?utm_source=Simplify&ref=Simplify) | 2d |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern?utm_source=Simplify&ref=Simplify) | FPGA Electrical Engineer Intern - Civil & Commercial Space Division | North Logan, UT | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern?utm_source=Simplify&ref=Simplify) | 3d |
@@ -1002,6 +1004,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Kimley-Horn](https://careers-kimley-horn.icims.com/jobs/26980/electrical-engineering-intern---transit/job) | Electrical Engineering Intern - Transit | US-WA-Seattle | [Apply](https://careers-kimley-horn.icims.com/jobs/26980/electrical-engineering-intern---transit/job) | 2d |
 | [Kimley-Horn](https://careers-kimley-horn.icims.com/jobs/26035/electrical-engineering-intern---renewable-energy/job) | Electrical Engineering Intern - Renewable Energy | US-CA-Sacramento | [Apply](https://careers-kimley-horn.icims.com/jobs/26035/electrical-engineering-intern---renewable-energy/job) | 2d |
 | [Muon Space](https://job-boards.greenhouse.io/muonspace/jobs/5255112007?utm_source=Simplify&ref=Simplify) | Electrical Engineer Intern | San Jose, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007?utm_source=Simplify&ref=Simplify) | 2d |
+| [Johnson Controls](https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1) | Software/Controls Engineering Grad Intern - Fall Intern | Salem, VA | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1) | 2d |
 | [GD Mission Systems](https://careers-gdms.icims.com/jobs/74924/electrical-engineering-co-op-%28fall-winter%29/job) | Electrical Engineering Co-Op (Fall/Winter) | — | [Apply](https://careers-gdms.icims.com/jobs/74924/electrical-engineering-co-op-%28fall-winter%29/job) | 3d |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern?utm_source=Simplify&ref=Simplify) | FPGA Electrical Engineer Intern - Civil & Commercial Space Division | North Logan, UT | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern?utm_source=Simplify&ref=Simplify) | 3d |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54664?icims=1&utm_source=Simplify&ref=Simplify) | R&D Electrical Engineering Intern | Colorado Springs, CO | [Apply](https://jobs.keysight.com/jobs/54664?icims=1&utm_source=Simplify&ref=Simplify) | 3d |

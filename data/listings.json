@@ -342,6 +342,19 @@
     ]
   },
   {
+    "id": "13265eb6c75b04a6e095606689002adb2f0b32070b35e8123b7ad60cc6c7e901",
+    "company_name": "General Motors",
+    "title": "2027 Summer Intern - Software Verification Engineer - AV/AI Platform",
+    "location": "Warren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "2e8a6fb0efa55329c00314c791b1a0d0960a823c21afb01b9cdfdc2eaa99c6b5",
     "company_name": "Varda Space",
     "title": "Avionics Engineering Intern",
@@ -352,6 +365,19 @@
     "source": "github",
     "role_families": [
       "aerospace"
+    ]
+  },
+  {
+    "id": "3144679f315676815c2bbb4770bd8c50e97d4747f90e9af1a330f80b747548e8",
+    "company_name": "The Hartford",
+    "title": "Tech & Data Program Summer 2027 - Software Engineer Intern - Hartford",
+    "location": "Hartford, CT",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -691,6 +717,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "c035aee40ab80b6839cfb08e7cfeefab829629824969ddb3dbfb28291348e6b2",
+    "company_name": "Johnson Controls",
+    "title": "Software/Controls Engineering Grad Intern - Fall Intern",
+    "location": "Salem, VA",
+    "url": "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
     ]
   },
   {
