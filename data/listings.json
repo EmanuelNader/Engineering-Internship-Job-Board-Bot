@@ -1,5 +1,189 @@
 [
   {
+    "id": "5bff1bad7d444832553763fa776386b7e5066b148d624e30be812f015855d372",
+    "company_name": "Baker Hughes",
+    "title": "Intern - Manufacturing - 2027 (M/F/D)",
+    "location": "IT-MS-AVENZA- VIALE DOMENICO ZACCAGNA, 12",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783",
+    "date_posted": "2026-10-04T06:58:14.453Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "e66e4443f8dcd6700302446dcb1a07cac16b783c5ba644b3614c52aa3ec93b77",
+    "company_name": "RTX",
+    "title": "Mechanical Design Engineering Co-op (Spring 2027)",
+    "location": "US-OH-UNIONTOWN-1555 ~ 1555 Corporate Woods Pkwy ~ CORP WOODS",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486",
+    "date_posted": "2026-10-04T06:58:08.578Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "c62622c4f3d255ad3a1ce4fd3d3a349e22b17da25a3fb81378f8e7bdae7c5d74",
+    "company_name": "GD Mission Systems",
+    "title": "Manufacturing Engineering Intern",
+    "location": null,
+    "url": "https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job",
+    "date_posted": "2026-10-04T06:57:05.786Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
+    "id": "4b52e601dea446c316456cb348d0fb1d246a80462bacbbeeaee32b2bc74d0768",
+    "company_name": "GD Mission Systems",
+    "title": "Payload Control System - Software/Systems Engineering Intern (Summer 2027)",
+    "location": null,
+    "url": "https://careers-gdms.icims.com/jobs/74848/payload-control-system---software-systems-engineering-intern-%28summer-2027%29/job",
+    "date_posted": "2026-10-04T06:56:58.242Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "fdd75809d5d9d8e6e3b8c14dd337cecbcf8feea60a14837db8069cff9264a881",
+    "company_name": "GD Mission Systems",
+    "title": "Manufacturing Intern Engineer",
+    "location": null,
+    "url": "https://careers-gdms.icims.com/jobs/74612/manufacturing-intern-engineer/job",
+    "date_posted": "2026-10-04T06:56:51.200Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "74749982ea5b156369218a9877a4769d5aa1e53ffcc6f335fc7eade7aae4db5c",
+    "company_name": "GD Mission Systems",
+    "title": "Manufacturing Engineering Intern (Secret Clearance Required)",
+    "location": null,
+    "url": "https://careers-gdms.icims.com/jobs/75246/manufacturing-engineering-intern-%28secret-clearance-required%29/job",
+    "date_posted": "2026-10-04T06:56:44.427Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
+    "id": "4aaf8e5c0ecd4b50d8c91c4b78c07d7f446f7d3481ae22165e661071fa38a09c",
+    "company_name": "Sargent & Lundy",
+    "title": "Process Engineer Intern - Energy & Industrial (Summer 2027)",
+    "location": null,
+    "url": "https://careers-sargentlundy.icims.com/jobs/26900/process-engineer-intern---energy-%26-industrial-%28summer-2027%29/job",
+    "date_posted": "2026-10-04T06:56:36.826Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "chemical"
+    ]
+  },
+  {
+    "id": "2a1fda6c148e8729e388023ea76a5bdcda14798dc13a77f5b3d9bd89313818fa",
+    "company_name": "Sargent & Lundy",
+    "title": "Instrumentation & Controls Engineer Intern - Energy & Industrial Group (Summer 2027)",
+    "location": null,
+    "url": "https://careers-sargentlundy.icims.com/jobs/26933/instrumentation-%26-controls-engineer-intern---energy-%26-industrial-group-%28summer-2027%29/job",
+    "date_posted": "2026-10-04T06:56:29.782Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "3a3c0302b194a5b758824cdbb689a3afec83575b614f06f441a506812897f2d8",
+    "company_name": "Sargent & Lundy",
+    "title": "Associate Intern for Project Controls (Summer 2027)",
+    "location": null,
+    "url": "https://careers-sargentlundy.icims.com/jobs/27256/associate-intern-for-project-controls-%28summer-2027%29/job",
+    "date_posted": "2026-10-04T06:56:22.488Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "14c1072492c3ad9a4a41af7bfa4f8e0abafa75a2b9a46015fd8b3761acf97b53",
+    "company_name": "Sargent & Lundy",
+    "title": "Instrumentation & Controls Engineering Intern - Nuclear (Summer 2027)",
+    "location": null,
+    "url": "https://careers-sargentlundy.icims.com/jobs/27617/instrumentation-%26-controls-engineering-intern---nuclear-%28summer-2027%29/job",
+    "date_posted": "2026-10-04T06:56:14.675Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "d425dcb59b29b0f128b7dd7406defce783c83a6acf274dd3b881af8a42df79b1",
+    "company_name": "RS&H",
+    "title": "Roadway/Traffic Control Engineering Intern - Summer 2027",
+    "location": "US-NC-Raleigh",
+    "url": "https://careers-rsandh.icims.com/jobs/8320/roadway-traffic-control-engineering-intern---summer-2027/job",
+    "date_posted": "2026-10-04T06:56:07.627Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "17a6ac27a61b6a2379660b0378954f6c2b0d69e908a7e16297560951ded32272",
+    "company_name": "Baker Hughes",
+    "title": "Intern – Material Engineer - 2027 (M/F/D)",
+    "location": "IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Material-Engineer---2027--M-F-D-_R169937",
+    "date_posted": "2026-10-04T00:00:00.000Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "chemical"
+    ]
+  },
+  {
+    "id": "7a74bf8390652daa436cd23eaeb0d7f28333eb0ad3202dc4ad51107fa09abfbf",
+    "company_name": "RTX",
+    "title": "Avionics Test Engineering -Systems Engineer Intern (Onsite)",
+    "location": "US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
+    "date_posted": "2026-10-04T00:00:00.000Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
+    "id": "3c5d9bbf66b424a7ac8a8e7b5769f6a7152dfc4eccc2bb880ec7975aaf755b52",
+    "company_name": "Vertiv",
+    "title": "Design Engineering Intern",
+    "location": "Delaware, OHFort Lauderdale, FL",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-03T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "6ecfbb2078fff76e6768da0e8c674f7471136fb976ab002f6fd7c075f3143cee",
     "company_name": "First Citizens BancShares",
     "title": "Summer Intern - Sales Performance & Analytics Strategy",
@@ -24,6 +208,19 @@
     "role_families": [
       "hardware",
       "electrical"
+    ]
+  },
+  {
+    "id": "eefdd51ac49b54081501d12b08361f792039079a44e6b6fe52a922248ac0d237",
+    "company_name": "🔥 AMD",
+    "title": "Masters Photonics Design Engineering Co-op 🎓",
+    "location": "San Jose, CA",
+    "url": "https://careers.amd.com/jobs/91633?icims=1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-03T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -132,6 +329,19 @@
     ]
   },
   {
+    "id": "2e8a6fb0efa55329c00314c791b1a0d0960a823c21afb01b9cdfdc2eaa99c6b5",
+    "company_name": "Varda Space",
+    "title": "Avionics Engineering Intern",
+    "location": "El Segundo, CA",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
     "id": "3d87a25aeb7f195608b79d0653714ca3c817ca9af8cceab0d4792f302e313e9b",
     "company_name": "Natera",
     "title": "Software Engineer Intern",
@@ -142,6 +352,20 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "43d6362bdc82f213dcb6c2bee0275198dada5fd41766f9086af0c9399755052d",
+    "company_name": "Charter Manufacturing",
+    "title": "Smart Manufacturing Engineer Intern",
+    "location": "Mequon, WISaukville, WI",
+    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical",
+      "chemical"
     ]
   },
   {
@@ -233,6 +457,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "663bcb62a520a7f113175ded1b007400b72abdb6a4e8512952e6d965b0ae3616",
+    "company_name": "RTX",
+    "title": "Aftermarket and Sustainment Engineering - Repair Design Engineer Co-Op (January 2027) (Hybrid)",
+    "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Repair-Design-Engineer-Co-Op--January-2027---Hybrid-_01874095",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -392,6 +629,19 @@
     ]
   },
   {
+    "id": "b0ef2b01725c6fc0467bc33d100811429cf98a4746532b494747c2c9ca53b35e",
+    "company_name": "Baker Hughes",
+    "title": "Intern – Manufacturing Logistics - 2026 (M/F/D)",
+    "location": "IT-VV-VIBO VALENTIA-VIA LE MARINATE",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing-Logistics---2026--M-F-D-_R169087",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "b118d88a35216378dffb2285d003aa2ac3d129e6f39452157fd445080d0ad8a7",
     "company_name": "Harvey",
     "title": "Software Engineer Intern",
@@ -415,6 +665,32 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "c3561671ac80431b62d93b7bac1c815bf49348fc08c9f3d4109a6e35d145a5e5",
+    "company_name": "Regeneron Pharmaceuticals",
+    "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
+    "location": "Tarrytown, NY",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "c8eef747fd1db640eda43beede36ca57c45fdd10f14a309ea00adee2a2c1e598",
+    "company_name": "RTX",
+    "title": "Aftermarket and Sustainment Engineering - CE Design Engineer Co-Op (January 2027) (Hybrid)",
+    "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---CE-Design-Engineer-Co-Op--January-2027---Hybrid-_01872853",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -467,6 +743,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "d5c3d1aa2cbc044c794647164f51c8fa09d831e03d33885a58cf20a4212f990b",
+    "company_name": "RTX",
+    "title": "Software Engineering Co-Op (Avionics) (Summer/Fall 2027) (Hybrid)",
+    "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664",
+    "date_posted": "2026-10-02T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "aerospace"
     ]
   },
   {
@@ -992,6 +1281,19 @@
     ]
   },
   {
+    "id": "789009ea91e580ff3b4a5c38f0b7a621ae9e875c2ee56e169d54d3baf3f7e439",
+    "company_name": "Muon",
+    "title": "GNC Software Engineering Intern - Summer 2027",
+    "location": "Mountain View, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007",
+    "date_posted": "2026-10-01T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
     "id": "7d4bc204033a461d4c6b20982324afef7f86760d040734227216a0e92ba0d8ad",
     "company_name": "General Motors",
     "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
@@ -1171,6 +1473,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "b99c66151c66085f467e561255af9fd2a54156d42a40e01eca932b2f2cbcba47",
+    "company_name": "Keysight Technologies",
+    "title": "Radio Frequency IC Designer Intern 🎓",
+    "location": "Santa Rosa, CA",
+    "url": "https://jobs.keysight.com/jobs/54210?icims=1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-01T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
     ]
   },
   {
@@ -1405,6 +1720,45 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "c11f787010acbd82c323fb78a07f4dee7c69743fdb833e717750a23865435d6b",
+    "company_name": "Astranis",
+    "title": "Automation & Controls Engineering Associate (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4718211006",
+    "date_posted": "2026-09-30T22:49:35.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "6c5ede3cc58bc23f86182f15bb4359575626b5d2ddd00d890ea98204ad597390",
+    "company_name": "Astranis",
+    "title": "Automation & Controls Engineering Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4718206006",
+    "date_posted": "2026-09-30T22:48:17.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "5f0c50f137027451000d479bf717ed08b62dd0cf44cf78c27ad01f7c866bef3d",
+    "company_name": "Astranis",
+    "title": "Automation & Controls Engineering Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4718203006",
+    "date_posted": "2026-09-30T22:48:13.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "electrical"
     ]
   },
   {
@@ -2112,6 +2466,20 @@
     ]
   },
   {
+    "id": "4b5ca9698826a48ca43a8d9cd3bde987b062933e9857779d9c7e1bd56deee47c",
+    "company_name": "GE Aerospace",
+    "title": "Intern - Airfoils Manufacturing Engineer",
+    "location": "Pomigliano D'Arco",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pomigliano-DArco/Intern---Airfoils-Manufacturing-Engineer_R5039304-1",
+    "date_posted": "2026-09-29T00:00:00.000Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
     "id": "4dc9848cfaa90641069486db5a2579e79f8d64ba83369af5f294c6f6707bf4c9",
     "company_name": "Keysight Technologies",
     "title": "Research and Development Software Engineer Intern",
@@ -2161,6 +2529,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "60b29b89ecdc0139511b0a573f970fc6e8c243d3f8eaa69814fb7f9a3be18313",
+    "company_name": "Baker Hughes",
+    "title": "Intern - Manufacturing - Summer 2027 Opportunities",
+    "location": "US-OK-CLAREMORE-2210 E L ANDERSON BLVD",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-OK-CLAREMORE-2210-E-L-ANDERSON-BLVD/Intern---Manufacturing---Summer-2027-Opportunities_R168909",
+    "date_posted": "2026-09-29T00:00:00.000Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -2499,6 +2880,19 @@
     "source": "workday",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "d6efae8dc9403172151c485d5dcc8f1a9f6b242ad50b30fc0a876cb6d42934ed",
+    "company_name": "RTX",
+    "title": "Electrical Design Engineer Intern",
+    "location": "Windsor Locks, CT",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-29T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -2918,6 +3312,32 @@
     ]
   },
   {
+    "id": "1b7136d8837d2b9b4491cd02f17d1122a9a1051345136f43b48ab2d07be62847",
+    "company_name": "Astranis",
+    "title": "Electrical Integration Intern - Avionics (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704826006",
+    "date_posted": "2026-09-26T00:31:29.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
+    "id": "485f69b3242e0b37005398b65803220f9cc72c150b0f9ac2b42b504b64cd81d2",
+    "company_name": "Astranis",
+    "title": "RF Validation Associate (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716826006",
+    "date_posted": "2026-09-26T00:07:32.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "38cd73993cd22b1a870d972936bdf33b432cc0b4393b85dc8c0beae46a138171",
     "company_name": "🔥 Tesla",
     "title": "Mobile Application Software Engineer Intern - Energy Engineering",
@@ -2942,6 +3362,19 @@
     "role_families": [
       "swe",
       "ml"
+    ]
+  },
+  {
+    "id": "6722516e42180d7bb34220cb352e6c7e5204468d33141c231f8a42fc7d6272c6",
+    "company_name": "Qorvo",
+    "title": "Electrical Design Engineer Intern 🎓",
+    "location": "Richardson, TX",
+    "url": "https://careers.qorvo.com/job/Richardson-Electrical-Design-Engineering-Intern-TX-75081/1433950600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -3102,6 +3535,19 @@
     ]
   },
   {
+    "id": "079a85f1c83a978522c5a4241a49fa8159dea026a62e07cb5538eed03d11691f",
+    "company_name": "Baker Hughes",
+    "title": "Intern/Co-op - Manufacturing - Spring 2027 Opportunities",
+    "location": "US-TX-10575 Red Bluff Road",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-10575-Red-Bluff-Road/Intern-Co-op---Manufacturing---Spring-2027-Opportunities_R169113",
+    "date_posted": "2026-09-25T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "2b4d2f665ab538b69f867ff13af17a9012375625d57771f62168d51eb65aacb9",
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
@@ -3193,6 +3639,19 @@
     ]
   },
   {
+    "id": "50f0bab9cb60c74a59dc6bed13bf028e5a331f606e5113259a34b3dce6407a31",
+    "company_name": "Astranis",
+    "title": "RF Validation Intern",
+    "location": "SF",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716184006?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "52fb3bde3baaf37e21dfbc13e9ed728cc33a7d5767e3639b5529cc6e4b21eb8d",
     "company_name": "Zurn Elkay Water Solutions",
     "title": "Embedded Hardware Intern",
@@ -3217,6 +3676,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "5bb73778d67e6d7396d22e53e5001af4cc0f07f15ceee314f3c5ed1f86fefb07",
+    "company_name": "Marathon Petroleum",
+    "title": "Intern/Co-op - Midstream Logistics and Storage Engineering (L&SE) Project Controls (Summer 2027)",
+    "location": "Findlay, Ohio",
+    "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Logistics-and-Storage-Engineering--L-SE--Project-Controls--Summer-2027-_00024212",
+    "date_posted": "2026-09-25T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "electrical"
     ]
   },
   {
@@ -3309,6 +3781,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "a0ab4bd2649ede48b0d5dd73699114e9da605a94a69f0f604acd1cd73f4bba61",
+    "company_name": "Baker Hughes",
+    "title": "Intern/Co-op - Manufacturing - Spring 2027 Opportunities",
+    "location": "US-TX-HOUSTON-13717 WEST HARDY ROAD",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-TX-HOUSTON-13717-WEST-HARDY-ROAD/Intern-Co-op---Manufacturing---Spring-2027-Opportunities_R168902",
+    "date_posted": "2026-09-25T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -3429,6 +3914,19 @@
     ]
   },
   {
+    "id": "d8f58559144d591af64e015b24dbef2c525c77358ecb221a0c416b1dae3b0aba",
+    "company_name": "Baker Hughes",
+    "title": "Intern/Co-op - Manufacturing - Spring 2027 Opportunities",
+    "location": "US-LA-BROUSSARD-1046 ALLIER ROAD",
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/US-LA-BROUSSARD-1046-ALLIER-ROAD/Intern-Co-op---Manufacturing---Spring-2027-Opportunities_R169443",
+    "date_posted": "2026-09-25T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "de68ac75e39d0a0c0651d14ec3f8a5e31ac9516884bd815e0ce097720dc4152c",
     "company_name": "Motorola",
     "title": "Software Engineer Intern - Summer 2027",
@@ -3455,6 +3953,19 @@
     ]
   },
   {
+    "id": "e86b938c6b4a71785936fa0c7da196170bcb5af5014df928bb23240de9622565",
+    "company_name": "Astranis",
+    "title": "RF Validation Intern - Summer 2027",
+    "location": "SF",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "eda59be8e66d19ece3d2e6253d59c2de4ada7df18e622165432649e4cc9659cb",
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "title": "Space Exploration Software Engineer Intern - Embedded Applications",
@@ -3478,6 +3989,71 @@
     "source": "github",
     "role_families": [
       "electrical"
+    ]
+  },
+  {
+    "id": "9a2b8d68ed1a74fddcd9c843a13542ff4c866ab5a94793561ac6fd8a7fd0ed91",
+    "company_name": "Astranis",
+    "title": "Thermal Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704818006",
+    "date_posted": "2026-09-24T21:28:53.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "b9c28180d0acba195e430b2281071964c031556137821d45c8db6bc4998729d2",
+    "company_name": "Astranis",
+    "title": "Thermal Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704820006",
+    "date_posted": "2026-09-24T21:28:51.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "7ef1256f6c92ef5005a32c31fbecaf2b3c4f6adc09b427a32d505cccd0b9b939",
+    "company_name": "Astranis",
+    "title": "Thermal Associate Engineer (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704831006",
+    "date_posted": "2026-09-24T21:28:40.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "1dd616e1573de06b1c5f1c7eb65c9d5777052a4ca472a04402ed353d2d0cea82",
+    "company_name": "Astranis",
+    "title": "Harness Design Engineer Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704778006",
+    "date_posted": "2026-09-24T21:27:54.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "fd5cd14d5c073e785c579bcde1906f24e858219ded8723e04be140d2cd34b6f1",
+    "company_name": "Astranis",
+    "title": "Harness Design Engineer Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704779006",
+    "date_posted": "2026-09-24T21:27:51.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -3517,6 +4093,32 @@
     "source": "greenhouse",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "e5fdf16285c30e2801856a16f804501e7477074255266126b43bae22e271a452",
+    "company_name": "Astranis",
+    "title": "Electrical Integration Associate - RF (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715793006",
+    "date_posted": "2026-09-24T17:21:25.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "293a345353270039bf5e27b578e20d14ef4c9f12e5dd2959cfc11546891f8bea",
+    "company_name": "Astranis",
+    "title": "Electrical Integration Intern - RF (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715788006",
+    "date_posted": "2026-09-24T17:20:55.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "electrical"
     ]
   },
   {
@@ -3650,6 +4252,19 @@
     ]
   },
   {
+    "id": "43738621241f0c74263a7f1140827d2d95e5ba66a5b577bbe6a8a52cb92644d4",
+    "company_name": "🔥 Tesla",
+    "title": "Robotics Electrical Design Engineer Intern - Tactile Sensing",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/284593?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "465eafdb62a85881d06e2adc9bb550d6d93575e77c1575f2b87d56aafa6950dd",
     "company_name": "CVS Health",
     "title": "Data Scientist Intern - Grad Conversion 🎓",
@@ -3712,6 +4327,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "5978477523723edd46d5452209b6a683a7b1775840a6deeb0bbf209d9cd28668",
+    "company_name": "Keysight Technologies",
+    "title": "Analog and Mixed Signal IC Design Engineer Intern 🎓",
+    "location": "Santa Clara, CA",
+    "url": "https://jobs.keysight.com/jobs/54221?icims=1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -4001,6 +4629,19 @@
     ]
   },
   {
+    "id": "b281a5f7c756064637f9813471cd5097f57d9eabf7bcc757f6903bbfa4e89702",
+    "company_name": "GE Aerospace",
+    "title": "Colibrium Additive US Manufacturing / Supply Chain Co-op - Spring 2027",
+    "location": "West Chester",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/West-Chester/Colibrium-Additive-US-Manufacturing---Supply-Chain-Co-op---Spring-2027_R5040302-2",
+    "date_posted": "2026-09-24T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "c7616a5e0a080b0267541106a4e835da8d7ba83aa2a0c49dc5df74387bf6234d",
     "company_name": "🔥 Atlassian",
     "title": "Data Scientist Intern - Multiple Teams 🎓",
@@ -4237,6 +4878,32 @@
     ]
   },
   {
+    "id": "1031e9b05fe492f1263fe256421cb902458a4e52169bab8d1aea990c9fae8056",
+    "company_name": "Astranis",
+    "title": "Propulsion Engineer Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4713183006",
+    "date_posted": "2026-09-23T19:51:42.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
+    "id": "f78d1eae9e8e5c90078c9f0012189cb830f11b4733f978a92c9a05b87efd9d78",
+    "company_name": "Astranis",
+    "title": "Propulsion Engineer Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4713184006",
+    "date_posted": "2026-09-23T19:51:39.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
     "id": "5db12c1788dda272e76ddcd53b25932c26c9e75d536724bdc2defda74641d745",
     "company_name": "Figma",
     "title": "Data Engineer Intern (2027)",
@@ -4315,6 +4982,58 @@
     ]
   },
   {
+    "id": "8f3a62d37763a74bdcbf80e4d1963b4bcc30d8a77da5d5afadf7f1ffa18df182",
+    "company_name": "Astranis",
+    "title": "Avionics Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4706025006",
+    "date_posted": "2026-09-23T03:18:47.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
+    "id": "26148ed70014b53053e373cd00e4f219b4e899592017048dc95cb322537eaae4",
+    "company_name": "Astranis",
+    "title": "Avionics Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4706024006",
+    "date_posted": "2026-09-23T03:18:45.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
+    "id": "cab1e512e8bfeb7b587e15caedeea571d633bb0afa3aed76c1bd07d770ff2c98",
+    "company_name": "Astranis",
+    "title": "Avionics Associate Engineer (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4680324006",
+    "date_posted": "2026-09-23T03:18:41.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
+    "id": "5bd56cccf6bd3992870d7e99dbdb04d030052c5fb8637de1631db904ea8e1d4b",
+    "company_name": "Astranis",
+    "title": "Propulsion Test Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705640006",
+    "date_posted": "2026-09-23T02:57:48.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
     "id": "bf572592e4ec85d1870b89af32311883587abac72ac0f4a81a3a4f4e10653ae1",
     "company_name": "Waymo",
     "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
@@ -4380,6 +5099,20 @@
     ]
   },
   {
+    "id": "192681ff97f026d99203a7f15061a410b29bf56b1539ac78f98502def1c1c532",
+    "company_name": "Caterpillar",
+    "title": "Smart Manufacturing Engineering Intern",
+    "location": "Wuxi, Jiangsu",
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Smart-Manufacturing-Engineering-Intern_R0000394667",
+    "date_posted": "2026-09-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
     "id": "1b53c45b3cbb84d4a01f1a729b63003fcdbc66b606c13e729a0865a499e14634",
     "company_name": "Saab",
     "title": "Electrical Engineering Co-op",
@@ -4429,6 +5162,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "2aeee2beccd2326458eab399c0997ff248335db930a5ecf09dad70d84a99e70b",
+    "company_name": "Micron Technology",
+    "title": "Design Engineer Intern - High Bandwidth Memory",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -6201,6 +6947,19 @@
     ]
   },
   {
+    "id": "fdec832f6b2e22ebc65d1f18027df9a27f685e36e0e74e6cc2305fce24aa4c9b",
+    "company_name": "Micron Technology",
+    "title": "Design Engineer Intern - High Bandwidth Memory",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-22T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "fefa1fd3dc45d8bd6bd505fe9f105d73e39593c6efd0d554116401706968c2ff",
     "company_name": "Two Sigma",
     "title": "Hardware Engineering Intern",
@@ -6250,6 +7009,32 @@
     "source": "greenhouse",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "fe959e094908387acd4119c9a60f6624e535ce585fc1b1d7f8befb02582ed976",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Thermal Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8000958003",
+    "date_posted": "2026-09-21T15:55:57.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "ddc253999e80f84471b081d15ed5d75705e82f2a43b84e7adaae3fdf8769c6d2",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Thermal Engineering Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8000951003",
+    "date_posted": "2026-09-21T15:54:43.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -6329,6 +7114,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "24bda2124105c83f3a691ee1e508eb6e0a55d762832ed92df1382bea965f64e5",
+    "company_name": "Micron Technology",
+    "title": "Design Engineer Intern - HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111814?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-09-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -6930,6 +7728,32 @@
     ]
   },
   {
+    "id": "81accf407981742ad022b5f7b85651795182b5b0e5aa02f65e526c03b622e925",
+    "company_name": "Astranis",
+    "title": "Harness Manufacturing Associate (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705260006",
+    "date_posted": "2026-09-19T00:56:13.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "84391dd23fb62630e0a6c4bb4e1d222aaffcb8666f515d775a1ac38de8715ead",
+    "company_name": "Astranis",
+    "title": "Harness Manufacturing Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705255006",
+    "date_posted": "2026-09-19T00:56:02.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "0c6686535607bc8c2764a1cfdcfe9bcf7b7dcef7dd4ef7f9c9e11602acf8e3c3",
     "company_name": "🔥 Tesla",
     "title": "Site Controller Software Engineer Intern - Energy Engineering",
@@ -7391,6 +8215,34 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "5eba84c6a71f931d0c98830c200ad81f9fbb4c8d573ccec2814e5cca45629630",
+    "company_name": "Astranis",
+    "title": "Propulsion Manufacturing Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705648006",
+    "date_posted": "2026-09-18T23:39:52.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "aerospace"
+    ]
+  },
+  {
+    "id": "125e745d5b29ac7dbe4265450a97c2252cc3fc6650b0115ce6de6a019e530326",
+    "company_name": "Astranis",
+    "title": "Propulsion Manufacturing Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705649006",
+    "date_posted": "2026-09-18T23:39:50.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "aerospace"
     ]
   },
   {
@@ -8079,6 +8931,34 @@
     ]
   },
   {
+    "id": "5c5763e025f398ad252253322d36618febe4ee3b4958c912e78f4430368d06b4",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Manufacturing Engineering Intern Summer 2027",
+    "location": "Wallops Island, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003",
+    "date_posted": "2026-09-17T20:52:48.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
+    "id": "ed7eb7de8958b9d3f2f036fdd178d3f660043c848c7e27d6aef5f84576a34e53",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Manufacturing Engineering Intern Spring 2027",
+    "location": "Wallops Island, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996617003",
+    "date_posted": "2026-09-17T20:51:59.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
     "id": "1cef83d0b32b6f89f13e253ab235ad4039ca020d55d6c7406c2bdb1cd6e52b46",
     "company_name": "Rocket Lab Corporation",
     "title": "Electrical Engineering Intern Summer 2027",
@@ -8089,6 +8969,19 @@
     "source": "greenhouse",
     "role_families": [
       "electrical"
+    ]
+  },
+  {
+    "id": "fe79744d44a4a9d5cba1e009e7cbc7712b337b3ce6374993a94c9e38d5ae6fd7",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Test Engineering Intern - Manufacturing Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987042003",
+    "date_posted": "2026-09-17T18:16:30.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -9009,6 +9902,20 @@
     ]
   },
   {
+    "id": "ad5dc203faf2cfff42c4a1f8714dc39c0cf3f11a85e0400127403926c1a1f117",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Manufacturing Engineering Intern Summer 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
+    "date_posted": "2026-09-16T20:41:44.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
     "id": "ce4c04a30228c26733f9891e9a16984732cd729312954b9dbd2166669dd526e2",
     "company_name": "Waymo",
     "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
@@ -9046,6 +9953,74 @@
     ]
   },
   {
+    "id": "9cab47ba1a831dba883e1329cf21b83d84a6d7adad5022be883dce8b94360202",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Propulsion Analyst Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986820003",
+    "date_posted": "2026-09-16T19:03:06.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
+    "id": "6b6aabd076ae8a863885846ec27fa44e9b8889d1383d0d3a05d99946adbb2b02",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Propulsion Analyst Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986824003",
+    "date_posted": "2026-09-16T19:02:53.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
+    "id": "5369dcef48ef40808eadc709574b1466256838545c7955d21a6a333ed04b433e",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Manufacturing Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+    "date_posted": "2026-09-16T19:02:36.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
+    "id": "71fe93a9d8a6b3d94720e3b7a99a35dbb4eb9863b74e9ea24301b401947d8f16",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Manufacturing Engineering Intern Spring 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
+    "date_posted": "2026-09-16T19:02:20.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
+    "id": "268ffca0bf2df0a359ef778ac5704aa35a49732d54100edeb743e91ffdd8ae8d",
+    "company_name": "Rocket Lab Corporation",
+    "title": "Manufacturing Engineering Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
+    "date_posted": "2026-09-16T19:02:01.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
+  },
+  {
     "id": "c473564dab758800c0c1205bf2c46fe89a7120f427bf666874171d633f220031",
     "company_name": "Waymo",
     "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
@@ -9069,6 +10044,19 @@
     "source": "greenhouse",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "a4abb84175d258aae9c27376f162a7b35ae262123f12787081f0c8c0387ab5e9",
+    "company_name": "Rocket Lab Corporation",
+    "title": "RF Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991657003",
+    "date_posted": "2026-09-16T16:01:30.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "electrical"
     ]
   },
   {
@@ -10031,6 +11019,19 @@
     ]
   },
   {
+    "id": "d13d7b0b9e8e9c975d2df7f3b838e2ff2bc864e3c0799ad1ccec99ff11ce15ee",
+    "company_name": "Anduril Industries",
+    "title": "Winter 2027 Propulsion Engineer Co-op",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007",
+    "date_posted": "2026-09-15T17:49:03.000Z",
+    "level": "co-op",
+    "source": "greenhouse",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
     "id": "cf6f47de412014754e7b93f7b3b120437e1c26f9dde67a9d7afdb32327b7e74e",
     "company_name": "Anduril Industries",
     "title": "Winter 2027 Mechanical Engineer Co-op",
@@ -10040,6 +11041,20 @@
     "level": "co-op",
     "source": "greenhouse",
     "role_families": []
+  },
+  {
+    "id": "7a5e9efd67e6e6fc5050f95da6c1905e2b6e6aa5a9a3771365c397c9797bdcdb",
+    "company_name": "Anduril Industries",
+    "title": "Winter 2027 Manufacturing Engineer Co-op",
+    "location": "Lexington, Massachusetts, United States; Quincy, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007",
+    "date_posted": "2026-09-15T17:36:11.000Z",
+    "level": "co-op",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical",
+      "chemical"
+    ]
   },
   {
     "id": "d8d93dcf84cb44870e5f6c138ffbbe0e5077cd7a82ca090899bb5b15352f1273",
@@ -11279,6 +12294,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "dd4e8a129418ee777feaafb3ee6babd443501652abdda09724a76eeb61613b6a",
+    "company_name": "Anduril Industries",
+    "title": "2027 Manufacturing Optimization Engineer Intern",
+    "location": "Ashville, Ohio, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007",
+    "date_posted": "2026-09-14T19:30:12.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
