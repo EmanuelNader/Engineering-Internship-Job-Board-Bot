@@ -70,15 +70,39 @@ const FAMILY_KEYWORDS: Record<RoleFamily, RegExp[]> = {
   ],
   mechanical: [
     /\b(mechanical\s+engineer(?:ing)?)\b/i,
+    /\bthermal\b/i,
+    /\bhvac\b/i,
+    /\bmanufacturing\b/i,
+    /(?<!software\s)\bdesign\s+engineer(?:ing)?\b/i,
   ],
   electrical: [
     /\b(electrical\s+engineer(?:ing)?)\b/i,
+    /\bpower\s+engineer(?:ing)?\b/i,
+    /\bcontrols?\s+engineer(?:ing)?\b/i,
+    /\bcontrol\s+systems?\b/i,
+    /\bcontrols\b/i,
+    /\brf\b/i,
+    /\bradio\s+frequency\b/i,
   ],
   chemical: [
     /\b(chemical\s+engineer(?:ing)?)\b/i,
+    /\bprocess\s+engineer(?:ing)?\b/i,
+    /\bprocess\s+development\b/i,
+    /\bmanufacturing\s+engineer(?:ing)?\b/i,
+    /\bmaterials?\s+engineer(?:ing)?\b/i,
+    /\bpolymer\b/i,
+    /\bpetroleum\b/i,
+    /\brefin(?:ing|ery)\b/i,
   ],
   aerospace: [
     /\b(aerospace\s+engineer(?:ing)?)\b/i,
+    /\bpropulsion\b/i,
+    /\baerodynamics?\b/i,
+    /\baerostructures?\b/i,
+    /\bflight\s+tests?\b/i,
+    /\bflight\s+sciences?\b/i,
+    /\bavionics\b/i,
+    /\bgnc\b/i,
   ],
   other: [
     /\b(ux\s+designer|user\s+experience\s+designer)\b/i,
@@ -137,16 +161,16 @@ const TITLE_KEYWORDS: Record<RoleFamily, Partial<Record<RoleTitle, RegExp>>> = {
     "eng-civil": /\b(civil\s+engineer(?:ing)?|construction\s+manag(?:er|ement))\b/i,
   },
   mechanical: {
-    "eng-mechanical": /\b(mechanical\s+engineer(?:ing)?)\b/i,
+    "eng-mechanical": /\b(mechanical\s+engineer(?:ing)?|thermal|hvac|manufacturing)\b|(?<!software\s)\bdesign\s+engineer(?:ing)?\b/i,
   },
   electrical: {
-    "eng-electrical": /\b(electrical\s+engineer(?:ing)?)\b/i,
+    "eng-electrical": /\b(electrical\s+engineer(?:ing)?|power\s+engineer(?:ing)?|controls?\s+engineer(?:ing)?|control\s+systems?|controls|rf|radio\s+frequency)\b/i,
   },
   chemical: {
-    "eng-chemical": /\b(chemical\s+engineer(?:ing)?)\b/i,
+    "eng-chemical": /\b(chemical\s+engineer(?:ing)?|process\s+engineer(?:ing)?|process\s+development|manufacturing\s+engineer(?:ing)?|materials?\s+engineer(?:ing)?|polymer|petroleum|refin(?:ing|ery))\b/i,
   },
   aerospace: {
-    "eng-aerospace": /\b(aerospace\s+engineer(?:ing)?)\b/i,
+    "eng-aerospace": /\b(aerospace\s+engineer(?:ing)?|propulsion|aerodynamics?|aerostructures?|flight\s+tests?|flight\s+sciences?|avionics|gnc)\b/i,
   },
   other: {
     "design-ux": /\b(ux\s+designer|user\s+experience\s+designer)\b/i,

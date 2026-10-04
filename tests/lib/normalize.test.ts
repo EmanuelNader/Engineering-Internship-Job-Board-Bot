@@ -252,7 +252,30 @@ describe("detectRoleFamily", () => {
     ["Electrical Engineering Intern", ["electrical"], "electrical"],
     ["Mechanical Engineer Intern", ["mechanical"], "mechanical"],
     ["Chemical Engineering Intern", ["chemical"], "chemical"],
+    ["Process Engineer Intern", ["chemical"], "process engineer"],
+    ["Process Development Co-op", ["chemical"], "process development"],
+    ["Materials Engineering Intern", ["chemical"], "materials engineer"],
+    ["Polymer Intern", ["chemical"], "polymer"],
+    ["Petroleum Engineering Intern", ["chemical"], "petroleum"],
+    ["Refinery Intern", ["chemical"], "refinery"],
     ["Aerospace Engineer Intern", ["aerospace"], "aerospace"],
+    ["Propulsion Intern", ["aerospace"], "propulsion"],
+    ["Aerodynamics Co-op", ["aerospace"], "aerodynamics"],
+    ["Aerostructures Intern", ["aerospace"], "aerostructures"],
+    ["Flight Test Intern", ["aerospace"], "flight test"],
+    ["Flight Sciences Intern", ["aerospace"], "flight sciences"],
+    ["Avionics Intern", ["aerospace"], "avionics"],
+    ["GNC Intern", ["aerospace"], "gnc"],
+    ["Thermal Engineering Intern", ["mechanical"], "thermal"],
+    ["HVAC Intern", ["mechanical"], "hvac"],
+    ["Manufacturing Intern", ["mechanical"], "manufacturing"],
+    ["Design Engineer Intern", ["mechanical"], "design engineer"],
+    ["Manufacturing Engineer Intern", ["mechanical", "chemical"], "manufacturing engineer in both"],
+    ["Power Engineering Intern", ["electrical"], "power engineer"],
+    ["Controls Engineer Intern", ["electrical"], "controls engineer"],
+    ["Control Systems Intern", ["electrical"], "control systems"],
+    ["RF Engineer Intern", ["electrical"], "rf"],
+    ["Radio Frequency Intern", ["electrical"], "radio frequency"],
     // Design + growth
     ["UX Designer Intern", ["other"], "ux"],
     ["UI Designer Co-op", ["other"], "ui"],
@@ -277,6 +300,7 @@ describe("detectRoleFamily", () => {
     expect(detectRoleFamily("Software Engineer Intern", raw)).toEqual(["swe"]);
     expect(detectRoleFamily("Software Engineer Intern", raw)).not.toContain("electrical");
     expect(detectRoleFamily("Software Engineering Intern", raw)).not.toContain("electrical");
+    expect(detectRoleFamily("Software Design Engineer Intern", raw)).not.toContain("mechanical");
   });
 });
 
@@ -318,7 +342,11 @@ describe("detectRoleTitles", () => {
     ["Electrical Engineering Intern", ["electrical"], ["eng-electrical"], "electrical"],
     ["Mechanical Engineer Intern", ["mechanical"], ["eng-mechanical"], "mechanical"],
     ["Chemical Engineering Intern", ["chemical"], ["eng-chemical"], "chemical"],
+    ["Process Engineer Intern", ["chemical"], ["eng-chemical"], "process engineer"],
     ["Aerospace Engineer Intern", ["aerospace"], ["eng-aerospace"], "aerospace"],
+    ["Propulsion Intern", ["aerospace"], ["eng-aerospace"], "propulsion"],
+    ["Design Engineer Intern", ["mechanical"], ["eng-mechanical"], "design engineer"],
+    ["RF Engineer Intern", ["electrical"], ["eng-electrical"], "rf"],
     // Design + growth → other
     ["UX Designer Intern", ["other"], ["design-ux"], "ux"],
     ["UI Designer Co-op", ["other"], ["design-ui"], "ui"],
