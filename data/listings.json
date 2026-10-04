@@ -603,19 +603,6 @@
     ]
   },
   {
-    "id": "9e90d546f954fb5a74a11bbd77d38f9605fdbe02b6cd30259cdd5bfca6ba9c9e",
-    "company_name": "Disney",
-    "title": "Talent & Growth Planning & Operations Intern, Spring 2027",
-    "location": "Burbank, CA, USA",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Talent---Growth-Planning---Operations-Intern--Spring-2027_10159843",
-    "date_posted": "2026-10-02T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "other"
-    ]
-  },
-  {
     "id": "a2324e620c34f009611862f043a690c3b14ef21403112106c4909de7518c4de3",
     "company_name": "Muon Space",
     "title": "Electrical Engineer Intern",
@@ -1823,7 +1810,8 @@
     "level": "internship",
     "source": "greenhouse",
     "role_families": [
-      "hardware"
+      "hardware",
+      "electrical"
     ]
   },
   {
@@ -1836,7 +1824,8 @@
     "level": "internship",
     "source": "greenhouse",
     "role_families": [
-      "hardware"
+      "hardware",
+      "electrical"
     ]
   },
   {
@@ -1849,7 +1838,8 @@
     "level": "internship",
     "source": "greenhouse",
     "role_families": [
-      "hardware"
+      "hardware",
+      "electrical"
     ]
   },
   {
@@ -2252,7 +2242,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "swe"
+      "swe",
+      "mechanical"
     ]
   },
   {
@@ -2449,7 +2440,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "hardware"
+      "hardware",
+      "mechanical"
     ]
   },
   {
@@ -2580,7 +2572,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "hardware"
+      "hardware",
+      "mechanical"
     ]
   },
   {
@@ -3191,7 +3184,8 @@
     "level": "internship",
     "source": "workday",
     "role_families": [
-      "hardware"
+      "hardware",
+      "electrical"
     ]
   },
   {
@@ -3217,6 +3211,7 @@
     "level": "co-op",
     "source": "workday",
     "role_families": [
+      "mechanical",
       "electrical"
     ]
   },
@@ -3256,6 +3251,7 @@
     "level": "co-op",
     "source": "workday",
     "role_families": [
+      "mechanical",
       "electrical"
     ]
   },
@@ -3347,6 +3343,7 @@
     "level": "co-op",
     "source": "workday",
     "role_families": [
+      "mechanical",
       "electrical"
     ]
   },
@@ -4625,6 +4622,7 @@
     "level": "co-op",
     "source": "workday",
     "role_families": [
+      "mechanical",
       "electrical"
     ]
   },
@@ -4638,6 +4636,7 @@
     "level": "co-op",
     "source": "workday",
     "role_families": [
+      "mechanical",
       "electrical"
     ]
   },
@@ -6123,7 +6122,8 @@
     "level": "co-op",
     "source": "workday",
     "role_families": [
-      "electrical"
+      "electrical",
+      "chemical"
     ]
   },
   {
@@ -8036,7 +8036,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "swe"
+      "swe",
+      "electrical"
     ]
   },
   {
@@ -8074,7 +8075,9 @@
     "date_posted": "2026-09-19T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "7b706c21b221ca4c278a0f21a68e2b6fd7584b081f3b361e724dcacd1387ea4c",
@@ -8111,7 +8114,9 @@
     "date_posted": "2026-09-19T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "a187563b701e0a706ad6df721473c844a385e25153bb333d22a52c3c9caf3a8f",
@@ -8423,7 +8428,9 @@
     "date_posted": "2026-09-18T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "1f44bbabee6d58499f8a09912fefb2207442d9b07cf3978e5cd85262d9db4b1a",
@@ -8617,7 +8624,8 @@
     "level": "co-op",
     "source": "github",
     "role_families": [
-      "data"
+      "data",
+      "mechanical"
     ]
   },
   {
@@ -8630,7 +8638,8 @@
     "level": "co-op",
     "source": "github",
     "role_families": [
-      "hardware"
+      "hardware",
+      "mechanical"
     ]
   },
   {
@@ -8642,7 +8651,9 @@
     "date_posted": "2026-09-18T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "7cc2d318ff02a4faf54a0acc94a28e7052277d196753747a28820d56c5b84e07",
@@ -8784,7 +8795,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "swe"
+      "swe",
+      "mechanical"
     ]
   },
   {
@@ -8901,7 +8913,8 @@
     "level": "co-op",
     "source": "github",
     "role_families": [
-      "data"
+      "data",
+      "mechanical"
     ]
   },
   {
@@ -8953,7 +8966,8 @@
     "level": "co-op",
     "source": "github",
     "role_families": [
-      "hardware"
+      "hardware",
+      "mechanical"
     ]
   },
   {
@@ -9111,7 +9125,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "hardware"
+      "hardware",
+      "electrical"
     ]
   },
   {
@@ -9618,7 +9633,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "data"
+      "data",
+      "other"
     ]
   },
   {
@@ -9682,7 +9698,9 @@
     "date_posted": "2026-09-17T00:00:00.000Z",
     "level": "co-op",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "a34ff013ef234932115b64f32c0cc3f3287d6a7d6dc470763f25fa34e72888fc",
@@ -9732,7 +9750,9 @@
     "date_posted": "2026-09-17T00:00:00.000Z",
     "level": "co-op",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "b621732ab8270b95c25b5b4ab12810a721aadbc396b8f90dcf664b9d862555c9",
@@ -9847,7 +9867,9 @@
     "date_posted": "2026-09-17T00:00:00.000Z",
     "level": "co-op",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "d25f32686a669e0a02d0789a1202d48a84d84abafc6a83e2fdfd52a9cb2fd74b",
@@ -10015,7 +10037,9 @@
     "date_posted": "2026-09-16T19:03:48.000Z",
     "level": "internship",
     "source": "greenhouse",
-    "role_families": []
+    "role_families": [
+      "mechanical"
+    ]
   },
   {
     "id": "7a7ac790627123df019b0abb2ecf5c88b40f4c19c57d0685371030e7d75766b5",
@@ -10186,7 +10210,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "swe"
+      "swe",
+      "other"
     ]
   },
   {
@@ -10473,7 +10498,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "hardware"
+      "hardware",
+      "electrical"
     ]
   },
   {
@@ -10745,7 +10771,9 @@
     "date_posted": "2026-09-16T00:00:00.000Z",
     "level": "co-op",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "9a707dc3bad268556005ab8d90dc1016fe819e1ec82fd4f9745fd6acbddece4e",
@@ -10912,7 +10940,9 @@
     "date_posted": "2026-09-16T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "e47ad5137b65cdb6de138c92da831579952a8c2098612666490fec03eaf3bceb",
@@ -10963,7 +10993,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "hardware"
+      "hardware",
+      "electrical"
     ]
   },
   {
@@ -11118,7 +11149,9 @@
     "date_posted": "2026-09-15T17:37:10.000Z",
     "level": "co-op",
     "source": "greenhouse",
-    "role_families": []
+    "role_families": [
+      "mechanical"
+    ]
   },
   {
     "id": "7a5e9efd67e6e6fc5050f95da6c1905e2b6e6aa5a9a3771365c397c9797bdcdb",
@@ -11143,7 +11176,9 @@
     "date_posted": "2026-09-15T17:29:50.000Z",
     "level": "co-op",
     "source": "greenhouse",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "0311d197f8f0bf18e31415315dd36367bacf9deb87c362c27261a130829d40e1",
@@ -11493,7 +11528,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "swe"
+      "swe",
+      "other"
     ]
   },
   {
@@ -11583,7 +11619,9 @@
     "date_posted": "2026-09-15T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "69ab82ac507e88cbc5d2bdafa160f8ac6de7e4cb5a88ffb9f09e8b638d50c1ad",
@@ -11919,7 +11957,9 @@
     "date_posted": "2026-09-15T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "985dd179baa19d8dd4c2470d65eedb758f752ee197f824fc01c0be5da1cead85",
@@ -11957,7 +11997,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "hardware"
+      "hardware",
+      "mechanical"
     ]
   },
   {
@@ -12022,7 +12063,8 @@
     "level": "internship",
     "source": "github",
     "role_families": [
-      "swe"
+      "swe",
+      "electrical"
     ]
   },
   {
@@ -12125,7 +12167,9 @@
     "date_posted": "2026-09-15T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "d5f053921204b8a8f96f6a4e5e400c5af5f2a581ada9c6f7e17ea167217e13ae",
@@ -12448,7 +12492,9 @@
     "date_posted": "2026-09-14T12:00:09.000Z",
     "level": "internship",
     "source": "greenhouse",
-    "role_families": []
+    "role_families": [
+      "other"
+    ]
   },
   {
     "id": "9eaba7f6768571fe493f35a530fa68e6d423b2abb4b29ef9e827003979f434ef",
@@ -12524,7 +12570,9 @@
     "date_posted": "2026-09-14T03:15:29.000Z",
     "level": "internship",
     "source": "greenhouse",
-    "role_families": []
+    "role_families": [
+      "mechanical"
+    ]
   },
   {
     "id": "02baf0445d9c29bd08ccbe5731426de3a77f4efc4c8188879e56772bc250c613",
@@ -12678,7 +12726,9 @@
     "date_posted": "2026-09-14T00:00:00.000Z",
     "level": "internship",
     "source": "github",
-    "role_families": []
+    "role_families": [
+      "electrical"
+    ]
   },
   {
     "id": "6c7542246a2b4c5fc092de2122b95ccd3244ac2200a77ab00439cbe588f22e39",
@@ -13137,7 +13187,8 @@
     "level": "co-op",
     "source": "workday",
     "role_families": [
-      "civil-structural"
+      "civil-structural",
+      "chemical"
     ]
   },
   {
