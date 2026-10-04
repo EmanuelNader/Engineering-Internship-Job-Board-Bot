@@ -6,19 +6,18 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1022 roles.
+1010 roles.
 
-- [Software Engineering](#software-engineering) (453)
+- [Software Engineering](#software-engineering) (429)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (82)
 - [Data Science](#data-science) (178)
-- [Machine Learning](#machine-learning) (80)
+- [Machine Learning](#machine-learning) (79)
 - [Civil and Structural](#civil-and-structural) (36)
-- [Mechanical Engineering](#mechanical-engineering) (66)
-- [Electrical Engineering](#electrical-engineering) (72)
-- [Chemical Engineering](#chemical-engineering) (17)
-- [Aerospace Engineering](#aerospace-engineering) (20)
-- [Other](#other) (3)
+- [Mechanical Engineering](#mechanical-engineering) (71)
+- [Electrical Engineering](#electrical-engineering) (71)
+- [Chemical Engineering](#chemical-engineering) (26)
+- [Aerospace Engineering](#aerospace-engineering) (30)
 
 ## Software Engineering
 
@@ -455,30 +454,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Wex](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589?utm_source=Simplify&ref=Simplify) | Backend Software Engineer Intern - Cloud Security & AI - Undergraduate | Remote in USA | [Apply](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589?utm_source=Simplify&ref=Simplify) | 2w |
 | [Saab](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1?utm_source=Simplify&ref=Simplify) | Software Engineer Co-op | East Syracuse, NY | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1?utm_source=Simplify&ref=Simplify) | 2w |
 | [Nuro](https://nuro.ai/careersitem?gh_jid=7351061) | Software Engineer, AI Platform - Intern | Mountain View, California (HQ) | [Apply](https://nuro.ai/careersitem?gh_jid=7351061) | 11mo |
-| [Palantir](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) | Software Engineer, Internship - Infrastructure | Palo Alto, CA | [Apply](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) | 13mo |
-| [Palantir](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) | Software Engineer, Internship - Production Infrastructure | Washington, D.C. | [Apply](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) | 13mo |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) | 14mo |
-| [Palantir](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | Software Engineer, Internship - Production Infrastructure | Seattle, WA | [Apply](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) | 15mo |
-| [Palantir](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) | Software Engineer, Internship - Production Infrastructure | New York, NY | [Apply](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) | 15mo |
-| [Palantir](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | Software Engineer, Internship - Infrastructure | New York, NY | [Apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) | 15mo |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) | Software Engineer Intern, BCI Applications | Austin, Texas, United States; South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) | 16mo |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) | Software Engineer Intern, Implant | Austin, Texas, United States; South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) | 17mo |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) | Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) | 20mo |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) | Software Engineer Intern, Internal Apps | Austin, Texas, United States; South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) | 22mo |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) | 22mo |
-| [Palantir](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) | Software Engineer, Internship | Denver, CO | [Apply](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) | 25mo |
-| [Palantir](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) | Software Engineer, Internship - Defense Tech | New York, NY | [Apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) | 26mo |
-| [Palantir](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) | Software Engineer, Internship - Defense Tech | Palo Alto, CA | [Apply](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) | 26mo |
-| [Palantir](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) | Software Engineer, Internship - Defense Tech | Washington, D.C. | [Apply](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) | 26mo |
-| [Palantir](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C. | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) | 26mo |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) | Software Engineer Intern, Infrastructure | South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) | 28mo |
-| [Palantir](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) | Forward Deployed Software Engineer, Internship - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) | 51mo |
-| [Palantir](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) | Software Engineer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) | 51mo |
-| [Palantir](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) | Forward Deployed Software Engineer, Internship - US Government | Washington, D.C. | [Apply](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) | 64mo |
-| [Palantir](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) | Software Engineer, Internship | Washington, D.C. | [Apply](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) | 64mo |
-| [Palantir](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | Software Engineer, Internship | Palo Alto, CA | [Apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | 64mo |
-| [Palantir](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) | 121mo |
-| [Palantir](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | [Apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | 129mo |
 
 ## Product Management
 
@@ -872,7 +847,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797?utm_source=Simplify&ref=Simplify) | Machine Learning Intern | Austin, TX | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797?utm_source=Simplify&ref=Simplify) | 2w |
 | [Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1?utm_source=Simplify&ref=Simplify) | Machine Learning Intern 🎓 | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1?utm_source=Simplify&ref=Simplify) | 2w |
 | [Guardian Life](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205?utm_source=Simplify&ref=Simplify) | Summer Intern - Digital & Technology - AI & Machine Learning | Holmdel, NJNYCBethlehem, PA | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205?utm_source=Simplify&ref=Simplify) | 2w |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) | Machine Learning Engineer Intern | South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) | 16mo |
 
 ## Civil and Structural
 
@@ -987,8 +961,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) | Winter 2027 Manufacturing Engineer Co-op | Lexington, Massachusetts, United States; Quincy, Massachusetts, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) | 2w |
 | [Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) | 2027 Manufacturing Optimization Engineer Intern | Ashville, Ohio, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) | 2w |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) | Mechanical Engineering Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) | 2w |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003) | Mechanical Engineering Intern, Brain Interfaces | Austin, Texas, United States; South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003) | 17mo |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003) | Mechanical Engineering Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003) | 18mo |
+| [Vast](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006) | Emerging Talent - Manufacturing Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006) | 3w |
+| [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing-Engineer---Vibo--Italy---2026--M-F-D-_R168750) | Intern – Manufacturing Engineer – 2026 (M/F/D) | IT-VV-VIBO VALENTIA-VIA LE MARINATE | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing-Engineer---Vibo--Italy---2026--M-F-D-_R168750) | 3w |
+| [Caterpillar](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914) | Manufacturing Engineering College Intern | Rayong, Thailand | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914) | 3w |
+| [Saronic](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97) | Manufacturing Engineer Intern (Summer 2027) | Franklin, LA | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97) | 3w |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7821146003) | Facilities Maintenance Manufacturing Engineering Intern | Auckland, NZ | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821146003) | 1mo |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7820012003) | Manufacturing Engineering Intern - Space Sytems | Auckland, NZ | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7820012003) | 2mo |
+| [Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | 3mo |
 
 ## Electrical Engineering
 
@@ -1067,7 +1046,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply?utm_source=Simplify&ref=Simplify) | Electrical Engineer Intern - Hardware | Westminster, CO | [Apply](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply?utm_source=Simplify&ref=Simplify) | 2w |
 | [Neogen](https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Electrical-Engineer-Intern_REQ-11065?utm_source=Simplify&ref=Simplify) | Electrical Engineer Intern - Instrumentation | Oakdale, MN | [Apply](https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Electrical-Engineer-Intern_REQ-11065?utm_source=Simplify&ref=Simplify) | 2w |
 | [Marathon Petroleum](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Midstream-Logistics-and-Storage-Mechanical-Civil-Electrical-Engineering--Summer-2027-_00024205) | Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Summer 2027) | 4 Locations | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Midstream-Logistics-and-Storage-Mechanical-Civil-Electrical-Engineering--Summer-2027-_00024205) | 2w |
-| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) | Electrical Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | [Apply](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) | 15mo |
 
 ## Chemical Engineering
 
@@ -1092,6 +1070,15 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987020003) | Manufacturing Engineering Intern Spring 2027 | Middle River, MD | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987020003) | 2w |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7984943003) | Manufacturing Engineering Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984943003) | 2w |
 | [Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) | Winter 2027 Manufacturing Engineer Co-op | Lexington, Massachusetts, United States; Quincy, Massachusetts, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) | 2w |
+| [Vast](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006) | Emerging Talent - Manufacturing Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006) | 3w |
+| [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing-Engineer---Vibo--Italy---2026--M-F-D-_R168750) | Intern – Manufacturing Engineer – 2026 (M/F/D) | IT-VV-VIBO VALENTIA-VIA LE MARINATE | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing-Engineer---Vibo--Italy---2026--M-F-D-_R168750) | 3w |
+| [Caterpillar](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914) | Manufacturing Engineering College Intern | Rayong, Thailand | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914) | 3w |
+| [Saronic](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97) | Manufacturing Engineer Intern (Summer 2027) | Franklin, LA | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97) | 3w |
+| [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) | 2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) | 1mo |
+| [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503) | 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA) | Gloucester,MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503) | 1mo |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7821146003) | Facilities Maintenance Manufacturing Engineering Intern | Auckland, NZ | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7821146003) | 1mo |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7820012003) | Manufacturing Engineering Intern - Space Sytems | Auckland, NZ | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7820012003) | 2mo |
+| [Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | 3mo |
 
 ## Aerospace Engineering
 
@@ -1118,14 +1105,14 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) | Propulsion Analyst Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) | 2w |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986824003) | Propulsion Analyst Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986824003) | 2w |
 | [Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) | 2w |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) | Propulsion Design Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) | 3w |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) | 3w |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986792003) | Propulsion Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986792003) | 3w |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986790003) | Propulsion Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986790003) | 3w |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) | Propulsion Design Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) | 3w |
 | [Vast](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | Emerging Talent - Mechanical/Aerospace Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | 3w |
-
-## Other
-
-[Back to top](#browse-by-category)
-
-| Company | Role | Location | Application | Age |
-| --- | --- | --- | --- | :---: |
-| [Palantir](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | Product Designer, Internship - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | 13mo |
-| [Palantir](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) | Product Designer, Internship - US Government | Washington, D.C. | [Apply](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) | 25mo |
-| [Palantir](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | Product Designer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | 85mo |
+| [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673) | Avionics Test Engineering Internship (Spring 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673) | 3w |
+| [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e) | Propulsion Internship (Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e) | 3w |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) | Avionics Engineering Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) | 3w |
+| [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/d0630c64-6d20-4d15-ba75-aa125f0a3f49) | Avionics Internship, Power Electronics (Spring or Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/d0630c64-6d20-4d15-ba75-aa125f0a3f49) | 1mo |
+| [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f) | Avionics Internship (Spring or Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f) | 1mo |
