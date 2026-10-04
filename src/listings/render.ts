@@ -33,9 +33,16 @@ export interface InternshipListing {
   role_families: RoleFamily[];
 }
 
-export function formatAge(date: Date, now = new Date()): string {
+/** Drop evergreen requisitions whose original post date is older than a recruiting cycle. */
+export const MAX_LISTING_AGE_DAYS = 365;
+
+export function listingAgeDays(date: Date, now = new Date()): number {
   const diff = Math.floor((startOfUtcDay(now).getTime() - startOfUtcDay(date).getTime()) / 86400000);
-  const days = diff < 0 ? 0 : diff;
+  return diff < 0 ? 0 : diff;
+}
+
+export function formatAge(date: Date, now = new Date()): string {
+  const days = listingAgeDays(date, now);
   if (days < 7) return `${days}d`;
   if (days < 30) return `${Math.floor(days / 7)}w`;
   return `${Math.floor(days / 30)}mo`;
@@ -71,7 +78,7 @@ function byNewest(a: InternshipListing, b: InternshipListing): number {
   return 0;
 }
 
-export function toListings(rows: DeliveredPosting[]): InternshipListing[] {
+export function toListings(rows: DeliveredPosting[], now = new Date()): InternshipListing[] {
   return rows
     .map((row) => ({
       id: row.dedupHash,
@@ -84,6 +91,7 @@ export function toListings(rows: DeliveredPosting[]): InternshipListing[] {
       source: row.sourceName,
       role_families: parseFamilies(row.roleFamily),
     }))
+    .filter((listing) => listingAgeDays(new Date(listing.date_posted), now) <= MAX_LISTING_AGE_DAYS)
     .sort(byNewest);
 }
 
@@ -176,7 +184,7 @@ export function renderInternshipFiles(
   rows: DeliveredPosting[],
   now = new Date()
 ): { json: string; markdown: string; readme: string } {
-  const listings = toListings(rows);
+  const listings = toListings(rows, now);
   return {
     json: `${JSON.stringify(listings, null, 2)}\n`,
     markdown: renderMarkdown(listings, now, "SOURCES.md", "BOT.md"),

@@ -62,6 +62,26 @@ describe("renderInternshipFiles", () => {
     expect(files.markdown).not.toContain("## Machine Learning");
   });
 
+  it("omits roles posted more than a year ago", () => {
+    const files = renderInternshipFiles(
+      [
+        row(),
+        row({
+          dedupHash: "stale",
+          title: "Product Designer, Internship",
+          company: "Palantir",
+          roleFamily: JSON.stringify(["other"]),
+          publishedAt: new Date("2019-10-10T00:00:00.000Z"),
+        }),
+      ],
+      NOW
+    );
+
+    expect(files.markdown).not.toContain("Palantir");
+    expect(files.markdown).not.toContain("## Other");
+    expect(JSON.parse(files.json)).toHaveLength(1);
+  });
+
   it("repeats a role in each matching family", () => {
     const files = renderInternshipFiles(
       [

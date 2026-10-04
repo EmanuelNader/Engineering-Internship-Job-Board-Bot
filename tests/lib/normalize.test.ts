@@ -278,8 +278,16 @@ describe("detectRoleFamily", () => {
     ["Radio Frequency Intern", ["electrical"], "radio frequency"],
     // Design + growth
     ["UX Designer Intern", ["other"], "ux"],
+    ["UX Design Intern", ["other"], "ux design"],
+    ["UI/UX Intern", ["other"], "ui/ux"],
+    ["User Researcher Intern", ["other"], "user research"],
+    ["Visual Designer Intern", ["other"], "visual design"],
     ["UI Designer Co-op", ["other"], "ui"],
     ["Product Designer Intern", ["other"], "product design"],
+    ["Product Design Intern", ["other"], "product design intern"],
+    ["Graphic Design Intern", ["other"], "graphic design"],
+    ["Growth Intern", ["other"], "growth intern"],
+    ["Product Marketing Intern", ["other"], "product marketing"],
     ["Interaction Designer Intern", ["other"], "interaction"],
     ["Growth Marketing Intern", ["other"], "growth marketing"],
     ["Lifecycle Marketing Intern", ["other"], "lifecycle"],
@@ -301,6 +309,7 @@ describe("detectRoleFamily", () => {
     expect(detectRoleFamily("Software Engineer Intern", raw)).not.toContain("electrical");
     expect(detectRoleFamily("Software Engineering Intern", raw)).not.toContain("electrical");
     expect(detectRoleFamily("Software Design Engineer Intern", raw)).not.toContain("mechanical");
+    expect(detectRoleFamily("Product Design Engineer Intern", raw)).toEqual(["mechanical"]);
   });
 });
 
