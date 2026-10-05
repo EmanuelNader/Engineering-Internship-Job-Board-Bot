@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1027 roles.
+1028 roles.
 
-- [Software Engineering](#software-engineering) (432)
+- [Software Engineering](#software-engineering) (433)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (84)
 - [Data Science](#data-science) (180)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Quantum Signal AI](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Tools and Prototypes | Saline, MI | [Apply](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes?utm_source=Simplify&ref=Simplify) | 0d |
 | [🔥 Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify) | Firmware Engineer Intern | Santa Clara, CA | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify) | 0d |
 | [🔥 NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify) | 0d |
 | [Affirm](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | 3d |
