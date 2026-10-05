@@ -1,5 +1,44 @@
 [
   {
+    "id": "4820ff980e609288bc97aafc3332db1af9cce464fa35c8ba02b015339622bf3c",
+    "company_name": "State of North Carolina",
+    "title": "Data Analytics Intern",
+    "location": "Wake County, NC",
+    "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "81d6318877c205d04bfa0a3325a24b54291a950510560fb86265b69f3d5d3b41",
+    "company_name": "🔥 Microsoft",
+    "title": "Firmware Engineer Intern",
+    "location": "Santa Clara, CA",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "cc62e2ce2d72a895c4cbdb2fcc73cfaae4004aaba97f652c08947db712eb3c28",
+    "company_name": "State of North Carolina",
+    "title": "Data Engineer Intern",
+    "location": "Raleigh, NC",
+    "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "7bef67e57a8273b264c41374e30d29ba98527a23fa5d44ebe0746742fe708b36",
     "company_name": "Kimley-Horn",
     "title": "Motion Design Intern",
