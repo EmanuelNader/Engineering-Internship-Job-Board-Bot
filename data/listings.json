@@ -78,6 +78,19 @@
     ]
   },
   {
+    "id": "597ecbddef6e31ad25fd85562db0d6c845ccb904fd0b3b3a0481cd23b44a5bd6",
+    "company_name": "🔥 Waymo",
+    "title": "Software Engineer Intern - MS/PhD - Eval Data Infra 🎓",
+    "location": "Mountain View, CA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "5a90be1b44c60c7794f0f66341b9b4c1cffca39720dd4d12fbdbca14b6be696a",
     "company_name": "Quantum Signal AI",
     "title": "Software Engineer Intern - Tools and Prototypes",
@@ -88,6 +101,32 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "5c0754146487399e61b808f04a014f6880a8d9b39742e62d32bbd7e3ab4d9c6e",
+    "company_name": "Zurn Elkay Water Solutions",
+    "title": "Sales Analytics Intern",
+    "location": "Milwaukee, WI",
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "5eeb40957f7ff37aace3a8244c4e0e7845dda153268475e66824cc5f0ce21c29",
+    "company_name": "Jain Global",
+    "title": "Data Engineer Intern 🎓",
+    "location": "NYC",
+    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
@@ -143,6 +182,19 @@
     ]
   },
   {
+    "id": "7d2969e628f149b8ddaef7d260df5224101a95529bdcc6029497ce093c613bfd",
+    "company_name": "🔥 Intel",
+    "title": "CPU Core Physical Design Technical Graduate Intern 🎓",
+    "location": "Folsom, CA",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "7facf2b7be201e7c77ec6e1fd1a4acbd04046b889e6f7985a1cf4698753a9b7b",
     "company_name": "Khan Academy",
     "title": "Software Engineer Intern - Summer 2027",
@@ -169,6 +221,19 @@
     ]
   },
   {
+    "id": "8812321dc1285442d8fd15d768fddc5b3b460093db5fffd9214f8bbf991054cc",
+    "company_name": "Corning",
+    "title": "Engineering Data Analyst Intern",
+    "location": "Keller, TX",
+    "url": "https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "9663c338755fef0d374acb888fdbb5877342e4a7dcf069da1011846fae339ef7",
     "company_name": "GE Aerospace",
     "title": "Thermal Systems Design Engineering Intern (6 Months)",
@@ -179,6 +244,19 @@
     "source": "workday",
     "role_families": [
       "mechanical"
+    ]
+  },
+  {
+    "id": "97cf143b1a6f46b3cde4a652fc3df7925d573424f289ef5d7806484920e60208",
+    "company_name": "Expedia Group",
+    "title": "Mobile Engineer Intern",
+    "location": "Seattle, WAAustin, TXSan Jose, CA",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -232,6 +310,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "ec04df4765591998e09cbdd1b7f1eb03ef6fdc87305bc2a273760b2d47c8a254",
+    "company_name": "🔥 Atlassian",
+    "title": "Data Engineer Intern",
+    "location": "Seattle, WA",
+    "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {

@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1038 roles.
+1045 roles.
 
-- [Software Engineering](#software-engineering) (436)
+- [Software Engineering](#software-engineering) (438)
 - [Product Management](#product-management) (26)
-- [Hardware Engineering](#hardware-engineering) (84)
-- [Data Science](#data-science) (181)
+- [Hardware Engineering](#hardware-engineering) (85)
+- [Data Science](#data-science) (185)
 - [Machine Learning](#machine-learning) (82)
 - [Civil and Structural](#civil-and-structural) (36)
 - [Mechanical Engineering](#mechanical-engineering) (92)
@@ -27,10 +27,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 0d |
+| [🔥 Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257205&utm_source=Simplify&ref=Simplify) | Software Engineer Intern - MS/PhD - Eval Data Infra 🎓 | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257205&utm_source=Simplify&ref=Simplify) | 0d |
 | [Quantum Signal AI](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Tools and Prototypes | Saline, MI | [Apply](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes?utm_source=Simplify&ref=Simplify) | 0d |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313?utm_source=Simplify&ref=Simplify) | Android Applications Developer Intern | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313?utm_source=Simplify&ref=Simplify) | 0d |
 | [Khan Academy](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Software Engineer Intern - Summer 2027 | Remote - USA | [Apply](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | 0d |
 | [🔥 Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify) | Firmware Engineer Intern | Santa Clara, CA | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify) | 0d |
+| [Expedia Group](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306?utm_source=Simplify&ref=Simplify) | Mobile Engineer Intern | Seattle, WAAustin, TXSan Jose, CA | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306?utm_source=Simplify&ref=Simplify) | 0d |
 | [🔥 NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify) | 0d |
 | [Affirm](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | 3d |
 | [Affirm](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | Software Engineer Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | 3d |
@@ -503,6 +505,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [🔥 NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047?utm_source=Simplify&ref=Simplify) | Hardware Engineering Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047?utm_source=Simplify&ref=Simplify) | 0d |
+| [🔥 Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613?utm_source=Simplify&ref=Simplify) | CPU Core Physical Design Technical Graduate Intern 🎓 | Folsom, CA | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613?utm_source=Simplify&ref=Simplify) | 0d |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply?utm_source=Simplify&ref=Simplify) | Electrical Engineering Intern - FPGA | El Segundo, CA | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply?utm_source=Simplify&ref=Simplify) | 2d |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) | 2027 Summer Intern - Software Verification Engineer - AV/AI Platform | Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) | 3d |
 | [Arc](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008?utm_source=Simplify&ref=Simplify) | Electrical Hardware Engineering Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008?utm_source=Simplify&ref=Simplify) | 3d |
@@ -595,7 +598,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | --- | :---: |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | People Analytics Data Engineering Intern | Hybrid | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | 0d |
 | [State of North Carolina](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify) | Data Analytics Intern | Wake County, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify) | 0d |
+| [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1?utm_source=Simplify&ref=Simplify) | Sales Analytics Intern | Milwaukee, WI | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Sales-Analytics-Intern--Summer-2027-_REQ-020015-1?utm_source=Simplify&ref=Simplify) | 0d |
+| [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1?utm_source=Simplify&ref=Simplify) | Data Engineer Intern 🎓 | NYC | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1?utm_source=Simplify&ref=Simplify) | 0d |
+| [Corning](https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Engineering Data Analyst Intern | Keller, TX | [Apply](https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | 0d |
 | [State of North Carolina](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Raleigh, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224?utm_source=Simplify&ref=Simplify) | 0d |
+| [🔥 Atlassian](https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Seattle, WA | [Apply](https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify) | 0d |
 | [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35826?icims=1&utm_source=Simplify&ref=Simplify) | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1&utm_source=Simplify&ref=Simplify) | 2d |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4718858006) | Supply Chain Analytics Intern [Winter 2027] | San Jose, CA | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4718858006) | 3d |
 | [Rochester Regional Health](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data---Analytics-Services_REQ_243644?utm_source=Simplify&ref=Simplify) | Data & Analytics Services Co-op | Rochester, NY | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data---Analytics-Services_REQ_243644?utm_source=Simplify&ref=Simplify) | 3d |
