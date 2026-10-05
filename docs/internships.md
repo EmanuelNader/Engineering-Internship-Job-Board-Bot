@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1033 roles.
+1034 roles.
 
 - [Software Engineering](#software-engineering) (434)
 - [Product Management](#product-management) (26)
@@ -15,7 +15,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Machine Learning](#machine-learning) (82)
 - [Civil and Structural](#civil-and-structural) (36)
 - [Mechanical Engineering](#mechanical-engineering) (92)
-- [Electrical Engineering](#electrical-engineering) (95)
+- [Electrical Engineering](#electrical-engineering) (96)
 - [Chemical Engineering](#chemical-engineering) (29)
 - [Aerospace Engineering](#aerospace-engineering) (30)
 - [Other](#other) (10)
@@ -1009,6 +1009,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/8013277003) | RF Engineering Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8013277003) | 0d |
 | [GD Mission Systems](https://careers-gdms.icims.com/jobs/74848/payload-control-system---software-systems-engineering-intern-%28summer-2027%29/job) | Payload Control System - Software/Systems Engineering Intern (Summer 2027) | — | [Apply](https://careers-gdms.icims.com/jobs/74848/payload-control-system---software-systems-engineering-intern-%28summer-2027%29/job) | 1d |
 | [Sargent & Lundy](https://careers-sargentlundy.icims.com/jobs/26933/instrumentation-%26-controls-engineer-intern---energy-%26-industrial-group-%28summer-2027%29/job) | Instrumentation & Controls Engineer Intern - Energy & Industrial Group (Summer 2027) | — | [Apply](https://careers-sargentlundy.icims.com/jobs/26933/instrumentation-%26-controls-engineer-intern---energy-%26-industrial-group-%28summer-2027%29/job) | 1d |
 | [Sargent & Lundy](https://careers-sargentlundy.icims.com/jobs/27256/associate-intern-for-project-controls-%28summer-2027%29/job) | Associate Intern for Project Controls (Summer 2027) | — | [Apply](https://careers-sargentlundy.icims.com/jobs/27256/associate-intern-for-project-controls-%28summer-2027%29/job) | 1d |
