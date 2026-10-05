@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1034 roles.
+1035 roles.
 
 - [Software Engineering](#software-engineering) (434)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (84)
-- [Data Science](#data-science) (180)
+- [Data Science](#data-science) (181)
 - [Machine Learning](#machine-learning) (82)
 - [Civil and Structural](#civil-and-structural) (36)
 - [Mechanical Engineering](#mechanical-engineering) (92)
@@ -591,6 +591,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | People Analytics Data Engineering Intern | Hybrid | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | 0d |
 | [State of North Carolina](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify) | Data Analytics Intern | Wake County, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify) | 0d |
 | [State of North Carolina](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Raleigh, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224?utm_source=Simplify&ref=Simplify) | 0d |
 | [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35826?icims=1&utm_source=Simplify&ref=Simplify) | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35826?icims=1&utm_source=Simplify&ref=Simplify) | 2d |
