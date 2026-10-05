@@ -52,6 +52,32 @@
     ]
   },
   {
+    "id": "020961acce9b2dba5818ff1e26dbb8356e4687436285cccca2f47fef0ae0070c",
+    "company_name": "Insulet",
+    "title": "R&D Electrical Engineering Co-op",
+    "location": "Acton, MA",
+    "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electrical-Engineering--January---June-2027--Hybrid-_REQ-2026-18618?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "0529122c58b95280059711449172d4d481f469ae7ded8446281967b56f536cc9",
+    "company_name": "Cirrus Logic",
+    "title": "Embedded Firmware Engineer Intern",
+    "location": "Phoenix, AZ",
+    "url": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "1944dde2c514809d31e7a90e20af3922375cc5c23a83d8fc848f61561aef0ba7",
     "company_name": "Autodesk",
     "title": "Researcher Intern - Machine Learning for Construction 🎓",
@@ -62,6 +88,85 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "19ee4a2359eb9859d9fc2a0ab50051d61931ad8c1baca80446781d86273f2b6e",
+    "company_name": "American Enterprise Institute",
+    "title": "Spring Data Analyst and Education Policy Intern",
+    "location": "Washington, DC",
+    "url": "https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "28512a4e4afe423eaa1c4e9d297415f7bf9a9c98c3f68acee8c5b07bc2bbc76e",
+    "company_name": "🔥 Tesla",
+    "title": "Embedded Software Engineer Intern - Thermal Systems",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/285797?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "mechanical"
+    ]
+  },
+  {
+    "id": "3315584f8f4b4296cf11dc8e6f1ca525d5610c3e324977c994145a11a3061cb1",
+    "company_name": "Root Insurance",
+    "title": "Software Engineer Intern: Agent Commerce",
+    "location": "Remote in USA",
+    "url": "https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "38e321ef9b7378f8b22b549a379afb89387ed4f15d9d4c359b474fa8959779d6",
+    "company_name": "IDEMIA",
+    "title": "Software Engineer Intern",
+    "location": "Reston, VA",
+    "url": "https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "3d18a6d32f26f539339dfffe23733b0b84d26b2eedbde1c204437493791637aa",
+    "company_name": "General Motors",
+    "title": "AI/ML Engineer Intern - Mapping",
+    "location": "Warren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "42e5bb457085af1e37c0046a2093fc4fd5b0d3de1e059e81b781566cc8b210e2",
+    "company_name": "Cirrus Logic",
+    "title": "Design Verification Engineer Intern 🎓",
+    "location": "Austin, TX",
+    "url": "https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
     ]
   },
   {
@@ -169,6 +274,19 @@
     ]
   },
   {
+    "id": "6ceb076aca84237043e4a81c32c81b672bf8edc0c2936a7d17760ef48fc288cc",
+    "company_name": "Rivian",
+    "title": "Software Engineer Intern Co-op - Embedded Software",
+    "location": "Palo Alto, CA",
+    "url": "https://careers.rivian.com/jobs/33832?icims=1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "7368d521a47a5346867048fd51ddc7d28461967f16fb29718616390238a22754",
     "company_name": "Motorola",
     "title": "Android Applications Developer Intern",
@@ -179,6 +297,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "79364d879bb3f6017b22ff77963458bffa64e8a4325ef1099af99c257442f38b",
+    "company_name": "RTX",
+    "title": "Data Analytics Intern",
+    "location": "Annapolis, MD",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Data-Analytics---Reporting-Intern--Summer-2027-_01874271?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
@@ -221,6 +352,33 @@
     ]
   },
   {
+    "id": "8208cedf0d7a6ce0a9f758a258735efa6fec2c847a324cfa77e7d2b293c2f792",
+    "company_name": "General Motors",
+    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+    "location": "Milford, MIWarren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware",
+      "data"
+    ]
+  },
+  {
+    "id": "86a863a7395c38501ae5b2951f3ce6a4bd2d773934633fe2715ffc8c7fa9cad9",
+    "company_name": "Rivian",
+    "title": "Electronics Design Engineer Co-op Intern - Electronics Design",
+    "location": "Palo Alto, CA",
+    "url": "https://careers.rivian.com/jobs/34040?icims=1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "8812321dc1285442d8fd15d768fddc5b3b460093db5fffd9214f8bbf991054cc",
     "company_name": "Corning",
     "title": "Engineering Data Analyst Intern",
@@ -231,6 +389,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "8a62c355fca7e0b1dac9a897adeb97a869e4551ab2db37377d9c8e061c54652b",
+    "company_name": "General Dynamics Mission Systems",
+    "title": "Software Engineer Intern - CWL",
+    "location": "Manassas, VA",
+    "url": "https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -260,6 +431,58 @@
     ]
   },
   {
+    "id": "9f1c48e62a84462b21aff788030b7dcee431e291e9ee43b50759b8f18f2407f2",
+    "company_name": "🔥 Tesla",
+    "title": "Systems Integration Engineering Intern - Thermal Systems",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/285779?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "a4573d79bf4b045db7d3bbe88e972200bd7af2c5d8c2ce2ce2cd8de0a2cc9715",
+    "company_name": "General Motors",
+    "title": "ADAS Software Engineer Intern - Adpt",
+    "location": "Milford, MIWarren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "a4ec9f9a8dc8485efe78027b10f2c3a6b5472ab6de9c8f5482c8f88ff90c5ab8",
+    "company_name": "Atoms",
+    "title": "Electrical Engineer Intern",
+    "location": "SF",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869098002?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "a91df23b4f1d6642ad982431ad8720a8aa838036608f4244429f319c4dbe8aef",
+    "company_name": "General Motors",
+    "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation 🎓",
+    "location": "Sunnyvale, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "af2c55c0695098d2a05717ab1bd7f9b6769843332eaaa6f801048f0634c81fe3",
     "company_name": "GE Aerospace",
     "title": "Thermal Systems Design Engineering Intern (6 Months)",
@@ -270,6 +493,19 @@
     "source": "workday",
     "role_families": [
       "mechanical"
+    ]
+  },
+  {
+    "id": "b8ff3ba7ca1c7b50dbeb84b8a5f5f6d769ce918e654ba3c49a3f2ffd8bc1e174",
+    "company_name": "American Family Insurance Group",
+    "title": "Data Analyst Intern",
+    "location": "Madison, WI",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
@@ -300,6 +536,32 @@
     ]
   },
   {
+    "id": "d269b4ba8d699061e653d0d9f9081fee08aad74bc9fab37775601e90befa6948",
+    "company_name": "Cirrus Logic",
+    "title": "Analog Design Engineer Intern 🎓",
+    "location": "Austin, TX",
+    "url": "https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "daaa2338ff086e2db30f506fda79fe85ff808597cc6dc97da4ceeac43de97ca2",
+    "company_name": "Cirrus Logic",
+    "title": "Digital Design Engineer Intern 🎓",
+    "location": "Austin, TX",
+    "url": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "dfb9722172435577328ab4c0890b9c12917ac39f54916a68478cbb7d31035598",
     "company_name": "🔥 NVIDIA",
     "title": "Software Engineer Intern",
@@ -323,6 +585,45 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "ed2e9dca4920cea35dada3452d056a5a7afd136532d12cf39c4eaa5e09cac34c",
+    "company_name": "General Motors",
+    "title": "Summer Intern - Global Manufacturing Robotics & Automation",
+    "location": "Warren, MI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "f627752ee2ec0a137be8bef2b9cbf7822ab5760cf6048f1e3b6717d01e9c5673",
+    "company_name": "LexisNexis Risk Solutions",
+    "title": "Data Analyst Intern",
+    "location": "Alpharetta, GA",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Analyst-Intern_R119377?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "f98d13aec85ebac432509068ad1ed0355472cfa3034d490659828ab52f0d2df8",
+    "company_name": "Atoms",
+    "title": "Machine Learning Engineer Intern",
+    "location": "SF",
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869106002?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
     ]
   },
   {
