@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "6238483afde27ad655d268d130c1a5dc3b3397bb4877e44605f5fd6a29c385a8",
+    "company_name": "🔥 NVIDIA",
+    "title": "Hardware Engineering Intern",
+    "location": "Santa Clara, CA",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "81d6318877c205d04bfa0a3325a24b54291a950510560fb86265b69f3d5d3b41",
     "company_name": "🔥 Microsoft",
     "title": "Firmware Engineer Intern",
@@ -62,6 +75,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "dfb9722172435577328ab4c0890b9c12917ac39f54916a68478cbb7d31035598",
+    "company_name": "🔥 NVIDIA",
+    "title": "Software Engineer Intern",
+    "location": "Santa Clara, CA",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {

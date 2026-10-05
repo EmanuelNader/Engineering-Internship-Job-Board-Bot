@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1024 roles.
+1026 roles.
 
-- [Software Engineering](#software-engineering) (431)
+- [Software Engineering](#software-engineering) (432)
 - [Product Management](#product-management) (26)
-- [Hardware Engineering](#hardware-engineering) (83)
+- [Hardware Engineering](#hardware-engineering) (84)
 - [Data Science](#data-science) (180)
 - [Machine Learning](#machine-learning) (79)
 - [Civil and Structural](#civil-and-structural) (36)
@@ -27,6 +27,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [🔥 Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify) | Firmware Engineer Intern | Santa Clara, CA | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify) | 0d |
+| [🔥 NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify) | 0d |
 | [Affirm](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | 3d |
 | [Affirm](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | Software Engineer Intern (Summer 2027) | San Francisco, California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | 3d |
 | [🔥 Tesla](https://www.tesla.com/careers/search/job/285508?utm_source=Simplify&ref=Simplify) | Distributed Systems Software Engineer Intern - Energy Engineering | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/285508?utm_source=Simplify&ref=Simplify) | 3d |
@@ -497,6 +498,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [🔥 NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047?utm_source=Simplify&ref=Simplify) | Hardware Engineering Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047?utm_source=Simplify&ref=Simplify) | 0d |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply?utm_source=Simplify&ref=Simplify) | Electrical Engineering Intern - FPGA | El Segundo, CA | [Apply](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply?utm_source=Simplify&ref=Simplify) | 2d |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) | 2027 Summer Intern - Software Verification Engineer - AV/AI Platform | Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) | 3d |
 | [Arc](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008?utm_source=Simplify&ref=Simplify) | Electrical Hardware Engineering Intern | Torrance, CA | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008?utm_source=Simplify&ref=Simplify) | 3d |
