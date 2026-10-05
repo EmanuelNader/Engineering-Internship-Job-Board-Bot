@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1036 roles.
+1037 roles.
 
-- [Software Engineering](#software-engineering) (434)
+- [Software Engineering](#software-engineering) (435)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (84)
 - [Data Science](#data-science) (181)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 0d |
 | [Quantum Signal AI](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Tools and Prototypes | Saline, MI | [Apply](https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes?utm_source=Simplify&ref=Simplify) | 0d |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313?utm_source=Simplify&ref=Simplify) | Android Applications Developer Intern | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313?utm_source=Simplify&ref=Simplify) | 0d |
 | [🔥 Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify) | Firmware Engineer Intern | Santa Clara, CA | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557023161?utm_source=Simplify&ref=Simplify) | 0d |
