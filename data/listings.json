@@ -1,5 +1,18 @@
 [
   {
+    "id": "ce6387a918df2d584745f70475379d97cd7d60ef14e4944e908ebbe318e8056e",
+    "company_name": "GD Mission Systems",
+    "title": "Aerospace Engineering Intern",
+    "location": null,
+    "url": "https://careers-gdms.icims.com/jobs/75130/aerospace-engineering-intern/job",
+    "date_posted": "2026-10-05T19:28:38.410Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
     "id": "3c131bf23b4dd2ae4dc5df0bb7d09b1ca758f826fa3f0f3e99ff4d7334fb8087",
     "company_name": "Cloudflare",
     "title": "People Analytics Data Engineering Intern",
