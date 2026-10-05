@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1022 roles.
+1024 roles.
 
 - [Software Engineering](#software-engineering) (431)
 - [Product Management](#product-management) (26)
@@ -14,7 +14,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (180)
 - [Machine Learning](#machine-learning) (79)
 - [Civil and Structural](#civil-and-structural) (36)
-- [Mechanical Engineering](#mechanical-engineering) (88)
+- [Mechanical Engineering](#mechanical-engineering) (90)
 - [Electrical Engineering](#electrical-engineering) (95)
 - [Chemical Engineering](#chemical-engineering) (28)
 - [Aerospace Engineering](#aerospace-engineering) (30)
@@ -903,6 +903,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039995-1) | Thermal Systems Design Engineering Intern (6 Months) | Istanbul | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039995-1) | 0d |
+| [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039990-1) | Thermal Systems Design Engineering Intern (6 Months) | Istanbul | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039990-1) | 0d |
 | [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783) | Intern - Manufacturing - 2027 (M/F/D) | IT-MS-AVENZA- VIALE DOMENICO ZACCAGNA, 12 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783) | 1d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486) | Mechanical Design Engineering Co-op (Spring 2027) | US-OH-UNIONTOWN-1555 ~ 1555 Corporate Woods Pkwy ~ CORP WOODS | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486) | 1d |
 | [GD Mission Systems](https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job) | Manufacturing Engineering Intern | — | [Apply](https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job) | 1d |
