@@ -1,5 +1,18 @@
 [
   {
+    "id": "1944dde2c514809d31e7a90e20af3922375cc5c23a83d8fc848f61561aef0ba7",
+    "company_name": "Autodesk",
+    "title": "Researcher Intern - Machine Learning for Construction 🎓",
+    "location": "Boston, MA",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "4820ff980e609288bc97aafc3332db1af9cce464fa35c8ba02b015339622bf3c",
     "company_name": "State of North Carolina",
     "title": "Data Analytics Intern",
@@ -26,6 +39,19 @@
     ]
   },
   {
+    "id": "621aa165ad3c62f093f6b4798746558ae60ebe32c40ece9bce4a73a98c4db350",
+    "company_name": "Autodesk",
+    "title": "PhD Researcher Intern - Machine Learning for Construction 🎓",
+    "location": "Boston, MA",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "6238483afde27ad655d268d130c1a5dc3b3397bb4877e44605f5fd6a29c385a8",
     "company_name": "🔥 NVIDIA",
     "title": "Hardware Engineering Intern",
@@ -49,6 +75,19 @@
     "source": "workday",
     "role_families": [
       "mechanical"
+    ]
+  },
+  {
+    "id": "7368d521a47a5346867048fd51ddc7d28461967f16fb29718616390238a22754",
+    "company_name": "Motorola",
+    "title": "Android Applications Developer Intern",
+    "location": "Chicago, IL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
