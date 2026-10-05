@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1031 roles.
+1032 roles.
 
 - [Software Engineering](#software-engineering) (434)
 - [Product Management](#product-management) (26)
@@ -14,9 +14,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (180)
 - [Machine Learning](#machine-learning) (81)
 - [Civil and Structural](#civil-and-structural) (36)
-- [Mechanical Engineering](#mechanical-engineering) (91)
+- [Mechanical Engineering](#mechanical-engineering) (92)
 - [Electrical Engineering](#electrical-engineering) (95)
-- [Chemical Engineering](#chemical-engineering) (28)
+- [Chemical Engineering](#chemical-engineering) (29)
 - [Aerospace Engineering](#aerospace-engineering) (30)
 - [Other](#other) (10)
 
@@ -912,6 +912,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420) | Mechanical Engineer Intern - Air Launched Effectors (2027 Summer) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420) | 0d |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039995-1) | Thermal Systems Design Engineering Intern (6 Months) | Istanbul | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039995-1) | 0d |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039990-1) | Thermal Systems Design Engineering Intern (6 Months) | Istanbul | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039990-1) | 0d |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937) | Manufacturing Engineering Co-Op (Spring 2027) (Onsite) | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937) | 0d |
 | [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783) | Intern - Manufacturing - 2027 (M/F/D) | IT-MS-AVENZA- VIALE DOMENICO ZACCAGNA, 12 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783) | 1d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486) | Mechanical Design Engineering Co-op (Spring 2027) | US-OH-UNIONTOWN-1555 ~ 1555 Corporate Woods Pkwy ~ CORP WOODS | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486) | 1d |
 | [GD Mission Systems](https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job) | Manufacturing Engineering Intern | — | [Apply](https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job) | 1d |
@@ -1109,6 +1110,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937) | Manufacturing Engineering Co-Op (Spring 2027) (Onsite) | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937) | 0d |
 | [GD Mission Systems](https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job) | Manufacturing Engineering Intern | — | [Apply](https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job) | 1d |
 | [GD Mission Systems](https://careers-gdms.icims.com/jobs/75246/manufacturing-engineering-intern-%28secret-clearance-required%29/job) | Manufacturing Engineering Intern (Secret Clearance Required) | — | [Apply](https://careers-gdms.icims.com/jobs/75246/manufacturing-engineering-intern-%28secret-clearance-required%29/job) | 1d |
 | [Sargent & Lundy](https://careers-sargentlundy.icims.com/jobs/26900/process-engineer-intern---energy-%26-industrial-%28summer-2027%29/job) | Process Engineer Intern - Energy & Industrial (Summer 2027) | — | [Apply](https://careers-sargentlundy.icims.com/jobs/26900/process-engineer-intern---energy-%26-industrial-%28summer-2027%29/job) | 1d |
