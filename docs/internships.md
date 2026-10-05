@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1026 roles.
+1027 roles.
 
 - [Software Engineering](#software-engineering) (432)
 - [Product Management](#product-management) (26)
@@ -14,7 +14,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (180)
 - [Machine Learning](#machine-learning) (79)
 - [Civil and Structural](#civil-and-structural) (36)
-- [Mechanical Engineering](#mechanical-engineering) (90)
+- [Mechanical Engineering](#mechanical-engineering) (91)
 - [Electrical Engineering](#electrical-engineering) (95)
 - [Chemical Engineering](#chemical-engineering) (28)
 - [Aerospace Engineering](#aerospace-engineering) (30)
@@ -905,6 +905,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420) | Mechanical Engineer Intern - Air Launched Effectors (2027 Summer) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420) | 0d |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039995-1) | Thermal Systems Design Engineering Intern (6 Months) | Istanbul | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039995-1) | 0d |
 | [GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039990-1) | Thermal Systems Design Engineering Intern (6 Months) | Istanbul | [Apply](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039990-1) | 0d |
 | [Baker Hughes](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783) | Intern - Manufacturing - 2027 (M/F/D) | IT-MS-AVENZA- VIALE DOMENICO ZACCAGNA, 12 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783) | 1d |
