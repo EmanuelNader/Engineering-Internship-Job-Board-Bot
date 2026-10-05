@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1032 roles.
+1033 roles.
 
 - [Software Engineering](#software-engineering) (434)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (84)
 - [Data Science](#data-science) (180)
-- [Machine Learning](#machine-learning) (81)
+- [Machine Learning](#machine-learning) (82)
 - [Civil and Structural](#civil-and-structural) (36)
 - [Mechanical Engineering](#mechanical-engineering) (92)
 - [Electrical Engineering](#electrical-engineering) (95)
@@ -824,6 +824,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [IMC](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | Hardware Machine Learning PhD Research Internship | Chicago, United States | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | 1w |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8224746) | 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224746) | 1w |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8224746) | 2027 Summer Intern, PhD, Road Understanding, ML Engineer | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224746) | 1w |
+| [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8224746) | 2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer | Mountain View, California | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224746) | 1w |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8214350) | 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation | San Francisco, California, United States | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8214350) | 1w |
 | [🔥 Waymo](https://careers.withwaymo.com/jobs?gh_jid=8214350&utm_source=Simplify&ref=Simplify) | Machine Learning Engineer Intern - MS/PhD - Simulator Realism Evaluation 🎓 | SF | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8214350&utm_source=Simplify&ref=Simplify) | 1w |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708&utm_source=Simplify&ref=Simplify) | Machine Learning Research Associate Intern 🎓 | Greenwich, CT | [Apply](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708&utm_source=Simplify&ref=Simplify) | 1w |
