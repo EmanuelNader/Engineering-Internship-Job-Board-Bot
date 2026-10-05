@@ -143,6 +143,19 @@
     ]
   },
   {
+    "id": "7facf2b7be201e7c77ec6e1fd1a4acbd04046b889e6f7985a1cf4698753a9b7b",
+    "company_name": "Khan Academy",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "81d6318877c205d04bfa0a3325a24b54291a950510560fb86265b69f3d5d3b41",
     "company_name": "🔥 Microsoft",
     "title": "Firmware Engineer Intern",
