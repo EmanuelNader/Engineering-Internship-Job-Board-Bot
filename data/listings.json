@@ -552,6 +552,19 @@
     ]
   },
   {
+    "id": "f280c0173b9e432574a967caa24d2fc81b10c5dd3e53aa4d3c0531ea42af2a7b",
+    "company_name": "Courier Health",
+    "title": "Software Engineer Intern",
+    "location": "NYC",
+    "url": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f558a7f36f77a781cb56bc2bb5ab730e1782a9eada9a3a105c88262dfdd75948",
     "company_name": "Legrand",
     "title": "Electrical Engineer Co-op",
@@ -588,6 +601,19 @@
     "source": "workday",
     "role_families": [
       "chemical"
+    ]
+  },
+  {
+    "id": "fc199d83393e2175bb9bc1b5c2fba9f43c5d7980f86771f891389bf1fa842325",
+    "company_name": "RTX",
+    "title": "FPGA Engineer Intern",
+    "location": "McKinney, TX",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
     ]
   },
   {
