@@ -95,6 +95,45 @@
     ]
   },
   {
+    "id": "0251be1d5a811dec35884ab6c28952d02cb3273d09145a9898aa5ba0b7357218",
+    "company_name": "🔥 Meta",
+    "title": "Data Scientist Intern - Product Analytics",
+    "location": "Menlo Park, CANYC",
+    "url": "https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "06daf63d812875a95670ee9857349d00c751f2036db744798956219290b16ccf",
+    "company_name": "Rivian",
+    "title": "Engineering Intern Co-op - AI/ML ASIC CAD 🎓",
+    "location": "Palo Alto, CA",
+    "url": "https://careers.rivian.com/jobs/34059?icims=1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "0d733fcafb52b7faf4f27ec50f53eb1c543a1dd3374bd8488fbff58d790cdb05",
+    "company_name": "Alliance Laundry Systems",
+    "title": "Embedded Firmware Co-op",
+    "location": "Ripon, WI",
+    "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "10aa31ae2f0189cff6c1c0c1cd623733af06526827169dbb0272f678b14b07cd",
     "company_name": "Atoms",
     "title": "Electrical Engineer Intern",
@@ -121,6 +160,32 @@
     ]
   },
   {
+    "id": "17d4bf7fb94272e0353ebf5ddb6b2760cd980f64fd5e191e57da8846b5d7b328",
+    "company_name": "🔥 Meta",
+    "title": "Software Engineer Intern - Systems and Infrastructure - PhD 🎓",
+    "location": "7 locationsSeattle, WABurlingame, CARedmond, WAMenlo Park, CANYCBellevue, WASunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/945520495299801?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "19a0814ce61b7512bc173f565ec090e2a4c1532a355494fdf593fb2d7ae4b9cd",
+    "company_name": "Nokia",
+    "title": "AI Engineer Co-op 🎓",
+    "location": "Sunnyvale, CA",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40810?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "1c2197e71869adaa66488e85281d3d68a8b61d94833ec55c0f1d3b1e4d17704c",
     "company_name": "Cadence Solutions",
     "title": "Software Engineer Intern",
@@ -134,6 +199,32 @@
     ]
   },
   {
+    "id": "20e0e2ed450fd762cf276d71e99dfb32980127250681ba49c5de6d990523ab21",
+    "company_name": "Pure Storage",
+    "title": "Software Engineer Intern",
+    "location": "Santa Clara, CA",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "2b07c4c508cc8e9d75a89ae4f156ccfb05ed75eab27662ac95f80b34975744c0",
+    "company_name": "Moog",
+    "title": "Electrical Engineer Intern",
+    "location": "Torrance, CA",
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "33dd648c171962000ccf20c9cb01fc56977e836ba32f8fc1981c57ca69743770",
     "company_name": "Atoms",
     "title": "Machine Learning Engineer Intern",
@@ -144,6 +235,32 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "4aaa595bcba6e42c0f80f577486bd063d009d4e2d69aa168a3130bd57b8c0d1a",
+    "company_name": "KnowBe4",
+    "title": "Associate Product Manager Intern",
+    "location": "Clearwater, FL",
+    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8871835002?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "pm-program"
+    ]
+  },
+  {
+    "id": "4fd633c9d5e39ae95c9086d849121140ce64fdf8601a20488832ec5b6b509f90",
+    "company_name": "Rivet Industries",
+    "title": "Software Engineer Intern",
+    "location": "San Jose, CA",
+    "url": "https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -212,6 +329,19 @@
     ]
   },
   {
+    "id": "806aa70e8c0ab3f06647009bc6f9c29b975366b0665eec2191d033fa89965786",
+    "company_name": "KnowBe4",
+    "title": "Software Engineer Intern",
+    "location": "Tampa, FL",
+    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "8beb16fa9a45f1e158d34bc77ec1749fab18c6448015bbd7a1c469323ff7d74c",
     "company_name": "Renesas Electronics",
     "title": "Post Silicon Validation Intern 🎓",
@@ -251,6 +381,32 @@
     ]
   },
   {
+    "id": "9373843a0d7398e71b83b119e90e48e2f92b12505f8b8790c9db500f310545f7",
+    "company_name": "American Family Insurance Group",
+    "title": "Backend Digital Sales Intern",
+    "location": "Boston, MA",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern--Backend-Digital-Sales_R39517?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "98efbc44408e3923d3b29aa80ef5e178847c78b721654c92cabaeeb5dc445955",
+    "company_name": "Northwestern Mutual",
+    "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics 🎓",
+    "location": "Milwaukee, WI",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "997f769e32f80aefabd7d8dbf9d41a51ac4f076214c211364827bd75d22b8f4e",
     "company_name": "RTX",
     "title": "Mechanical Materials Engineer Intern",
@@ -261,6 +417,19 @@
     "source": "workday",
     "role_families": [
       "chemical"
+    ]
+  },
+  {
+    "id": "ae12bf693511414122e8c94646c6adeebe313cabbbc43e000e113c96edd041ce",
+    "company_name": "Niantic Spatial",
+    "title": "Software Engineer Intern",
+    "location": "SF",
+    "url": "https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -287,6 +456,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "d7a55da8d9de44da9ba60e162400eb18a2c5a820f5d9e98a8f565868dcae1b8d",
+    "company_name": "Nokia",
+    "title": "ASIC Physical Design Co-op",
+    "location": "San Jose, CA",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "hardware"
     ]
   },
   {
@@ -327,6 +509,19 @@
     "source": "workday",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "e92a3eb5805c1b2b3212ea3d52d85a40d4bf76665af8384aac0bb43e8be11f2a",
+    "company_name": "🔥 Tesla",
+    "title": "Process Engineer Intern - Dielectric Deposition",
+    "location": "Austin, TX",
+    "url": "https://www.tesla.com/careers/search/job/285641?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "chemical"
     ]
   },
   {
