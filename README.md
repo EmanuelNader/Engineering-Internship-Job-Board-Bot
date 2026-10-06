@@ -6,16 +6,16 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1072 roles.
+1075 roles.
 
 - [Software Engineering](#software-engineering) (447)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (87)
 - [Data Science](#data-science) (190)
-- [Machine Learning](#machine-learning) (85)
+- [Machine Learning](#machine-learning) (86)
 - [Civil and Structural](#civil-and-structural) (36)
 - [Mechanical Engineering](#mechanical-engineering) (100)
-- [Electrical Engineering](#electrical-engineering) (98)
+- [Electrical Engineering](#electrical-engineering) (100)
 - [Chemical Engineering](#chemical-engineering) (29)
 - [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (10)
@@ -804,6 +804,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Atoms](https://job-boards.greenhouse.io/atoms/jobs/8869105002?utm_source=Simplify&ref=Simplify) | Machine Learning Engineer Intern | SF | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8869105002?utm_source=Simplify&ref=Simplify) | 0d |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1?utm_source=Simplify&ref=Simplify) | Researcher Intern - Machine Learning for Construction 🎓 | Boston, MA | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1?utm_source=Simplify&ref=Simplify) | 1d |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778?utm_source=Simplify&ref=Simplify) | AI/ML Engineer Intern - Mapping | Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778?utm_source=Simplify&ref=Simplify) | 1d |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430?utm_source=Simplify&ref=Simplify) | PhD Researcher Intern - Machine Learning for Construction 🎓 | Boston, MA | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430?utm_source=Simplify&ref=Simplify) | 1d |
@@ -1046,6 +1047,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Atoms](https://job-boards.greenhouse.io/atoms/jobs/8869094002?utm_source=Simplify&ref=Simplify) | Electrical Engineer Intern | SF | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8869094002?utm_source=Simplify&ref=Simplify) | 0d |
+| [Legrand](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1345?utm_source=Simplify&ref=Simplify) | Electrical Engineer Co-op | Middletown, PA | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1345?utm_source=Simplify&ref=Simplify) | 0d |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/8013277003) | RF Engineering Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8013277003) | 1d |
 | [Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electrical-Engineering--January---June-2027--Hybrid-_REQ-2026-18618?utm_source=Simplify&ref=Simplify) | R&D Electrical Engineering Co-op | Acton, MA | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electrical-Engineering--January---June-2027--Hybrid-_REQ-2026-18618?utm_source=Simplify&ref=Simplify) | 1d |
 | [Atoms](https://job-boards.greenhouse.io/cssmerge/jobs/8869098002?utm_source=Simplify&ref=Simplify) | Electrical Engineer Intern | SF | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8869098002?utm_source=Simplify&ref=Simplify) | 1d |

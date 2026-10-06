@@ -26,6 +26,32 @@
     ]
   },
   {
+    "id": "10aa31ae2f0189cff6c1c0c1cd623733af06526827169dbb0272f678b14b07cd",
+    "company_name": "Atoms",
+    "title": "Electrical Engineer Intern",
+    "location": "SF",
+    "url": "https://job-boards.greenhouse.io/atoms/jobs/8869094002?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "33dd648c171962000ccf20c9cb01fc56977e836ba32f8fc1981c57ca69743770",
+    "company_name": "Atoms",
+    "title": "Machine Learning Engineer Intern",
+    "location": "SF",
+    "url": "https://job-boards.greenhouse.io/atoms/jobs/8869105002?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "61c99120604eb0d01c500e8331c66d186420f54de9bd2f56dc3f4d7037f9fc2b",
     "company_name": "RTX",
     "title": "Mechanical Design Engineering Co-op (Winter/Spring 2027)",
@@ -36,6 +62,19 @@
     "source": "workday",
     "role_families": [
       "mechanical"
+    ]
+  },
+  {
+    "id": "f558a7f36f77a781cb56bc2bb5ab730e1782a9eada9a3a105c88262dfdd75948",
+    "company_name": "Legrand",
+    "title": "Electrical Engineer Co-op",
+    "location": "Middletown, PA",
+    "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1345?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "electrical"
     ]
   },
   {
