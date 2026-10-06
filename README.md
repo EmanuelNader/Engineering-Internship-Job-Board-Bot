@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1019 roles.
+1020 roles.
 
-- [Software Engineering](#software-engineering) (453)
+- [Software Engineering](#software-engineering) (454)
 - [Product Management](#product-management) (25)
 - [Hardware Engineering](#hardware-engineering) (84)
 - [Data Science](#data-science) (190)
-- [Machine Learning](#machine-learning) (91)
+- [Machine Learning](#machine-learning) (92)
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (78)
 - [Electrical Engineering](#electrical-engineering) (82)
@@ -29,6 +29,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD only (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 0d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 0d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | PhD Software Engineer Intern, Machine Learning (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 0d |
+| [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 0d |
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813584306?utm_source=Simplify&ref=Simplify) | Equipment Engineering Software Engineer Intern | Maple Grove, MN | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813584306?utm_source=Simplify&ref=Simplify) | 0d |
 | [Cadence Solutions](https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Remote in USA | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify) | 0d |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - AI Enabled Software Development | North Logan, UT | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development?utm_source=Simplify&ref=Simplify) | 0d |
@@ -809,6 +810,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD only (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 0d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 0d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | PhD Software Engineer Intern, Machine Learning (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 0d |
+| [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 0d |
 | [Atoms](https://job-boards.greenhouse.io/atoms/jobs/8869105002?utm_source=Simplify&ref=Simplify) | Machine Learning Engineer Intern | SF | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8869105002?utm_source=Simplify&ref=Simplify) | 0d |
 | [Biogen](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310?utm_source=Simplify&ref=Simplify) | Machine Learning Engineering Co-op | Remote in USA | [Apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310?utm_source=Simplify&ref=Simplify) | 0d |
 | [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning?utm_source=Simplify&ref=Simplify) | 0d |
