@@ -78,12 +78,25 @@ export async function rememberPostedJobs(db: PostingDb = prisma): Promise<void> 
     where: { postedAt: { not: null } },
     select: { dedupHash: true, title: true, company: true, titleKey: true },
   });
+  const claims = new Map<string, { titleKey: string; dedupHash: string }>();
   for (const row of posted) {
     const titleKey = row.titleKey ?? titleCompanyHash(row.title, row.company);
-    try {
-      await db.postingClaim.create({ data: { titleKey, dedupHash: row.dedupHash } });
-    } catch (err) {
-      if (!isUniqueConflict(err)) throw err;
-    }
+    if (!claims.has(titleKey)) claims.set(titleKey, { titleKey, dedupHash: row.dedupHash });
+  }
+  if (claims.size === 0) return;
+
+  const already = new Set<string>();
+  const keys = [...claims.keys()];
+  for (let i = 0; i < keys.length; i += 500) {
+    const existing = await db.postingClaim.findMany({
+      where: { titleKey: { in: keys.slice(i, i + 500) } },
+      select: { titleKey: true },
+    });
+    for (const row of existing) already.add(row.titleKey);
+  }
+
+  const unclaimed = [...claims.values()].filter((claim) => !already.has(claim.titleKey));
+  if (unclaimed.length > 0) {
+    await db.postingClaim.createMany({ data: unclaimed });
   }
 }
