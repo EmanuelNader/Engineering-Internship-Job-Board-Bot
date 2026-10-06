@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1070 roles.
+1072 roles.
 
-- [Software Engineering](#software-engineering) (445)
+- [Software Engineering](#software-engineering) (447)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (87)
 - [Data Science](#data-science) (190)
@@ -26,6 +26,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) | Software Engineer Intern (2027) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) | 0d |
+| [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) | Software Engineer Intern (2027) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) | 0d |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 1d |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply?utm_source=Simplify&ref=Simplify) | Embedded Firmware Engineer Intern | Phoenix, AZ | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply?utm_source=Simplify&ref=Simplify) | 1d |
 | [🔥 Tesla](https://www.tesla.com/careers/search/job/285797?utm_source=Simplify&ref=Simplify) | Embedded Software Engineer Intern - Thermal Systems | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/285797?utm_source=Simplify&ref=Simplify) | 1d |
