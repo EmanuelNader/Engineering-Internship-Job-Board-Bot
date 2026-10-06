@@ -110,7 +110,7 @@ describe("renderInternshipFiles", () => {
       [
         row({
           title: "Firmware | Intern",
-          location: null,
+          location: "Austin, TX",
           url: "https://example.com/job(1)",
         }),
       ],
@@ -118,7 +118,16 @@ describe("renderInternshipFiles", () => {
     );
 
     expect(files.markdown).toContain("Firmware \\| Intern");
-    expect(files.markdown).toContain("| — |");
+    expect(files.markdown).toContain("Austin, TX");
+    const dropped = renderInternshipFiles(
+      [
+        row({ title: "London Intern", location: "London, UK", dedupHash: "uk" }),
+        row({ title: "Unknown Intern", location: null, dedupHash: "blank" }),
+      ],
+      NOW
+    );
+    expect(dropped.markdown).not.toContain("London Intern");
+    expect(dropped.markdown).not.toContain("Unknown Intern");
     expect(files.markdown).toContain("[Apply](https://example.com/job%281%29)");
   });
 });

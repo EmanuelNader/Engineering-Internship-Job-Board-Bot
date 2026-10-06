@@ -282,24 +282,41 @@ export function atsUrlNeedle(url: string | null | undefined): string | null {
 }
 
 const US_STATES = /\b(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b/;
+const US_STATE_NAMES =
+  /\b(alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming|district of columbia)\b/i;
 const US_INDICATORS = /\b(united\s+states|usa|u\.?s\.?a?)\b/i;
+const US_CITIES =
+  /\b(san francisco|sf|nyc|sfnyc|new york city|los angeles|seattle|boston|chicago|denver|atlanta|miami|dallas|houston|phoenix|portland|san diego|san jose|palo alto|mountain view|sunnyvale|menlo park|cupertino|redmond|bellevue|irvine|santa clara|boulder|pittsburgh|philadelphia|detroit|minneapolis|raleigh|durham|charlotte|nashville|salt lake|ann arbor|cambridge|brooklyn|manhattan|hoboken|jersey city|arlington|bethesda|reston|findlay|san mateo|berkeley|oakland|sacramento|santa monica|pasadena)\b/i;
 const CANADA_WORKDAY = /\bCA-(NS|ON|BC|QC|AB|MB|SK|NB|NL|PE|YT|NT|NU)\b/i;
-const NON_US_COUNTRIES = /\b(canada|united\s+kingdom|uk|england|australia|india|germany|france|singapore|japan|china|brazil|mexico|netherlands|ireland|switzerland|sweden|spain|italy|finland|denmark|norway|belgium|austria|new\s+zealand|south\s+korea|hong\s+kong|taiwan|poland|israel|dubai|uae|emea|apac|europe|switzerland)\b/i;
-const NON_US_CITIES = /\b(london|sydney|toronto|vancouver|halifax|ottawa|montreal|calgary|edmonton|berlin|paris|tokyo|shanghai|beijing|dublin|amsterdam|zurich|stockholm|bangalore|mumbai|melbourne|hong\s+kong|singapore|mexico\s+city|sao\s+paulo)\b/i;
+const FOREIGN_WORKDAY = /(?:^|[\s~])(?!US-)[A-Z]{2}-[A-Z0-9]{2,}/;
+const NON_US_COUNTRIES =
+  /\b(canada|united\s+kingdom|uk|england|australia|india|germany|france|singapore|japan|china|brazil|mexico|méxico|netherlands|ireland|switzerland|sweden|spain|italy|italia|finland|denmark|norway|belgium|austria|new\s+zealand|\bnz\b|south\s+korea|hong\s+kong|taiwan|poland|israel|dubai|uae|emea|apac|europe|jiangsu)\b/i;
+const NON_US_CITIES =
+  /\b(london|sydney|toronto|vancouver|halifax|ottawa|montreal|calgary|edmonton|berlin|paris|tokyo|shanghai|beijing|dublin|amsterdam|zurich|stockholm|bangalore|bengaluru|mumbai|melbourne|hong\s+kong|singapore|mexico\s+city|sao\s+paulo|auckland|wuxi|queretaro|querétaro|pomigliano)\b/i;
 
 export function isUsLocation(location: string | null | undefined): boolean {
-  if (location == null) return true;
+  if (location == null) return false;
 
   const loc = location.trim();
-  if (!loc) return true;
+  if (!loc) return false;
 
-  // Workday Canada codes look like CA-NS-HALIFAX; check before \bCA\b (California).
-  if (CANADA_WORKDAY.test(loc) || NON_US_COUNTRIES.test(loc) || NON_US_CITIES.test(loc)) {
+  // A foreign country, city, or Workday site code rejects the row even if a US token is also present.
+  if (
+    CANADA_WORKDAY.test(loc) ||
+    FOREIGN_WORKDAY.test(loc) ||
+    NON_US_COUNTRIES.test(loc) ||
+    NON_US_CITIES.test(loc)
+  ) {
     return false;
   }
-  if (US_STATES.test(loc) || US_INDICATORS.test(loc)) return true;
+  if (US_STATES.test(loc) || US_STATE_NAMES.test(loc) || US_INDICATORS.test(loc) || US_CITIES.test(loc)) {
+    return true;
+  }
 
-  return true;
+  const compact = loc.toLowerCase().replace(/[^a-z]/g, "");
+  return /sanfrancisco|sfnyc|nyc|seattle|losangeles|paloalto|mountainview|menlopark|newyork|california|pennsylvania|sanmateo|findlay|boston|chicago|austin|denver|atlanta|miami|dallas|houston|washington/.test(
+    compact
+  );
 }
 
 export function dedupHash(

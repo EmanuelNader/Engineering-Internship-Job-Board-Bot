@@ -1,6 +1,6 @@
 import { filterEnabledRoleFamilies, getEnabledRoleFamilies } from "@/config/roles.config";
 import { startOfUtcDay } from "@/lib/freshness";
-import { detectRoleFamily } from "@/lib/normalize";
+import { detectRoleFamily, isUsLocation } from "@/lib/normalize";
 import type { RoleFamily } from "@/lib/types";
 
 export const LISTINGS_JSON_PATH = "data/listings.json";
@@ -75,6 +75,7 @@ export function toListings(rows: DeliveredPosting[], now = new Date()): Internsh
       role_families: filterEnabledRoleFamilies(detectRoleFamily(row.title)),
     }))
     .filter((listing) => listing.role_families.length > 0)
+    .filter((listing) => isUsLocation(listing.location))
     .filter((listing) => listingAgeDays(new Date(listing.date_posted), now) <= MAX_LISTING_AGE_DAYS)
     .sort(byNewest);
 }

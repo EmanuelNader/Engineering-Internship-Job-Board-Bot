@@ -458,16 +458,12 @@ describe("contentHash", () => {
 });
 
 describe("isUsLocation", () => {
-  it("returns true for null location", () => {
-    expect(isUsLocation(null)).toBe(true);
-  });
-
-  it("returns true for undefined location", () => {
-    expect(isUsLocation(undefined)).toBe(true);
-  });
-
-  it("returns true for empty location", () => {
-    expect(isUsLocation("")).toBe(true);
+  it("rejects a missing location", () => {
+    expect(isUsLocation(null)).toBe(false);
+    expect(isUsLocation(undefined)).toBe(false);
+    expect(isUsLocation("")).toBe(false);
+    expect(isUsLocation("Remote")).toBe(false);
+    expect(isUsLocation("2 Locations")).toBe(false);
   });
 
   it("returns true for US state abbreviation", () => {
@@ -480,10 +476,6 @@ describe("isUsLocation", () => {
     expect(isUsLocation("United States")).toBe(true);
     expect(isUsLocation("Remote, US")).toBe(true);
     expect(isUsLocation("USA")).toBe(true);
-  });
-
-  it("returns true for Remote (keep ambiguous)", () => {
-    expect(isUsLocation("Remote")).toBe(true);
   });
 
   it("returns false for non-US countries", () => {
@@ -506,6 +498,21 @@ describe("isUsLocation", () => {
   it("returns true for US cities without state", () => {
     expect(isUsLocation("San Francisco")).toBe(true);
     expect(isUsLocation("New York City")).toBe(true);
+    expect(isUsLocation("SF")).toBe(true);
+    expect(isUsLocation("NYC")).toBe(true);
+    expect(isUsLocation("SFNYC")).toBe(true);
+    expect(isUsLocation("Pennsylvania")).toBe(true);
+    expect(isUsLocation("Findlay, Ohio")).toBe(true);
+  });
+
+  it("rejects foreign sites that do not name the United States", () => {
+    expect(isUsLocation("IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2")).toBe(false);
+    expect(isUsLocation("NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd ~ V2500 WORKSHOP")).toBe(false);
+    expect(isUsLocation("Auckland, NZ")).toBe(false);
+    expect(isUsLocation("Wuxi, Jiangsu")).toBe(false);
+    expect(isUsLocation("Queretaro")).toBe(false);
+    expect(isUsLocation("Pomigliano D'Arco")).toBe(false);
+    expect(isUsLocation("US-ND-JAMESTOWN-P1")).toBe(true);
   });
 
   it("returns false for Workday Canada site codes that contain CA", () => {
