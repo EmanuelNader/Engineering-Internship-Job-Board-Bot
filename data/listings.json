@@ -117,6 +117,58 @@
     ]
   },
   {
+    "id": "6e6bb2bf401bdb0297a401dafb4a4cda159c449548dab1000a3f6a87e8a9441f",
+    "company_name": "Kyndryl",
+    "title": "Marketing Intern - Marketing Analytics",
+    "location": "NYC",
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "8f11e4d33d671a934c4e1934892c64bc26e7ded2e8235b7d9e82353b69a1d1f9",
+    "company_name": "Space Dynamics Laboratory",
+    "title": "Software Engineer Intern - AI Enabled Software Development",
+    "location": "North Logan, UT",
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "9257893c46cb9efd2136703e601e5dcaa8913bd083e2830375d68d63296a3f72",
+    "company_name": "Kyndryl",
+    "title": "Marketing Intern - Marketing Analytics",
+    "location": "NYC",
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "b157f3383b054c40720ed87c47f1d58911c32a2945fde7d9344b3e48ec0dd3af",
+    "company_name": "Biogen",
+    "title": "Machine Learning Engineering Co-op",
+    "location": "Remote in USA",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "b7d3d42b2c490219a188ba38cb7888dd854c51cb84b6a4ea2c1acda7d845fe93",
     "company_name": "Macy's",
     "title": "Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics",
@@ -130,11 +182,38 @@
     ]
   },
   {
+    "id": "dcd7780aeb9db54661ab324ee96b71afa5e6f1284d8198005203c62bfa4325c9",
+    "company_name": "Space Dynamics Laboratory",
+    "title": "Software Engineer Intern - Software, AI, & Machine Learning",
+    "location": "North Logan, UT",
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "ml"
+    ]
+  },
+  {
     "id": "ded4724a940fa73ebf1c2a16de36c1cf118274e5fdafeb15f37fc580c8d3f550",
     "company_name": "Judi Health",
     "title": "MBA Analytics Intern - Clinical Programs 🎓",
     "location": "NYCDenver, CO",
     "url": "https://job-boards.greenhouse.io/judihealth/jobs/5427074008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "ecf058e012a7e2ff4dbf18f08523a858f52fd546f02167eca0806dd140a4bded",
+    "company_name": "American Family Insurance Group",
+    "title": "Data Analytics Intern",
+    "location": "Madison, WI",
+    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631?utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-10-06T00:00:00.000Z",
     "level": "internship",
     "source": "github",

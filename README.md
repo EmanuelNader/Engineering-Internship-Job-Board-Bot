@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1081 roles.
+1087 roles.
 
-- [Software Engineering](#software-engineering) (449)
+- [Software Engineering](#software-engineering) (451)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (87)
-- [Data Science](#data-science) (193)
-- [Machine Learning](#machine-learning) (86)
+- [Data Science](#data-science) (196)
+- [Machine Learning](#machine-learning) (88)
 - [Civil and Structural](#civil-and-structural) (37)
 - [Mechanical Engineering](#mechanical-engineering) (100)
 - [Electrical Engineering](#electrical-engineering) (100)
@@ -30,6 +30,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) | Software Engineer Intern (2027) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) | 0d |
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813584306?utm_source=Simplify&ref=Simplify) | Equipment Engineering Software Engineer Intern | Maple Grove, MN | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813584306?utm_source=Simplify&ref=Simplify) | 0d |
 | [Cadence Solutions](https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Remote in USA | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify) | 0d |
+| [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - AI Enabled Software Development | North Logan, UT | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development?utm_source=Simplify&ref=Simplify) | 0d |
+| [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning?utm_source=Simplify&ref=Simplify) | 0d |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 1d |
 | [Cirrus Logic](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply?utm_source=Simplify&ref=Simplify) | Embedded Firmware Engineer Intern | Phoenix, AZ | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply?utm_source=Simplify&ref=Simplify) | 1d |
 | [🔥 Tesla](https://www.tesla.com/careers/search/job/285797?utm_source=Simplify&ref=Simplify) | Embedded Software Engineer Intern - Thermal Systems | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/285797?utm_source=Simplify&ref=Simplify) | 1d |
@@ -610,8 +612,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | Analytics Intern - Multiple Teams | NYC | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | 0d |
+| [Kyndryl](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403?utm_source=Simplify&ref=Simplify) | Marketing Intern - Marketing Analytics | NYC | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403?utm_source=Simplify&ref=Simplify) | 0d |
+| [Kyndryl](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404?utm_source=Simplify&ref=Simplify) | Marketing Intern - Marketing Analytics | NYC | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404?utm_source=Simplify&ref=Simplify) | 0d |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380?utm_source=Simplify&ref=Simplify) | Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics | NYC | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380?utm_source=Simplify&ref=Simplify) | 0d |
 | [Judi Health](https://job-boards.greenhouse.io/judihealth/jobs/5427074008?utm_source=Simplify&ref=Simplify) | MBA Analytics Intern - Clinical Programs 🎓 | NYCDenver, CO | [Apply](https://job-boards.greenhouse.io/judihealth/jobs/5427074008?utm_source=Simplify&ref=Simplify) | 0d |
+| [American Family Insurance Group](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631?utm_source=Simplify&ref=Simplify) | Data Analytics Intern | Madison, WI | [Apply](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631?utm_source=Simplify&ref=Simplify) | 0d |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | People Analytics Data Engineering Intern | Hybrid | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | 1d |
 | [American Enterprise Institute](https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Spring Data Analyst and Education Policy Intern | Washington, DC | [Apply](https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 1d |
 | [State of North Carolina](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify) | Data Analytics Intern | Wake County, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220?utm_source=Simplify&ref=Simplify) | 1d |
@@ -810,6 +815,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [Atoms](https://job-boards.greenhouse.io/atoms/jobs/8869105002?utm_source=Simplify&ref=Simplify) | Machine Learning Engineer Intern | SF | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8869105002?utm_source=Simplify&ref=Simplify) | 0d |
+| [Biogen](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310?utm_source=Simplify&ref=Simplify) | Machine Learning Engineering Co-op | Remote in USA | [Apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310?utm_source=Simplify&ref=Simplify) | 0d |
+| [Space Dynamics Laboratory](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Software, AI, & Machine Learning | North Logan, UT | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning?utm_source=Simplify&ref=Simplify) | 0d |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1?utm_source=Simplify&ref=Simplify) | Researcher Intern - Machine Learning for Construction 🎓 | Boston, MA | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1?utm_source=Simplify&ref=Simplify) | 1d |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778?utm_source=Simplify&ref=Simplify) | AI/ML Engineer Intern - Mapping | Warren, MI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778?utm_source=Simplify&ref=Simplify) | 1d |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430?utm_source=Simplify&ref=Simplify) | PhD Researcher Intern - Machine Learning for Construction 🎓 | Boston, MA | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430?utm_source=Simplify&ref=Simplify) | 1d |
