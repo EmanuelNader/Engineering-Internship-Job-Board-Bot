@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1079 roles.
+1081 roles.
 
 - [Software Engineering](#software-engineering) (449)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (87)
-- [Data Science](#data-science) (191)
+- [Data Science](#data-science) (193)
 - [Machine Learning](#machine-learning) (86)
 - [Civil and Structural](#civil-and-structural) (37)
 - [Mechanical Engineering](#mechanical-engineering) (100)
@@ -609,6 +609,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | Analytics Intern - Multiple Teams | NYC | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | 0d |
+| [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380?utm_source=Simplify&ref=Simplify) | Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics | NYC | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380?utm_source=Simplify&ref=Simplify) | 0d |
 | [Judi Health](https://job-boards.greenhouse.io/judihealth/jobs/5427074008?utm_source=Simplify&ref=Simplify) | MBA Analytics Intern - Clinical Programs 🎓 | NYCDenver, CO | [Apply](https://job-boards.greenhouse.io/judihealth/jobs/5427074008?utm_source=Simplify&ref=Simplify) | 0d |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | People Analytics Data Engineering Intern | Hybrid | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | 1d |
 | [American Enterprise Institute](https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Spring Data Analyst and Education Policy Intern | Washington, DC | [Apply](https://internships-aei.icims.com/jobs/2699/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | 1d |
