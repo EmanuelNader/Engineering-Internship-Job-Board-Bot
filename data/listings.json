@@ -249,6 +249,19 @@
     ]
   },
   {
+    "id": "f736571af43fba49cccb1e7bd38e54b9356856e09e838b2e5fd73c825fe9e0b1",
+    "company_name": "Waymo",
+    "title": "2027 Summer Intern - MS/PhD - Software Engineer - Eval Data Infra",
+    "location": "Mountain View, CA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f98a6b8504a5ba26ad6a4e67dfc9b45ec1c5203a6b47bbc747db7995b8d1d0c4",
     "company_name": "Marathon Petroleum",
     "title": "Associate Business Systems Analyst, Refining Reliability and Maintenance (Intern to Full-Time Conversion)",
@@ -319,6 +332,19 @@
     "title": "Embedded Firmware Engineer Intern",
     "location": "Phoenix, AZ",
     "url": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "0c10ad64db43c70352a0a56bc4ae7f663ce2fbd56825ed8ad2ce578d639449ba",
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Systems Software Engineer Intern",
+    "location": "Bloomington, MN",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401",
     "date_posted": "2026-10-05T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -536,6 +562,19 @@
     ]
   },
   {
+    "id": "71d690efc541b6d00e1652083372523652eec5b12da49a701dd721b45cb261ca",
+    "company_name": "Microsoft",
+    "title": "Firmware Engineering Internship - 6-month Program",
+    "location": "California, MD",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "7368d521a47a5346867048fd51ddc7d28461967f16fb29718616390238a22754",
     "company_name": "Motorola",
     "title": "Android Applications Developer Intern",
@@ -693,6 +732,19 @@
     ]
   },
   {
+    "id": "a47c949937cb76ccbd1e31055a2e434e9eba4e7aa18b66476b84a4cc1ec3a40d",
+    "company_name": "P&G - Procter & Gamble",
+    "title": "R&D PhD Summer Intern: Blades Front-End Innovation",
+    "location": "Boston, MA",
+    "url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/BOSTON-GO--TECH-CENTER/R-D-PhD-Summer-Intern--Blades-Front-End-Innovation_R000159730",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "a4ec9f9a8dc8485efe78027b10f2c3a6b5472ab6de9c8f5482c8f88ff90c5ab8",
     "company_name": "Atoms",
     "title": "Electrical Engineer Intern",
@@ -711,6 +763,19 @@
     "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation 🎓",
     "location": "Sunnyvale, CA",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "abc87a231df9cf48da357da7b509171b84215a658f81037c90811bf4b47884a6",
+    "company_name": "General Motors",
+    "title": "2027 Summer Intern - Machine Learning Intern - Autonomous Vehicles: Software Validation - Master's",
+    "location": "Sunnyvale, CA",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655",
     "date_posted": "2026-10-05T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -785,6 +850,19 @@
     ]
   },
   {
+    "id": "dbed3b157fd6060d58f6cf4ba7943fd26ee4a0c36af02f446be0cc03dac41931",
+    "company_name": "Docusign",
+    "title": "Software Engineer Intern",
+    "location": "Seattle, WA",
+    "url": "https://uscareers-docusign.icims.com/jobs/30468/software-engineer-intern/job",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "dfb9722172435577328ab4c0890b9c12917ac39f54916a68478cbb7d31035598",
     "company_name": "🔥 NVIDIA",
     "title": "Software Engineer Intern",
@@ -821,6 +899,19 @@
     "source": "github",
     "role_families": [
       "mechanical"
+    ]
+  },
+  {
+    "id": "eecb3633fa6dafce47aad78b0391e2d61e8035bff1ae238be10e92c80e089bd6",
+    "company_name": "MasterControl",
+    "title": "DevOps Engineering Intern",
+    "location": "USA",
+    "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4738483005&gh_jid=4738483005",
+    "date_posted": "2026-10-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -2256,6 +2347,19 @@
     "source": "workday",
     "role_families": [
       "civil-structural"
+    ]
+  },
+  {
+    "id": "bc159b4c42a14bc53578b4e79c928c0624858ce76716bd6de4689997e6ec2248",
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Internship Opportunities - Azure Databases",
+    "location": "Washington, DC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557002476",
+    "date_posted": "2026-10-01T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
