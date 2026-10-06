@@ -13,32 +13,6 @@
     ]
   },
   {
-    "id": "6b15a07aa6cba17a9e0647459509195e8287f20460eb4f72bec8643dca1597c2",
-    "company_name": "Cloudflare",
-    "title": "Software Engineer Intern (2027)",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "date_posted": "2026-10-06T02:42:06.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "4ebe55d760a12814f377837230c88dd3e145d624d06f9dc9c962aa4a73eead34",
-    "company_name": "Cloudflare",
-    "title": "Software Engineer Intern (2027)",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "date_posted": "2026-10-06T02:40:05.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "10aa31ae2f0189cff6c1c0c1cd623733af06526827169dbb0272f678b14b07cd",
     "company_name": "Atoms",
     "title": "Electrical Engineer Intern",
@@ -298,32 +272,6 @@
     "source": "greenhouse",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "ce6387a918df2d584745f70475379d97cd7d60ef14e4944e908ebbe318e8056e",
-    "company_name": "GD Mission Systems",
-    "title": "Aerospace Engineering Intern",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75130/aerospace-engineering-intern/job",
-    "date_posted": "2026-10-05T19:28:38.410Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "aerospace"
-    ]
-  },
-  {
-    "id": "3c131bf23b4dd2ae4dc5df0bb7d09b1ca758f826fa3f0f3e99ff4d7334fb8087",
-    "company_name": "Cloudflare",
-    "title": "People Analytics Data Engineering Intern",
-    "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
-    "date_posted": "2026-10-05T17:54:41.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "data"
     ]
   },
   {
@@ -693,19 +641,6 @@
     ]
   },
   {
-    "id": "9663c338755fef0d374acb888fdbb5877342e4a7dcf069da1011846fae339ef7",
-    "company_name": "GE Aerospace",
-    "title": "Thermal Systems Design Engineering Intern (6 Months)",
-    "location": "Istanbul",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039995-1",
-    "date_posted": "2026-10-05T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "97cf143b1a6f46b3cde4a652fc3df7925d573424f289ef5d7806484920e60208",
     "company_name": "Expedia Group",
     "title": "Mobile Engineer Intern",
@@ -768,19 +703,6 @@
     "source": "github",
     "role_families": [
       "ml"
-    ]
-  },
-  {
-    "id": "af2c55c0695098d2a05717ab1bd7f9b6769843332eaaa6f801048f0634c81fe3",
-    "company_name": "GE Aerospace",
-    "title": "Thermal Systems Design Engineering Intern (6 Months)",
-    "location": "Istanbul",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Istanbul/Thermal-Systems-Design-Engineering-Intern--6-Months-_R5039990-1",
-    "date_posted": "2026-10-05T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "mechanical"
     ]
   },
   {
@@ -928,19 +850,6 @@
     ]
   },
   {
-    "id": "5bff1bad7d444832553763fa776386b7e5066b148d624e30be812f015855d372",
-    "company_name": "Baker Hughes",
-    "title": "Intern - Manufacturing - 2027 (M/F/D)",
-    "location": "IT-MS-AVENZA- VIALE DOMENICO ZACCAGNA, 12",
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-MS-AVENZA--VIALE-DOMENICO-ZACCAGNA-12/Intern---Manufacturing---2027--M-F-D-_R169783",
-    "date_posted": "2026-10-04T06:58:14.453Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "e66e4443f8dcd6700302446dcb1a07cac16b783c5ba644b3614c52aa3ec93b77",
     "company_name": "RTX",
     "title": "Mechanical Design Engineering Co-op (Spring 2027)",
@@ -954,112 +863,6 @@
     ]
   },
   {
-    "id": "c62622c4f3d255ad3a1ce4fd3d3a349e22b17da25a3fb81378f8e7bdae7c5d74",
-    "company_name": "GD Mission Systems",
-    "title": "Manufacturing Engineering Intern",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job",
-    "date_posted": "2026-10-04T06:57:05.786Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical",
-      "chemical"
-    ]
-  },
-  {
-    "id": "4b52e601dea446c316456cb348d0fb1d246a80462bacbbeeaee32b2bc74d0768",
-    "company_name": "GD Mission Systems",
-    "title": "Payload Control System - Software/Systems Engineering Intern (Summer 2027)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74848/payload-control-system---software-systems-engineering-intern-%28summer-2027%29/job",
-    "date_posted": "2026-10-04T06:56:58.242Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "fdd75809d5d9d8e6e3b8c14dd337cecbcf8feea60a14837db8069cff9264a881",
-    "company_name": "GD Mission Systems",
-    "title": "Manufacturing Intern Engineer",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74612/manufacturing-intern-engineer/job",
-    "date_posted": "2026-10-04T06:56:51.200Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
-    "id": "74749982ea5b156369218a9877a4769d5aa1e53ffcc6f335fc7eade7aae4db5c",
-    "company_name": "GD Mission Systems",
-    "title": "Manufacturing Engineering Intern (Secret Clearance Required)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75246/manufacturing-engineering-intern-%28secret-clearance-required%29/job",
-    "date_posted": "2026-10-04T06:56:44.427Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical",
-      "chemical"
-    ]
-  },
-  {
-    "id": "4aaf8e5c0ecd4b50d8c91c4b78c07d7f446f7d3481ae22165e661071fa38a09c",
-    "company_name": "Sargent & Lundy",
-    "title": "Process Engineer Intern - Energy & Industrial (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26900/process-engineer-intern---energy-%26-industrial-%28summer-2027%29/job",
-    "date_posted": "2026-10-04T06:56:36.826Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "chemical"
-    ]
-  },
-  {
-    "id": "2a1fda6c148e8729e388023ea76a5bdcda14798dc13a77f5b3d9bd89313818fa",
-    "company_name": "Sargent & Lundy",
-    "title": "Instrumentation & Controls Engineer Intern - Energy & Industrial Group (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26933/instrumentation-%26-controls-engineer-intern---energy-%26-industrial-group-%28summer-2027%29/job",
-    "date_posted": "2026-10-04T06:56:29.782Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "3a3c0302b194a5b758824cdbb689a3afec83575b614f06f441a506812897f2d8",
-    "company_name": "Sargent & Lundy",
-    "title": "Associate Intern for Project Controls (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/27256/associate-intern-for-project-controls-%28summer-2027%29/job",
-    "date_posted": "2026-10-04T06:56:22.488Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "14c1072492c3ad9a4a41af7bfa4f8e0abafa75a2b9a46015fd8b3761acf97b53",
-    "company_name": "Sargent & Lundy",
-    "title": "Instrumentation & Controls Engineering Intern - Nuclear (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/27617/instrumentation-%26-controls-engineering-intern---nuclear-%28summer-2027%29/job",
-    "date_posted": "2026-10-04T06:56:14.675Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
     "id": "d425dcb59b29b0f128b7dd7406defce783c83a6acf274dd3b881af8a42df79b1",
     "company_name": "RS&H",
     "title": "Roadway/Traffic Control Engineering Intern - Summer 2027",
@@ -1070,19 +873,6 @@
     "source": "icims",
     "role_families": [
       "electrical"
-    ]
-  },
-  {
-    "id": "17a6ac27a61b6a2379660b0378954f6c2b0d69e908a7e16297560951ded32272",
-    "company_name": "Baker Hughes",
-    "title": "Intern – Material Engineer - 2027 (M/F/D)",
-    "location": "IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2",
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Material-Engineer---2027--M-F-D-_R169937",
-    "date_posted": "2026-10-04T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "chemical"
     ]
   },
   {
@@ -1596,19 +1386,6 @@
     ]
   },
   {
-    "id": "b0ef2b01725c6fc0467bc33d100811429cf98a4746532b494747c2c9ca53b35e",
-    "company_name": "Baker Hughes",
-    "title": "Intern – Manufacturing Logistics - 2026 (M/F/D)",
-    "location": "IT-VV-VIBO VALENTIA-VIA LE MARINATE",
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing-Logistics---2026--M-F-D-_R169087",
-    "date_posted": "2026-10-02T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "b118d88a35216378dffb2285d003aa2ac3d129e6f39452157fd445080d0ad8a7",
     "company_name": "Harvey",
     "title": "Software Engineer Intern",
@@ -1830,19 +1607,6 @@
     ]
   },
   {
-    "id": "880188ed14d82f227e21f340406b4a50906b73534f81c489cc9f5120bc8f5312",
-    "company_name": "GD Mission Systems",
-    "title": "Electrical Engineering Co-Op (Fall/Winter)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74924/electrical-engineering-co-op-%28fall-winter%29/job",
-    "date_posted": "2026-10-01T21:14:16.617Z",
-    "level": "co-op",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
     "id": "741ca84579a8bda6f591748c5711bfd34811f8eaf160f50ba22847bfce857da6",
     "company_name": "Pinterest",
     "title": "Software Engineer Intern 2027 (USA)",
@@ -1957,19 +1721,6 @@
     "source": "greenhouse",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "b6ba0598191b6f4a1ef5f735667672452329284eb34441cf0b94368287d905ac",
-    "company_name": "GD Mission Systems",
-    "title": "Software Engineer Intern (2027)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74537/software-engineer-intern-%282027%29/job",
-    "date_posted": "2026-10-01T12:39:16.608Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -2797,19 +2548,6 @@
     ]
   },
   {
-    "id": "f704e7bebc07440acf55145c5d07b2117f9f791ba8c1cce789c565abf2e4e3ac",
-    "company_name": "Sargent & Lundy",
-    "title": "Electrical Engineering Intern -- Electrical Analytical Design -- (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/27560/electrical-engineering-intern----electrical-analytical-design----%28summer-2027%29/job",
-    "date_posted": "2026-09-30T21:04:12.108Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
     "id": "b5d14fc11a06c0157f0f67fa68957a267308a5f60d3ac4ff8ebe8e6ada387f7c",
     "company_name": "Waymo",
     "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
@@ -2937,19 +2675,6 @@
     "source": "github",
     "role_families": [
       "ml"
-    ]
-  },
-  {
-    "id": "4f09db5a6fd1fe1ae4bdb118774794ce036c2d90f5cbbeef491022cf87e5790e",
-    "company_name": "Adobe",
-    "title": "2027 MBA Intern – Product Marketing Manager",
-    "location": "2 Locations",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262",
-    "date_posted": "2026-09-30T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "other"
     ]
   },
   {
@@ -3171,19 +2896,6 @@
     "source": "github",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "c4a33039507d83b993d7b39413f4c854db096716ca319123467d374e9def70f9",
-    "company_name": "Adobe",
-    "title": "2027 MBA Intern – Product Manager",
-    "location": "2 Locations",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261",
-    "date_posted": "2026-09-30T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "pm-program"
     ]
   },
   {
@@ -3477,20 +3189,6 @@
     ]
   },
   {
-    "id": "4b5ca9698826a48ca43a8d9cd3bde987b062933e9857779d9c7e1bd56deee47c",
-    "company_name": "GE Aerospace",
-    "title": "Intern - Airfoils Manufacturing Engineer",
-    "location": "Pomigliano D'Arco",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pomigliano-DArco/Intern---Airfoils-Manufacturing-Engineer_R5039304-1",
-    "date_posted": "2026-09-29T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "mechanical",
-      "chemical"
-    ]
-  },
-  {
     "id": "4dc9848cfaa90641069486db5a2579e79f8d64ba83369af5f294c6f6707bf4c9",
     "company_name": "Keysight Technologies",
     "title": "Research and Development Software Engineer Intern",
@@ -3752,19 +3450,6 @@
     ]
   },
   {
-    "id": "a08c08ccadc614adaa8fd158028f1b61a2b71a8110428a23b43fcaf907743d41",
-    "company_name": "RTX",
-    "title": "Test Equipment Mechanical Engineering Co-op (Winter/Spring 2027)",
-    "location": "US-IL-ROCKFORD-P1 ~ 2421 11th St ~ 2421 11TH ST-P1",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Test-Equipment-Mechanical-Engineering-Co-op--Winter-Spring-2027-_01874053",
-    "date_posted": "2026-09-29T00:00:00.000Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "ac5773c34c700be3c07fb42b76baa2e47099c0f27f9f5a99e4723771fdbba034",
     "company_name": "Q2",
     "title": "2027 Summer Internship - Software Engineer",
@@ -3947,19 +3632,6 @@
     ]
   },
   {
-    "id": "e498ac8b76c437dbc29efb965343a080185a1e37ec892b5e94b58e3f70e06a17",
-    "company_name": "RTX",
-    "title": "Test Equipment Mechanical Engineering Co-op (Summer/Fall 2027)",
-    "location": "US-IL-ROCKFORD-P1 ~ 2421 11th St ~ 2421 11TH ST-P1",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Test-Equipment-Mechanical-Engineering-Co-op--Summer-Fall-2027-_01874074",
-    "date_posted": "2026-09-29T00:00:00.000Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "e76f7a25b556f1de8947da2e4887f048e080b1bfaf5818dea8f645204b74af34",
     "company_name": "🔥 Tesla",
     "title": "AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI",
@@ -4048,71 +3720,6 @@
     "source": "greenhouse",
     "role_families": [
       "ml"
-    ]
-  },
-  {
-    "id": "d8eb2969c05e970bac25b59f342b8378dc059e17addb9a6d9d908eb404cf09dc",
-    "company_name": "GD Mission Systems",
-    "title": "Software Engineer – Intern",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75040/software-engineer-%e2%80%93-intern/job",
-    "date_posted": "2026-09-28T20:29:17.941Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "07d4cda005845ad1468b5005d588269e86fae7c1ebe3b6a1b89e5c594f720c6e",
-    "company_name": "GD Mission Systems",
-    "title": "Mechanical Engineering Intern (CWL)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75127/mechanical-engineering-intern-%28cwl%29/job",
-    "date_posted": "2026-09-28T20:09:22.111Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
-    "id": "6ed9262b6db15089c2294edab1babbf118dac88944a9d47fcc67c53b68058560",
-    "company_name": "GD Mission Systems",
-    "title": "Electrical Engineering Intern (CWL)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75126/electrical-engineering-intern-%28cwl%29/job",
-    "date_posted": "2026-09-28T20:09:21.357Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "ad6da9558fffc46c3721fa5fa2517b787dc2d4f404afd14da84e6f9373241925",
-    "company_name": "GD Mission Systems",
-    "title": "FPGA Intern Engineer",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75125/fpga-intern-engineer/job",
-    "date_posted": "2026-09-28T16:24:24.909Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "hardware"
-    ]
-  },
-  {
-    "id": "a2751e35b2924d9f6460d73d6fc460ccb630ef019b87147bbe3cb79bf8479239",
-    "company_name": "GD Mission Systems",
-    "title": "Mechanical Engineering Intern (AI&R- Manassas)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75123/mechanical-engineering-intern-%28ai%26r--manassas%29/job",
-    "date_posted": "2026-09-28T16:19:18.299Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
     ]
   },
   {
@@ -4574,19 +4181,6 @@
     "source": "github",
     "role_families": [
       "ml"
-    ]
-  },
-  {
-    "id": "325c54cb29e9630eb24a325eecc8e22565a7db004b2ea46953a1ffeb00ea1815",
-    "company_name": "3M",
-    "title": "Internship – 2027 Undergraduate Sales Enablement, Analytics & Operations Intern – Transportation & Electronics Business Group (TEBG)",
-    "location": "3 Locations",
-    "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Analytics---Operations-Intern---Transportation---Electronics-Business-Group--TEBG-_R01171717",
-    "date_posted": "2026-09-25T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "data"
     ]
   },
   {
@@ -5086,19 +4680,6 @@
     ]
   },
   {
-    "id": "ab7ee294a95f7795ffadaf21d802b88417a76abfc262da4b26e7567be2e75e15",
-    "company_name": "GD Mission Systems",
-    "title": "Electrical Engineering Intern",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74850/electrical-engineering-intern/job",
-    "date_posted": "2026-09-24T19:39:01.551Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
     "id": "ebf205afac28a97a117b8b2d9f4fe3b6718e6a04a346bd408fb868e3a75661d9",
     "company_name": "Waymo",
     "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
@@ -5317,19 +4898,6 @@
     "source": "github",
     "role_families": [
       "pm-program"
-    ]
-  },
-  {
-    "id": "505c257533d7b230225daed05e28def4355f3b3e33ac56cf67a72510fffdf8e5",
-    "company_name": "RTX",
-    "title": "Intern - Data Analyst",
-    "location": "NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd ~ V2500 WORKSHOP",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Intern---Data-Analyst_01873132",
-    "date_posted": "2026-09-24T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "data"
     ]
   },
   {
@@ -5644,19 +5212,6 @@
     "source": "github",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "b281a5f7c756064637f9813471cd5097f57d9eabf7bcc757f6903bbfa4e89702",
-    "company_name": "GE Aerospace",
-    "title": "Colibrium Additive US Manufacturing / Supply Chain Co-op - Spring 2027",
-    "location": "West Chester",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/West-Chester/Colibrium-Additive-US-Manufacturing---Supply-Chain-Co-op---Spring-2027_R5040302-2",
-    "date_posted": "2026-09-24T00:00:00.000Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "mechanical"
     ]
   },
   {
@@ -6143,20 +5698,6 @@
     ]
   },
   {
-    "id": "192681ff97f026d99203a7f15061a410b29bf56b1539ac78f98502def1c1c532",
-    "company_name": "Caterpillar",
-    "title": "Smart Manufacturing Engineering Intern",
-    "location": "Wuxi, Jiangsu",
-    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Smart-Manufacturing-Engineering-Intern_R0000394667",
-    "date_posted": "2026-09-23T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "mechanical",
-      "chemical"
-    ]
-  },
-  {
     "id": "1b53c45b3cbb84d4a01f1a729b63003fcdbc66b606c13e729a0865a499e14634",
     "company_name": "Saab",
     "title": "Electrical Engineering Co-op",
@@ -6443,279 +5984,6 @@
     ]
   },
   {
-    "id": "e27cd0e7ff54c87cc0877e1b158293802e1bf7b46766572890d78a3043809da5",
-    "company_name": "GD Mission Systems",
-    "title": "Electrical Engineer Intern (Summer of 2027)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74535/electrical-engineer-intern-%28summer-of-2027%29/job",
-    "date_posted": "2026-09-22T22:59:25.839Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "8cbc242cc017c8970485db55cbe2f51a1537e7e4d4131cffa36ee71242dd1e0f",
-    "company_name": "GD Mission Systems",
-    "title": "Electrical Engineer Co-Op (January - May 2027)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74598/electrical-engineer-co-op-%28january---may-2027%29/job",
-    "date_posted": "2026-09-22T22:59:25.592Z",
-    "level": "co-op",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "70e8fa48bf3b3a64649bfc50e847dcb6e00041d3766df66dcba06004e14de8a0",
-    "company_name": "GD Mission Systems",
-    "title": "Mechanical Engineering Co-Op - (January - May 2027)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74661/mechanical-engineering-co-op---%28january---may-2027%29/job",
-    "date_posted": "2026-09-22T22:59:25.296Z",
-    "level": "co-op",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
-    "id": "f36fdd5ebc9965e2088ba72e98623ec3d463816a62c24904ae9f6ba0a805ce96",
-    "company_name": "GD Mission Systems",
-    "title": "Hardware EE Intern Engineer for Crypto and Cross Domain Solutions",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74787/hardware-ee-intern-engineer-for-crypto-and-cross-domain-solutions/job",
-    "date_posted": "2026-09-22T22:59:24.948Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "hardware"
-    ]
-  },
-  {
-    "id": "63a5d5f6fb3693d244adb52afffdbea09563200f4fd31e2cc8349dd945ff37e5",
-    "company_name": "GD Mission Systems",
-    "title": "Electrical Engineer – Intern",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75019/electrical-engineer-%e2%80%93-intern/job",
-    "date_posted": "2026-09-22T22:59:24.696Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "8dd473f1e650a970bf0379b810a30379f911cf00cde618a05ef6eb2041bfe9b4",
-    "company_name": "GD Mission Systems",
-    "title": "Embedded Software Engineer – Intern",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75013/embedded-software-engineer-%e2%80%93-intern/job",
-    "date_posted": "2026-09-22T22:59:24.451Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "9f1b72e2c35b832394d253dc5da26e1f20980e25fd3548d567d45acec4762583",
-    "company_name": "GD Mission Systems",
-    "title": "Intern Engineer - FPGA",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75044/intern-engineer---fpga/job",
-    "date_posted": "2026-09-22T22:59:20.928Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "hardware"
-    ]
-  },
-  {
-    "id": "7791962f466ab8b736135d7696dc239c9b0d8a44bc24a5d19a92c12694628e04",
-    "company_name": "GD Mission Systems",
-    "title": "Electrical Engineer Internship (Summer 2027)",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/74750/electrical-engineer-internship-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:20.562Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "75da3b4202e42c401c8562c9f1b6f39b2f72dd5b1594058c926f47ae956bfa24",
-    "company_name": "GD Mission Systems",
-    "title": "Intern Engineer - Infrastructure Hardware/Network",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75025/intern-engineer---infrastructure-hardware-network/job",
-    "date_posted": "2026-09-22T22:59:20.271Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "hardware"
-    ]
-  },
-  {
-    "id": "d1152013ba07c203c7ebe7b778ee502237c3b4ae40ea1a2fb21dd80a53bd792d",
-    "company_name": "GD Mission Systems",
-    "title": "Mechanical Engineering Intern",
-    "location": null,
-    "url": "https://careers-gdms.icims.com/jobs/75113/mechanical-engineering-intern/job",
-    "date_posted": "2026-09-22T22:59:19.975Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
-    "id": "1f72c06f8f524132a9aefaf4b5b82e0761bde07ecc634154c9424b27b621788f",
-    "company_name": "Sargent & Lundy",
-    "title": "Electrical Engineering Intern - Nuclear (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26693/electrical-engineering-intern---nuclear-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:19.690Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "8789e5cc3951c482be76ddcbb5efe078ec24da018963ea2d08852d7b6d0751b7",
-    "company_name": "Sargent & Lundy",
-    "title": "Structural Engineer Intern - Oil & Gas (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26738/structural-engineer-intern---oil-%26-gas-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:18.806Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "3bcb5a863816941fe6306447708a2b755ae68c6e4552e2a2d61036c9c685a5c4",
-    "company_name": "Sargent & Lundy",
-    "title": "Structural Engineer Intern - Grid (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26838/structural-engineer-intern---grid-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:18.550Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "c699cb24f4bdee90733c37b08f72c3efdf694a99f20439eb14743c18f28165d6",
-    "company_name": "Sargent & Lundy",
-    "title": "Structural Engineer Intern - Energy & Industrial Group (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26868/structural-engineer-intern---energy-%26-industrial-group-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:17.925Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "3f234073d91063a53d109dcb9fe60ae33d286396fbad7d2153d326b7506edae0",
-    "company_name": "Sargent & Lundy",
-    "title": "Civil Engineer Intern - Energy & Industrial (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26870/civil-engineer-intern---energy-%26-industrial-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:17.633Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "9d764b3e6698c348e18a40c174ebfe8110ce995fbd8850b2399f290c3ffdc313",
-    "company_name": "Sargent & Lundy",
-    "title": "Electrical Engineer Intern - Energy & Industrial Group (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26901/electrical-engineer-intern---energy-%26-industrial-group-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:17.263Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "b9760388d6ab781104e6f1916a622bfa6cca496db4a3ed2e8eeef78f2c048e1a",
-    "company_name": "Sargent & Lundy",
-    "title": "Chemical Engineer Intern - Summer 2027",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/26934/chemical-engineer-intern---summer-2027/job",
-    "date_posted": "2026-09-22T22:59:16.989Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "chemical"
-    ]
-  },
-  {
-    "id": "73bf8aba65c78d37b43b59044d8840da2ec0584e9276ab58dc2b73303f86494d",
-    "company_name": "Sargent & Lundy",
-    "title": "Construction Management Intern – Grid (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/27005/construction-management-intern-%e2%80%93-grid-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:16.696Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "d8558abb7b2b99c3e62b5ef4321239132afcc5852c86fad1ddac63e4ca9cefd3",
-    "company_name": "Sargent & Lundy",
-    "title": "Mechanical Engineer Intern - Energy & Industrial (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/27068/mechanical-engineer-intern---energy-%26-industrial-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:16.437Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
-    "id": "002fc5fbab74e9ab9cec3ca45b7f622effb98d4703b05eebc28b62946f9a68c3",
-    "company_name": "Sargent & Lundy",
-    "title": "Structural Engineering Intern - Nuclear (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/27179/structural-engineering-intern---nuclear-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:16.112Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "619c6eec0e748d9d11057d0dc156e60a003da0ce6463ae3ebe60d1135172774b",
-    "company_name": "Sargent & Lundy",
-    "title": "Mechanical Engineering Intern - Nuclear (Summer 2027)",
-    "location": null,
-    "url": "https://careers-sargentlundy.icims.com/jobs/27201/mechanical-engineering-intern---nuclear-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:11.576Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "32907e2b0dec85ca9791d6422a2ea86348912f0dc4b5ccd92d010ad0fe78891b",
     "company_name": "GFT",
     "title": "Intern - Construction Management",
@@ -6885,71 +6153,6 @@
     ]
   },
   {
-    "id": "c4860cf4d46f2ba8843bf98eabea5ccc980bb177dfbd9a2b0ad94bea94bb1bbf",
-    "company_name": "Dewberry",
-    "title": "Civil Engineering Intern",
-    "location": null,
-    "url": "https://careers-dewberry.icims.com/jobs/16333/civil-engineering-intern/job",
-    "date_posted": "2026-09-22T22:59:03.810Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "2ddc4833c732afc1c085ae326a1de3629ecbdf733e63becc8e417fe694576202",
-    "company_name": "Dewberry",
-    "title": "Electrical Engineering Intern",
-    "location": null,
-    "url": "https://careers-dewberry.icims.com/jobs/16335/electrical-engineering-intern/job",
-    "date_posted": "2026-09-22T22:59:02.198Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "9243dc522b67ea738ab83fff6634bdfb17d1ed280fa5b955c7716982b91a5d33",
-    "company_name": "Dewberry",
-    "title": "Mechanical Engineering Intern",
-    "location": null,
-    "url": "https://careers-dewberry.icims.com/jobs/16336/mechanical-engineering-intern/job",
-    "date_posted": "2026-09-22T22:59:01.756Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
-    "id": "e9d95c63a3c78b73b5177a4a064a6f0da2bfbd559837f32f3e6bc6aefa6dc6ca",
-    "company_name": "Dewberry",
-    "title": "Telecom/Civil Engineering Intern",
-    "location": null,
-    "url": "https://careers-dewberry.icims.com/jobs/16341/telecom-civil-engineering-intern/job",
-    "date_posted": "2026-09-22T22:59:01.464Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "9af072c7c74da5e6eeb4b9404597f1d3188a005ce8e9fb5b24887b1d58ff9477",
-    "company_name": "Dewberry",
-    "title": "Site/Civil Engineering Intern",
-    "location": null,
-    "url": "https://careers-dewberry.icims.com/jobs/16396/site-civil-engineering-intern/job",
-    "date_posted": "2026-09-22T22:59:01.251Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
     "id": "a24f7559c45caa0de34cade0fb2a16757bac9ed31665b335466bb794a2160126",
     "company_name": "Kimley-Horn",
     "title": "Civil Engineering Co-Op (Fall/Winter 2026)",
@@ -7080,20 +6283,6 @@
     ]
   },
   {
-    "id": "72cb107e2b3727ef5cfcb7d60dd3375ef2acb775d5ad5853ba8cf935385250d7",
-    "company_name": "Marathon Petroleum",
-    "title": "Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Fall 2027)",
-    "location": "13 Locations",
-    "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Chemical-Mechanical-Civil-Petroleum-Electrical-Engineering--Fall-2027-_00024215",
-    "date_posted": "2026-09-22T05:19:07.514Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "electrical",
-      "chemical"
-    ]
-  },
-  {
     "id": "e6f9605d0aaaf141b038d37f16e63f2bfa68c056f4ea7051b701fc6717f3b36e",
     "company_name": "RTX",
     "title": "Structural Engineering Co-op (Summer/Fall 2027)",
@@ -7120,19 +6309,6 @@
     ]
   },
   {
-    "id": "4c6d129caae822e5f895f6f635c9e70901877edc3c8ba577e4431e3fcb5fb39c",
-    "company_name": "Marathon Petroleum",
-    "title": "Refining Chemical Engineering Intern/Co-op Fall 2027",
-    "location": "17 Locations",
-    "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Refining-Chemical-Engineering-Intern-Co-op-Fall-2027_00024225",
-    "date_posted": "2026-09-22T05:16:49.797Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "chemical"
-    ]
-  },
-  {
     "id": "933ad49dcb6736827630c7bf0d7d221a0f4bdd3ccedcfacad86db7143cf38491",
     "company_name": "Disney",
     "title": "WDI Construction Management Intern, Spring 2027",
@@ -7143,58 +6319,6 @@
     "source": "workday",
     "role_families": [
       "civil-structural"
-    ]
-  },
-  {
-    "id": "81c464c3c68950a89b23e97b23c9c0157e18cde849fa1424c302e15aa4e693f2",
-    "company_name": "Motiva",
-    "title": "Motiva Summer Internship Position: Chemical Engineering Degree",
-    "location": "2 Locations",
-    "url": "https://motiva.wd1.myworkdayjobs.com/MotivaCareers/job/Port-Arthur-TX/Motiva-Summer-Internship-Position--Chemical-Engineering-Degree_4404",
-    "date_posted": "2026-09-22T05:16:48.535Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "chemical"
-    ]
-  },
-  {
-    "id": "de8b4f0251a57d49cd4d72c4c12ca65ee0bb6daeaaf93c67ea818a2a3d6bafc2",
-    "company_name": "GE Aerospace",
-    "title": "Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027",
-    "location": "2 Locations",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027_R5030140-1",
-    "date_posted": "2026-09-22T05:16:48.293Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "aerospace"
-    ]
-  },
-  {
-    "id": "24373fc2d7a4114c76738e7bafa1d17dfbadd49ccbd37c107a4448ae1275d6b1",
-    "company_name": "GE Aerospace",
-    "title": "Systems Engineering Co-op - Mechanical/Aerospace Engineering (Electric Power) - US - Spring 2027",
-    "location": "2 Locations",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Spring-2027_R5030103-1",
-    "date_posted": "2026-09-22T05:16:48.088Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "aerospace"
-    ]
-  },
-  {
-    "id": "4a68a3cb1a0598d2f077ba1a6ebf2ac20d6f0ff2469d804793bfc18a20e54ab7",
-    "company_name": "GE Aerospace",
-    "title": "Systems Engineering Co-op - Mechanical/Aerospace Engineering (Electric Power) - US - Fall 2027",
-    "location": "2 Locations",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Fall-2027_R5030145-1",
-    "date_posted": "2026-09-22T05:16:47.857Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "aerospace"
     ]
   },
   {
@@ -7549,19 +6673,6 @@
     ]
   },
   {
-    "id": "694811018c6bf71680ccabc82f15092a851859595a2b93902b44c690d20aa8b9",
-    "company_name": "GE Aerospace",
-    "title": "Aircraft Engines Prognostics and Health Management Data Analyst Engineer (Intern)",
-    "location": "Queretaro",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Aircraft-Engines-Prognostics-and-Health-Management-Data-Analyst-Engineer--Intern-_R5036877-1",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "data"
-    ]
-  },
-  {
     "id": "6b253051588d7ebbcd4a19f62d93f95c8d97cbc9a77dfe69f9274fd4da5a77c2",
     "company_name": "Eaton",
     "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
@@ -7690,19 +6801,6 @@
     "source": "github",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "a76e00c75e8c26ec30b286fb729ee3a44d449eaefd41433c5019fed65299e3a8",
-    "company_name": "DuPont",
-    "title": "2026 Fall Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities",
-    "location": "15 Locations",
-    "url": "https://dupont.wd5.myworkdayjobs.com/Jobs/job/Wimington-Delaware/XMLNAME-2026-Fall-Semester-Co-Op--Chemical--Mechanical-and-Electrical-Engineering-Opportunities_246719W",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "electrical"
     ]
   },
   {
@@ -8968,19 +8066,6 @@
     ]
   },
   {
-    "id": "6757618873d754a18723f6c6b859e0d3bcd94339caf8c7187f5b6693977f5009",
-    "company_name": "Northrop Grumman",
-    "title": "2027 Intern Software Engineer",
-    "location": "Melbourne, FL",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
-    "date_posted": "2026-09-19T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "67bd423c8f6493f788d8fc7852a79d5bbb98b4e31d14902cd3f0f2faac6e371b",
     "company_name": "CoBank",
     "title": "Software Engineer Intern",
@@ -9018,19 +8103,6 @@
     "source": "github",
     "role_families": [
       "hardware"
-    ]
-  },
-  {
-    "id": "7a5d4de6533d3a9881d70e01dc77a20e4301fab71deae64716188400cf91fe7b",
-    "company_name": "Adobe",
-    "title": "2027 Intern - Software Engineer",
-    "location": "7 Locations",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
-    "date_posted": "2026-09-19T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -9187,19 +8259,6 @@
     "source": "github",
     "role_families": [
       "pm-program"
-    ]
-  },
-  {
-    "id": "cee3329c8b12dfdbf0500d7ceab549c84506eb7f312e5c683246c63315ac8a66",
-    "company_name": "Adobe",
-    "title": "2027 Intern - Machine Learning Engineer",
-    "location": "6 Locations",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
-    "date_posted": "2026-09-19T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "ml"
     ]
   },
   {
@@ -10044,19 +9103,6 @@
     ]
   },
   {
-    "id": "3691853910fdcf264f4150bf5b9fe2054aaf20d29739abb96cdcfa8075e4dad7",
-    "company_name": "Cloudflare",
-    "title": "Software Engineer Intern (2027) - Austin, TX",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
-    "date_posted": "2026-09-17T01:57:53.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "023c3e8ce48b8449107c09c7d64a5b15df17a3cdb5b95605fd1f2cee56cf6ab1",
     "company_name": "Insulet",
     "title": "Co-op - Embedded Software Test Engineering: January - June 2027 - Onsite",
@@ -10211,19 +9257,6 @@
     "source": "github",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "1d453c0093402f55dde11ac16b287396744f94bee6b6f2e19368558602a81be6",
-    "company_name": "Baker Hughes",
-    "title": "Intern - Data Analytics - 2026 (M/F/D)",
-    "location": "IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2",
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Data-Analytics-Intern-2026-Opportunities--Florence-_R164944",
-    "date_posted": "2026-09-17T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "data"
     ]
   },
   {
@@ -11600,19 +10633,6 @@
     ]
   },
   {
-    "id": "6dd0c60b59f0b73d7be3dc422df793cc13a954674e7bcbd7a6a00153f624bb09",
-    "company_name": "AeroVironment",
-    "title": "Software Engineer Intern",
-    "location": "Melbourne, FL",
-    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "71f142a3f52e7f2da89be3f85234be27bcc508d6d7e24c0ffbd425f5dfc51012",
     "company_name": "Gordon Food Service Canada",
     "title": "Cloud DevOps Internship",
@@ -12734,19 +11754,6 @@
     ]
   },
   {
-    "id": "861afcefd3c4dd994ae194e5e81c18c109f2c30c57eddf77121221025e902a3c",
-    "company_name": "3M",
-    "title": "Internship – 2027 Undergraduate Sales Enablement, Operations & Analytics Intern - Safety & Industrial Business Group (SIBG)",
-    "location": "2 Locations",
-    "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Operations---Analytics-Intern---Safety---Industrial-Business-Group--SIBG-_R01171043",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "data"
-    ]
-  },
-  {
     "id": "863ad450112c3cd671bf6affde9eace42cc038446f3d3b22e14134f654f1eb69",
     "company_name": "Awardco",
     "title": "Back-End Software Engineer Intern",
@@ -13005,19 +12012,6 @@
     "source": "github",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "b67835ab1ffa9d24f072616598c37f7d37478fd00e26267c5dbe129296257661",
-    "company_name": "Marathon Petroleum",
-    "title": "Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Summer 2027)",
-    "location": "4 Locations",
-    "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Midstream-Logistics-and-Storage-Mechanical-Civil-Electrical-Engineering--Summer-2027-_00024205",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "electrical"
     ]
   },
   {
@@ -13998,34 +12992,6 @@
     ]
   },
   {
-    "id": "488482abbc2696a1fe59a8b214433b2534ba6e89dd9ec08489202030c3f58766",
-    "company_name": "Baker Hughes",
-    "title": "Intern – Manufacturing Engineer – 2026 (M/F/D)",
-    "location": "IT-VV-VIBO VALENTIA-VIA LE MARINATE",
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing-Engineer---Vibo--Italy---2026--M-F-D-_R168750",
-    "date_posted": "2026-09-10T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "mechanical",
-      "chemical"
-    ]
-  },
-  {
-    "id": "b6a82364060e652e187fb93a27a32e07034054292e4e907265b4bf202021e4ba",
-    "company_name": "Caterpillar",
-    "title": "Manufacturing Engineering College Intern",
-    "location": "Rayong, Thailand",
-    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914",
-    "date_posted": "2026-09-10T00:00:00.000Z",
-    "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "mechanical",
-      "chemical"
-    ]
-  },
-  {
     "id": "324886d03c68674cd4f0bbcaf91ccba9fc79dad31ce2d01e8b6b638fd61b2033",
     "company_name": "Apex Technology Inc",
     "title": "Avionics Test Engineering Internship (Spring 2027)",
@@ -14128,74 +13094,6 @@
     "source": "ashby",
     "role_families": [
       "aerospace"
-    ]
-  },
-  {
-    "id": "a5bb183488e9aa28e7353f99fe15aa85c2e885e531ce184270cd55fbaea7620e",
-    "company_name": "Rocket Lab Corporation",
-    "title": "Facilities Maintenance Manufacturing Engineering Intern",
-    "location": "Auckland, NZ",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821146003",
-    "date_posted": "2026-09-02T01:12:47.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "mechanical",
-      "chemical"
-    ]
-  },
-  {
-    "id": "795e3f82ca3f5a518c363637b0b12d2571e2c47a44d2ef91cc55122b42f75b30",
-    "company_name": "Marathon Petroleum",
-    "title": "Intern/Co-op - Refining Construction Management (Summer 2027)",
-    "location": "15 Locations",
-    "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Construction-Management--Summer-2027-_00023670",
-    "date_posted": "2026-08-29T00:00:00.000Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "civil-structural",
-      "chemical"
-    ]
-  },
-  {
-    "id": "a460de83d32b07319d68a67bd23de4af889ff95397c2083906ccdbb82ceb3795",
-    "company_name": "Rocket Lab Corporation",
-    "title": "Manufacturing Engineering Intern - Space Sytems",
-    "location": "Auckland, NZ",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820012003",
-    "date_posted": "2026-08-04T23:42:34.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "mechanical",
-      "chemical"
-    ]
-  },
-  {
-    "id": "8d1650b009a0bb1707d1f7151de06987f124cff82e90b496cddba8ebd4caa3e4",
-    "company_name": "SpaceX",
-    "title": "Summer 2027 Civil Engineering Internship",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
-    "date_posted": "2026-08-03T17:42:56.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "95894e88d54fb3f131ea39f50f0e4efc45fe23ff685d3a9c9a1201e63f766aff",
-    "company_name": "SpaceX",
-    "title": "Spring 2027 Civil Engineering Internship",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
-    "date_posted": "2026-08-03T17:40:40.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "civil-structural"
     ]
   },
   {
