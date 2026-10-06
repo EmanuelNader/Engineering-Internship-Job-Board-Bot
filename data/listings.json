@@ -1,5 +1,31 @@
 [
   {
+    "id": "61c99120604eb0d01c500e8331c66d186420f54de9bd2f56dc3f4d7037f9fc2b",
+    "company_name": "RTX",
+    "title": "Mechanical Design Engineering Co-op (Winter/Spring 2027)",
+    "location": "US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Winter-Spring-2027-_01871736",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "fd11224d087e47e06aceb88dbf1735ed8c4b3b75fccf58f135acc4db4362b123",
+    "company_name": "RTX",
+    "title": "Mechanical Design Engineering Co-op (Summer/Fall 2027)",
+    "location": "US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Summer-Fall-2027-_01871739",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "217dbbac0810026deb75d6693d757ddec6ca2a447609d949192a00e9ed113bc2",
     "company_name": "Waymo",
     "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
