@@ -39,6 +39,32 @@
     ]
   },
   {
+    "id": "17cea89d23b13e6792a9017d96e45319224cfe42ff2beb8f4ff73aa3f8aec098",
+    "company_name": "Boston Scientific",
+    "title": "Equipment Engineering Software Engineer Intern",
+    "location": "Maple Grove, MN",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "1c2197e71869adaa66488e85281d3d68a8b61d94833ec55c0f1d3b1e4d17704c",
+    "company_name": "Cadence Solutions",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA",
+    "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "33dd648c171962000ccf20c9cb01fc56977e836ba32f8fc1981c57ca69743770",
     "company_name": "Atoms",
     "title": "Machine Learning Engineer Intern",
@@ -62,6 +88,19 @@
     "source": "workday",
     "role_families": [
       "mechanical"
+    ]
+  },
+  {
+    "id": "ded4724a940fa73ebf1c2a16de36c1cf118274e5fdafeb15f37fc580c8d3f550",
+    "company_name": "Judi Health",
+    "title": "MBA Analytics Intern - Clinical Programs 🎓",
+    "location": "NYCDenver, CO",
+    "url": "https://job-boards.greenhouse.io/judihealth/jobs/5427074008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
