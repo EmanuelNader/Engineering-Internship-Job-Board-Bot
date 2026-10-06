@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1087 roles.
+1088 roles.
 
 - [Software Engineering](#software-engineering) (451)
 - [Product Management](#product-management) (26)
@@ -14,9 +14,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (196)
 - [Machine Learning](#machine-learning) (88)
 - [Civil and Structural](#civil-and-structural) (37)
-- [Mechanical Engineering](#mechanical-engineering) (100)
+- [Mechanical Engineering](#mechanical-engineering) (101)
 - [Electrical Engineering](#electrical-engineering) (100)
-- [Chemical Engineering](#chemical-engineering) (29)
+- [Chemical Engineering](#chemical-engineering) (30)
 - [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (10)
 
@@ -954,6 +954,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Winter-Spring-2027-_01871736) | Mechanical Design Engineering Co-op (Winter/Spring 2027) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Winter-Spring-2027-_01871736) | 0d |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01876132) | Manufacturing Engineering Co-Op (Spring/Summer 2027) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01876132) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Summer-Fall-2027-_01871739) | Mechanical Design Engineering Co-op (Summer/Fall 2027) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Summer-Fall-2027-_01871739) | 0d |
 | [🔥 Tesla](https://www.tesla.com/careers/search/job/285797?utm_source=Simplify&ref=Simplify) | Embedded Software Engineer Intern - Thermal Systems | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/285797?utm_source=Simplify&ref=Simplify) | 1d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420) | Mechanical Engineer Intern - Air Launched Effectors (2027 Summer) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420) | 1d |
@@ -1167,6 +1168,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01876132) | Manufacturing Engineering Co-Op (Spring/Summer 2027) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01876132) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937) | Manufacturing Engineering Co-Op (Spring 2027) (Onsite) | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937) | 1d |
 | [GD Mission Systems](https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job) | Manufacturing Engineering Intern | — | [Apply](https://careers-gdms.icims.com/jobs/74551/manufacturing-engineering-intern/job) | 2d |
 | [GD Mission Systems](https://careers-gdms.icims.com/jobs/75246/manufacturing-engineering-intern-%28secret-clearance-required%29/job) | Manufacturing Engineering Intern (Secret Clearance Required) | — | [Apply](https://careers-gdms.icims.com/jobs/75246/manufacturing-engineering-intern-%28secret-clearance-required%29/job) | 2d |
