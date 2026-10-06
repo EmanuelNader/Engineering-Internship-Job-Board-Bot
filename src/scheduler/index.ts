@@ -1,6 +1,7 @@
 import type { SourceAdapter, RawPosting } from "@/lib/types";
 import { prisma } from "@/db/client";
-import { detectLevel, detectRoleFamily, detectRoleTitles, dedupHash, contentHash, isUsLocation, atsUrlNeedle } from "@/lib/normalize";
+import { detectLevel, detectRoleFamily, detectRoleTitles, dedupHash, contentHash, titleCompanyHash, isUsLocation } from "@/lib/normalize";
+import { sameJobAlreadyStored } from "@/lib/same-job";
 import { filterEnabledRoleFamilies } from "@/config/roles.config";
 import { isFreshForDiscord, sortNewestFirst, startOfUtcDay } from "@/lib/freshness";
 import { resolveAtsPublishedAt } from "@/lib/ats-published-at";
@@ -72,16 +73,9 @@ export class SourcesManager {
         const roleTitles = detectRoleTitles(raw.title, roleFamilies, raw);
         const hash = dedupHash(adapter.name, raw.externalId ?? "", raw.title, raw.company);
         const contentHashValue = contentHash(raw.title, raw.company, raw.url);
+        const titleKey = titleCompanyHash(raw.title, raw.company);
 
-        // Check if this job content was already seen from another source
-        let existingByContent = await prisma.posting.findUnique({ where: { contentHash: contentHashValue } });
-        if (!existingByContent) {
-          const needle = atsUrlNeedle(raw.url);
-          if (needle) {
-            existingByContent = await prisma.posting.findFirst({ where: { url: { contains: needle } } });
-          }
-        }
-        if (existingByContent) {
+        if (await sameJobAlreadyStored(hash, contentHashValue, titleKey, raw.url)) {
           droppedDuplicate++;
           continue;
         }
@@ -107,6 +101,7 @@ export class SourcesManager {
             publishedAt,
             raw: raw.raw ? JSON.stringify(raw.raw) : null,
             postedAt: fresh ? null : new Date(),
+            titleKey,
           },
           update: {},
         });

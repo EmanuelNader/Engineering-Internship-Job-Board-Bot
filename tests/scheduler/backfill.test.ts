@@ -28,6 +28,7 @@ vi.mock("@/lib/normalize", () => ({
   detectRoleTitles: mockDetectRoleTitles,
   dedupHash: mockDedupHash,
   contentHash: mockContentHash,
+  titleCompanyHash: () => "title-key",
   isUsLocation: mockIsUsLocation,
   atsUrlNeedle: () => null,
 }));

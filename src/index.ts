@@ -12,6 +12,7 @@ import { Poster } from "@/poster/index";
 import { seedRecentPostings } from "@/poster/seed";
 import { ensureLiveSince } from "@/lib/live-since";
 import { createListingsSync, installListingsSync } from "@/listings/sync";
+import { rememberPostedJobs } from "@/poster/claim";
 
 const env = validateEnv();
 const listingsSync = createListingsSync({
@@ -39,6 +40,7 @@ async function startPosting(guildId: string) {
   if (postingStarted) return;
   postingStarted = true;
   try {
+    await rememberPostedJobs();
     const liveSince = await ensureLiveSince(guildId, new Date(), env.INITIAL_LOOKBACK_DAYS);
     console.log(`Only posting jobs published on or after ${liveSince.toISOString().slice(0, 10)}`);
 

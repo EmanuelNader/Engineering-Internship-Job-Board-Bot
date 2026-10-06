@@ -26,10 +26,18 @@ model Posting {
   postedAt       DateTime?
   raw          String?
   channelIds   String?
+  titleKey     String?
 
   @@index([sourceName])
   @@index([firstSeenAt])
   @@index([kind, roleFamily])
+  @@index([titleKey])
+}
+
+model PostingClaim {
+  titleKey   String   @id
+  dedupHash  String
+  claimedAt  DateTime @default(now())
 }
 
 model Source {

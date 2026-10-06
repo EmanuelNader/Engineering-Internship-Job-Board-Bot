@@ -332,8 +332,13 @@ export function dedupHash(
   return createHash("sha256").update(input).digest("hex");
 }
 
+export function titleCompanyHash(title: string, company: string): string {
+  const input = `${canonicalizeTitleForHash(title)}|${canonicalizeCompanyForHash(company)}`;
+  return createHash("sha256").update(input).digest("hex");
+}
+
 export function contentHash(title: string, company: string, url?: string): string {
   const atsKey = canonicalAtsJobKey(url);
-  const input = atsKey ?? `${canonicalizeTitleForHash(title)}|${canonicalizeCompanyForHash(company)}`;
-  return createHash("sha256").update(input).digest("hex");
+  if (atsKey) return createHash("sha256").update(atsKey).digest("hex");
+  return titleCompanyHash(title, company);
 }

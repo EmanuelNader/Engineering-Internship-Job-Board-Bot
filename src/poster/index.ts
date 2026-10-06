@@ -1,6 +1,7 @@
 import { Client, TextChannel } from "discord.js";
 import { prisma } from "@/db/client";
 import { buildPostingEmbed } from "./embed";
+import { claimDiscordSend, releaseDiscordClaim } from "./claim";
 import { filterEnabledRoleFamilies, getEnabledRoleFamilies } from "@/config/roles.config";
 
 interface PostingToSend {
@@ -83,6 +84,9 @@ export class Poster {
 
     if (channels.length === 0) return;
 
+    const claimed = await claimDiscordSend(prismaImpl, dedupHash, posting.title, posting.company);
+    if (!claimed) return;
+
     const embed = buildPostingEmbed(posting);
     const sentChannelIds: string[] = [];
 
@@ -116,18 +120,21 @@ export class Poster {
       }
     }
 
-    if (sentChannelIds.length > 0) {
-      try {
-        await prismaImpl.posting.update({
-          where: { dedupHash },
-          data: {
-            postedAt: new Date(),
-            channelIds: JSON.stringify(sentChannelIds),
-          },
-        });
-      } catch (err) {
-        console.error(`Failed to mark posting ${dedupHash} as posted:`, err);
-      }
+    if (sentChannelIds.length === 0) {
+      await releaseDiscordClaim(prismaImpl, dedupHash, posting.title, posting.company);
+      return;
+    }
+
+    try {
+      await prismaImpl.posting.update({
+        where: { dedupHash },
+        data: {
+          postedAt: new Date(),
+          channelIds: JSON.stringify(sentChannelIds),
+        },
+      });
+    } catch (err) {
+      console.error(`Failed to mark posting ${dedupHash} as posted:`, err);
     }
   }
 }

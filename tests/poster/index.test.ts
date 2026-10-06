@@ -3,14 +3,34 @@ import { describe, it, expect, vi, beforeEach, afterEach } from "vitest";
 const mockChannelSend = vi.hoisted(() => vi.fn());
 const mockFindMany = vi.hoisted(() => vi.fn());
 const mockUpdate = vi.hoisted(() => vi.fn());
+const mockUpdateMany = vi.hoisted(() => vi.fn(async () => ({ count: 1 })));
 const mockClientChannelsFetch = vi.hoisted(() => vi.fn());
+const mockClaimFind = vi.hoisted(() => vi.fn(async () => null));
+const mockClaimCreate = vi.hoisted(() => vi.fn(async () => ({ titleKey: "k" })));
+const mockPostingFind = vi.hoisted(() => vi.fn(async () => ({ postedAt: null })));
 
 vi.mock("@/db/client", () => ({
   prisma: {
     channelMap: { findMany: mockFindMany },
     posting: {
       update: mockUpdate,
+      updateMany: mockUpdateMany,
+      findUnique: mockPostingFind,
     },
+    postingClaim: {
+      findUnique: mockClaimFind,
+      create: mockClaimCreate,
+      delete: vi.fn(),
+    },
+    $transaction: async (fn: (tx: unknown) => Promise<unknown>) =>
+      fn({
+        postingClaim: { findUnique: mockClaimFind, create: mockClaimCreate },
+        posting: {
+          findUnique: mockPostingFind,
+          update: mockUpdate,
+          updateMany: mockUpdateMany,
+        },
+      }),
   },
 }));
 
@@ -38,6 +58,8 @@ describe("Poster", () => {
   beforeEach(() => {
     vi.clearAllMocks();
     mockClientChannelsFetch.mockReset();
+    mockClaimFind.mockResolvedValue(null);
+    mockPostingFind.mockResolvedValue({ postedAt: null });
 
     mockClient = {
       channels: { fetch: mockClientChannelsFetch },
@@ -160,5 +182,17 @@ describe("Poster", () => {
       where: { kind: "job", roleFamily: { in: ["swe"] } },
     });
     expect(mockChannelSend).toHaveBeenCalledOnce();
+  });
+
+  it("does not send when this company and title were already claimed", async () => {
+    mockFindMany.mockResolvedValue([
+      { kind: "job", roleFamily: "swe", channelId: "111" },
+    ]);
+    mockClaimFind.mockResolvedValue({ titleKey: "k", dedupHash: "other" });
+
+    await poster.send(samplePosting, "hash-dup");
+
+    expect(mockClientChannelsFetch).not.toHaveBeenCalled();
+    expect(mockChannelSend).not.toHaveBeenCalled();
   });
 });
