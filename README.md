@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1017 roles.
+1018 roles.
 
 - [Software Engineering](#software-engineering) (452)
 - [Product Management](#product-management) (25)
@@ -16,7 +16,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (78)
 - [Electrical Engineering](#electrical-engineering) (82)
-- [Chemical Engineering](#chemical-engineering) (16)
+- [Chemical Engineering](#chemical-engineering) (17)
 - [Aerospace Engineering](#aerospace-engineering) (27)
 - [Other](#other) (9)
 
@@ -1108,6 +1108,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Mechanical-Materials-Engineer-Intern_01880672) | Mechanical Materials Engineer Intern | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Mechanical-Materials-Engineer-Intern_01880672) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01876132) | Manufacturing Engineering Co-Op (Spring/Summer 2027) | US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01876132) | 0d |
 | [Marathon Petroleum](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Associate-Business-Systems-Analyst--Refining-Reliability-and-Maintenance--Intern-to-Full-Time-Conversion-_00024569) | Associate Business Systems Analyst, Refining Reliability and Maintenance (Intern to Full-Time Conversion) | Findlay, Ohio | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Associate-Business-Systems-Analyst--Refining-Reliability-and-Maintenance--Intern-to-Full-Time-Conversion-_00024569) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937) | Manufacturing Engineering Co-Op (Spring 2027) (Onsite) | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878937) | 1d |
