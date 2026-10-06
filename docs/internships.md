@@ -6,14 +6,14 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1078 roles.
+1079 roles.
 
 - [Software Engineering](#software-engineering) (449)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (87)
 - [Data Science](#data-science) (191)
 - [Machine Learning](#machine-learning) (86)
-- [Civil and Structural](#civil-and-structural) (36)
+- [Civil and Structural](#civil-and-structural) (37)
 - [Mechanical Engineering](#mechanical-engineering) (100)
 - [Electrical Engineering](#electrical-engineering) (100)
 - [Chemical Engineering](#chemical-engineering) (29)
@@ -900,6 +900,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [RS&H](https://careers-rsandh.icims.com/jobs/8340/civil-engineering-intern-%28airfields%29---year-round-2027/job) | Civil Engineering Intern (Airfields) - Year-Round 2027 | US-CA-Los Angeles | [Apply](https://careers-rsandh.icims.com/jobs/8340/civil-engineering-intern-%28airfields%29---year-round-2027/job) | 0d |
 | [CEC](https://careers-cecinc.icims.com/jobs/6590/transportation-civil-engineering-intern--summer-2027/job) | Transportation Civil Engineering Intern- Summer 2027 | US-OH-Mayfield Heights | [Apply](https://careers-cecinc.icims.com/jobs/6590/transportation-civil-engineering-intern--summer-2027/job) | 5d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineering-Co-Op--January-2027---Hybrid-_01875839) | Structural Engineering Co-Op (January 2027) (Hybrid) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineering-Co-Op--January-2027---Hybrid-_01875839) | 5d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineer-Co-Op--Summer-Fall-2027---Hybrid-_01873846) | Structural Engineer Co-Op (Summer/Fall 2027) (Hybrid) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineer-Co-Op--Summer-Fall-2027---Hybrid-_01873846) | 5d |
