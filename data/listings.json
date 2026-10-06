@@ -1,5 +1,18 @@
 [
   {
+    "id": "a8c4363e4c9814715205f333d515f0db12dc12d374bae5aba5d5c655424f142d",
+    "company_name": "Waymo",
+    "title": "2027 Summer Intern, MS, PhD, Software Engineer",
+    "location": "Mountain View, California, United States",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+    "date_posted": "2026-10-06T20:50:50.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "377f97df41c03a6eade2890e91c2e4560aeb5cfe8583f876981f8138106e9978",
     "company_name": "Lyft",
     "title": "Software Engineer Intern, Machine Learning, PhD only (Summer 2027)",
