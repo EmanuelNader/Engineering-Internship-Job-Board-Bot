@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1052 roles.
+1053 roles.
 
 - [Software Engineering](#software-engineering) (467)
 - [Product Management](#product-management) (26)
@@ -16,7 +16,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (79)
 - [Electrical Engineering](#electrical-engineering) (84)
-- [Chemical Engineering](#chemical-engineering) (20)
+- [Chemical Engineering](#chemical-engineering) (21)
 - [Aerospace Engineering](#aerospace-engineering) (27)
 - [Other](#other) (9)
 
@@ -1143,6 +1143,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Process-Engineer-Co-op---Adv-Degree--Gloucester--MA-_R2623409) | 2026 Process Engineer Co-op - Adv Degree (Gloucester, MA) | Gloucester,MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Process-Engineer-Co-op---Adv-Degree--Gloucester--MA-_R2623409) | 0d |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) | Materials Engineering Lab Co-Op (Summer/Fall 2027) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Materials-Engineering-Lab-Co-Op--Summer-Fall-2027-_01870992) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988) | Manufacturing Engineering Intern (Summer 2027) | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Mechanical-Materials-Engineer-Intern_01880672) | Mechanical Materials Engineer Intern | US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Mechanical-Materials-Engineer-Intern_01880672) | 1d |
 | [🔥 Tesla](https://www.tesla.com/careers/search/job/285641?utm_source=Simplify&ref=Simplify) | Process Engineer Intern - Dielectric Deposition | Austin, TX | [Apply](https://www.tesla.com/careers/search/job/285641?utm_source=Simplify&ref=Simplify) | 1d |
