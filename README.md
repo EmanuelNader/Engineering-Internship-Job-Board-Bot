@@ -6,19 +6,19 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1074 roles.
+1086 roles.
 
-- [Software Engineering](#software-engineering) (479)
+- [Software Engineering](#software-engineering) (482)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (95)
-- [Data Science](#data-science) (196)
-- [Machine Learning](#machine-learning) (93)
+- [Data Science](#data-science) (202)
+- [Machine Learning](#machine-learning) (95)
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (82)
 - [Electrical Engineering](#electrical-engineering) (89)
 - [Chemical Engineering](#chemical-engineering) (21)
 - [Aerospace Engineering](#aerospace-engineering) (27)
-- [Other](#other) (9)
+- [Other](#other) (10)
 
 ## Software Engineering
 
@@ -28,7 +28,10 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | --- | :---: |
 | [🔥 Amazon](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Embedded Systems | Redmond, WANorthridge, LA | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Winter-Spring-2027-_01871814) | Embedded Controls Hardware Co-Op (Winter/Spring 2027) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Winter-Spring-2027-_01871814) | 0d |
+| [State Affairs](https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Washington, DC | [Apply](https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009?utm_source=Simplify&ref=Simplify) | 0d |
+| [Illinois Tool Works](https://careers.itw.com/global/en/job/JR10491?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Application Software | Eden Prairie, MN | [Apply](https://careers.itw.com/global/en/job/JR10491?utm_source=Simplify&ref=Simplify) | 0d |
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Pittsburgh, PAColumbus, OHIrving, TX | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382?utm_source=Simplify&ref=Simplify) | 0d |
+| [Dow Jones](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | NYC | [Apply](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891?utm_source=Simplify&ref=Simplify) | 0d |
 | [S&C Electric Company](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Chicago, IL | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Summer-Fall-2027-_01872412) | Embedded Controls Hardware Co-Op (Summer/Fall 2027) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Summer-Fall-2027-_01872412) | 0d |
 | [Sigma Computing](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Summer 2027 | SFNYC | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | 0d |
@@ -647,9 +650,15 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [ICF International](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify) | Data Analytics Intern | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify) | 0d |
+| [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271?utm_source=Simplify&ref=Simplify) | Data Analytics Engineer Co-op | Bloomfield Hills, MIFramingham, MAAtlanta, GA | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271?utm_source=Simplify&ref=Simplify) | 0d |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | SF | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993?utm_source=Simplify&ref=Simplify) | 0d |
+| [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270?utm_source=Simplify&ref=Simplify) | Data Engineer Co-op | Bloomfield Hills, MIFramingham, MAAtlanta, GA | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270?utm_source=Simplify&ref=Simplify) | 0d |
 | [Clēnera](https://job-boards.greenhouse.io/clenera/jobs/5259423007?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Boise, ID | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259423007?utm_source=Simplify&ref=Simplify) | 0d |
 | [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35906?icims=1&utm_source=Simplify&ref=Simplify) | Outreach Analytics Intern | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35906?icims=1&utm_source=Simplify&ref=Simplify) | 0d |
+| [Dow Jones](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893?utm_source=Simplify&ref=Simplify) | Data Analyst Intern | NYC | [Apply](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893?utm_source=Simplify&ref=Simplify) | 0d |
+| [ICF International](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Remote in USAReston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380?utm_source=Simplify&ref=Simplify) | 0d |
+| [Apple Bank](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414?utm_source=Simplify&ref=Simplify) | IT Data Intern - Analytics, & Automation | NYC | [Apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414?utm_source=Simplify&ref=Simplify) | 0d |
 | [🔥 Meta](https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify) | Data Scientist Intern - Product Analytics | Menlo Park, CANYC | [Apply](https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify) | 1d |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906?utm_source=Simplify&ref=Simplify) | Market Analytics Graduate Intern | Pittsburgh, PA | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906?utm_source=Simplify&ref=Simplify) | 1d |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | Analytics Intern - Multiple Teams | NYC | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | 1d |
@@ -850,6 +859,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277?utm_source=Simplify&ref=Simplify) | Audio Machine Learning Intern Co-op 🎓 | Bloomfield Hills, MIFramingham, MAAtlanta, GA | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277?utm_source=Simplify&ref=Simplify) | 0d |
+| [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929?utm_source=Simplify&ref=Simplify) | GenAI & Machine Learning Intern | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929?utm_source=Simplify&ref=Simplify) | 0d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD only (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 1d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 1d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | PhD Software Engineer Intern, Machine Learning (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 1d |
@@ -1229,6 +1240,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1?utm_source=Simplify&ref=Simplify) | SCS Commercial Strategy & Growth Intern | Longmont, CO | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1?utm_source=Simplify&ref=Simplify) | 0d |
 | [Kimley-Horn](https://careers-kimley-horn.icims.com/jobs/26847/motion-design-intern/job) | Motion Design Intern | US-NC-Raleigh | [Apply](https://careers-kimley-horn.icims.com/jobs/26847/motion-design-intern/job) | 3d |
 | [Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) | Software Engineering Intern - UX/UI 2027 | Austin, TX | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) | 5d |
 | [Disney](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design---Licensed-Toys-Intern--Spring-2027_10160441) | Product Design - Licensed Toys Intern, Spring 2027 | Glendale, CA, USA | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design---Licensed-Toys-Intern--Spring-2027_10160441) | 5d |

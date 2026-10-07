@@ -41,6 +41,45 @@
     ]
   },
   {
+    "id": "09e7f947d688d98aace67c0aaeb1de55b81e1851b5df19bbb86d020c37226be8",
+    "company_name": "ICF International",
+    "title": "Data Analytics Intern",
+    "location": "Reston, VA",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "0ba38e8d5d5d5dd4e85c87073d32eb01f026aef053144de141ca3ac7ba406ca1",
+    "company_name": "Bose",
+    "title": "Data Analytics Engineer Co-op",
+    "location": "Bloomfield Hills, MIFramingham, MAAtlanta, GA",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "3197140fed3ba9e7303dd37a297046ca86ddf655abd27e4161110b60edd25533",
+    "company_name": "Bose",
+    "title": "Audio Machine Learning Intern Co-op 🎓",
+    "location": "Bloomfield Hills, MIFramingham, MAAtlanta, GA",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "3a5d8c5d7dc18169c2f986a918db27e392e9b76426bb48e8f5b0d543932d3548",
     "company_name": "Tenstorrent",
     "title": "Hardware Intern - Architecture - AI HW & System on a Chip",
@@ -106,6 +145,45 @@
     ]
   },
   {
+    "id": "6b2a270824ab04cdbbc53c73d19d2d9272dc95e6ba7d5124bd9f235e7b890245",
+    "company_name": "State Affairs",
+    "title": "Software Engineer Intern",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "7e9530a94a7aef23422f033d518a466d1b669f1807a74f94eee32305720e268e",
+    "company_name": "Illinois Tool Works",
+    "title": "Software Engineer Intern - Application Software",
+    "location": "Eden Prairie, MN",
+    "url": "https://careers.itw.com/global/en/job/JR10491?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "81a9b8d2fd60f0bed4c8d74b447f5776b9b1ed95a55ac5f08d4df0b701617ecb",
+    "company_name": "Bose",
+    "title": "Data Engineer Co-op",
+    "location": "Bloomfield Hills, MIFramingham, MAAtlanta, GA",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "81dc1532804d838aa19287ae27b2b1f8f8eaa6e9bcfd596bc58abf5237f15a0b",
     "company_name": "McKesson",
     "title": "Software Engineer Intern",
@@ -129,6 +207,19 @@
     "source": "workday",
     "role_families": [
       "mechanical"
+    ]
+  },
+  {
+    "id": "8e40a0aedf6794b8eba089d16b0c0b13c3d1539e620cc3564725edb64934795f",
+    "company_name": "Dow Jones",
+    "title": "Software Engineer Intern",
+    "location": "NYC",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -265,6 +356,45 @@
     ]
   },
   {
+    "id": "c4790c9cbf2da4a8e4f6b92e837b4494be3a75abdd1387507e8b0e9129cb3d1e",
+    "company_name": "Dow Jones",
+    "title": "Data Analyst Intern",
+    "location": "NYC",
+    "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "d023a137836421b4be4108fef27e0d243c95f26af71eb420f9c02c8b88dbc5b1",
+    "company_name": "GE Vernova",
+    "title": "SCS Commercial Strategy & Growth Intern",
+    "location": "Longmont, CO",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "other"
+    ]
+  },
+  {
+    "id": "da1b47d9bf902c97b47faf8e464941547319dcb330ec6eb32710b844c9f6b704",
+    "company_name": "Motorola",
+    "title": "GenAI & Machine Learning Intern",
+    "location": "Chicago, IL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "e273542fad03a4b0265aa3b26a2e1022caf1af6624b818278b9f2d6b8eeb0cba",
     "company_name": "Waymo",
     "title": "2027 Summer Intern - BS - Software Engineer - Model Eval",
@@ -275,6 +405,32 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "f44f29cb15ff8255f3a107c77f1d25280778fb506bad7b6afb27c6372c5ad1a5",
+    "company_name": "ICF International",
+    "title": "Data Engineer Intern",
+    "location": "Remote in USAReston, VA",
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "f71584a3080038972fda4ae906f399bda53253df03fdce06d8512cf2c3a00950",
+    "company_name": "Apple Bank",
+    "title": "IT Data Intern - Analytics, & Automation",
+    "location": "NYC",
+    "url": "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
