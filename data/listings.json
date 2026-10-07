@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "3a5d8c5d7dc18169c2f986a918db27e392e9b76426bb48e8f5b0d543932d3548",
+    "company_name": "Tenstorrent",
+    "title": "Hardware Intern - Architecture - AI HW & System on a Chip",
+    "location": "4 locationsBoston, MAAustin, TXSanta Clara, CAFort Collins, CO",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "544d7d55d3573d29cd539d5f5f80e8871a6ee322f55ec4ed5a1c878e8be5c617",
     "company_name": "Applied Materials",
     "title": "2026 Process Engineer Co-op - Adv Degree (Gloucester, MA)",
@@ -23,6 +36,19 @@
     "source": "workday",
     "role_families": [
       "chemical"
+    ]
+  },
+  {
+    "id": "58c1b0609d2fb0613025aa28062f192afea55f3e4a06e35b9f2bcbb6ab5c303f",
+    "company_name": "Tenstorrent",
+    "title": "Physical Design & DFT Intern",
+    "location": "4 locationsBoston, MAAustin, TXSanta Clara, CAFort Collins, CO",
+    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
     ]
   },
   {

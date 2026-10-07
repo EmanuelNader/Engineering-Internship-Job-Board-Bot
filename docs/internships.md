@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1047 roles.
+1049 roles.
 
 - [Software Engineering](#software-engineering) (466)
 - [Product Management](#product-management) (26)
-- [Hardware Engineering](#hardware-engineering) (89)
+- [Hardware Engineering](#hardware-engineering) (91)
 - [Data Science](#data-science) (194)
 - [Machine Learning](#machine-learning) (93)
 - [Civil and Structural](#civil-and-structural) (25)
@@ -532,6 +532,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007?utm_source=Simplify&ref=Simplify) | Hardware Intern - Architecture - AI HW & System on a Chip | 4 locationsBoston, MAAustin, TXSanta Clara, CAFort Collins, CO | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007?utm_source=Simplify&ref=Simplify) | 0d |
+| [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007?utm_source=Simplify&ref=Simplify) | Physical Design & DFT Intern | 4 locationsBoston, MAAustin, TXSanta Clara, CAFort Collins, CO | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007?utm_source=Simplify&ref=Simplify) | 0d |
 | [Rivian](https://careers.rivian.com/jobs/34059?icims=1&utm_source=Simplify&ref=Simplify) | Engineering Intern Co-op - AI/ML ASIC CAD 🎓 | Palo Alto, CA | [Apply](https://careers.rivian.com/jobs/34059?icims=1&utm_source=Simplify&ref=Simplify) | 1d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) | FPGA Engineering Intern (Summer 2027)(Onsite) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) | 1d |
 | [🔥 NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708?utm_source=Simplify&ref=Simplify) | PCIe Design Verification Intern | Austin, TX | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708?utm_source=Simplify&ref=Simplify) | 1d |
