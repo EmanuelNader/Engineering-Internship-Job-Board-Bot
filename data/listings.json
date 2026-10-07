@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "47c840a842ea602ec74a5954b94f7c0cc74e3ff31a84f5e169cc1c1f7848a9a2",
+    "company_name": "Garmin",
+    "title": "FPGA Engineer Intern",
+    "location": "Olathe, KS",
+    "url": "https://careers.garmin.com/jobs/19836?icims=1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "544d7d55d3573d29cd539d5f5f80e8871a6ee322f55ec4ed5a1c878e8be5c617",
     "company_name": "Applied Materials",
     "title": "2026 Process Engineer Co-op - Adv Degree (Gloucester, MA)",
@@ -62,6 +75,32 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "6691332dc11a27fe598cf3821de2422dcba810d3cfbffed082cee0284499c56b",
+    "company_name": "Mastercard",
+    "title": "Data Engineer Intern",
+    "location": "SF",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "81dc1532804d838aa19287ae27b2b1f8f8eaa6e9bcfd596bc58abf5237f15a0b",
+    "company_name": "McKesson",
+    "title": "Software Engineer Intern",
+    "location": "Pittsburgh, PAColumbus, OHIrving, TX",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -154,6 +193,19 @@
     "role_families": [
       "mechanical",
       "chemical"
+    ]
+  },
+  {
+    "id": "c04e9f211430173e83eddaa48d792e707fd8bcba42e36d12dc3abaa8de664d42",
+    "company_name": "First Citizens BancShares",
+    "title": "Outreach Analytics Intern",
+    "location": "Raleigh, NC",
+    "url": "https://firstcitizens.jibeapply.com/jobs/35906?icims=1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {

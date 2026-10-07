@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1068 roles.
+1072 roles.
 
-- [Software Engineering](#software-engineering) (476)
+- [Software Engineering](#software-engineering) (477)
 - [Product Management](#product-management) (26)
-- [Hardware Engineering](#hardware-engineering) (92)
-- [Data Science](#data-science) (194)
+- [Hardware Engineering](#hardware-engineering) (93)
+- [Data Science](#data-science) (196)
 - [Machine Learning](#machine-learning) (93)
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (82)
@@ -27,6 +27,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [🔥 Amazon](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Embedded Systems | Redmond, WANorthridge, LA | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) | 0d |
+| [McKesson](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Pittsburgh, PAColumbus, OHIrving, TX | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382?utm_source=Simplify&ref=Simplify) | 0d |
 | [S&C Electric Company](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Chicago, IL | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | 0d |
 | [Sigma Computing](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Summer 2027 | SFNYC | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | 0d |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8250220) | 2027 Summer Intern - MS - PhD - Software Engineer | Mountain View, CA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) | 0d |
@@ -543,6 +544,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007?utm_source=Simplify&ref=Simplify) | Hardware Intern - Architecture - AI HW & System on a Chip | 4 locationsBoston, MAAustin, TXSanta Clara, CAFort Collins, CO | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007?utm_source=Simplify&ref=Simplify) | 0d |
+| [Garmin](https://careers.garmin.com/jobs/19836?icims=1&utm_source=Simplify&ref=Simplify) | FPGA Engineer Intern | Olathe, KS | [Apply](https://careers.garmin.com/jobs/19836?icims=1&utm_source=Simplify&ref=Simplify) | 0d |
 | [Tenstorrent](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007?utm_source=Simplify&ref=Simplify) | Physical Design & DFT Intern | 4 locationsBoston, MAAustin, TXSanta Clara, CAFort Collins, CO | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007?utm_source=Simplify&ref=Simplify) | 0d |
 | [Rivian](https://careers.rivian.com/jobs/34059?icims=1&utm_source=Simplify&ref=Simplify) | Engineering Intern Co-op - AI/ML ASIC CAD 🎓 | Palo Alto, CA | [Apply](https://careers.rivian.com/jobs/34059?icims=1&utm_source=Simplify&ref=Simplify) | 1d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) | FPGA Engineering Intern (Summer 2027)(Onsite) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) | 1d |
@@ -641,7 +643,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | SF | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993?utm_source=Simplify&ref=Simplify) | 0d |
 | [Clēnera](https://job-boards.greenhouse.io/clenera/jobs/5259423007?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Boise, ID | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259423007?utm_source=Simplify&ref=Simplify) | 0d |
+| [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/35906?icims=1&utm_source=Simplify&ref=Simplify) | Outreach Analytics Intern | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/35906?icims=1&utm_source=Simplify&ref=Simplify) | 0d |
 | [🔥 Meta](https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify) | Data Scientist Intern - Product Analytics | Menlo Park, CANYC | [Apply](https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify) | 1d |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906?utm_source=Simplify&ref=Simplify) | Market Analytics Graduate Intern | Pittsburgh, PA | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906?utm_source=Simplify&ref=Simplify) | 1d |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | Analytics Intern - Multiple Teams | NYC | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | 1d |
