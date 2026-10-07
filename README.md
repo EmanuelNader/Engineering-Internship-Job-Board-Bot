@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1042 roles.
+1044 roles.
 
-- [Software Engineering](#software-engineering) (464)
+- [Software Engineering](#software-engineering) (465)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (89)
-- [Data Science](#data-science) (192)
+- [Data Science](#data-science) (193)
 - [Machine Learning](#machine-learning) (93)
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (78)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [🔥 Amazon](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Embedded Systems | Redmond, WANorthridge, LA | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) | 0d |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257660) | 2027 Summer Intern, BS, Software Engineer, Model Eval | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) | 1d |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8250220) | 2027 Summer Intern, MS, PhD, Software Engineer | Mountain View, California, United States | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) | 1d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD only (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 1d |
@@ -626,6 +627,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [Clēnera](https://job-boards.greenhouse.io/clenera/jobs/5259423007?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Boise, ID | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259423007?utm_source=Simplify&ref=Simplify) | 0d |
 | [🔥 Meta](https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify) | Data Scientist Intern - Product Analytics | Menlo Park, CANYC | [Apply](https://www.metacareers.com/jobs/1633096478817942?utm_source=Simplify&ref=Simplify) | 1d |
 | [Macy's](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | Analytics Intern - Multiple Teams | NYC | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389?utm_source=Simplify&ref=Simplify) | 1d |
 | [Kyndryl](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403?utm_source=Simplify&ref=Simplify) | Marketing Intern - Marketing Analytics | NYC | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403?utm_source=Simplify&ref=Simplify) | 1d |

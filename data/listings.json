@@ -1,5 +1,18 @@
 [
   {
+    "id": "064e06b18757067db883d0b2310781dd10a97511c3f56fe6d7cd5dc9649fe11c",
+    "company_name": "🔥 Amazon",
+    "title": "Software Engineer Intern - Embedded Systems",
+    "location": "Redmond, WANorthridge, LA",
+    "url": "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "544d7d55d3573d29cd539d5f5f80e8871a6ee322f55ec4ed5a1c878e8be5c617",
     "company_name": "Applied Materials",
     "title": "2026 Process Engineer Co-op - Adv Degree (Gloucester, MA)",
@@ -10,6 +23,19 @@
     "source": "workday",
     "role_families": [
       "chemical"
+    ]
+  },
+  {
+    "id": "b190e3d1a1eb3ae6c06e6a0134c32523e5c7e4dac196f407c48fc50eff2a25cc",
+    "company_name": "Clēnera",
+    "title": "Data Engineer Intern",
+    "location": "Boise, ID",
+    "url": "https://job-boards.greenhouse.io/clenera/jobs/5259423007?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
