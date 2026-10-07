@@ -26,6 +26,21 @@
     ]
   },
   {
+    "id": "07857918f002ce8ee8948968abe54151a023d81bb1c93c8317ce08c88efe1ea4",
+    "company_name": "RTX",
+    "title": "Embedded Controls Hardware Co-Op (Winter/Spring 2027)",
+    "location": "US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Winter-Spring-2027-_01871814",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "swe",
+      "hardware",
+      "electrical"
+    ]
+  },
+  {
     "id": "3a5d8c5d7dc18169c2f986a918db27e392e9b76426bb48e8f5b0d543932d3548",
     "company_name": "Tenstorrent",
     "title": "Hardware Intern - Architecture - AI HW & System on a Chip",
