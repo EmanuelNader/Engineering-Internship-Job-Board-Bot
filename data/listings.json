@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "8f34715026d1b7f6e3414690c483cd2291e4d2261c7bc0b6c0849c08d15b2cda",
+    "company_name": "S&C Electric Company",
+    "title": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "9ee231f5ef399225b48204981f3684f0980b83e3f8a9f2f1c109b8b6b1766592",
     "company_name": "North Atlantic Industries",
     "title": "Electrical Engineer Qualification Test Intern",

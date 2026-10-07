@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1051 roles.
+1052 roles.
 
-- [Software Engineering](#software-engineering) (466)
+- [Software Engineering](#software-engineering) (467)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (92)
 - [Data Science](#data-science) (194)
@@ -27,6 +27,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [🔥 Amazon](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Embedded Systems | Redmond, WANorthridge, LA | [Apply](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa?utm_source=Simplify&ref=Simplify) | 0d |
+| [S&C Electric Company](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Chicago, IL | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | 0d |
 | [Sigma Computing](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Summer 2027 | SFNYC | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | 0d |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257660) | 2027 Summer Intern, BS, Software Engineer, Model Eval | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) | 1d |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8250220) | 2027 Summer Intern, MS, PhD, Software Engineer | Mountain View, California, United States | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) | 1d |
