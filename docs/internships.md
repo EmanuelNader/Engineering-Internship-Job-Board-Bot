@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1049 roles.
+1050 roles.
 
 - [Software Engineering](#software-engineering) (466)
 - [Product Management](#product-management) (26)
-- [Hardware Engineering](#hardware-engineering) (91)
+- [Hardware Engineering](#hardware-engineering) (92)
 - [Data Science](#data-science) (194)
 - [Machine Learning](#machine-learning) (93)
 - [Civil and Structural](#civil-and-structural) (25)
@@ -584,6 +584,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4716087006) | Software Defined Radio Hardware Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716087006) | 2w |
 | [IMC](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | Hardware Machine Learning PhD Research Internship | Chicago, United States | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | 2w |
 | [🔥 AMD](https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify) | Applied Artificial Intelligence Engineering Intern - Hardware AI 🎓 | Santa Clara, CA | [Apply](https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify) | 2w |
+| [Marvell](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1?utm_source=Simplify&ref=Simplify) | Security Verification/Validation Engineer Intern | Chandler, AZ | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1?utm_source=Simplify&ref=Simplify) | 2w |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4707012006) | Hardware Test Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4707012006) | 2w |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686?utm_source=Simplify&ref=Simplify) | Verification Engineer Intern | Atlanta, GA | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686?utm_source=Simplify&ref=Simplify) | 2w |
 | [Two Sigma](https://twosigma.avature.net/careers/JobDetail/14289?utm_source=Simplify&ref=Simplify) | Hardware Engineering Intern | NYC | [Apply](https://twosigma.avature.net/careers/JobDetail/14289?utm_source=Simplify&ref=Simplify) | 2w |
