@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1067 roles.
+1068 roles.
 
 - [Software Engineering](#software-engineering) (476)
 - [Product Management](#product-management) (26)
@@ -14,7 +14,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (194)
 - [Machine Learning](#machine-learning) (93)
 - [Civil and Structural](#civil-and-structural) (25)
-- [Mechanical Engineering](#mechanical-engineering) (81)
+- [Mechanical Engineering](#mechanical-engineering) (82)
 - [Electrical Engineering](#electrical-engineering) (87)
 - [Chemical Engineering](#chemical-engineering) (21)
 - [Aerospace Engineering](#aerospace-engineering) (27)
@@ -975,6 +975,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288) | Manufacturing Project Specialist Intern (Summer 2027) | US-IA-CEDAR RAPIDS-119 ~ 400 Collins Rd NE ~ BLDG 119 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288) | 0d |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133) | Military Engines Repair Design Engineer Intern (Summer 2027) (Onsite) | US-OK-OKLAHOMA CITY-8120SC ~ 8120 S Air Depot Blvd ~ SUSTAINMENT CTR, Dock 18 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988) | Manufacturing Engineering Intern (Summer 2027) | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988) | 0d |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Winter-Spring-2027-_01871736) | Mechanical Design Engineering Co-op (Winter/Spring 2027) | US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Mechanical-Design-Engineering-Co-op--Winter-Spring-2027-_01871736) | 1d |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886) | Undergrad Co-op - Interactive Developer / Immersive Course Programmer for Manufacturing | USA +2 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886) | 1d |
