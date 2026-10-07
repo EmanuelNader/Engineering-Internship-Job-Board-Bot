@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "9ee231f5ef399225b48204981f3684f0980b83e3f8a9f2f1c109b8b6b1766592",
+    "company_name": "North Atlantic Industries",
+    "title": "Electrical Engineer Qualification Test Intern",
+    "location": "Bohemia, NY",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4566437?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "b190e3d1a1eb3ae6c06e6a0134c32523e5c7e4dac196f407c48fc50eff2a25cc",
     "company_name": "Clēnera",
     "title": "Data Engineer Intern",
@@ -36,6 +49,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "c2bc13739846747baa862fd59c2e24790138f4013ea65f933cdf2ab05c56e89e",
+    "company_name": "Sigma Computing",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "SFNYC",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -235,6 +261,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "1e81f6c1978035564969ebbb27bfd7196aa54c7c07d2185fb0a893f39afa0032",
+    "company_name": "Highmark Health",
+    "title": "Market Analytics Graduate Intern",
+    "location": "Pittsburgh, PA",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
