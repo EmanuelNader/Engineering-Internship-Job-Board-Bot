@@ -157,6 +157,32 @@
     ]
   },
   {
+    "id": "c3f649f8eeab2bad72667c7e626fdcd08e80eb4c842dade228371d4a759ae19e",
+    "company_name": "Waymo",
+    "title": "2027 Summer Intern - MS - PhD - Software Engineer",
+    "location": "Mountain View, CA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "e273542fad03a4b0265aa3b26a2e1022caf1af6624b818278b9f2d6b8eeb0cba",
+    "company_name": "Waymo",
+    "title": "2027 Summer Intern - BS - Software Engineer - Model Eval",
+    "location": "Mountain View, CA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+    "date_posted": "2026-10-07T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f8fa2e89b29bab1dfcf815c51c73a55c0b0a13f8be5f49bd81ff6e70e3125d6f",
     "company_name": "RTX",
     "title": "Power Electrical Engineer Intern (Summer 2027) - Onsite",
@@ -291,6 +317,19 @@
     ]
   },
   {
+    "id": "077f46e4e8b364cb58b8266161715be4b066a447c2f8bafddb689f4105bb4bb9",
+    "company_name": "Cook Medical",
+    "title": "Intern - Applied AI & Full Stack Development",
+    "location": "Bloomington, IN",
+    "url": "https://americas-cookmedical.icims.com/jobs/19550/intern%2c-applied-ai-%26-full-stack-development/job",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "0d733fcafb52b7faf4f27ec50f53eb1c543a1dd3374bd8488fbff58d790cdb05",
     "company_name": "Alliance Laundry Systems",
     "title": "Embedded Firmware Co-op",
@@ -395,6 +434,19 @@
     ]
   },
   {
+    "id": "2135baf9aa9dfc93aa881f96b69215db51f42de906fa0402d3158f03e578c83f",
+    "company_name": "Entrust",
+    "title": "Software Engineer Co-op",
+    "location": "Shakopee, MN",
+    "url": "https://entrust.wd1.myworkdayjobs.com/en-US/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "2b07c4c508cc8e9d75a89ae4f156ccfb05ed75eab27662ac95f80b34975744c0",
     "company_name": "Moog",
     "title": "Electrical Engineer Intern",
@@ -418,6 +470,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "38f099f4b7823749d9aa304c1f00951444ae4fa680f76e9e9216e172bef2fa79",
+    "company_name": "Amazon",
+    "title": "Software Development Engineer - Embedded Systems Intern - Amazon Leo - Summer 2027 - USA",
+    "location": "Redmond, WA",
+    "url": "https://www.amazon.jobs/jobs/10571374/apply",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -499,6 +564,19 @@
     ]
   },
   {
+    "id": "6aa962857b07bef64806fd72da0a89fa85d246bf65d65d951e11e7c90e24cef5",
+    "company_name": "Philips",
+    "title": "Co-op - Software Engineer - R&D - Cambridge - MA - January - August 2027",
+    "location": "Cambridge, MA",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "6e6bb2bf401bdb0297a401dafb4a4cda159c449548dab1000a3f6a87e8a9441f",
     "company_name": "Kyndryl",
     "title": "Marketing Intern - Marketing Analytics",
@@ -509,6 +587,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "7124876b21eaf8ad0ee9dfc9c9f2273553d102b0e8d2347bb6df908c78afd439",
+    "company_name": "Raytheon",
+    "title": "Software Engineer Co-op - January 2027",
+    "location": "Marlborough, MA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -577,6 +668,19 @@
     ]
   },
   {
+    "id": "960fcc430c145d7bcd02b2c9e0000fbcb0827c1c22d97e666bcf5416d543ec0c",
+    "company_name": "Rockwell Automation",
+    "title": "Intern - Firmware and Software Test Development",
+    "location": "Mequon, WI",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "98efbc44408e3923d3b29aa80ef5e178847c78b721654c92cabaeeb5dc445955",
     "company_name": "Northwestern Mutual",
     "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics 🎓",
@@ -600,6 +704,19 @@
     "source": "workday",
     "role_families": [
       "chemical"
+    ]
+  },
+  {
+    "id": "a9aec6d5488fa98a08c95d005fde9e850974916d60dd00a6af4c034f8b0c4dee",
+    "company_name": "Amgen",
+    "title": "Undergrad Co-op - Interactive Developer / Immersive Course Programmer for Manufacturing",
+    "location": "USA +2",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "mechanical"
     ]
   },
   {
@@ -642,6 +759,19 @@
     ]
   },
   {
+    "id": "b813c15bd2cbee00421d3fbd33875b7fbb59c1715932bf131f118813694b712e",
+    "company_name": "AeroVironment",
+    "title": "Hypersonic RF Software Engineering Intern",
+    "location": "Germantown, MD",
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "d7a55da8d9de44da9ba60e162400eb18a2c5a820f5d9e98a8f565868dcae1b8d",
     "company_name": "Nokia",
     "title": "ASIC Physical Design Co-op",
@@ -652,6 +782,19 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "d8461239affdcece9941b9fbbf1b166b35f4a2dc5f96106b661d30dc11e635a4",
+    "company_name": "Amazon",
+    "title": "Software Development Engineer Intern - Mobile- iOS/Android - Summer 2027 - USA",
+    "location": "Seattle, WA",
+    "url": "https://www.amazon.jobs/jobs/10571004/apply",
+    "date_posted": "2026-10-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
