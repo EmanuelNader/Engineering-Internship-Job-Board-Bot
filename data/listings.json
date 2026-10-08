@@ -1,5 +1,44 @@
 [
   {
+    "id": "31a8e7022200db10398c32db89c2171e1ff31f42217cb5a93a1e6d3308a81359",
+    "company_name": "RTX",
+    "title": "Co-Op, Software Engineer- Onsite",
+    "location": "US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE ~ BLDG 109",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298",
+    "date_posted": "2026-10-08T07:26:07.235Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "ed8baef875723256f02e8397869d6209ad71ad3b2c6d649cfee4e0a200c6c11f",
+    "company_name": "RTX",
+    "title": "Software Engineer Co-Op - Onsite",
+    "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478",
+    "date_posted": "2026-10-08T07:26:05.223Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "8270a7ecfcc87554f05a5b6ba48b628e271894ea3a44818e35009da5c01dbe9a",
+    "company_name": "RTX",
+    "title": "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
+    "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
+    "date_posted": "2026-10-08T07:26:03.210Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "6a84da0066114119f3cbd93d1a9ab738a15375c60067258ba76ae58c1bd912fd",
     "company_name": "🔥 Tesla",
     "title": "Data Analyst Intern - People Products",
