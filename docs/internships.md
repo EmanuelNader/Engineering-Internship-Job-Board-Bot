@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1089 roles.
+1090 roles.
 
 - [Software Engineering](#software-engineering) (482)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (95)
-- [Data Science](#data-science) (203)
+- [Data Science](#data-science) (204)
 - [Machine Learning](#machine-learning) (96)
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (82)
@@ -650,6 +650,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [🔥 Tesla](https://www.tesla.com/careers/search/job/286085?utm_source=Simplify&ref=Simplify) | Data Analyst Intern - People Products | Palo Alto, CAAustin, TX | [Apply](https://www.tesla.com/careers/search/job/286085?utm_source=Simplify&ref=Simplify) | 0d |
 | [🔥 Amazon](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Seattle, WA | [Apply](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify) | 0d |
 | [ICF International](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify) | Data Analytics Intern | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify) | 1d |
 | [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271?utm_source=Simplify&ref=Simplify) | Data Analytics Engineer Co-op | Bloomfield Hills, MIFramingham, MAAtlanta, GA | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271?utm_source=Simplify&ref=Simplify) | 1d |
