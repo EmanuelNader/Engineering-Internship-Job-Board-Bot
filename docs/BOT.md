@@ -1,12 +1,21 @@
 # How the bot works
 
-[Job list](../README.md) · [What it scrapes](SOURCES.md)
+[Job list](../README.md) · [What it scrapes](SOURCES.md) · [Add to Discord](https://discord.com/oauth2/authorize?client_id=1531088961387237477&permissions=2416004176&scope=bot%20applications.commands)
 
-Self-hosted Discord bot that watches public intern lists and company career pages, keeps **US intern / co-op / fellowship** roles, and posts each new listing into a role-family channel (SWE, PM, Hardware, Data, ML, Civil/Structural, Mechanical, Electrical, Chemical, Aerospace, Other). Members react on the `/onboard` panel (or use `/role`) to get pinged.
+Public Discord bot that watches public intern lists and company career pages, keeps **US intern / co-op / fellowship** roles, and posts each new listing into the role-family channels that server chose (SWE, PM, Hardware, Data, ML, Civil/Structural, Mechanical, Electrical, Chemical, Aerospace, Other). Members react on the `/onboard` panel (or use `/role`) to get pinged.
 
-This is **not** a public bot you invite from a directory. Clone the repo, create your own Discord application, and run it on a machine that stays on.
+[Add it to a server](https://discord.com/oauth2/authorize?client_id=1531088961387237477&permissions=2416004176&scope=bot%20applications.commands). An admin then runs `/onboard`. Joining does not create channels or post old jobs.
 
-It posts into the Discord server where you run `/setup`. Slash commands are registered on every server the bot is in. Each posted role is also added to the [job list](../README.md).
+`/onboard` is private to that admin:
+
+1. Choose which family channels to create. `#job-board` is always created. Listings never post there.
+2. Choose which of those to fill. **Create and fill** fills the ones you leave selected. **Create without filling** leaves them empty until a new internship shows up.
+
+A new server is filled from the **last 7 days**, **oldest first, newest last**. Only United States locations are included. The same apply link, or the same company and cleaned title, is not posted twice in that server. A role that fits two families posts only in the channels that server turned on. Another server can still receive it.
+
+Each posted role is also added to the [job list](../README.md).
+
+The rest of this page is for running your own copy. The hosted bot is the invite link above.
 
 ## What you need
 
@@ -36,9 +45,7 @@ cp .env.example .env
 docker compose up -d --build
 ```
 
-Invite the bot **before** the first start. Joining does **not** create channels. Run **`/onboard`** anywhere in the server (Administrator). That creates `#job-board` plus the family channels and ping roles if missing, posts the reaction panel in `#job-board` (not in `#general`), and adds family emoji reactions.
-
-On first join the bot posts US intern listings from the **last 7 days** (rate-limited ~1 / 2s), then only newer ones after that. Set `INITIAL_LOOKBACK_DAYS=0` to start from today only.
+Invite the bot **before** the first start. Joining does **not** create channels. An admin runs **`/onboard`**, picks which channels to create, then which of those to fill. Fill for a new server is US internships from the **last 7 days**, oldest first. The reaction panel is posted in `#job-board`, not in `#general`.
 
 Use `BACKFILL=true` only if you want an extra first-boot seed pass, then set it back to `false` and restart. Compose stores SQLite in the `intern-board-data` volume — do not point `DATABASE_URL` at your laptop `prisma/dev.db`.
 
@@ -58,11 +65,11 @@ npm run dev
 
 | Command | Who | What |
 | --- | --- | --- |
-| `/onboard` | Admin | Create `#job-board` + family channels/roles, post the reaction panel in `#job-board` |
+| `/onboard` | Admin | Choose which channels to create and which to fill, then post the reaction panel in `#job-board` |
 | `/role` `/unrole` | Anyone | Join or leave a family ping role |
 | `/status` | Anyone | Adapter health |
 | `/ping` | Anyone | Liveness |
-| `/setup` `/linkchannel` | Admin | Repair provisioning / remap a channel |
+| `/setup` `/linkchannel` | Admin | Repair the channels this server already chose / remap one channel |
 | `/settings` | Admin | Show which families are on and which channel they use |
 
 ## Config

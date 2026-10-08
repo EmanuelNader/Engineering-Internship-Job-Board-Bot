@@ -22,7 +22,7 @@ export function buildSettingsEmbed(): EmbedBuilder {
     .setColor(0x5865f2)
     .setDescription([`Overview: \`#${OVERVIEW_CHANNEL_NAME}\``, "", ...lines].join("\n"))
     .setFooter({
-      text: "Flip enabled in src/config/roles.config.ts, rebuild, then /setup. Join does not create channels.",
+      text: "Run /onboard to choose which of these channels this server creates and fills.",
     });
 }
 

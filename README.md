@@ -2,7 +2,7 @@
 
 US intern, co-op, and fellowship roles posted to Discord. This page is generated. Do not edit it by hand.
 
-[What it scrapes](docs/SOURCES.md) · [How the bot works](docs/BOT.md)
+[Add to Discord](https://discord.com/oauth2/authorize?client_id=1531088961387237477&permissions=2416004176&scope=bot%20applications.commands) · [What it scrapes](docs/SOURCES.md) · [How the bot works](docs/BOT.md)
 
 ## Browse by category
 

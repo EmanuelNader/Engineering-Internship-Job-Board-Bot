@@ -12,6 +12,6 @@ describe("settings embed", () => {
     expect(embed.description).toMatch(/`on`/);
     expect(embed.description).not.toContain("#design-jobs");
     expect(embed.description).not.toContain("#growth-jobs");
-    expect(embed.footer?.text).toMatch(/roles\.config\.ts/);
+    expect(embed.footer?.text).toMatch(/\/onboard/);
   });
 });

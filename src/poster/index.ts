@@ -109,6 +109,7 @@ export class Poster {
 
     const embed = buildPostingEmbed(posting);
     let anyFailed = false;
+    let paced = false;
 
     for (const guildId of readyGuilds) {
       const liveSince = liveByGuild.get(guildId);
@@ -132,6 +133,8 @@ export class Poster {
       let sent = 0;
       for (const ch of pending) {
         try {
+          if (paced) await new Promise((resolve) => setTimeout(resolve, 1000));
+          paced = true;
           let channel = this.channelCache.get(ch.channelId);
           if (!channel) {
             const fetched = await this.client.channels.fetch(ch.channelId);

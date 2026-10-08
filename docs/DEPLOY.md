@@ -62,7 +62,7 @@ git pull
 docker compose up -d --build
 ```
 
-If the pull changes channels or ping families, an admin must run **`/setup`** then **`/onboard`**. `/setup` creates new channels and ping roles; it does **not** delete leftover `#engineering-jobs`, `#design-jobs`, `#growth-jobs`, or `@Engineering` / `@Design` / `@Growth` — remove those in Discord if you no longer want them. Re-run `/onboard` so the reaction panel lists the new emojis, then drag the **job board** role above the new ping roles.
+If the pull changes channels or ping families, an admin runs **`/onboard`** and picks the channels again. `/setup` only repairs channels that server already chose. It does **not** delete leftover `#engineering-jobs`, `#design-jobs`, `#growth-jobs`, or `@Engineering` / `@Design` / `@Growth` — remove those in Discord if you no longer want them. Drag the **job board** role above the ping roles.
 
 Turn families on or off with `enabled` in `src/config/roles.config.ts` (same idea as adapter `enabled`). In Discord, **`/settings`** lists those values. `LISTINGS_REPO` is optional; leave it empty to skip committing the public internship list.
 
