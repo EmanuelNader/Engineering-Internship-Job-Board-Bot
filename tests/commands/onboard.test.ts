@@ -18,10 +18,16 @@ vi.mock("@/db/client", () => ({
       upsert: mockOnboardUpsert,
       findUnique: mockOnboardFindUnique,
     },
+    channelMap: { deleteMany: vi.fn() },
+    guildState: {
+      findUnique: vi.fn(async () => null),
+      create: vi.fn(async () => ({})),
+    },
   },
 }));
 
-import { buildOnboardEmbed, handleOnboard } from "@/commands/onboard";
+import { buildOnboardEmbed, applyOnboardChoices, handleOnboard } from "@/commands/onboard";
+import { createStepContent, fillStepContent } from "@/commands/onboard-picker";
 import { familyForEmoji, handleOnboardReaction } from "@/commands/onboard-reactions";
 
 describe("onboard embed", () => {
@@ -44,34 +50,54 @@ describe("onboard embed", () => {
   });
 });
 
+describe("onboard picker copy", () => {
+  it("asks which channels to create and how far fill goes", () => {
+    expect(createStepContent()).toContain("#job-board");
+    expect(createStepContent()).toContain("UX, product design");
+    expect(createStepContent()).not.toContain("Theta Tau");
+    expect(fillStepContent(["mechanical"])).toContain("last 7 days");
+    expect(fillStepContent(["mechanical"])).toContain("oldest first");
+    expect(fillStepContent(["mechanical"])).toContain("#mechanical-jobs");
+    expect(fillStepContent(["mechanical"])).not.toContain("September");
+  });
+});
+
 describe("handleOnboard", () => {
   beforeEach(() => vi.clearAllMocks());
 
-  it("creates channels then posts a reaction panel", async () => {
-    const react = vi.fn();
-    const overviewSend = vi.fn().mockResolvedValue({ id: "msg_1", react });
-    mockEnsureGuildSetup.mockResolvedValue({ id: "overview_1", send: overviewSend });
-    mockOnboardFindUnique.mockResolvedValue(null);
-    const send = vi.fn();
-    const editReply = vi.fn();
+  it("asks which channels to create before making any", async () => {
+    const reply = vi.fn();
     const interaction = {
-      deferReply: vi.fn().mockResolvedValue(undefined),
-      editReply,
+      reply,
       guildId: "guild_1",
-      guild: { id: "guild_1", channels: { fetch: vi.fn() } },
-      client: {},
-      channel: {
-        isTextBased: () => true,
-        isDMBased: () => false,
-        send,
-        id: "general_1",
-      },
+      guild: { id: "guild_1" },
+      user: { id: "admin_1" },
+      memberPermissions: { has: () => true },
     } as any;
 
     await handleOnboard(interaction);
 
-    expect(mockEnsureGuildSetup).toHaveBeenCalledWith(interaction.guild);
-    expect(send).not.toHaveBeenCalled();
+    expect(mockEnsureGuildSetup).not.toHaveBeenCalled();
+    expect(reply).toHaveBeenCalledWith(expect.objectContaining({
+      ephemeral: true,
+      content: expect.stringContaining("Which channels should I create?"),
+    }));
+  });
+});
+
+describe("applyOnboardChoices", () => {
+  beforeEach(() => vi.clearAllMocks());
+
+  it("creates the picked channels then posts a reaction panel", async () => {
+    const react = vi.fn();
+    const overviewSend = vi.fn().mockResolvedValue({ id: "msg_1", react });
+    mockEnsureGuildSetup.mockResolvedValue({ id: "overview_1", send: overviewSend });
+    mockOnboardFindUnique.mockResolvedValue(null);
+    const guild = { id: "guild_1", channels: { fetch: vi.fn() } } as any;
+
+    await applyOnboardChoices(guild, {} as any, ["mechanical", "swe"], ["mechanical"]);
+
+    expect(mockEnsureGuildSetup).toHaveBeenCalledWith(guild, ["mechanical", "swe"]);
     expect(overviewSend).toHaveBeenCalled();
     expect(react).toHaveBeenCalled();
     expect(mockOnboardUpsert).toHaveBeenCalledWith(
@@ -80,9 +106,6 @@ describe("handleOnboard", () => {
         create: expect.objectContaining({ messageId: "msg_1", channelId: "overview_1" }),
       })
     );
-    expect(editReply).toHaveBeenCalledWith(expect.objectContaining({
-      content: expect.stringContaining("overview_1"),
-    }));
   });
 
   it("deletes a leftover panel in #general before posting in #job-board", async () => {
@@ -95,24 +118,19 @@ describe("handleOnboard", () => {
       channelId: "general_1",
       messageId: "old_msg",
     });
-    const interaction = {
-      deferReply: vi.fn().mockResolvedValue(undefined),
-      editReply: vi.fn(),
-      guildId: "guild_1",
-      guild: {
-        id: "guild_1",
-        channels: {
-          fetch: vi.fn().mockResolvedValue({
-            isTextBased: () => true,
-            messages: {
-              fetch: vi.fn().mockResolvedValue({ delete: deleteOld }),
-            },
-          }),
-        },
+    const guild = {
+      id: "guild_1",
+      channels: {
+        fetch: vi.fn().mockResolvedValue({
+          isTextBased: () => true,
+          messages: {
+            fetch: vi.fn().mockResolvedValue({ delete: deleteOld }),
+          },
+        }),
       },
     } as any;
 
-    await handleOnboard(interaction);
+    await applyOnboardChoices(guild, {} as any, ["swe"], []);
 
     expect(deleteOld).toHaveBeenCalled();
     expect(overviewSend).toHaveBeenCalled();

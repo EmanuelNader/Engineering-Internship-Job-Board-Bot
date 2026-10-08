@@ -1,8 +1,9 @@
 import { Guild, TextChannel } from "discord.js";
 import { getEnabledRoleFamilies, OVERVIEW_CHANNEL_NAME } from "@/config/roles.config";
 import { prisma } from "@/db/client";
+import type { RoleFamily } from "@/lib/types";
 
-export async function ensureGuildSetup(guild: Guild): Promise<TextChannel> {
+export async function ensureGuildSetup(guild: Guild, onlyFamilies?: RoleFamily[]): Promise<TextChannel> {
   const existingChannels = await guild.channels.fetch();
   const existingRoles = await guild.roles.fetch();
 
@@ -19,7 +20,9 @@ export async function ensureGuildSetup(guild: Guild): Promise<TextChannel> {
     throw new Error(`#${OVERVIEW_CHANNEL_NAME} exists but is not a text channel.`);
   }
 
+  const chosen = new Set(onlyFamilies ?? getEnabledRoleFamilies().map((family) => family.family));
   for (const family of getEnabledRoleFamilies()) {
+    if (!chosen.has(family.family)) continue;
     const channelName = family.channelName;
     let channel = existingChannels.find((c) => c?.name === channelName);
 
@@ -32,8 +35,11 @@ export async function ensureGuildSetup(guild: Guild): Promise<TextChannel> {
     }
 
     await prisma.channelMap.upsert({
-      where: { kind_roleFamily: { kind: "job", roleFamily: family.family } },
+      where: {
+        guildId_kind_roleFamily: { guildId: guild.id, kind: "job", roleFamily: family.family },
+      },
       create: {
+        guildId: guild.id,
         kind: "job",
         roleFamily: family.family,
         channelId: channel.id,

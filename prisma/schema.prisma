@@ -35,9 +35,23 @@ model Posting {
 }
 
 model PostingClaim {
-  titleKey   String   @id
-  dedupHash  String
-  claimedAt  DateTime @default(now())
+  titleKey  String
+  guildId   String   @default("")
+  dedupHash String
+  claimedAt DateTime @default(now())
+
+  @@id([titleKey, guildId])
+}
+
+model PostingDelivery {
+  id          Int      @id @default(autoincrement())
+  dedupHash   String
+  guildId     String
+  channelId   String
+  deliveredAt DateTime @default(now())
+
+  @@unique([dedupHash, guildId, channelId])
+  @@index([guildId])
 }
 
 model Source {
@@ -55,11 +69,12 @@ model Source {
 
 model ChannelMap {
   id         Int    @id @default(autoincrement())
+  guildId    String @default("")
   kind       String
   roleFamily String
   channelId  String
 
-  @@unique([kind, roleFamily])
+  @@unique([guildId, kind, roleFamily])
 }
 
 model OnboardPanel {

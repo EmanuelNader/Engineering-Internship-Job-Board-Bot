@@ -23,6 +23,7 @@ describe("ensureGuildSetup", () => {
 
   it("creates missing channels and roles", async () => {
     const mockGuild = {
+      id: "guild_1",
       channels: { fetch: mockChannelsFetch, create: mockChannelCreate },
       roles: { fetch: mockRolesFetch, create: mockRoleCreate },
     };
@@ -56,6 +57,7 @@ describe("ensureGuildSetup", () => {
 
   it("skips existing channels and roles", async () => {
     const mockGuild = {
+      id: "guild_1",
       channels: {
         fetch: vi.fn().mockResolvedValue([
           { name: "job-board", id: "overview_chan", isTextBased: () => true, isDMBased: () => false },
@@ -77,5 +79,30 @@ describe("ensureGuildSetup", () => {
     expect(mockChannelCreate).not.toHaveBeenCalledWith(expect.objectContaining({ name: "swe-jobs" }));
     expect(mockChannelCreate).not.toHaveBeenCalledWith(expect.objectContaining({ name: "job-board" }));
     expect(mockRoleCreate).not.toHaveBeenCalledWith(expect.objectContaining({ name: "SWE" }));
+  });
+
+  it("creates only the channels an admin picked", async () => {
+    const mockGuild = {
+      id: "guild_1",
+      channels: { fetch: mockChannelsFetch, create: mockChannelCreate },
+      roles: { fetch: mockRolesFetch, create: mockRoleCreate },
+    };
+    mockChannelCreate.mockImplementation(async (opts: { name: string }) => ({
+      id: `chan_${opts.name}`,
+      name: opts.name,
+      isTextBased: () => true,
+      isDMBased: () => false,
+    }));
+
+    await ensureGuildSetup(mockGuild as any, ["mechanical"]);
+
+    expect(mockChannelCreate).toHaveBeenCalledWith(expect.objectContaining({ name: "job-board" }));
+    expect(mockChannelCreate).toHaveBeenCalledWith(expect.objectContaining({ name: "mechanical-jobs" }));
+    expect(mockChannelCreate).not.toHaveBeenCalledWith(expect.objectContaining({ name: "swe-jobs" }));
+    expect(mockChannelMapUpsert).toHaveBeenCalledWith(
+      expect.objectContaining({
+        where: { guildId_kind_roleFamily: { guildId: "guild_1", kind: "job", roleFamily: "mechanical" } },
+      })
+    );
   });
 });

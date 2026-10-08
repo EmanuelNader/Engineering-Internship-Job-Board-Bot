@@ -3,6 +3,9 @@ import { utcDaysAgo } from "@/lib/freshness";
 
 const DEFAULT_LOOKBACK_DAYS = 7;
 
+/** How far back a brand-new server is filled. Existing servers keep their saved start. */
+export const NEW_SERVER_FILL_DAYS = 7;
+
 export async function ensureLiveSince(
   guildId: string,
   now = new Date(),

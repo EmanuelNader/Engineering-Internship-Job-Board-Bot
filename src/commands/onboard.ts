@@ -1,6 +1,7 @@
 import {
   ChatInputCommandInteraction,
   EmbedBuilder,
+  Guild,
   PermissionFlagsBits,
   SlashCommandBuilder,
 } from "discord.js";
@@ -9,10 +10,14 @@ import { getEnabledRoleFamilies, OVERVIEW_CHANNEL_NAME } from "@/config/roles.co
 import { adapterConfigs } from "@/config/adapters.config";
 import { prisma } from "@/db/client";
 import { seedRecentPostingsForGuild } from "@/poster/seed";
+import { ensureLiveSince, NEW_SERVER_FILL_DAYS } from "@/lib/live-since";
+import { requestPostingStart } from "@/posting-runtime";
+import type { RoleFamily } from "@/lib/types";
+import type { Client } from "discord.js";
 
 export const onboardCommand = new SlashCommandBuilder()
   .setName("onboard")
-  .setDescription("[Admin] Create channels and post the reaction panel in #job-board")
+  .setDescription("[Admin] Choose which channels to create and which to fill")
   .setDefaultMemberPermissions(PermissionFlagsBits.Administrator);
 
 function sourceBlurb(): string {
@@ -31,8 +36,10 @@ function sourceBlurb(): string {
     .join("\n");
 }
 
-export function buildOnboardEmbed(): EmbedBuilder {
+export function buildOnboardEmbed(families?: RoleFamily[]): EmbedBuilder {
+  const chosen = new Set(families ?? getEnabledRoleFamilies().map((family) => family.family));
   const reactions = getEnabledRoleFamilies()
+    .filter((family) => chosen.has(family.family))
     .map((f) => `${f.emoji}  ${f.overviewLabel ?? f.roleName}  \`#${f.channelName}\``)
     .join("\n");
 
@@ -54,49 +61,62 @@ export function buildOnboardEmbed(): EmbedBuilder {
     );
 }
 
-export async function handleOnboard(interaction: ChatInputCommandInteraction): Promise<void> {
-  await interaction.deferReply({ ephemeral: true });
-
-  if (!interaction.guild) {
-    await interaction.editReply({ content: "Run /onboard in a server." });
-    return;
+export async function applyOnboardChoices(
+  guild: Guild,
+  client: Client,
+  createFamilies: RoleFamily[],
+  fillFamilies: RoleFamily[]
+): Promise<{ overviewId: string }> {
+  const fill = fillFamilies.filter((family) => createFamilies.includes(family));
+  const overview = await ensureGuildSetup(guild, createFamilies);
+  if (createFamilies.length === 0) {
+    await prisma.channelMap.deleteMany({ where: { guildId: guild.id, kind: "job" } });
+  } else {
+    await prisma.channelMap.deleteMany({
+      where: { guildId: guild.id, kind: "job", roleFamily: { notIn: createFamilies } },
+    });
   }
 
-  try {
-    const overview = await ensureGuildSetup(interaction.guild);
-    await removePreviousPanel(interaction.guildId!, interaction.guild);
+  await removePreviousPanel(guild.id, guild);
 
-    const embed = buildOnboardEmbed();
-    const message = await overview.send({ embeds: [embed] });
-    for (const family of getEnabledRoleFamilies()) {
-      await message.react(family.emoji);
-    }
+  const embed = buildOnboardEmbed(createFamilies);
+  const message = await overview.send({ embeds: [embed] });
+  for (const family of getEnabledRoleFamilies()) {
+    if (!createFamilies.includes(family.family)) continue;
+    await message.react(family.emoji);
+  }
 
-    await prisma.onboardPanel.upsert({
-      where: { guildId: interaction.guildId! },
-      create: {
-        guildId: interaction.guildId!,
-        channelId: overview.id,
-        messageId: message.id,
-      },
-      update: {
-        channelId: overview.id,
-        messageId: message.id,
-      },
-    });
+  await prisma.onboardPanel.upsert({
+    where: { guildId: guild.id },
+    create: {
+      guildId: guild.id,
+      channelId: overview.id,
+      messageId: message.id,
+    },
+    update: {
+      channelId: overview.id,
+      messageId: message.id,
+    },
+  });
 
-    await interaction.editReply({
-      content: `Overview posted in <#${overview.id}>. React there for pings — listings go in the family channels, not here. Filling those channels with recent internships...`,
-    });
-    void seedRecentPostingsForGuild(interaction.client, interaction.guildId!).catch((err) => {
+  await ensureLiveSince(guild.id, new Date(), NEW_SERVER_FILL_DAYS);
+  await requestPostingStart();
+
+  if (fill.length > 0) {
+    void seedRecentPostingsForGuild(client, guild.id, fill).catch((err) => {
       console.error("Failed to seed job channels after /onboard:", err);
     });
-  } catch (err) {
-    await interaction.editReply({ content: `Onboard failed: ${(err as Error).message}` });
   }
+
+  return { overviewId: overview.id };
 }
 
-async function removePreviousPanel(guildId: string, guild: NonNullable<ChatInputCommandInteraction["guild"]>): Promise<void> {
+export async function handleOnboard(interaction: ChatInputCommandInteraction): Promise<void> {
+  const { presentCreateStep } = await import("@/commands/onboard-picker");
+  await presentCreateStep(interaction);
+}
+
+async function removePreviousPanel(guildId: string, guild: Guild): Promise<void> {
   const previous = await prisma.onboardPanel.findUnique({ where: { guildId } });
   if (!previous) return;
   try {

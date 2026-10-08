@@ -9,10 +9,11 @@ import { deployCommands } from "@/commands/deploy";
 import { handleInteraction, handleAutocomplete } from "@/commands/index";
 import { handleOnboardReaction } from "@/commands/onboard-reactions";
 import { Poster } from "@/poster/index";
-import { seedRecentPostings } from "@/poster/seed";
-import { ensureLiveSince } from "@/lib/live-since";
 import { createListingsSync, installListingsSync } from "@/listings/sync";
 import { rememberPostedJobs } from "@/poster/claim";
+import { adoptLegacyGuildData } from "@/poster/adopt";
+import { registerPostingStart } from "@/posting-runtime";
+import { handleOnboardComponent } from "@/commands/onboard-picker";
 
 const env = validateEnv();
 const listingsSync = createListingsSync({
@@ -36,17 +37,26 @@ let poster: Poster | null = null;
 let clientReady = false;
 let postingStarted = false;
 
-async function startPosting(guildId: string) {
+async function startPosting() {
   if (postingStarted) return;
+  const states = await prisma.guildState.findMany();
+  if (states.length === 0) {
+    console.log("Waiting for /onboard before scraping.");
+    return;
+  }
   postingStarted = true;
   try {
+    await adoptLegacyGuildData(client);
     await rememberPostedJobs();
-    const liveSince = await ensureLiveSince(guildId, new Date(), env.INITIAL_LOOKBACK_DAYS);
+    const liveSince = states.reduce(
+      (earliest, state) => (state.liveSince < earliest ? state.liveSince : earliest),
+      states[0].liveSince
+    );
     console.log(`Only posting jobs published on or after ${liveSince.toISOString().slice(0, 10)}`);
 
     poster = new Poster(client, prisma);
-    const sendPosting: Poster["send"] = (posting, hash) =>
-      poster!.send(posting, hash).then((value) => {
+    const sendPosting: Poster["send"] = (posting, hash, guildId) =>
+      poster!.send(posting, hash, guildId).then((value) => {
         listingsSync.schedule();
         return value;
       });
@@ -58,11 +68,6 @@ async function startPosting(guildId: string) {
         sendPosting
       );
       console.log("Backfill complete");
-    }
-
-    const seeded = await seedRecentPostings(sendPosting, liveSince);
-    if (seeded.sent > 0 || seeded.skipped > 0) {
-      console.log(`Seeded ${seeded.sent} jobs into mapped channels (${seeded.skipped} already delivered)`);
     }
 
     manager = new SourcesManager(
@@ -79,6 +84,8 @@ async function startPosting(guildId: string) {
     throw err;
   }
 }
+
+registerPostingStart(startPosting);
 
 async function shutdown(signal: string) {
   console.log(`Received ${signal}, shutting down...`);
@@ -114,12 +121,11 @@ client.once(Events.ClientReady, async () => {
     await deployCommands(client);
     clientReady = true;
 
-    const guild = client.guilds.cache.first();
-    if (!guild) {
+    if (client.guilds.cache.size === 0) {
       console.log("Waiting to join a server before scraping.");
       return;
     }
-    await startPosting(guild.id);
+    await startPosting();
   } catch (err) {
     console.error("Startup failed:", err);
     process.exit(1);
@@ -131,7 +137,7 @@ client.on(Events.GuildCreate, (guild) => {
     console.log(`Joined ${guild.name} (${guild.id}); deploying slash commands`);
     try {
       await deployCommands(client, guild);
-      if (clientReady) await startPosting(guild.id);
+      if (clientReady) await startPosting();
     } catch (err) {
       console.error(`Failed to finish join for ${guild.id}:`, err);
     }
@@ -143,6 +149,11 @@ client.on(Events.InteractionCreate, async (interaction) => {
     await handleInteraction(interaction);
   } else if (interaction.isAutocomplete()) {
     await handleAutocomplete(interaction);
+  } else if (
+    (interaction.isStringSelectMenu() || interaction.isButton()) &&
+    interaction.customId.startsWith("onboard:")
+  ) {
+    await handleOnboardComponent(interaction);
   }
 });
 

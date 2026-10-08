@@ -7,11 +7,16 @@ const mockUpdateMany = vi.hoisted(() => vi.fn(async () => ({ count: 1 })));
 const mockClientChannelsFetch = vi.hoisted(() => vi.fn());
 const mockClaimFind = vi.hoisted(() => vi.fn(async () => null));
 const mockClaimCreate = vi.hoisted(() => vi.fn(async () => ({ titleKey: "k" })));
-const mockPostingFind = vi.hoisted(() => vi.fn(async () => ({ postedAt: null })));
+const mockPostingFind = vi.hoisted(() => vi.fn(async () => ({ postedAt: null, titleKey: null })));
+const mockGuildStates = vi.hoisted(() => vi.fn(async () => [{ guildId: "g1", liveSince: new Date("2020-01-01") }]));
+const mockDeliveries = vi.hoisted(() => vi.fn(async () => []));
+const mockDeliveryCreate = vi.hoisted(() => vi.fn(async () => ({})));
 
 vi.mock("@/db/client", () => ({
   prisma: {
     channelMap: { findMany: mockFindMany },
+    guildState: { findMany: mockGuildStates },
+    postingDelivery: { findMany: mockDeliveries, create: mockDeliveryCreate },
     posting: {
       update: mockUpdate,
       updateMany: mockUpdateMany,
@@ -59,7 +64,9 @@ describe("Poster", () => {
     vi.clearAllMocks();
     mockClientChannelsFetch.mockReset();
     mockClaimFind.mockResolvedValue(null);
-    mockPostingFind.mockResolvedValue({ postedAt: null });
+    mockPostingFind.mockResolvedValue({ postedAt: null, titleKey: null });
+    mockGuildStates.mockResolvedValue([{ guildId: "g1", liveSince: new Date("2020-01-01") }]);
+    mockDeliveries.mockResolvedValue([]);
 
     mockClient = {
       channels: { fetch: mockClientChannelsFetch },
@@ -81,7 +88,7 @@ describe("Poster", () => {
 
   it("looks up channel map and sends embed", async () => {
     mockFindMany.mockResolvedValue([
-      { kind: "job", roleFamily: "swe", channelId: "111" },
+      { kind: "job", roleFamily: "swe", channelId: "111", guildId: "g1" },
     ]);
     mockClientChannelsFetch.mockResolvedValue({
       send: mockChannelSend.mockResolvedValue({ id: "msg1" }),
@@ -91,7 +98,7 @@ describe("Poster", () => {
     await poster.send(samplePosting, "hash123");
 
     expect(mockFindMany).toHaveBeenCalledWith({
-      where: { kind: "job", roleFamily: { in: ["swe"] } },
+      where: { kind: "job", roleFamily: { in: ["swe"] }, guildId: { not: "" } },
     });
     expect(mockClientChannelsFetch).toHaveBeenCalledWith("111");
     expect(mockChannelSend).toHaveBeenCalledOnce();
@@ -131,7 +138,7 @@ describe("Poster", () => {
     poster = new Poster(mockClient, undefined, intervalMs);
 
     mockFindMany.mockResolvedValue([
-      { kind: "job", roleFamily: "swe", channelId: "111" },
+      { kind: "job", roleFamily: "swe", channelId: "111", guildId: "g1" },
     ]);
     mockClientChannelsFetch.mockResolvedValue({
       send: mockChannelSend.mockResolvedValue({ id: "msg1" }),
@@ -166,7 +173,7 @@ describe("Poster", () => {
 
   it("posts only enabled families when a listing also matches a disabled one", async () => {
     mockFindMany.mockResolvedValue([
-      { kind: "job", roleFamily: "swe", channelId: "111" },
+      { kind: "job", roleFamily: "swe", channelId: "111", guildId: "g1" },
     ]);
     mockClientChannelsFetch.mockResolvedValue({
       send: mockChannelSend.mockResolvedValue({ id: "msg1" }),
@@ -179,16 +186,16 @@ describe("Poster", () => {
     );
 
     expect(mockFindMany).toHaveBeenCalledWith({
-      where: { kind: "job", roleFamily: { in: ["swe"] } },
+      where: { kind: "job", roleFamily: { in: ["swe"] }, guildId: { not: "" } },
     });
     expect(mockChannelSend).toHaveBeenCalledOnce();
   });
 
   it("does not send when this company and title were already claimed", async () => {
     mockFindMany.mockResolvedValue([
-      { kind: "job", roleFamily: "swe", channelId: "111" },
+      { kind: "job", roleFamily: "swe", channelId: "111", guildId: "g1" },
     ]);
-    mockClaimFind.mockResolvedValue({ titleKey: "k", dedupHash: "other" });
+    mockClaimFind.mockResolvedValue({ titleKey: "k", guildId: "g1", dedupHash: "other" });
 
     await poster.send(samplePosting, "hash-dup");
 

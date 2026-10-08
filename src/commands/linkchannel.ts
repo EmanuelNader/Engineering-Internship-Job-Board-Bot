@@ -27,9 +27,16 @@ export async function handleLinkChannel(interaction: ChatInputCommandInteraction
     return;
   }
 
+  if (!interaction.guildId) {
+    await interaction.reply({ content: "Run /linkchannel in a server.", ephemeral: true });
+    return;
+  }
+
   await prisma.channelMap.upsert({
-    where: { kind_roleFamily: { kind: "job", roleFamily: family } },
-    create: { kind: "job", roleFamily: family, channelId: channel.id },
+    where: {
+      guildId_kind_roleFamily: { guildId: interaction.guildId, kind: "job", roleFamily: family },
+    },
+    create: { guildId: interaction.guildId, kind: "job", roleFamily: family, channelId: channel.id },
     update: { channelId: channel.id },
   });
 
