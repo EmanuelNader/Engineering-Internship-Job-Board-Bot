@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1087 roles.
+1089 roles.
 
 - [Software Engineering](#software-engineering) (482)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (95)
-- [Data Science](#data-science) (202)
-- [Machine Learning](#machine-learning) (95)
+- [Data Science](#data-science) (203)
+- [Machine Learning](#machine-learning) (96)
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (82)
 - [Electrical Engineering](#electrical-engineering) (89)
@@ -650,6 +650,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [🔥 Amazon](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | Seattle, WA | [Apply](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify) | 0d |
 | [ICF International](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify) | Data Analytics Intern | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1?utm_source=Simplify&ref=Simplify) | 1d |
 | [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271?utm_source=Simplify&ref=Simplify) | Data Analytics Engineer Co-op | Bloomfield Hills, MIFramingham, MAAtlanta, GA | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271?utm_source=Simplify&ref=Simplify) | 1d |
 | [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993?utm_source=Simplify&ref=Simplify) | Data Engineer Intern | SF | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/San-Francisco-California/Data-Engineering-Intern--Summer-2027---San-Franscisco--CA--US_R-285993?utm_source=Simplify&ref=Simplify) | 1d |
@@ -859,6 +860,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | :---: |
+| [🔥 TikTok](https://lifeattiktok.com/search/7694045967754889477?utm_source=Simplify&ref=Simplify) | Machine Learning Engineer Intern 🎓 | San Jose, CA | [Apply](https://lifeattiktok.com/search/7694045967754889477?utm_source=Simplify&ref=Simplify) | 0d |
 | [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277?utm_source=Simplify&ref=Simplify) | Audio Machine Learning Intern Co-op 🎓 | Bloomfield Hills, MIFramingham, MAAtlanta, GA | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277?utm_source=Simplify&ref=Simplify) | 1d |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929?utm_source=Simplify&ref=Simplify) | GenAI & Machine Learning Intern | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/GenAI---Machine-Learning---2027-Summer-Internship--Chicago-Hybrid-_R68929?utm_source=Simplify&ref=Simplify) | 1d |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD only (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 2d |
