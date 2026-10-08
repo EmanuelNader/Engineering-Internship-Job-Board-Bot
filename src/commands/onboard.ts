@@ -23,12 +23,12 @@ export const onboardCommand = new SlashCommandBuilder()
 function sourceBlurb(): string {
   const enabled = adapterConfigs.filter((c) => c.enabled).map((c) => c.name);
   const labels: Record<string, string> = {
-    github: "GitHub internship READMEs (SimplifyJobs, vanshb03, speedyapply — including off-season)",
-    greenhouse: "Greenhouse career boards (SpaceX, Stripe, Rocket Lab, and others)",
-    ashby: "Ashby boards (Notion, OpenAI, Cursor, and others)",
-    lever: "Lever boards (Palantir, Spotify, Zoox, Belvedere)",
-    workday: "Workday (Boeing, GE Aerospace, Baker Hughes, Dow, Caterpillar, RTX, and others)",
-    icims: "iCIMS (Kimley-Horn, Dewberry, Sargent & Lundy, GD Mission Systems, and other non-tech engineering boards)",
+    github: "GitHub internship READMEs",
+    greenhouse: "Greenhouse career boards",
+    ashby: "Ashby boards",
+    lever: "Lever boards",
+    workday: "Workday",
+    icims: "iCIMS",
   };
   return enabled
     .filter((name) => labels[name])
