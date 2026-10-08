@@ -139,7 +139,7 @@ function renderMarkdown(listings: InternshipListing[], now: Date, sourcesHref: s
     [
       "US intern, co-op, and fellowship roles posted to Discord. This page is generated. Do not edit it by hand.",
       "",
-      `[Add to Discord](https://discord.com/oauth2/authorize?client_id=1531088961387237477&permissions=2416004176&scope=bot%20applications.commands) · [What it scrapes](${sourcesHref}) · [How the bot works](${botHref})`,
+      `[Add to Discord](https://discord.com/oauth2/authorize?client_id=1531088961387237477) · [What it scrapes](${sourcesHref}) · [How the bot works](${botHref})`,
     ].join("\n"),
     index.join("\n"),
   ];

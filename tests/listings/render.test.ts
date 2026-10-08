@@ -47,7 +47,7 @@ describe("renderInternshipFiles", () => {
     expect(listings.map((listing) => listing.id)).toEqual(["hash-new", "older"]);
     expect(files.markdown).toContain("[What it scrapes](SOURCES.md)");
     expect(files.markdown).toContain("[How the bot works](BOT.md)");
-    expect(files.readme).toContain("[Add to Discord](https://discord.com/oauth2/authorize?client_id=1531088961387237477&permissions=2416004176&scope=bot%20applications.commands)");
+    expect(files.readme).toContain("[Add to Discord](https://discord.com/oauth2/authorize?client_id=1531088961387237477)");
     expect(files.readme).toContain("[What it scrapes](docs/SOURCES.md)");
     expect(files.readme).toContain("[How the bot works](docs/BOT.md)");
     expect(files.markdown).toContain("## Browse by category");

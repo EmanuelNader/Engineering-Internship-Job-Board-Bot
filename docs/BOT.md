@@ -1,10 +1,10 @@
 # How the bot works
 
-[Job list](../README.md) · [What it scrapes](SOURCES.md) · [Add to Discord](https://discord.com/oauth2/authorize?client_id=1531088961387237477&permissions=2416004176&scope=bot%20applications.commands)
+[Job list](../README.md) · [What it scrapes](SOURCES.md) · [Add to Discord](https://discord.com/oauth2/authorize?client_id=1531088961387237477)
 
 Public Discord bot that watches public intern lists and company career pages, keeps **US intern / co-op / fellowship** roles, and posts each new listing into the role-family channels that server chose (SWE, PM, Hardware, Data, ML, Civil/Structural, Mechanical, Electrical, Chemical, Aerospace, Other). Members react on the `/onboard` panel (or use `/role`) to get pinged.
 
-[Add it to a server](https://discord.com/oauth2/authorize?client_id=1531088961387237477&permissions=2416004176&scope=bot%20applications.commands). An admin then runs `/onboard`. Joining does not create channels or post old jobs.
+[Add it to a server](https://discord.com/oauth2/authorize?client_id=1531088961387237477). An admin then runs `/onboard`. Joining does not create channels or post old jobs.
 
 `/onboard` is private to that admin:
 
