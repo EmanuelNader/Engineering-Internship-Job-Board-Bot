@@ -61,4 +61,6 @@ export interface SourceAdapter {
   name: SourceName;
   pollIntervalSec: number;
   fetchNewPostings(): Promise<RawPosting[]>;
+  /** Job ids still on each Greenhouse board after the latest successful fetch. */
+  liveJobIdsByBoard?: ReadonlyMap<string, ReadonlySet<string>>;
 }

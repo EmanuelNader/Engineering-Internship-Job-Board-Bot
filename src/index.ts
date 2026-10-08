@@ -13,6 +13,7 @@ import { createListingsSync, installListingsSync } from "@/listings/sync";
 import { rememberPostedJobs } from "@/poster/claim";
 import { adoptLegacyGuildData } from "@/poster/adopt";
 import { registerPostingStart } from "@/posting-runtime";
+import { retireGreenhousePostings } from "@/poster/retire";
 import { handleOnboardComponent } from "@/commands/onboard-picker";
 
 const env = validateEnv();
@@ -74,7 +75,12 @@ async function startPosting() {
       getAllAdapters(),
       sendPosting,
       (source, error) => console.error(`[${source}] ${error.message}`),
-      liveSince
+      liveSince,
+      async (adapter) => {
+        if (adapter.name !== "greenhouse") return;
+        const removed = await retireGreenhousePostings(client, adapter.liveJobIdsByBoard);
+        if (removed > 0) listingsSync.schedule();
+      }
     );
     manager.start();
     console.log("SourcesManager started");

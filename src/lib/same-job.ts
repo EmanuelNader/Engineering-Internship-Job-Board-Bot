@@ -1,5 +1,5 @@
 import { prisma } from "@/db/client";
-import { atsUrlNeedle } from "@/lib/normalize";
+import { atsLookupNeedles, greenhouseJobId } from "@/lib/normalize";
 
 /** True when a different saved row is already this internship. */
 export async function sameJobAlreadyStored(
@@ -16,10 +16,16 @@ export async function sameJobAlreadyStored(
   });
   if (byTitle) return true;
 
-  const needle = atsUrlNeedle(url);
-  if (!needle) return false;
-  const byUrl = await prisma.posting.findFirst({
-    where: { url: { contains: needle }, NOT: { dedupHash } },
+  const needles = atsLookupNeedles(url);
+  if (needles.length === 0) return false;
+  const rows = await prisma.posting.findMany({
+    where: {
+      OR: needles.map((needle) => ({ url: { contains: needle } })),
+      NOT: { dedupHash },
+    },
+    select: { url: true },
   });
-  return Boolean(byUrl);
+  const wanted = greenhouseJobId(url);
+  if (!wanted) return rows.length > 0;
+  return rows.some((row) => greenhouseJobId(row.url) === wanted);
 }

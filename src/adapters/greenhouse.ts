@@ -19,11 +19,14 @@ interface GreenhouseResponse {
 export function createGreenhouseAdapter(): SourceAdapter {
   const config = adapterConfigs.find((c) => c.name === "greenhouse");
   if (!config) throw new Error("Greenhouse config not found");
+  const liveJobIdsByBoard = new Map<string, Set<string>>();
 
   return {
     name: "greenhouse",
     pollIntervalSec: config.pollIntervalSec,
+    liveJobIdsByBoard,
     async fetchNewPostings(): Promise<RawPosting[]> {
+      liveJobIdsByBoard.clear();
       return collectFromTargets(
         "greenhouse",
         config.companies,
@@ -31,6 +34,7 @@ export function createGreenhouseAdapter(): SourceAdapter {
           const data = await fetchJson<GreenhouseResponse>(
             `https://boards-api.greenhouse.io/v1/boards/${company}/jobs?content=Job`
           );
+          liveJobIdsByBoard.set(company, new Set(data.jobs.map((job) => String(job.id))));
           return data.jobs.map((job) => ({
             title: job.title,
             company: job.company_name,

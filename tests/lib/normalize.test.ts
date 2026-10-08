@@ -445,6 +445,33 @@ describe("contentHash", () => {
     );
   });
 
+  it("treats a Greenhouse board link and a gh_jid link as the same job", () => {
+    const greenhouse = contentHash(
+      "PhD Machine Learning Internship 2027 (USA)",
+      "Pinterest",
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8140140"
+    );
+    const github = contentHash(
+      "Machine Learning Intern",
+      "🔥 Pinterest",
+      "https://www.pinterestcareers.com/jobs/?gh_jid=8140140&utm_source=Simplify&ref=Simplify"
+    );
+    const board = contentHash(
+      "PhD Machine Learning Internship 2027 (USA)",
+      "Pinterest",
+      "https://job-boards.greenhouse.io/pinterest/jobs/8140140"
+    );
+    expect(github).toBe(greenhouse);
+    expect(board).toBe(greenhouse);
+    expect(greenhouse).not.toBe(
+      contentHash(
+        "PhD Machine Learning Internship 2027 (USA) *Fall",
+        "Pinterest",
+        "https://www.pinterestcareers.com/jobs/?gh_jid=8140150"
+      )
+    );
+  });
+
   it("collapses the same Workday requisition and Simplify job id", () => {
     expect(
       contentHash("Intern", "Nvidia", "https://nvidia.wd1.myworkdayjobs.com/en-US/site/job/Foo_JR12345")

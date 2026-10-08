@@ -14,7 +14,8 @@ export class SourcesManager {
     private readonly adapters: SourceAdapter[],
     private readonly onNewPosting: (posting: Omit<RawPosting, "location"> & { location: string | null; roleFamily: string[]; roleTitles: string[]; level: string; sourceName: string; postedAt?: Date }, dedupHash: string) => Promise<void>,
     private readonly onError: (source: string, error: Error) => void,
-    private readonly liveSince: Date = startOfUtcDay(new Date())
+    private readonly liveSince: Date = startOfUtcDay(new Date()),
+    private readonly afterAdapter?: (adapter: SourceAdapter) => Promise<void>
   ) {}
 
   start(): void {
@@ -157,6 +158,13 @@ export class SourcesManager {
           lastError,
         },
       });
+      if (!lastError && this.afterAdapter) {
+        try {
+          await this.afterAdapter(adapter);
+        } catch (err) {
+          console.error(`[${adapter.name}] cleanup failed:`, (err as Error).message);
+        }
+      }
     }
   }
 }

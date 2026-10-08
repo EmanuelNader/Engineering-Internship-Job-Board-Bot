@@ -250,10 +250,20 @@ export function canonicalizeTitleForHash(title: string): string {
   return s.replace(/\s+/g, " ").trim();
 }
 
+/** Greenhouse job id from a board path or a `gh_jid` apply link. */
+export function greenhouseJobId(url: string | null | undefined): string | null {
+  if (!url) return null;
+  const path = url.match(/greenhouse\.io\/[^/?#]+\/jobs\/(\d+)/i);
+  if (path) return path[1];
+  const query = url.match(/[?&]gh_jid=(\d+)/i);
+  if (query) return query[1];
+  return null;
+}
+
 export function canonicalAtsJobKey(url: string | null | undefined): string | null {
   if (!url) return null;
-  const greenhouse = url.match(/greenhouse\.io\/([^/?#]+)\/jobs\/(\d+)/i);
-  if (greenhouse) return `greenhouse:${greenhouse[1].toLowerCase()}:${greenhouse[2]}`;
+  const greenhouseId = greenhouseJobId(url);
+  if (greenhouseId) return `greenhouse:${greenhouseId}`;
   const lever = url.match(/lever\.co\/([^/?#]+)\/([0-9a-f-]{8,})/i);
   if (lever) return `lever:${lever[1].toLowerCase()}:${lever[2].toLowerCase()}`;
   const ashby = url.match(/ashbyhq\.com\/([^/?#]+)\/([0-9a-f-]{8,})/i);
@@ -265,11 +275,20 @@ export function canonicalAtsJobKey(url: string | null | undefined): string | nul
   return null;
 }
 
+/** Substrings that identify this ATS job in a stored apply link. */
+export function atsLookupNeedles(url: string | null | undefined): string[] {
+  const greenhouseId = greenhouseJobId(url);
+  if (greenhouseId) return [`gh_jid=${greenhouseId}`, `/jobs/${greenhouseId}`];
+  const needle = atsUrlNeedle(url);
+  return needle ? [needle] : [];
+}
+
 /** SQLite substring to find the same ATS job stored under an older contentHash. */
 export function atsUrlNeedle(url: string | null | undefined): string | null {
   if (!url) return null;
-  const greenhouse = url.match(/greenhouse\.io\/([^/?#]+)\/jobs\/(\d+)/i);
-  if (greenhouse) return `/${greenhouse[1]}/jobs/${greenhouse[2]}`;
+  const greenhouseId = greenhouseJobId(url);
+  if (greenhouseId && /greenhouse\.io\//i.test(url)) return `/jobs/${greenhouseId}`;
+  if (greenhouseId) return `gh_jid=${greenhouseId}`;
   const lever = url.match(/lever\.co\/([^/?#]+)\/([0-9a-f-]{8,})/i);
   if (lever) return `/${lever[1]}/${lever[2]}`;
   const ashby = url.match(/ashbyhq\.com\/([^/?#]+)\/([0-9a-f-]{8,})/i);

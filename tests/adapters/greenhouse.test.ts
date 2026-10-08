@@ -63,6 +63,7 @@ describe("Greenhouse Adapter", () => {
     });
     expect(postings[1].title).toBe("Senior Software Engineer");
     expect(postings[1].publishedAt).toBe("2026-06-20T10:00:00-04:00");
+    expect(adapter.liveJobIdsByBoard?.get("spacex")).toEqual(new Set(["123", "456"]));
   });
 
   it("handles empty response", async () => {
@@ -102,6 +103,8 @@ describe("Greenhouse Adapter", () => {
     expect(postings).toHaveLength(1);
     expect(postings[0].company).toBe("Anduril");
     expect(postings[0].externalId).toBe("789");
+    expect(adapter.liveJobIdsByBoard?.has("spacex")).toBe(false);
+    expect(adapter.liveJobIdsByBoard?.get("andurilindustries")).toEqual(new Set(["789"]));
   });
 
   it("returns empty when one company fails and siblings are empty", async () => {

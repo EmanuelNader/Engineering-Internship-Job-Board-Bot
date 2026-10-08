@@ -31,6 +31,8 @@ vi.mock("@/lib/normalize", () => ({
   titleCompanyHash: () => "title-key",
   isUsLocation: mockIsUsLocation,
   atsUrlNeedle: () => null,
+  greenhouseJobId: () => null,
+  atsLookupNeedles: () => [],
 }));
 
 vi.mock("@/adapters", () => ({
