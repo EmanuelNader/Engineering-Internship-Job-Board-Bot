@@ -1,5 +1,489 @@
 [
   {
+    "id": "7b4d6c55edb2b34b6b145cc09b977b3a9bead23f72e25db5c989a38febdab695",
+    "company_name": "RS&H",
+    "title": "Civil Engineering Intern (Transportation Development) - Summer 2027",
+    "location": "US-NC-Charlotte",
+    "url": "https://careers-rsandh.icims.com/jobs/8342/civil-engineering-intern-%28transportation-development%29---summer-2027/job",
+    "date_posted": "2026-10-08T08:10:48.837Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "31a8e7022200db10398c32db89c2171e1ff31f42217cb5a93a1e6d3308a81359",
+    "company_name": "RTX",
+    "title": "Co-Op, Software Engineer- Onsite",
+    "location": "US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE ~ BLDG 109",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298",
+    "date_posted": "2026-10-08T08:10:46.823Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "ed8baef875723256f02e8397869d6209ad71ad3b2c6d649cfee4e0a200c6c11f",
+    "company_name": "RTX",
+    "title": "Software Engineer Co-Op - Onsite",
+    "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478",
+    "date_posted": "2026-10-08T08:10:44.810Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "a929a1ec06fed2b509e77cba88ec2383fb012386ebf5ca1cedcc05722a323215",
+    "company_name": "Kimley-Horn",
+    "title": "Civil Engineering Intern - Land Development",
+    "location": "US-PA-Plymouth Meeting",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26890/civil-engineering-intern---land-development/job",
+    "date_posted": "2026-10-08T08:10:42.798Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "8270a7ecfcc87554f05a5b6ba48b628e271894ea3a44818e35009da5c01dbe9a",
+    "company_name": "RTX",
+    "title": "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
+    "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
+    "date_posted": "2026-10-08T08:10:40.786Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "8699ccaaaa7d7a6ab0e50f9b299ff891758230d80c6b467078a83899aa9d9c80",
+    "company_name": "RTX",
+    "title": "FPGA Electrical Design Engineer Intern (Summer 2027)(Onsite)",
+    "location": "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989",
+    "date_posted": "2026-10-08T08:10:38.775Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "hardware",
+      "mechanical"
+    ]
+  },
+  {
+    "id": "73f3afb876cab18fdd037c727cd1e077b4a19c87d4aa7ca0c548ca73b70bfc88",
+    "company_name": "RTX",
+    "title": "Digital Design Electrical Engineer Intern (Summer 2027)(Onsite)",
+    "location": "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991",
+    "date_posted": "2026-10-08T08:10:36.763Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "4e75de567ed6cbc9fe9ca9743ba23d27113a0d20c623029e3179492177bf9fe1",
+    "company_name": "RTX",
+    "title": "RF Electrical Engineer Intern (Summer 2027)(Onsite)",
+    "location": "US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/RF-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872976",
+    "date_posted": "2026-10-08T08:10:34.749Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "892863fd103fcd1a3cc0a4a0bb8e3574561347e98d8006fa8fda73a388b80a45",
+    "company_name": "KCI",
+    "title": "Site/Civil Engineering Intern (Summer 2027)",
+    "location": "US-DE-Newark",
+    "url": "https://careers-kci.icims.com/jobs/8111/site-civil-engineering-intern-%28summer-2027%29/job",
+    "date_posted": "2026-10-08T08:10:32.737Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "7f09470e7fd285e63e8bb8638cdb60df3da79db4d8206fe99f544176f5bedc4c",
+    "company_name": "Kimley-Horn",
+    "title": "Electrical Engineering Intern - Power Delivery",
+    "location": "US-TX-Houston",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26759/electrical-engineering-intern---power-delivery/job",
+    "date_posted": "2026-10-08T08:10:30.724Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "c586bcfd72ea2d864682fe80cb5c1356f9ed8e5ce0c7909e6bcd8eb6df992afc",
+    "company_name": "Kimley-Horn",
+    "title": "Electrical Engineering Intern - MEP",
+    "location": "US-CA-Orange",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26738/electrical-engineering-intern---mep/job",
+    "date_posted": "2026-10-08T08:10:28.709Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "32907e2b0dec85ca9791d6422a2ea86348912f0dc4b5ccd92d010ad0fe78891b",
+    "company_name": "GFT",
+    "title": "Intern - Construction Management",
+    "location": "US-MO-St. Louis",
+    "url": "https://careers-gannettfleming.icims.com/jobs/14757/intern---construction-management/job",
+    "date_posted": "2026-10-08T08:10:26.696Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "505a002b49b3c0b7f3c1d2d2592d87c01e9352042c540b93f69654dc2bc75d58",
+    "company_name": "RS&H",
+    "title": "Civil Engineering Intern - Summer 2027",
+    "location": "US-SC-Columbia",
+    "url": "https://careers-rsandh.icims.com/jobs/8214/civil-engineering-intern---summer-2027/job",
+    "date_posted": "2026-10-08T08:10:24.685Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "f10cb43f80a70dc2daa209d09703108d06f6c2b756c20a701b74c0158b37eb20",
+    "company_name": "RS&H",
+    "title": "Civil Engineering Intern (Aviation) - Summer 2027",
+    "location": "US-FL-Tampa",
+    "url": "https://careers-rsandh.icims.com/jobs/8190/civil-engineering-intern-%28aviation%29---summer-2027/job",
+    "date_posted": "2026-10-08T08:10:22.673Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "35799744427b4ff33daf5f8d36151e7fa36136da1fff4b9b0e1553ce4c840e65",
+    "company_name": "RS&H",
+    "title": "Civil Engineering Intern (Airfields) - Summer 2027",
+    "location": "US-CA-Los Angeles",
+    "url": "https://careers-rsandh.icims.com/jobs/8158/civil-engineering-intern-%28airfields%29---summer-2027/job",
+    "date_posted": "2026-10-08T08:10:20.662Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "3e72a18be477e9dc88dec50c6c36a4e5bf3e615b5189f6e71cba043d13449e85",
+    "company_name": "RS&H",
+    "title": "Structural Engineering Intern (Bridge) - Summer 2027",
+    "location": "US-IL-St. Charles",
+    "url": "https://careers-rsandh.icims.com/jobs/8157/structural-engineering-intern-%28bridge%29---summer-2027/job",
+    "date_posted": "2026-10-08T08:10:18.651Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "0df0d844e7d6d1da7e637eac82b3ab3b1c368c9bc873cb757721debaa1bf5db2",
+    "company_name": "RS&H",
+    "title": "Civil Engineering Intern (Water Resources) - Summer 2027",
+    "location": "US-IL-St. Charles",
+    "url": "https://careers-rsandh.icims.com/jobs/8153/civil-engineering-intern-%28water-resources%29---summer-2027/job",
+    "date_posted": "2026-10-08T08:10:16.640Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "52c93b75b0c46fe7bec7956dd1b52ad2214710cc63c32556170c390bfa39619a",
+    "company_name": "RS&H",
+    "title": "Civil Engineering Intern (Highway)",
+    "location": "US-FL-Tampa",
+    "url": "https://careers-rsandh.icims.com/jobs/7733/civil-engineering-intern-%28highway%29/job",
+    "date_posted": "2026-10-08T08:10:14.628Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "05ff6539cfe37f5f6d530771fb5c052287286103aa4d9f43b07632499285f459",
+    "company_name": "KCI",
+    "title": "Structural Engineer Intern- Bridges (Summer 2027)",
+    "location": "US-MD-Sparks",
+    "url": "https://careers-kci.icims.com/jobs/8075/structural-engineer-intern--bridges-%28summer-2027%29/job",
+    "date_posted": "2026-10-08T08:10:12.616Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "c40f18f45ca87440efe01fff1584c76148eea059acdda6a3f5682f6566be2190",
+    "company_name": "CEC",
+    "title": "Civil Engineering Co-op - Spring/Summer 2027",
+    "location": "US-OH-Cincinnati",
+    "url": "https://careers-cecinc.icims.com/jobs/6600/civil-engineering-co-op---spring-summer-2027/job",
+    "date_posted": "2026-10-08T08:10:10.605Z",
+    "level": "co-op",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "6794f119e574ef2010971d5a4c5ee565b7d3b10e0addbc9cdf621a91da1f92fd",
+    "company_name": "CEC",
+    "title": "Structural Engineering Intern- Summer 2027",
+    "location": "US-PA-Pittsburgh (Moon Township)",
+    "url": "https://careers-cecinc.icims.com/jobs/6557/structural-engineering-intern--summer-2027/job",
+    "date_posted": "2026-10-08T08:10:08.592Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "cae071416c692193e51cbaa8380a373a590de645c6f568d2384f01feeb136f4b",
+    "company_name": "CEC",
+    "title": "Mechanical Engineering Internship- Summer 2027",
+    "location": "US-PA-Pittsburgh (Moon Township)",
+    "url": "https://careers-cecinc.icims.com/jobs/6558/mechanical-engineering-internship--summer-2027/job",
+    "date_posted": "2026-10-08T08:10:06.581Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "1ec7dc93bb00257119fda4d64ddfea65ac9a24b4fd0fc22e5e2791aa1474e2f4",
+    "company_name": "CEC",
+    "title": "Electrical Engineering Internship- Summer 2027",
+    "location": "US-PA-Pittsburgh (Moon Township)",
+    "url": "https://careers-cecinc.icims.com/jobs/6559/electrical-engineering-internship--summer-2027/job",
+    "date_posted": "2026-10-08T08:10:04.569Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "436fad02f4e575ee5725bb17e29db53d7fe682e3a42532f97e7cb70aedc829fc",
+    "company_name": "CEC",
+    "title": "Civil Engineering Intern - Summer 2027",
+    "location": "US-CA-Irvine",
+    "url": "https://careers-cecinc.icims.com/jobs/6598/civil-engineering-intern---summer-2027/job",
+    "date_posted": "2026-10-08T08:10:02.555Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "a24f7559c45caa0de34cade0fb2a16757bac9ed31665b335466bb794a2160126",
+    "company_name": "Kimley-Horn",
+    "title": "Civil Engineering Co-Op (Fall/Winter 2026)",
+    "location": "US-FL-Ocala",
+    "url": "https://careers-kimley-horn.icims.com/jobs/24543/civil-engineering-co-op-%28fall-winter-2026%29/job",
+    "date_posted": "2026-10-08T08:10:00.544Z",
+    "level": "co-op",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "df872e5df5d4fc0dbb5e5dd7a5a7a1f19c03bd572b07960663867cc459f30f6f",
+    "company_name": "Kimley-Horn",
+    "title": "Civil Engineering Intern - Transportation/ Traffic",
+    "location": "US-CA-Sacramento",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26029/civil-engineering-intern---transportation--traffic/job",
+    "date_posted": "2026-10-08T08:09:58.530Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "25f0ea8ca9151a7eae7b179ec4b64c9f04318d1acbf4482dc6cd621d8302893e",
+    "company_name": "Kimley-Horn",
+    "title": "Structural Engineering Intern - Buildings",
+    "location": "US-MN-Saint Paul",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26577/structural-engineering-intern---buildings/job",
+    "date_posted": "2026-10-08T08:09:56.517Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "b3d3355fbe0b9824c177a5bef876272f5083df987cc0a48d6def3a1f91cc7b78",
+    "company_name": "Kimley-Horn",
+    "title": "Mechanical Engineering Intern",
+    "location": "US-FL-Palm Beach Gardens",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26609/mechanical-engineering-intern/job",
+    "date_posted": "2026-10-08T08:09:54.504Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "80cb39a44ac43ed2ee5c15d7ce6b942abafd7f1d6267b13f1ee5640ff34e5ab7",
+    "company_name": "Kimley-Horn",
+    "title": "Electrical Engineering Intern",
+    "location": "US-FL-Orlando",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26613/electrical-engineering-intern/job",
+    "date_posted": "2026-10-08T08:09:52.491Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "2a293498afa8c8b60c3e2ee9f4a16de3ec1b1807647294ee87e9b2c18481b0d7",
+    "company_name": "Kimley-Horn",
+    "title": "Civil Engineering Intern",
+    "location": "US-WA-Spokane",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26632/civil-engineering-intern/job",
+    "date_posted": "2026-10-08T08:09:50.480Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "civil-structural"
+    ]
+  },
+  {
+    "id": "edfc2ee05e1a741ec7c57ab91060791810a26cb2cad0c1f833d3555a3e61257d",
+    "company_name": "RTX",
+    "title": "Production Hardware Electrical Engineer Intern (Summer 2027)(Onsite)",
+    "location": "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Production-Hardware-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872221",
+    "date_posted": "2026-10-08T08:09:48.469Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "hardware",
+      "electrical"
+    ]
+  },
+  {
+    "id": "cda7536ebb9c77b4069cb9b10c2e07c38a63aa7b3bfd832f659bb076cf3c650f",
+    "company_name": "RTX",
+    "title": "Electrical Engineering Intern (Summer 2027)",
+    "location": "US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01871697",
+    "date_posted": "2026-10-08T08:09:46.457Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "fb3ba430d0b910a511ba158cd8e549b0735c5de040da350e6259557338303d3a",
+    "company_name": "RTX",
+    "title": "RF Mechanical Engineer Intern (Summer 2027)(Onsite)",
+    "location": "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998",
+    "date_posted": "2026-10-08T08:09:44.444Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical",
+      "electrical"
+    ]
+  },
+  {
+    "id": "d03146f99f6f88ec582a31e301ffe633618280e3d3a1e430fd3b58141bc575b7",
+    "company_name": "RTX",
+    "title": "Electrical Engineering Intern (Summer 2027)",
+    "location": "US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034",
+    "date_posted": "2026-10-08T08:09:42.429Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "ca44e9da426d748159067c29aafd9ea2b37375bc7580731b2e07becbe52c3512",
+    "company_name": "RTX",
+    "title": "Advanced Effector Guidance Systems Electrical Engineer Intern (Summer 2027)",
+    "location": "US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Advanced-Effector-Guidance-Systems-Electrical-Engineer-Intern--Summer-2027-_01870393",
+    "date_posted": "2026-10-08T08:09:40.418Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "bf6d33f63cf273391719ad09add3472307f071d22373ed2a76734de0b0e6cb7d",
+    "company_name": "Motiva",
+    "title": "Motiva Summer Internship Position: Mechanical Engineering Degree",
+    "location": "Port Arthur, TX",
+    "url": "https://motiva.wd1.myworkdayjobs.com/MotivaCareers/job/Port-Arthur-TX/Motiva-Summer-Internship-Position--Mechanical-Engineering-Degree_4405",
+    "date_posted": "2026-10-08T08:09:38.403Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "32fe8b40fa1d233fb68da498141a325c5f768ec2d6b17e58bc09d6fdf34d34fc",
+    "company_name": "Motiva",
+    "title": "Motiva Summer Internship Position: Electrical Engineering Degree",
+    "location": "Port Arthur, TX",
+    "url": "https://motiva.wd1.myworkdayjobs.com/MotivaCareers/job/Port-Arthur-TX/Motiva-Summer-Internship-Position--Electrical-Engineering-Degree-_4406",
+    "date_posted": "2026-10-08T08:09:36.297Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "7979506a8c21cad737b5c3f5b5c29cbba1e5fe5fff07493fb88558f7d1728e43",
     "company_name": "RTX",
     "title": "Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027)",
@@ -33,45 +517,6 @@
     "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
     "date_posted": "2026-10-08T07:55:15.670Z",
     "level": "internship",
-    "source": "workday",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "31a8e7022200db10398c32db89c2171e1ff31f42217cb5a93a1e6d3308a81359",
-    "company_name": "RTX",
-    "title": "Co-Op, Software Engineer- Onsite",
-    "location": "US-IA-CEDAR RAPIDS-109 ~ 400 Collins Rd NE ~ BLDG 109",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298",
-    "date_posted": "2026-10-08T07:54:03.958Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "ed8baef875723256f02e8397869d6209ad71ad3b2c6d649cfee4e0a200c6c11f",
-    "company_name": "RTX",
-    "title": "Software Engineer Co-Op - Onsite",
-    "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478",
-    "date_posted": "2026-10-08T07:54:01.948Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "8270a7ecfcc87554f05a5b6ba48b628e271894ea3a44818e35009da5c01dbe9a",
-    "company_name": "RTX",
-    "title": "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
-    "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
-    "date_posted": "2026-10-08T07:53:59.937Z",
-    "level": "co-op",
     "source": "workday",
     "role_families": [
       "swe"
@@ -4639,19 +5084,6 @@
     ]
   },
   {
-    "id": "7b4d6c55edb2b34b6b145cc09b977b3a9bead23f72e25db5c989a38febdab695",
-    "company_name": "RS&H",
-    "title": "Civil Engineering Intern (Transportation Development) - Summer 2027",
-    "location": "US-NC-Charlotte",
-    "url": "https://careers-rsandh.icims.com/jobs/8342/civil-engineering-intern-%28transportation-development%29---summer-2027/job",
-    "date_posted": "2026-09-28T13:09:08.486Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
     "id": "027707e72b76a25bacaf4c7ccaabb780fe684f48b4c2bd2eff5a760a74787fa4",
     "company_name": "RTX",
     "title": "Flight Controls Hardware Engineering Intern (Summer 2027)",
@@ -4825,19 +5257,6 @@
     ]
   },
   {
-    "id": "a929a1ec06fed2b509e77cba88ec2383fb012386ebf5ca1cedcc05722a323215",
-    "company_name": "Kimley-Horn",
-    "title": "Civil Engineering Intern - Land Development",
-    "location": "US-PA-Plymouth Meeting",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26890/civil-engineering-intern---land-development/job",
-    "date_posted": "2026-09-27T17:04:07.018Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
     "id": "1cde930896baa7b57e836e7c14b193468c50b70444c90a2a8f98600626c3d489",
     "company_name": "Disney",
     "title": "Data Analyst Intern, Global Security Control Center, Spring 2027",
@@ -4979,19 +5398,6 @@
     "source": "greenhouse",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "892863fd103fcd1a3cc0a4a0bb8e3574561347e98d8006fa8fda73a388b80a45",
-    "company_name": "KCI",
-    "title": "Site/Civil Engineering Intern (Summer 2027)",
-    "location": "US-DE-Newark",
-    "url": "https://careers-kci.icims.com/jobs/8111/site-civil-engineering-intern-%28summer-2027%29/job",
-    "date_posted": "2026-09-25T18:49:04.371Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
     ]
   },
   {
@@ -6378,32 +6784,6 @@
     ]
   },
   {
-    "id": "7f09470e7fd285e63e8bb8638cdb60df3da79db4d8206fe99f544176f5bedc4c",
-    "company_name": "Kimley-Horn",
-    "title": "Electrical Engineering Intern - Power Delivery",
-    "location": "US-TX-Houston",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26759/electrical-engineering-intern---power-delivery/job",
-    "date_posted": "2026-09-23T17:48:58.458Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "c586bcfd72ea2d864682fe80cb5c1356f9ed8e5ce0c7909e6bcd8eb6df992afc",
-    "company_name": "Kimley-Horn",
-    "title": "Electrical Engineering Intern - MEP",
-    "location": "US-CA-Orange",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26738/electrical-engineering-intern---mep/job",
-    "date_posted": "2026-09-23T04:03:30.991Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
     "id": "8f3a62d37763a74bdcbf80e4d1963b4bcc30d8a77da5d5afadf7f1ffa18df182",
     "company_name": "Astranis",
     "title": "Avionics Intern (Winter 2027)",
@@ -6791,253 +7171,6 @@
     "source": "github",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "32907e2b0dec85ca9791d6422a2ea86348912f0dc4b5ccd92d010ad0fe78891b",
-    "company_name": "GFT",
-    "title": "Intern - Construction Management",
-    "location": "US-MO-St. Louis",
-    "url": "https://careers-gannettfleming.icims.com/jobs/14757/intern---construction-management/job",
-    "date_posted": "2026-09-22T22:59:11.292Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "505a002b49b3c0b7f3c1d2d2592d87c01e9352042c540b93f69654dc2bc75d58",
-    "company_name": "RS&H",
-    "title": "Civil Engineering Intern - Summer 2027",
-    "location": "US-SC-Columbia",
-    "url": "https://careers-rsandh.icims.com/jobs/8214/civil-engineering-intern---summer-2027/job",
-    "date_posted": "2026-09-22T22:59:10.886Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "f10cb43f80a70dc2daa209d09703108d06f6c2b756c20a701b74c0158b37eb20",
-    "company_name": "RS&H",
-    "title": "Civil Engineering Intern (Aviation) - Summer 2027",
-    "location": "US-FL-Tampa",
-    "url": "https://careers-rsandh.icims.com/jobs/8190/civil-engineering-intern-%28aviation%29---summer-2027/job",
-    "date_posted": "2026-09-22T22:59:10.620Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "35799744427b4ff33daf5f8d36151e7fa36136da1fff4b9b0e1553ce4c840e65",
-    "company_name": "RS&H",
-    "title": "Civil Engineering Intern (Airfields) - Summer 2027",
-    "location": "US-CA-Los Angeles",
-    "url": "https://careers-rsandh.icims.com/jobs/8158/civil-engineering-intern-%28airfields%29---summer-2027/job",
-    "date_posted": "2026-09-22T22:59:10.376Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "3e72a18be477e9dc88dec50c6c36a4e5bf3e615b5189f6e71cba043d13449e85",
-    "company_name": "RS&H",
-    "title": "Structural Engineering Intern (Bridge) - Summer 2027",
-    "location": "US-IL-St. Charles",
-    "url": "https://careers-rsandh.icims.com/jobs/8157/structural-engineering-intern-%28bridge%29---summer-2027/job",
-    "date_posted": "2026-09-22T22:59:10.097Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "0df0d844e7d6d1da7e637eac82b3ab3b1c368c9bc873cb757721debaa1bf5db2",
-    "company_name": "RS&H",
-    "title": "Civil Engineering Intern (Water Resources) - Summer 2027",
-    "location": "US-IL-St. Charles",
-    "url": "https://careers-rsandh.icims.com/jobs/8153/civil-engineering-intern-%28water-resources%29---summer-2027/job",
-    "date_posted": "2026-09-22T22:59:09.789Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "52c93b75b0c46fe7bec7956dd1b52ad2214710cc63c32556170c390bfa39619a",
-    "company_name": "RS&H",
-    "title": "Civil Engineering Intern (Highway)",
-    "location": "US-FL-Tampa",
-    "url": "https://careers-rsandh.icims.com/jobs/7733/civil-engineering-intern-%28highway%29/job",
-    "date_posted": "2026-09-22T22:59:06.662Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "05ff6539cfe37f5f6d530771fb5c052287286103aa4d9f43b07632499285f459",
-    "company_name": "KCI",
-    "title": "Structural Engineer Intern- Bridges (Summer 2027)",
-    "location": "US-MD-Sparks",
-    "url": "https://careers-kci.icims.com/jobs/8075/structural-engineer-intern--bridges-%28summer-2027%29/job",
-    "date_posted": "2026-09-22T22:59:06.078Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "c40f18f45ca87440efe01fff1584c76148eea059acdda6a3f5682f6566be2190",
-    "company_name": "CEC",
-    "title": "Civil Engineering Co-op - Spring/Summer 2027",
-    "location": "US-OH-Cincinnati",
-    "url": "https://careers-cecinc.icims.com/jobs/6600/civil-engineering-co-op---spring-summer-2027/job",
-    "date_posted": "2026-09-22T22:59:05.828Z",
-    "level": "co-op",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "6794f119e574ef2010971d5a4c5ee565b7d3b10e0addbc9cdf621a91da1f92fd",
-    "company_name": "CEC",
-    "title": "Structural Engineering Intern- Summer 2027",
-    "location": "US-PA-Pittsburgh (Moon Township)",
-    "url": "https://careers-cecinc.icims.com/jobs/6557/structural-engineering-intern--summer-2027/job",
-    "date_posted": "2026-09-22T22:59:05.480Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "cae071416c692193e51cbaa8380a373a590de645c6f568d2384f01feeb136f4b",
-    "company_name": "CEC",
-    "title": "Mechanical Engineering Internship- Summer 2027",
-    "location": "US-PA-Pittsburgh (Moon Township)",
-    "url": "https://careers-cecinc.icims.com/jobs/6558/mechanical-engineering-internship--summer-2027/job",
-    "date_posted": "2026-09-22T22:59:05.179Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
-    "id": "1ec7dc93bb00257119fda4d64ddfea65ac9a24b4fd0fc22e5e2791aa1474e2f4",
-    "company_name": "CEC",
-    "title": "Electrical Engineering Internship- Summer 2027",
-    "location": "US-PA-Pittsburgh (Moon Township)",
-    "url": "https://careers-cecinc.icims.com/jobs/6559/electrical-engineering-internship--summer-2027/job",
-    "date_posted": "2026-09-22T22:59:04.709Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "436fad02f4e575ee5725bb17e29db53d7fe682e3a42532f97e7cb70aedc829fc",
-    "company_name": "CEC",
-    "title": "Civil Engineering Intern - Summer 2027",
-    "location": "US-CA-Irvine",
-    "url": "https://careers-cecinc.icims.com/jobs/6598/civil-engineering-intern---summer-2027/job",
-    "date_posted": "2026-09-22T22:59:04.438Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "a24f7559c45caa0de34cade0fb2a16757bac9ed31665b335466bb794a2160126",
-    "company_name": "Kimley-Horn",
-    "title": "Civil Engineering Co-Op (Fall/Winter 2026)",
-    "location": "US-FL-Ocala",
-    "url": "https://careers-kimley-horn.icims.com/jobs/24543/civil-engineering-co-op-%28fall-winter-2026%29/job",
-    "date_posted": "2026-09-22T22:59:00.498Z",
-    "level": "co-op",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "df872e5df5d4fc0dbb5e5dd7a5a7a1f19c03bd572b07960663867cc459f30f6f",
-    "company_name": "Kimley-Horn",
-    "title": "Civil Engineering Intern - Transportation/ Traffic",
-    "location": "US-CA-Sacramento",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26029/civil-engineering-intern---transportation--traffic/job",
-    "date_posted": "2026-09-22T22:58:59.609Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "25f0ea8ca9151a7eae7b179ec4b64c9f04318d1acbf4482dc6cd621d8302893e",
-    "company_name": "Kimley-Horn",
-    "title": "Structural Engineering Intern - Buildings",
-    "location": "US-MN-Saint Paul",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26577/structural-engineering-intern---buildings/job",
-    "date_posted": "2026-09-22T22:58:59.254Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
-    ]
-  },
-  {
-    "id": "b3d3355fbe0b9824c177a5bef876272f5083df987cc0a48d6def3a1f91cc7b78",
-    "company_name": "Kimley-Horn",
-    "title": "Mechanical Engineering Intern",
-    "location": "US-FL-Palm Beach Gardens",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26609/mechanical-engineering-intern/job",
-    "date_posted": "2026-09-22T22:58:57.271Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
-    "id": "80cb39a44ac43ed2ee5c15d7ce6b942abafd7f1d6267b13f1ee5640ff34e5ab7",
-    "company_name": "Kimley-Horn",
-    "title": "Electrical Engineering Intern",
-    "location": "US-FL-Orlando",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26613/electrical-engineering-intern/job",
-    "date_posted": "2026-09-22T22:58:56.987Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "2a293498afa8c8b60c3e2ee9f4a16de3ec1b1807647294ee87e9b2c18481b0d7",
-    "company_name": "Kimley-Horn",
-    "title": "Civil Engineering Intern",
-    "location": "US-WA-Spokane",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26632/civil-engineering-intern/job",
-    "date_posted": "2026-09-22T22:58:56.498Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "civil-structural"
     ]
   },
   {
