@@ -434,19 +434,6 @@
     ]
   },
   {
-    "id": "c3f649f8eeab2bad72667c7e626fdcd08e80eb4c842dade228371d4a759ae19e",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - MS - PhD - Software Engineer",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
-    "date_posted": "2026-10-07T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "c4790c9cbf2da4a8e4f6b92e837b4494be3a75abdd1387507e8b0e9129cb3d1e",
     "company_name": "Dow Jones",
     "title": "Data Analyst Intern",
@@ -483,19 +470,6 @@
     "source": "github",
     "role_families": [
       "ml"
-    ]
-  },
-  {
-    "id": "e273542fad03a4b0265aa3b26a2e1022caf1af6624b818278b9f2d6b8eeb0cba",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - BS - Software Engineer - Model Eval",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-    "date_posted": "2026-10-07T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -567,48 +541,6 @@
     "id": "377f97df41c03a6eade2890e91c2e4560aeb5cfe8583f876981f8138106e9978",
     "company_name": "Lyft",
     "title": "Software Engineer Intern, Machine Learning, PhD only (Summer 2027)",
-    "location": "San Francisco, CA",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
-    "date_posted": "2026-10-06T20:01:21.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe",
-      "ml"
-    ]
-  },
-  {
-    "id": "98445b9c7e1baeef280d3c025865c343c18189ce443bf6a3a6c9ad9cf5a48df3",
-    "company_name": "Lyft",
-    "title": "Software Engineer Intern, Machine Learning, PhD (Summer 2027)",
-    "location": "San Francisco, CA",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
-    "date_posted": "2026-10-06T20:01:21.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe",
-      "ml"
-    ]
-  },
-  {
-    "id": "d7094cedb91cf95859d03ad49563c6e85802d8f772a7d86d76222cb4da0052f4",
-    "company_name": "Lyft",
-    "title": "PhD Software Engineer Intern, Machine Learning (Summer 2027)",
-    "location": "San Francisco, CA",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
-    "date_posted": "2026-10-06T20:01:21.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe",
-      "ml"
-    ]
-  },
-  {
-    "id": "efcd0982123ece76c75ce5b2ebd215b6a4b09f4c742d4d684a6c06696865a373",
-    "company_name": "Lyft",
-    "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
     "location": "San Francisco, CA",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
     "date_posted": "2026-10-06T20:01:21.000Z",
@@ -1246,19 +1178,6 @@
     ]
   },
   {
-    "id": "f736571af43fba49cccb1e7bd38e54b9356856e09e838b2e5fd73c825fe9e0b1",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - MS/PhD - Software Engineer - Eval Data Infra",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
-    "date_posted": "2026-10-06T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "f98a6b8504a5ba26ad6a4e67dfc9b45ec1c5203a6b47bbc747db7995b8d1d0c4",
     "company_name": "Marathon Petroleum",
     "title": "Associate Business Systems Analyst, Refining Reliability and Maintenance (Intern to Full-Time Conversion)",
@@ -1465,19 +1384,6 @@
     "source": "github",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "597ecbddef6e31ad25fd85562db0d6c845ccb904fd0b3b3a0481cd23b44a5bd6",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - MS/PhD - Eval Data Infra 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-10-05T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -2747,38 +2653,12 @@
     ]
   },
   {
-    "id": "f3bfcb178e01b02d3731e080d0f3abdba44b4c42c6c2439682601dd01f8cfcc0",
-    "company_name": "Pinterest",
-    "title": "Master's Machine Learning Internship 2027 (USA) *Fall",
-    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138094",
-    "date_posted": "2026-10-01T17:01:56.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "ml"
-    ]
-  },
-  {
     "id": "cadeac382d3f248db7663231cdd830ff2b765172757240ff2fc29a645fcdbbc6",
     "company_name": "Pinterest",
     "title": "PhD Machine Learning Internship 2027 (USA)",
     "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
     "date_posted": "2026-10-01T17:01:32.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "ml"
-    ]
-  },
-  {
-    "id": "9c6510f818fb4fae8467e85685aad63473aedee95277fef93c037923dc4bfab9",
-    "company_name": "Pinterest",
-    "title": "PhD Machine Learning Internship 2027 (USA) *Fall",
-    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140150",
-    "date_posted": "2026-10-01T17:01:21.000Z",
     "level": "internship",
     "source": "greenhouse",
     "role_families": [
@@ -2995,19 +2875,6 @@
     ]
   },
   {
-    "id": "45231d067ed1c90764d52e257fc153c38cb90f9b87fd0a8fbe99d3c721eddd15",
-    "company_name": "Pinterest",
-    "title": "Software Engineer Intern 2027 - USA",
-    "location": "Remote - San Francisco, CA",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
-    "date_posted": "2026-10-01T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "469ebb274a4d50bad9e98773675b71c00e8f12f5ab6ae6e94a14fd9b0ea6f7e8",
     "company_name": "Keysight Technologies",
     "title": "R&D Electrical Engineering Intern",
@@ -3178,19 +3045,6 @@
     ]
   },
   {
-    "id": "83b2480287fa4013781056964dbccff782f965bc559e666045a1026edb725f85",
-    "company_name": "🔥 Stripe",
-    "title": "Data Analyst Intern",
-    "location": "Seattle, WASouth SFNYC",
-    "url": "https://stripe.com/jobs/search?gh_jid=8194291&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-10-01T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "data"
-    ]
-  },
-  {
     "id": "854c8225871d1bd934bf105233bb648c8d4e1c72a68a306cfb7a9d6c6cd37ed8",
     "company_name": "Microsoft",
     "title": "Software Engineer: Security & Identity Intern Opportunities for University Students - Redmond",
@@ -3240,19 +3094,6 @@
     "source": "github",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "9053aac344b92460fab3c690ac4b60d4cf6fc48954be02f9308501d99a7843cb",
-    "company_name": "🔥 Pinterest",
-    "title": "Machine Learning Intern 🎓",
-    "location": "4 locationsPalo Alto, CASeattle, WASFNYC",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-10-01T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "ml"
     ]
   },
   {
@@ -3412,19 +3253,6 @@
     ]
   },
   {
-    "id": "c41795fdefdf56523fd23f17b03c6bac09ebfb76f1a324febe7078c0c2af87dc",
-    "company_name": "🔥 Pinterest",
-    "title": "Software Engineer Intern",
-    "location": "SFRemote in USA",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-10-01T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "c9cf0bbd301aefebca5ed41ab174eec39e7b6eb8645eba584641a63ab4d88470",
     "company_name": "Rivian",
     "title": "Software Engineer Intern Co-op - Applied AI 🎓",
@@ -3487,19 +3315,6 @@
     "source": "workday",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "dd4849b68f0f5697ee95946ba665cdfbc54adea3b5076d8ec61fdbf078d52de1",
-    "company_name": "🔥 Stripe",
-    "title": "Data Scientist Intern 🎓",
-    "location": "Seattle, WASouth SFNYC",
-    "url": "https://stripe.com/jobs/search?gh_jid=8194283&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-10-01T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "data"
     ]
   },
   {
@@ -3727,19 +3542,6 @@
     ]
   },
   {
-    "id": "164ab3e959e763a1ec71e08aef462c4dd4fab6f566f225b5752a090c93cee4fe",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - MS/PhD - Software Engineer - Onboard Developer Platform",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
-    "date_posted": "2026-09-30T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "1b85279c0b75d9f6950d196f0d5cd8dfd99255ae9211b84b49c2b7f5a9957470",
     "company_name": "Wellmark",
     "title": "Software Engineer Intern - Metadata Enablement Team",
@@ -3919,19 +3721,6 @@
     "source": "github",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "9398cf11c114642476c9c1d63b3ebd83cdd47fdf7627fba880f5695149943311",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - MS/PhD - Onboard Developer Platform 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-30T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -4486,19 +4275,6 @@
     ]
   },
   {
-    "id": "7f1939624c14948fc35a95ee866769bd3d77ec0e55fbedb001a7f7a62854fe7d",
-    "company_name": "🔥 Waymo",
-    "title": "Machine Learning Research Intern - Planning/Prediction 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-29T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "ml"
-    ]
-  },
-  {
     "id": "89aa07e7bb5240c3f0634cf815b5ee605be57233add0e8daf6884b15e9c669b4",
     "company_name": "Renesas Electronics",
     "title": "Design Verification Intern",
@@ -4548,19 +4324,6 @@
     "source": "github",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "9df6525cec2f66ec9a80b858fb8c7cad4603c91424e921da119c2dfea8227f10",
-    "company_name": "🔥 Waymo",
-    "title": "Planner Machine Learning Intern 🎓",
-    "location": "SF",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234876&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-29T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "ml"
     ]
   },
   {
@@ -4837,19 +4600,6 @@
     ]
   },
   {
-    "id": "e4adff83e57b6cdb23a3a16a80aae162e677fd2782d021502d2eece8ac3a1f56",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern, PhD, Machine Learning Research",
-    "location": "Mountain View, CA, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
-    "date_posted": "2026-09-28T21:05:14.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "ml"
-    ]
-  },
-  {
     "id": "7b4d6c55edb2b34b6b145cc09b977b3a9bead23f72e25db5c989a38febdab695",
     "company_name": "RS&H",
     "title": "Civil Engineering Intern (Transportation Development) - Summer 2027",
@@ -5101,20 +4851,6 @@
     ]
   },
   {
-    "id": "4d4feaf584f9dda059f9f2f5625fb950838844e0e402c52c2d172878f8f4cca9",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - MS/PhD - Software Engineer - Sys Intel & Machine Learning",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
-    "date_posted": "2026-09-26T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe",
-      "ml"
-    ]
-  },
-  {
     "id": "6722516e42180d7bb34220cb352e6c7e5204468d33141c231f8a42fc7d6272c6",
     "company_name": "Qorvo",
     "title": "Electrical Design Engineer Intern 🎓",
@@ -5133,19 +4869,6 @@
     "title": "Embedded Systems Intern",
     "location": "Berkeley, CA",
     "url": "https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da",
-    "date_posted": "2026-09-26T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "c573e915c237ea4339ea0de63956f2115de76341121cc5fa38625b1c7f5bdb5b",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - BS - Software Engineer - Driver Refinement Foundations",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
     "date_posted": "2026-09-26T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -5363,19 +5086,6 @@
     ]
   },
   {
-    "id": "4f58766691e6f077c868896ecb5fb99de299071d9aedc4013b4f5b183739abcc",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - Driver Refinement Foundations",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-25T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "50f0bab9cb60c74a59dc6bed13bf028e5a331f606e5113259a34b3dce6407a31",
     "company_name": "Astranis",
     "title": "RF Validation Intern",
@@ -5491,20 +5201,6 @@
     "source": "github",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "933bd8cb259229acb999a253724c61f55f95152e8864a7b6e1f798495a44de2b",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - MS/PhD - Systems Intelligence & Machine Learning 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-25T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe",
-      "ml"
     ]
   },
   {
@@ -6106,19 +5802,6 @@
     ]
   },
   {
-    "id": "70e1ca8d70559691a76e8b7928b6a47790eea726cab3c545cd2b71052bb035b8",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - MS/PhD - Software Engineer",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
-    "date_posted": "2026-09-24T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "71f1d54c82caa6b05a23271b09362e548e28f7c592764dfadc7efe50a377fffe",
     "company_name": "Brightstar.AI",
     "title": "Applied AI Engineer Intern - Advancing Agent Quality 🎓",
@@ -6643,32 +6326,6 @@
     ]
   },
   {
-    "id": "719466a1c8c76a3eeb3634270c0dc2fc96d656866720eec89d0e7d033039fe56",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
-    "location": "Mountain View, California",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-    "date_posted": "2026-09-23T19:28:48.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "ml"
-    ]
-  },
-  {
-    "id": "778a026c705d0ec1fed9dc231e7d44283882c3526aa67ad0366718b28cb63652",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern, PhD, Road Understanding, ML Engineer",
-    "location": "Mountain View, California",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-    "date_posted": "2026-09-23T19:28:48.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "ml"
-    ]
-  },
-  {
     "id": "bf8b482d2830aa8795d77e167a04656bce22d8861fb95b0d663fc6a50cbd67f8",
     "company_name": "Waymo",
     "title": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
@@ -6890,19 +6547,6 @@
     ]
   },
   {
-    "id": "2c49054843ac65b25f75fda389c67aee48c4dc6be8f103fab7aaa07e4178dc36",
-    "company_name": "🔥 Waymo",
-    "title": "Machine Learning Engineer Intern - MS/PhD - Simulator Realism Evaluation 🎓",
-    "location": "SF",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-23T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "ml"
-    ]
-  },
-  {
     "id": "51cf64ed92ca858a03d58b55322579036246d2c5d2af91f89c9ca9aa71ed6813",
     "company_name": "AQR Capital Management",
     "title": "Machine Learning Research Associate Intern 🎓",
@@ -7082,19 +6726,6 @@
     "source": "github",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "f0b7dcd41ac250ec8815d9bde7b1196bcfa6a873b9cf68fdd686ca331d29f87c",
-    "company_name": "🔥 Waymo",
-    "title": "Machine Learning Engineer Intern - Road Understanding 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-23T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "ml"
     ]
   },
   {
@@ -7592,19 +7223,6 @@
     ]
   },
   {
-    "id": "2778342d63bc17f9c2c39f0fc41d7e3bbd7506a69a1b5b72a77704127fe6353b",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - MS/PhD - Software Engineer - Simulation Evaluation ML Model",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "2a14225ab37d691cd5c8497ea5858e1f913cdb6ca93fd3a7331ce7a4d9fabc13",
     "company_name": "EMC Insurance",
     "title": "Software Engineer Intern",
@@ -7623,19 +7241,6 @@
     "title": "Full-Stack Software Engineer Intern - MIM Commercialized Web Applications",
     "location": "Beachwood, OH",
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Full-Stack-Software-Engineering-Intern---MIM-Commercialized-Web-Applications_R4046583-1?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "34e12f29d91fd9c401390d9159ed70a20858972c9bddcd6a94f404d477e65388",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - BS/MS - Embedded - Software Engineer",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
     "date_posted": "2026-09-22T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -7667,19 +7272,6 @@
     "source": "github",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "468a0ddc97dc5ff1c932218df65a59452df1f8a56a32765f9d8a2de361290bdc",
-    "company_name": "🔥 Waymo",
-    "title": "Machine Learning Engineer Intern - MS/PhD 🎓",
-    "location": "SF",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "ml"
     ]
   },
   {
@@ -7732,19 +7324,6 @@
     "source": "github",
     "role_families": [
       "swe"
-    ]
-  },
-  {
-    "id": "584ee59365508776977d96fe46b6a699ba69bce5628940efdcaf52e617225308",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - MS/PhD - Software/ML Engineer - Simulation",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "ml"
     ]
   },
   {
@@ -8022,19 +7601,6 @@
     ]
   },
   {
-    "id": "c0caf9e6c7d847d772469c9a9693c8c8bdf32c73fe1e0362a12b8e64f3491a6e",
-    "company_name": "🔥 Waymo",
-    "title": "Embedded Intern - Software Engineer",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "c3559c3fc04efcbbbaddad9bf39cde437c4696dbffedc17c81cab947d63d2de4",
     "company_name": "CAI",
     "title": "Data Analyst Intern",
@@ -8126,19 +7692,6 @@
     ]
   },
   {
-    "id": "e361a6bbd563626441387eca72bf6a9c9851bc748d31ed10eec2a071de0e7ed8",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - MS/PhD - Simulation 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "e396519c4d21ebe54d6b34e1603615ef5a916d869ff05d147917549355840c90",
     "company_name": "Electronic Arts",
     "title": "Analytics Intern",
@@ -8162,19 +7715,6 @@
     "source": "github",
     "role_families": [
       "ml"
-    ]
-  },
-  {
-    "id": "eb90ae134d2d1f60830b4a6ad0f2cf3fceedc747d3db444157378d11518da2f9",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - Simulation Evaluation ML Model 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-22T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -8972,19 +8512,6 @@
     ]
   },
   {
-    "id": "4b37fe2bfc2ea7a7e9630330fa6e975742dcab1564df86575bae92e2191e2947",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - MS/PhD - Software Engineer - Multiverse",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
-    "date_posted": "2026-09-20T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "70c07a7f3259cfd4d92fd4503f2c193c8931c701ac1603743c0153a3cf85997c",
     "company_name": "Acron Aviation",
     "title": "Software Engineer Intern - St. Pete Site",
@@ -9060,19 +8587,6 @@
     "source": "github",
     "role_families": [
       "hardware"
-    ]
-  },
-  {
-    "id": "1a767db8b724798db34c6352a0b56f19701312ad90c2c3d084c27349464c557b",
-    "company_name": "Together AI",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
-    "date_posted": "2026-09-19T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -9298,19 +8812,6 @@
     ]
   },
   {
-    "id": "a187563b701e0a706ad6df721473c844a385e25153bb333d22a52c3c9caf3a8f",
-    "company_name": "Tower Research Capital",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "New York City, NY",
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
-    "date_posted": "2026-09-19T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "ad442e9d8dc41d57baa8f453a5f59b9b98c5b142cbb9616ccc2f089a171713c2",
     "company_name": "Klaviyo",
     "title": "Product Manager Co-op - Spring 2027",
@@ -9350,37 +8851,11 @@
     ]
   },
   {
-    "id": "c1c4a4c43854fbd2446e18bdbfe9c80301760b6b4e188ee9b9ccdece85504a56",
-    "company_name": "Together AI",
-    "title": "Software Engineer Intern - Winter 2027",
-    "location": "SF",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-19T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "cc1602de6c22952fc5c51cd465637fb930ffbbc3784958582cb19b7fe2d8ce66",
     "company_name": "Charles Schwab",
     "title": "2027 Technology Intern - Site Reliability Engineering",
     "location": "Austin, TX",
     "url": "https://career-schwab.icims.com/jobs/126229/2027-technology-intern---site-reliability-engineering/job",
-    "date_posted": "2026-09-19T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "cc866335afe5be65f810bfe5b991fe871b7f1774fc17c10871771ece79e70f56",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - MS/PhD 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519&utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-09-19T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -9399,19 +8874,6 @@
     "source": "github",
     "role_families": [
       "pm-program"
-    ]
-  },
-  {
-    "id": "eb3c05a55166a8f092012dbfc630053f0dfcd6f3d33293d78f04bf12ed92626d",
-    "company_name": "Together AI",
-    "title": "Software Engineer Intern",
-    "location": "SF",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-19T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -9687,19 +9149,6 @@
     "source": "github",
     "role_families": [
       "hardware"
-    ]
-  },
-  {
-    "id": "5627da71e3a510142f6c68089031e7faab9823f928948d6657c79d61774f5f93",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - PhD - Quantitative Software Engineer",
-    "location": "San Francisco, CA +1",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-    "date_posted": "2026-09-18T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -10426,19 +9875,6 @@
     ]
   },
   {
-    "id": "2a1e76d577bcc4de6ea29846151764df2545c15105c3857c96ad6bcaf985202f",
-    "company_name": "🔥 Waymo",
-    "title": "Quantitative Software Engineer Intern 🎓",
-    "location": "SFMountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-17T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "3096cde1d89cf6259e7e151de0885999d6e2290b2ccfe280bf0710728c890d70",
     "company_name": "RTX",
     "title": "Electrical Firmware Co-op",
@@ -10602,32 +10038,6 @@
     "url": "https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a",
     "date_posted": "2026-09-17T00:00:00.000Z",
     "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "6810a6666da898aeb8f1b8b86c0204be37716144613d3e71a1390ba173bbae1c",
-    "company_name": "🔥 Waymo",
-    "title": "Machine Learning Intern - Computer Vision 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-17T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "ml"
-    ]
-  },
-  {
-    "id": "6c7c56336163ffaa3bc6093a0b31bab8a385f9379e10ccc518992cfe240fe2b1",
-    "company_name": "Anduril",
-    "title": "Winter 2027 Software Engineer Co-op",
-    "location": "Quincy, MA",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
-    "date_posted": "2026-09-17T00:00:00.000Z",
-    "level": "co-op",
     "source": "github",
     "role_families": [
       "swe"
@@ -10840,32 +10250,6 @@
     "source": "github",
     "role_families": [
       "electrical"
-    ]
-  },
-  {
-    "id": "a34ff013ef234932115b64f32c0cc3f3287d6a7d6dc470763f25fa34e72888fc",
-    "company_name": "Anduril",
-    "title": "2027 Flight Software Engineer Intern",
-    "location": "Costa Mesa, CA",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-    "date_posted": "2026-09-17T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "a5d5c034f26ff641cbb4a83eba582b2c30080aa07123f73522edc3fa942a3da2",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - MS/PhD 🎓",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-17T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -11289,19 +10673,6 @@
     ]
   },
   {
-    "id": "a4abb84175d258aae9c27376f162a7b35ae262123f12787081f0c8c0387ab5e9",
-    "company_name": "Rocket Lab Corporation",
-    "title": "RF Engineering Intern Summer 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991657003",
-    "date_posted": "2026-09-16T16:01:30.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
     "id": "04df24ca506c06a9b132f47b90684f48d3ecf0c02f4a2765ae018f8bb75b1535",
     "company_name": "APEX Analytix",
     "title": "Data Analyst Intern - Summer 2027",
@@ -11352,19 +10723,6 @@
     "role_families": [
       "swe",
       "other"
-    ]
-  },
-  {
-    "id": "136d3ac3963ccb858bad55ac98dd99077c82a7b094b0c770da176fe483577818",
-    "company_name": "EquipmentShare",
-    "title": "Intern: Engineering - Embedded",
-    "location": "Columbia, MO",
-    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8142763",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -11452,19 +10810,6 @@
     "title": "Software Engineer Intern",
     "location": "United States",
     "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "18beb0d5e0b865c9c8011618231545d25d6a783b0ff03b6c7f6d5503752f7717",
-    "company_name": "Figma",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "San Francisco, CA +1",
-    "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
     "date_posted": "2026-09-16T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -11584,32 +10929,6 @@
     "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926",
     "date_posted": "2026-09-16T00:00:00.000Z",
     "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "35c4807b0a0bdd0fff678b7138724d2b2f409772a1dbb8f870d15e08e80a202d",
-    "company_name": "🔥 Duolingo",
-    "title": "Software Engineer Intern - Thrive",
-    "location": "Pittsburgh, PA",
-    "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "389abec222a7942492fccd91173922e4f1d433af4cf105eba67f9bd74abb1c63",
-    "company_name": "Anduril",
-    "title": "Software Engineer Co-op",
-    "location": "Quincy, MA",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "co-op",
     "source": "github",
     "role_families": [
       "swe"
@@ -11812,19 +11131,6 @@
     ]
   },
   {
-    "id": "7dd86b5d6a23e405b7b2c437383850015c918dcf7b24bf24085302fc5a650efc",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern - BS/MS - Software Engineer",
-    "location": "San Francisco, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "801ae0bedfa16d0eee82d3289292ebe46bfb03b44e2bafe9c7166517c28cdf63",
     "company_name": "Wellmark",
     "title": "Software Engineer Intern",
@@ -11882,32 +11188,6 @@
     "title": "Firmware Engineering Intern",
     "location": "Austin, TX",
     "url": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "9a3559ca4b066d3c495102337a86f6fd2b79bdf363ca5326896e1b805b1f9853",
-    "company_name": "Anduril",
-    "title": "Electrical Engineer Co-op",
-    "location": "Quincy, MACosta Mesa, CA",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "co-op",
-    "source": "github",
-    "role_families": [
-      "electrical"
-    ]
-  },
-  {
-    "id": "9a707dc3bad268556005ab8d90dc1016fe819e1ec82fd4f9745fd6acbddece4e",
-    "company_name": "Anduril",
-    "title": "Flight Software Engineer Intern",
-    "location": "Costa Mesa, CA",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-09-16T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -12143,19 +11423,6 @@
     "title": "Firmware Engineer Intern",
     "location": "West Union, SC",
     "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-16T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "f075dbb1ca8703353e361c819880cca140d722faa78028335c12beb526ffb783",
-    "company_name": "🔥 Duolingo",
-    "title": "Software Engineer Intern",
-    "location": "Seattle, WAPittsburgh, PANYC",
-    "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002&utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-09-16T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -12412,19 +11679,6 @@
     ]
   },
   {
-    "id": "1b317885a2f81724015f623e38cfc063e261c6e87ccbd30e6dee40d192678347",
-    "company_name": "Robinhood",
-    "title": "Software Engineering Intern - iOS - Summer 2027",
-    "location": "Menlo Park, CA +1",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "245793f8e2a55043613e337d50f328cdae14a1c085b676770b5dbaf6cf277f0a",
     "company_name": "🔥 Tesla",
     "title": "Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027",
@@ -12529,19 +11783,6 @@
     ]
   },
   {
-    "id": "3a31958d9782e3b80f51fdb1860190ebd1d238c9e684b9fc0ae09460241e8256",
-    "company_name": "🔥 Robinhood",
-    "title": "Software Engineer Intern - Android - Summer 2027",
-    "location": "Menlo Park, CANYC",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "3bb9ac750e3c9e22014719680eeb10ee0fc6524b1dd94d5e45b588b378e4b836",
     "company_name": "Wabtec",
     "title": "Firmware Engineer Co-op",
@@ -12565,19 +11806,6 @@
     "source": "github",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "42938916437849806f4942ea9bfe03b27f686065ee8391ddb19cc98170366f85",
-    "company_name": "🔥 Waymo",
-    "title": "Software Engineer Intern - BS/MS",
-    "location": "SF",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -12657,19 +11885,6 @@
     "role_families": [
       "swe",
       "other"
-    ]
-  },
-  {
-    "id": "54d03099fd44849dc7606736fb5944636168d6467d623c9b5b8f983e5b0b50ea",
-    "company_name": "🔥 Robinhood",
-    "title": "Software Engineer Intern - Backend",
-    "location": "Menlo Park, CANYCBellevue, WA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -12881,19 +12096,6 @@
     ]
   },
   {
-    "id": "80e663535acd49fc682a97c3ff95b3ed2a8158f0698e5c29175baa0d26123650",
-    "company_name": "🔥 Waymo",
-    "title": "Human Behavior Analytics Intern - Safety Research",
-    "location": "Mountain View, CA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899&utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "data"
-    ]
-  },
-  {
     "id": "863ad450112c3cd671bf6affde9eace42cc038446f3d3b22e14134f654f1eb69",
     "company_name": "Awardco",
     "title": "Back-End Software Engineer Intern",
@@ -13011,19 +12213,6 @@
     ]
   },
   {
-    "id": "8e608154ca3174dbfd705d6846a35a312c1e5935547b0d6da18ffae1f13a2688",
-    "company_name": "🔥 DoorDash",
-    "title": "Software Engineer Intern - Summer 2027",
-    "location": "5 locationsSeattle, WASFLANYCSunnyvale, CA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "90a17adb3520d28aa85442291a2f2e7c6b0543909cc3c46feed45f0002362f12",
     "company_name": "North Atlantic Industries",
     "title": "Software Engineer Intern",
@@ -13081,19 +12270,6 @@
     "title": "DevOps & AI Engineering Intern - Undergraduate",
     "location": "Remote - USA",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "9c3cfd8ac64b8092ad018252d9ba445562501a0b49ebbf1bf1a1d89b686efe17",
-    "company_name": "EquipmentShare",
-    "title": "Software Engineer Intern",
-    "location": "Columbia, MO",
-    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926&utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-09-15T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -13221,32 +12397,6 @@
     ]
   },
   {
-    "id": "c8cedd5b2a5857583aeb6aefbfa0d6c971ae2ff31c38a72cb4430f485f52b0e1",
-    "company_name": "🔥 Robinhood",
-    "title": "Software Engineer Intern - iOS - Summer 2027",
-    "location": "Menlo Park, CANYC",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "cc2591bf5153acefabd061e06e5a9ddebac0288ab364bb549f617a6470fcc7ab",
-    "company_name": "🔥 Figma",
-    "title": "Software Engineer Intern",
-    "location": "SFNYC",
-    "url": "https://boards.greenhouse.io/figma/jobs/6143238004?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "cdf7aeac9998f96ebe0d6d23c252739961c368cc0973fac770056b38c70f9c29",
     "company_name": "Plastipak",
     "title": "Software Engineer Intern",
@@ -13361,32 +12511,6 @@
     "source": "github",
     "role_families": [
       "data"
-    ]
-  },
-  {
-    "id": "e414ba8adaaf843302e004ace356b0b8caca008c7914d2f8b5d4e160c59b7a4c",
-    "company_name": "🔥 Robinhood",
-    "title": "People Insights & Analytics Intern - Summer 2027 🎓",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "data"
-    ]
-  },
-  {
-    "id": "e56d14eb44fed87af45079337226505dd1943aaf5a1b0c9cbf08bad41cd0fdf0",
-    "company_name": "Robinhood",
-    "title": "Software Engineering Intern - Android - Summer 2027",
-    "location": "Menlo Park, CA +1",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -13520,19 +12644,6 @@
     ]
   },
   {
-    "id": "dd4e8a129418ee777feaafb3ee6babd443501652abdda09724a76eeb61613b6a",
-    "company_name": "Anduril Industries",
-    "title": "2027 Manufacturing Optimization Engineer Intern",
-    "location": "Ashville, Ohio, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007",
-    "date_posted": "2026-09-14T19:30:12.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "653413fd91a61867a74af732b680be899718aea23d1b56d8327d45a29b29f7d3",
     "company_name": "Waymo",
     "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
@@ -13569,19 +12680,6 @@
     "source": "greenhouse",
     "role_families": [
       "other"
-    ]
-  },
-  {
-    "id": "6a0c857c150806c8d276c85246f141a53273ffc523b23785160a372a4c838ee1",
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern, BS/MS, Software Engineer",
-    "location": "San Francisco, California",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
-    "date_posted": "2026-09-14T16:08:24.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe"
     ]
   },
   {
@@ -14248,19 +13346,6 @@
     "role_families": [
       "mechanical",
       "chemical"
-    ]
-  },
-  {
-    "id": "aa3cd52bcc1b36c2290e6ccbfc532ff12730ea34d6f93225765266e1e145d7f5",
-    "company_name": "Figure",
-    "title": "Hardware Test Intern [Fall 2026]",
-    "location": "San Jose, CA",
-    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-    "date_posted": "2025-10-24T21:51:10.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "hardware"
     ]
   },
   {
