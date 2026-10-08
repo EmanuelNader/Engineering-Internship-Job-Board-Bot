@@ -57,7 +57,14 @@ export function buildOnboardEmbed(families?: RoleFamily[]): EmbedBuilder {
     )
     .addFields(
       { name: "What it scrapes", value: sourceBlurb() },
-      { name: "Choose your pings", value: reactions }
+      { name: "Choose your pings", value: reactions },
+      {
+        name: "Also on GitHub",
+        value: [
+          "Same jobs, different view. Star the repo if you like the bot.",
+          "https://github.com/EmanuelNader/Engineering-Internship-Job-Board-Bot",
+        ].join("\n"),
+      }
     );
 }
 
