@@ -25,7 +25,7 @@ describe("deployCommands", () => {
     process.env.DISCORD_TOKEN = "test-token";
   });
 
-  it("publishes global commands then a guild copy so a new invite has / immediately", async () => {
+  it("publishes global commands and clears per-server copies", async () => {
     const client = {
       user: { id: "bot_1" },
       guilds: {
@@ -42,14 +42,14 @@ describe("deployCommands", () => {
       body: expect.any(Array),
     });
     expect(put).toHaveBeenCalledWith(Routes.applicationGuildCommands("bot_1", "guild_a"), {
-      body: expect.any(Array),
+      body: [],
     });
     expect(put).toHaveBeenCalledWith(Routes.applicationGuildCommands("bot_1", "guild_b"), {
-      body: expect.any(Array),
+      body: [],
     });
   });
 
-  it("on join only refreshes that guild so / shows without waiting for global lag", async () => {
+  it("on join clears that server instead of registering a second command set", async () => {
     const client = {
       user: { id: "bot_1" },
       guilds: { cache: { values: () => [][Symbol.iterator]() } },
@@ -58,9 +58,11 @@ describe("deployCommands", () => {
 
     await deployCommands(client, guild);
 
-    expect(put).not.toHaveBeenCalledWith(Routes.applicationCommands("bot_1"), expect.anything());
-    expect(put).toHaveBeenCalledWith(Routes.applicationGuildCommands("bot_1", "guild_new"), {
+    expect(put).toHaveBeenCalledWith(Routes.applicationCommands("bot_1"), {
       body: expect.any(Array),
+    });
+    expect(put).toHaveBeenCalledWith(Routes.applicationGuildCommands("bot_1", "guild_new"), {
+      body: [],
     });
   });
 });

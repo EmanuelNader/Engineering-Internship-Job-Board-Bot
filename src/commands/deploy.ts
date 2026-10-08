@@ -13,9 +13,8 @@ const commands = [
 ].map((c) => c.toJSON());
 
 /**
- * Publish slash commands so they show up the first time someone types `/`.
- * Global copy: every future invite inherits them (Discord can lag up to an hour on first publish).
- * Guild copy: available immediately in that server, including a join while the bot is already running.
+ * Publish slash commands once, for every server.
+ * A second copy registered on the server makes Discord list each command twice.
  */
 export async function deployCommands(client: Client, guild?: Guild): Promise<void> {
   const rest = new REST({ version: "10" }).setToken(process.env.DISCORD_TOKEN!);
@@ -23,16 +22,12 @@ export async function deployCommands(client: Client, guild?: Guild): Promise<voi
     throw new Error("Cannot deploy commands before the Discord client is logged in.");
   }
 
-  if (!guild) {
-    await rest.put(Routes.applicationCommands(client.user.id), { body: commands });
-    console.log(`Deployed ${commands.length} global slash commands`);
-  }
+  await rest.put(Routes.applicationCommands(client.user.id), { body: commands });
+  console.log(`Deployed ${commands.length} global slash commands`);
 
   const guilds = guild ? [guild] : [...client.guilds.cache.values()];
   for (const target of guilds) {
-    await rest.put(Routes.applicationGuildCommands(client.user.id, target.id), {
-      body: commands,
-    });
-    console.log(`Deployed ${commands.length} slash commands to ${target.name} (${target.id})`);
+    await rest.put(Routes.applicationGuildCommands(client.user.id, target.id), { body: [] });
+    console.log(`Cleared server-specific slash commands in ${target.name} (${target.id})`);
   }
 }
