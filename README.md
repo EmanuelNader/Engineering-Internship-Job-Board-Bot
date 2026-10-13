@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1033 roles.
+1034 roles.
 
-- [Software Engineering](#software-engineering) (437)
+- [Software Engineering](#software-engineering) (438)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (96)
 - [Data Science](#data-science) (200)
@@ -163,6 +163,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384?utm_source=Simplify&ref=Simplify) | Software Engineer Co-op - Spring/Summer 2027 | Cedar Rapids, IA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384?utm_source=Simplify&ref=Simplify) | 2w |
 | [Amazon](https://www.amazon.jobs/jobs/10567914/apply) | Software Development Engineer Intern - Embedded Systems - Summer 2027 - USA | Seattle, WA | [Apply](https://www.amazon.jobs/jobs/10567914/apply) | 2w |
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/en-US/q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798) | 2027 Summer Internship - Software Engineer | Cary, NC | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/en-US/q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798) | 2w |
+| [Cisco](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | Firmware Engineer II - Co-op - United States | Maynard, MA | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | 2w |
 | [🔥 Tesla](https://www.tesla.com/careers/search/job/284925?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Data Transformations | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/284925?utm_source=Simplify&ref=Simplify) | 2w |
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Middleware--Intern-Conversion-_JR31674?utm_source=Simplify&ref=Simplify) | Software Engineer 1 Intern - Middleware | Oak Brook, IL | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Middleware--Intern-Conversion-_JR31674?utm_source=Simplify&ref=Simplify) | 2w |
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813547669?utm_source=Simplify&ref=Simplify) | R&D Firmware Engineer Intern | Arden Hills, MN | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813547669?utm_source=Simplify&ref=Simplify) | 2w |
