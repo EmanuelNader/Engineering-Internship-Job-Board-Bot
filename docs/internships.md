@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1036 roles.
+1034 roles.
 
-- [Software Engineering](#software-engineering) (439)
+- [Software Engineering](#software-engineering) (437)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (96)
 - [Data Science](#data-science) (200)
@@ -293,8 +293,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Gemini](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272&utm_source=Simplify&ref=Simplify) | Software Engineer Intern | NYC | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272&utm_source=Simplify&ref=Simplify) | 3w |
 | [🔥 Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556982258?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Redmond, WASanta Clara, CA | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556982258?utm_source=Simplify&ref=Simplify) | 3w |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8214519) | 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse | Mountain View, California, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8214519) | 3w |
-| [Together AI](https://job-boards.greenhouse.io/togetherai/jobs/5238031007) | Software Engineer Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238031007) | 3w |
-| [Together AI](https://job-boards.greenhouse.io/togetherai/jobs/5232036007) | Software Engineer Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5232036007) | 3w |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54327?icims=1&utm_source=Simplify&ref=Simplify) | Software Engineer Intern - R&D | Colorado Springs, CO | [Apply](https://jobs.keysight.com/jobs/54327?icims=1&utm_source=Simplify&ref=Simplify) | 3w |
 | [REV Robotics](https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Carrollton, TX | [Apply](https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba?utm_source=Simplify&ref=Simplify) | 3w |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75013/embedded-software-engineer-%e2%80%93-intern/job) | Embedded Software Engineer - Intern | Boise, ID +1 | [Apply](https://careers-gdms.icims.com/jobs/75013/embedded-software-engineer-%e2%80%93-intern/job) | 3w |
