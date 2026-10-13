@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1034 roles.
+1033 roles.
 
 - [Software Engineering](#software-engineering) (437)
 - [Product Management](#product-management) (26)
@@ -17,7 +17,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Mechanical Engineering](#mechanical-engineering) (84)
 - [Electrical Engineering](#electrical-engineering) (95)
 - [Chemical Engineering](#chemical-engineering) (21)
-- [Aerospace Engineering](#aerospace-engineering) (27)
+- [Aerospace Engineering](#aerospace-engineering) (26)
 - [Other](#other) (11)
 
 ## Software Engineering
@@ -1169,7 +1169,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) | 4w |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) | Propulsion Design Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) | 1mo |
-| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986792003) | Propulsion Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986792003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986790003) | Propulsion Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986790003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) | Propulsion Design Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) | 1mo |
 | [Vast](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | Emerging Talent - Mechanical/Aerospace Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | 1mo |
