@@ -12647,19 +12647,6 @@
     ]
   },
   {
-    "id": "e24283efcd68bac10be262783c8921eaa29810fccad74229c72ee9b45c559396",
-    "company_name": "🔥 Robinhood",
-    "title": "Software Engineer Intern - Web",
-    "location": "Menlo Park, CANYC",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?utm_source=Simplify&ref=Simplify",
-    "date_posted": "2026-09-15T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "e3b51bb19d30c5bcb73c6219393799f4792a0add96969a93e870a36234c2a264",
     "company_name": "🔥 Google",
     "title": "Data Scientist Intern - Product 🎓",
@@ -12839,71 +12826,6 @@
     "source": "greenhouse",
     "role_families": [
       "other"
-    ]
-  },
-  {
-    "id": "0af541446d913a332dc512d95abe3a22b4081f123ca59926128eb1f5bd64bb15",
-    "company_name": "Robinhood",
-    "title": "Growth Marketing Intern (Summer 2027)",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src=&gh_jid=8192367",
-    "date_posted": "2026-09-14T12:00:09.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "other"
-    ]
-  },
-  {
-    "id": "9eaba7f6768571fe493f35a530fa68e6d423b2abb4b29ef9e827003979f434ef",
-    "company_name": "Robinhood",
-    "title": "Software Engineering Intern, Android (Summer 2027)",
-    "location": "Menlo Park, CA; New York, NY",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
-    "date_posted": "2026-09-14T12:00:09.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "a87620a7a9fa0a30b6fb2259063c3330e7febb12c7ee4fc9a45b4c4d0e5b1bd3",
-    "company_name": "Robinhood",
-    "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
-    "location": "Menlo Park, CA",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255",
-    "date_posted": "2026-09-14T12:00:09.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "data"
-    ]
-  },
-  {
-    "id": "c5eb04693e9645daf6ab0bf3c7921d16cdafe55ff1b84a2a1ac9bc259b0fc4f3",
-    "company_name": "Robinhood",
-    "title": "Software Engineering Intern, iOS (Summer 2027)",
-    "location": "Menlo Park, CA; New York, NY",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
-    "date_posted": "2026-09-14T12:00:09.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
-    "id": "686540be211e0d26dfe04c2cadf3a75630833a2f20dff080a9fe076a1d9d254c",
-    "company_name": "Robinhood",
-    "title": "Software Engineering Intern, Backend (Summer 2027)",
-    "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
-    "date_posted": "2026-09-14T12:00:08.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "swe"
     ]
   },
   {
