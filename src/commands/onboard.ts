@@ -24,6 +24,7 @@ function sourceBlurb(): string {
   const enabled = adapterConfigs.filter((c) => c.enabled).map((c) => c.name);
   const labels: Record<string, string> = {
     github: "GitHub internship READMEs",
+    workatastartup: "Work at a Startup",
     greenhouse: "Greenhouse career boards",
     ashby: "Ashby boards",
     lever: "Lever boards",

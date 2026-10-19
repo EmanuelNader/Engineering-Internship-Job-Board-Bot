@@ -29,6 +29,7 @@ export type SourceName =
   | "icims"
   | "simplify"
   | "github"
+  | "workatastartup"
   | "custom";
 
 export interface RawPosting {

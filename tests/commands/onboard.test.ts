@@ -38,6 +38,7 @@ describe("onboard embed", () => {
     expect(embed.description).toMatch(/#job-board/);
     const fields = embed.fields ?? [];
     expect(fields.some((f) => /scrapes/i.test(f.name) && /Greenhouse career boards/.test(f.value))).toBe(true);
+    expect(fields.find((f) => /scrapes/i.test(f.name))?.value).toContain("Work at a Startup");
     expect(fields.find((f) => /scrapes/i.test(f.name))?.value).not.toContain("(SpaceX");
     const github = fields.find((f) => /github/i.test(f.name));
     expect(github?.value).toContain("https://github.com/EmanuelNader/Engineering-Internship-Job-Board-Bot");

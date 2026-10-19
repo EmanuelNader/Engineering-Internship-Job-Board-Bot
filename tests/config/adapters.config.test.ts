@@ -13,13 +13,16 @@ describe("adapterConfigs", () => {
     expect(config("simplify").companies).toHaveLength(0);
   });
 
-  it("enables Greenhouse, Ashby, Lever, Workday, iCIMS, and GitHub", () => {
+  it("enables Greenhouse, Ashby, Lever, Workday, iCIMS, GitHub, and Work at a Startup", () => {
     expect(config("greenhouse").enabled).toBe(true);
     expect(config("ashby").enabled).toBe(true);
     expect(config("lever").enabled).toBe(true);
     expect(config("workday").enabled).toBe(true);
     expect(config("icims").enabled).toBe(true);
     expect(config("github").enabled).toBe(true);
+    expect(config("workatastartup").enabled).toBe(true);
+    expect(config("workatastartup").pollIntervalSec).toBe(900);
+    expect(config("workatastartup").companies).toEqual(["eng", "marketing"]);
   });
 
   it("stores iCIMS career hosts for the eight non-tech boards", () => {

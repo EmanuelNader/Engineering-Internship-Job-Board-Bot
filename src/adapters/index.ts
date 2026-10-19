@@ -6,6 +6,7 @@ import { createLeverAdapter } from "./lever";
 import { createWorkdayAdapter } from "./workday";
 import { createSimplifyAdapter } from "./simplify";
 import { createGithubAdapter } from "./github";
+import { createWorkatastartupAdapter } from "./workatastartup";
 import { createIcimsAdapter } from "./icims";
 import { createCustomAdapter } from "./custom";
 
@@ -17,6 +18,7 @@ const adapterFactories: Record<SourceName, () => SourceAdapter> = {
   icims: createIcimsAdapter,
   simplify: createSimplifyAdapter,
   github: createGithubAdapter,
+  workatastartup: createWorkatastartupAdapter,
   custom: createCustomAdapter,
 };
 

@@ -5,6 +5,7 @@ import type { SourceName } from "@/lib/types";
  * Greenhouse/Ashby/Lever: public job-board slugs. Workday: slug plus matching workdayBoards.
  * iCIMS: company name plus careers-*.icims.com host (non-tech / traditional engineering).
  * GitHub: owner/repo or owner/repo#path.md intern-list READMEs.
+ * Work at a Startup: role filters (eng, marketing). Marketing internships only post when the title is growth.
  */
 
 export interface WorkdayBoard {
@@ -98,6 +99,7 @@ export const adapterConfigs: AdapterConfig[] = [
     { name: "GD Mission Systems", host: "careers-gdms.icims.com" },
   ]},
   { name: "simplify", enabled: false, pollIntervalSec: 900, companies: [] },
+  { name: "workatastartup", enabled: true, pollIntervalSec: 900, companies: ["eng", "marketing"] },
   { name: "github", enabled: true, pollIntervalSec: 900, companies: [
     "SimplifyJobs/Summer2027-Internships",
     "SimplifyJobs/Summer2027-Internships#README-Off-Season.md",
