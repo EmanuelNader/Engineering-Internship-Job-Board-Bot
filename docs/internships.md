@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1026 roles.
+1025 roles.
 
-- [Software Engineering](#software-engineering) (432)
+- [Software Engineering](#software-engineering) (431)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (96)
 - [Data Science](#data-science) (199)
@@ -255,7 +255,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [SingleStore](https://job-boards.greenhouse.io/singlestore/jobs/8221924?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Engine | SF | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8221924?utm_source=Simplify&ref=Simplify) | 4w |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2) | Summer Intern - Software Engineer | Carmel, IN | [Apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2) | 4w |
 | [🔥 Rippling](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Backend Focused | Seattle, WASFNYC | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba?utm_source=Simplify&ref=Simplify) | 4w |
-| [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8221198) | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221198) | 1mo |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8221795) | 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model | Mountain View, California, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221795) | 1mo |
 | [Premier](https://premierinc.wd1.myworkdayjobs.com/en-US/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) | Software Engineer Intern | Charlotte, NC | [Apply](https://premierinc.wd1.myworkdayjobs.com/en-US/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480) | 1mo |
 | [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Tucson, AZ | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184?utm_source=Simplify&ref=Simplify) | 1mo |
