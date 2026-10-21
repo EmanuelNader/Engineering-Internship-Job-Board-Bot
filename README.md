@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1028 roles.
+1027 roles.
 
-- [Software Engineering](#software-engineering) (434)
+- [Software Engineering](#software-engineering) (433)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (96)
 - [Data Science](#data-science) (199)
@@ -181,7 +181,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Terranova](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da) | Embedded Systems Intern | Berkeley, CA | [Apply](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da) | 3w |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557008714) | Software Engineer: Intern Opportunities for University Students - Atlanta | Atlanta, GA | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557008714) | 3w |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8233746) | 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8233746) | 3w |
-| [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8224900) | 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224900) | 3w |
 | [Snowflake](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca) | Software Engineer Intern (AI / ML) - Spring 2027 | US-CA-Menlo Park | [Apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca) | 3w |
 | [Snowflake](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be) | Software Engineer Intern (Database Engineering) - Spring 2027 | US-CA-Menlo Park | [Apply](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be) | 3w |
 | [Snowflake](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69) | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | US-CA-Menlo Park | [Apply](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69) | 3w |
