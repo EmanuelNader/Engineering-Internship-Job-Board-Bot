@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1027 roles.
+1026 roles.
 
-- [Software Engineering](#software-engineering) (433)
+- [Software Engineering](#software-engineering) (432)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (96)
 - [Data Science](#data-science) (199)
@@ -41,7 +41,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [S&C Electric Company](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | Software Engineer Intern | Chicago, IL | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | 2w |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Summer-Fall-2027-_01872412) | Embedded Controls Hardware Co-Op (Summer/Fall 2027) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Summer-Fall-2027-_01872412) | 2w |
 | [Sigma Computing](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | Software Engineer Intern - Summer 2027 | SFNYC | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | 2w |
-| [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257660) | 2027 Summer Intern, BS, Software Engineer, Model Eval | Mountain View, CA, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) | 2w |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8250220) | 2027 Summer Intern, MS, PhD, Software Engineer | Mountain View, California, United States | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) | 2w |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | Software Engineer Intern, Machine Learning, PhD only (Summer 2027) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | 2w |
 | [Cook Medical](https://americas-cookmedical.icims.com/jobs/19550/intern%2c-applied-ai-%26-full-stack-development/job) | Intern - Applied AI & Full Stack Development | Bloomington, IN | [Apply](https://americas-cookmedical.icims.com/jobs/19550/intern%2c-applied-ai-%26-full-stack-development/job) | 2w |
