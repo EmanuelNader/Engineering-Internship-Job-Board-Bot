@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1025 roles.
+1024 roles.
 
 - [Software Engineering](#software-engineering) (431)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (96)
 - [Data Science](#data-science) (199)
-- [Machine Learning](#machine-learning) (78)
+- [Machine Learning](#machine-learning) (77)
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (84)
 - [Electrical Engineering](#electrical-engineering) (95)
@@ -878,7 +878,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Gecko Robotics](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true&utm_source=Simplify&ref=Simplify) | AI/Machine Learning Engineer Intern | NYC | [Apply](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true&utm_source=Simplify&ref=Simplify) | 1mo |
 | [CoVar](https://job-boards.greenhouse.io/covar/jobs/5240360007?utm_source=Simplify&ref=Simplify) | Machine Learning Intern | Durham, NC | [Apply](https://job-boards.greenhouse.io/covar/jobs/5240360007?utm_source=Simplify&ref=Simplify) | 1mo |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8202025) | 2027 Summer Intern, PhD, Machine Learning, Computer Vision | Mountain View, California, United States | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8202025) | 1mo |
-| [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8202801) | 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation | Mountain View, California, USA | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8202801) | 1mo |
 | [PressW](https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true&utm_source=Simplify&ref=Simplify) | Applied AI Engineer Intern | Austin, TX | [Apply](https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true&utm_source=Simplify&ref=Simplify) | 1mo |
 | [Charta Health](https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true&utm_source=Simplify&ref=Simplify) | Forward Deployed AI Engineer Intern | SFNYC | [Apply](https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true&utm_source=Simplify&ref=Simplify) | 1mo |
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797?utm_source=Simplify&ref=Simplify) | Machine Learning Intern | Austin, TX | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797?utm_source=Simplify&ref=Simplify) | 1mo |
