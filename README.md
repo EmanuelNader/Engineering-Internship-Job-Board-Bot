@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1021 roles.
+1020 roles.
 
 - [Software Engineering](#software-engineering) (430)
 - [Product Management](#product-management) (26)
@@ -14,7 +14,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (199)
 - [Machine Learning](#machine-learning) (77)
 - [Civil and Structural](#civil-and-structural) (25)
-- [Mechanical Engineering](#mechanical-engineering) (84)
+- [Mechanical Engineering](#mechanical-engineering) (83)
 - [Electrical Engineering](#electrical-engineering) (94)
 - [Chemical Engineering](#chemical-engineering) (21)
 - [Aerospace Engineering](#aerospace-engineering) (25)
@@ -977,7 +977,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01869227) | Mechanical Engineering Co-op (Winter/Spring 2027) | US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01869227) | 1mo |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-L--400-Main-St--BLDG-L/Mechanical-Engineering-Intern--Summer-2027---Onsite-_01872900) | Mechanical Engineering Intern (Summer 2027) (Onsite) | US-CT-EAST HARTFORD-L ~ 400 Main St ~ BLDG L | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-L--400-Main-St--BLDG-L/Mechanical-Engineering-Intern--Summer-2027---Onsite-_01872900) | 1mo |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512?utm_source=Simplify&ref=Simplify) | Design Engineer Intern - High Bandwidth Memory | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512?utm_source=Simplify&ref=Simplify) | 1mo |
-| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/8000951003) | Thermal Engineering Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8000951003) | 1mo |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111814?utm_source=Simplify&ref=Simplify) | Design Engineer Intern - HBM | Richardson, TX | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111814?utm_source=Simplify&ref=Simplify) | 1mo |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4705260006) | Harness Manufacturing Associate (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705260006) | 1mo |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4705255006) | Harness Manufacturing Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705255006) | 1mo |
