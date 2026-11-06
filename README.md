@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1019 roles.
+1018 roles.
 
 - [Software Engineering](#software-engineering) (430)
 - [Product Management](#product-management) (26)
@@ -17,7 +17,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Mechanical Engineering](#mechanical-engineering) (82)
 - [Electrical Engineering](#electrical-engineering) (94)
 - [Chemical Engineering](#chemical-engineering) (21)
-- [Aerospace Engineering](#aerospace-engineering) (25)
+- [Aerospace Engineering](#aerospace-engineering) (24)
 - [Other](#other) (10)
 
 ## Software Engineering
@@ -1157,7 +1157,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) | Winter 2027 Propulsion Engineer Co-op | Costa Mesa, California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) | Propulsion Design Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) | 1mo |
-| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) | Propulsion Design Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) | 1mo |
 | [Vast](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | Emerging Talent - Mechanical/Aerospace Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | 1mo |
 | [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673) | Avionics Test Engineering Internship (Spring 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673) | 1mo |
 | [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e) | Propulsion Internship (Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e) | 1mo |
