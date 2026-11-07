@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1016 roles.
+1015 roles.
 
 - [Software Engineering](#software-engineering) (430)
 - [Product Management](#product-management) (26)
@@ -17,7 +17,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Mechanical Engineering](#mechanical-engineering) (81)
 - [Electrical Engineering](#electrical-engineering) (94)
 - [Chemical Engineering](#chemical-engineering) (20)
-- [Aerospace Engineering](#aerospace-engineering) (24)
+- [Aerospace Engineering](#aerospace-engineering) (23)
 - [Other](#other) (10)
 
 ## Software Engineering
@@ -1157,7 +1157,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Vast](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | Emerging Talent - Mechanical/Aerospace Engineering Internship | Long Beach, California, United States | [Apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | 1mo |
 | [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673) | Avionics Test Engineering Internship (Spring 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673) | 1mo |
 | [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e) | Propulsion Internship (Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e) | 1mo |
-| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) | Avionics Engineering Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) | 1mo |
 | [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/d0630c64-6d20-4d15-ba75-aa125f0a3f49) | Avionics Internship, Power Electronics (Spring or Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/d0630c64-6d20-4d15-ba75-aa125f0a3f49) | 2mo |
 | [Apex Technology Inc](https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f) | Avionics Internship (Spring or Summer 2027) | Los Angeles | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f) | 2mo |
 
