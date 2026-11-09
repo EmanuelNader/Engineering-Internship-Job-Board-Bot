@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1015 roles.
+1014 roles.
 
 - [Software Engineering](#software-engineering) (430)
 - [Product Management](#product-management) (26)
 - [Hardware Engineering](#hardware-engineering) (96)
-- [Data Science](#data-science) (198)
+- [Data Science](#data-science) (197)
 - [Machine Learning](#machine-learning) (77)
 - [Civil and Structural](#civil-and-structural) (25)
 - [Mechanical Engineering](#mechanical-engineering) (81)
@@ -640,7 +640,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Intuit](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184?utm_source=Simplify&ref=Simplify) | Finance Transformation & Analytics Intern | Mountain View, CA | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184?utm_source=Simplify&ref=Simplify) | 1mo |
 | [Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1?utm_source=Simplify&ref=Simplify) | Data Analytics & Digital Tools Co-op | Rensselaer, NY | [Apply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1?utm_source=Simplify&ref=Simplify) | 1mo |
 | [Stripe](https://stripe.com/jobs/search?gh_jid=8194291) | Data Analyst, Intern | New York, Seattle, South San Francisco HQ | [Apply](https://stripe.com/jobs/search?gh_jid=8194291) | 1mo |
-| [Stripe](https://stripe.com/jobs/search?gh_jid=8194283) | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ | [Apply](https://stripe.com/jobs/search?gh_jid=8194283) | 1mo |
 | [🔥 Tesla](https://www.tesla.com/careers/search/job/285291?utm_source=Simplify&ref=Simplify) | Data Engineer Intern - Data Engineering & Business Intelligence | Fremont, CA | [Apply](https://www.tesla.com/careers/search/job/285291?utm_source=Simplify&ref=Simplify) | 1mo |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622?utm_source=Simplify&ref=Simplify) | Advanced Analytics Intern | Cleveland, OH | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622?utm_source=Simplify&ref=Simplify) | 1mo |
 | [Stand Together](https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply?utm_source=Simplify&ref=Simplify) | Analytics Intern | Chicago, IL | [Apply](https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply?utm_source=Simplify&ref=Simplify) | 1mo |
