@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1013 roles.
+1012 roles.
 
 - [Software Engineering](#software-engineering) (430)
 - [Product Management](#product-management) (26)
@@ -17,7 +17,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Mechanical Engineering](#mechanical-engineering) (81)
 - [Electrical Engineering](#electrical-engineering) (94)
 - [Chemical Engineering](#chemical-engineering) (20)
-- [Aerospace Engineering](#aerospace-engineering) (22)
+- [Aerospace Engineering](#aerospace-engineering) (21)
 - [Other](#other) (10)
 
 ## Software Engineering
@@ -1139,7 +1139,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Varda Space](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003?utm_source=Simplify&ref=Simplify) | Avionics Engineering Intern | El Segundo, CA | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003?utm_source=Simplify&ref=Simplify) | 1mo |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664) | Software Engineering Co-Op (Avionics) (Summer/Fall 2027) (Hybrid) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 | [Apply](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664) | 1mo |
 | [Muon](https://job-boards.greenhouse.io/muonspace/jobs/5252680007) | GNC Software Engineering Intern - Summer 2027 | Mountain View, CA | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252680007) | 1mo |
-| [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4704826006) | Electrical Integration Intern - Avionics (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704826006) | 1mo |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4713183006) | Propulsion Engineer Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4713183006) | 1mo |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4713184006) | Propulsion Engineer Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4713184006) | 1mo |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4706025006) | Avionics Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4706025006) | 1mo |
