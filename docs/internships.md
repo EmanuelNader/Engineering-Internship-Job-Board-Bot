@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1012 roles.
+1011 roles.
 
 - [Software Engineering](#software-engineering) (430)
 - [Product Management](#product-management) (26)
@@ -14,7 +14,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (197)
 - [Machine Learning](#machine-learning) (77)
 - [Civil and Structural](#civil-and-structural) (25)
-- [Mechanical Engineering](#mechanical-engineering) (81)
+- [Mechanical Engineering](#mechanical-engineering) (80)
 - [Electrical Engineering](#electrical-engineering) (94)
 - [Chemical Engineering](#chemical-engineering) (20)
 - [Aerospace Engineering](#aerospace-engineering) (21)
@@ -989,7 +989,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987042003) | Test Engineering Intern - Manufacturing Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987042003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7989904003) | Mechanical Engineering Intern Summer 2027 | Silver Spring, MD | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989904003) | 1mo |
-| [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7989995003) | Mechanical Engineering Intern Spring 2027 | Silver Spring, MD | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989995003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7987020003) | Manufacturing Engineering Intern Spring 2027 | Middle River, MD | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987020003) | 1mo |
 | [Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab/jobs/7984943003) | Manufacturing Engineering Intern Spring 2027 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984943003) | 1mo |
