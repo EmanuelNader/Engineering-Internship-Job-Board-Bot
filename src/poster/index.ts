@@ -108,7 +108,6 @@ export class Poster {
     const delivered = new Set(existingDeliveries.map((row) => `${row.guildId}:${row.channelId}`));
 
     const embed = buildPostingEmbed(posting);
-    let anyFailed = false;
     let paced = false;
 
     for (const guildId of readyGuilds) {
@@ -139,7 +138,7 @@ export class Poster {
           if (!channel) {
             const fetched = await this.client.channels.fetch(ch.channelId);
             if (!fetched?.isTextBased()) {
-              anyFailed = true;
+              await dropGoneChannel(prismaImpl, ch.channelId);
               continue;
             }
             channel = fetched as TextChannel;
@@ -166,24 +165,26 @@ export class Poster {
           });
           sent++;
         } catch (err) {
-          anyFailed = true;
+          if (isUnknownChannel(err)) {
+            this.channelCache.delete(ch.channelId);
+            await dropGoneChannel(prismaImpl, ch.channelId);
+          }
           console.error(`Failed to send to channel ${ch.channelId}:`, err);
         }
       }
 
       if (sent === 0) {
-        anyFailed = true;
         await releaseDiscordClaim(prismaImpl, dedupHash, posting.title, posting.company, guildId);
       }
     }
-
-    if (anyFailed) return;
 
     try {
       const all = await prismaImpl.postingDelivery.findMany({
         where: { dedupHash },
         select: { channelId: true },
       });
+      // A dead leftover server must not keep Discord posts out of the README.
+      if (all.length === 0) return;
       await prismaImpl.posting.update({
         where: { dedupHash },
         data: {
@@ -194,5 +195,20 @@ export class Poster {
     } catch (err) {
       console.error(`Failed to mark posting ${dedupHash} as posted:`, err);
     }
+  }
+}
+
+function isUnknownChannel(err: unknown): boolean {
+  return Boolean(err && typeof err === "object" && "code" in err && (err as { code?: unknown }).code === 10003);
+}
+
+async function dropGoneChannel(
+  prismaImpl: typeof prisma,
+  channelId: string
+): Promise<void> {
+  try {
+    await prismaImpl.channelMap.deleteMany({ where: { channelId } });
+  } catch (err) {
+    console.error(`Failed to drop gone channel ${channelId}:`, (err as Error).message);
   }
 }

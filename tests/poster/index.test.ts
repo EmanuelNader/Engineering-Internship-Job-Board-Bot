@@ -2,11 +2,13 @@ import { describe, it, expect, vi, beforeEach, afterEach } from "vitest";
 
 const mockChannelSend = vi.hoisted(() => vi.fn());
 const mockFindMany = vi.hoisted(() => vi.fn());
+const mockChannelDeleteMany = vi.hoisted(() => vi.fn(async () => ({ count: 1 })));
 const mockUpdate = vi.hoisted(() => vi.fn());
 const mockUpdateMany = vi.hoisted(() => vi.fn(async () => ({ count: 1 })));
 const mockClientChannelsFetch = vi.hoisted(() => vi.fn());
 const mockClaimFind = vi.hoisted(() => vi.fn(async () => null));
 const mockClaimCreate = vi.hoisted(() => vi.fn(async () => ({ titleKey: "k" })));
+const mockClaimDelete = vi.hoisted(() => vi.fn(async () => ({})));
 const mockPostingFind = vi.hoisted(() => vi.fn(async () => ({ postedAt: null, titleKey: null })));
 const mockGuildStates = vi.hoisted(() => vi.fn(async () => [{ guildId: "g1", liveSince: new Date("2020-01-01") }]));
 const mockDeliveries = vi.hoisted(() => vi.fn(async () => []));
@@ -14,7 +16,7 @@ const mockDeliveryCreate = vi.hoisted(() => vi.fn(async () => ({})));
 
 vi.mock("@/db/client", () => ({
   prisma: {
-    channelMap: { findMany: mockFindMany },
+    channelMap: { findMany: mockFindMany, deleteMany: mockChannelDeleteMany },
     guildState: { findMany: mockGuildStates },
     postingDelivery: { findMany: mockDeliveries, create: mockDeliveryCreate },
     posting: {
@@ -25,11 +27,12 @@ vi.mock("@/db/client", () => ({
     postingClaim: {
       findUnique: mockClaimFind,
       create: mockClaimCreate,
-      delete: vi.fn(),
+      delete: mockClaimDelete,
+      deleteMany: mockClaimDelete,
     },
     $transaction: async (fn: (tx: unknown) => Promise<unknown>) =>
       fn({
-        postingClaim: { findUnique: mockClaimFind, create: mockClaimCreate },
+        postingClaim: { findUnique: mockClaimFind, create: mockClaimCreate, delete: mockClaimDelete, deleteMany: mockClaimDelete },
         posting: {
           findUnique: mockPostingFind,
           update: mockUpdate,
@@ -94,6 +97,7 @@ describe("Poster", () => {
       send: mockChannelSend.mockResolvedValue({ id: "msg1" }),
       isTextBased: () => true,
     });
+    mockDeliveries.mockResolvedValueOnce([]).mockResolvedValueOnce([{ channelId: "111" }]);
 
     await poster.send(samplePosting, "hash123");
 
@@ -106,7 +110,7 @@ describe("Poster", () => {
       where: { dedupHash: "hash123" },
       data: expect.objectContaining({
         postedAt: expect.any(Date),
-        channelIds: expect.any(String),
+        channelIds: JSON.stringify(["111"]),
       }),
     });
   });
@@ -179,6 +183,7 @@ describe("Poster", () => {
       send: mockChannelSend.mockResolvedValue({ id: "msg1" }),
       isTextBased: () => true,
     });
+    mockDeliveries.mockResolvedValueOnce([]).mockResolvedValueOnce([{ channelId: "111" }]);
 
     await poster.send(
       { ...samplePosting, roleFamily: ["swe", "engineering"] },
@@ -201,5 +206,43 @@ describe("Poster", () => {
 
     expect(mockClientChannelsFetch).not.toHaveBeenCalled();
     expect(mockChannelSend).not.toHaveBeenCalled();
+  });
+
+  it("marks posted when one server gets the message even if another channel is gone", async () => {
+    mockGuildStates.mockResolvedValue([
+      { guildId: "g1", liveSince: new Date("2020-01-01") },
+      { guildId: "gone", liveSince: new Date("2020-01-01") },
+    ]);
+    mockFindMany.mockResolvedValue([
+      { kind: "job", roleFamily: "swe", channelId: "111", guildId: "g1" },
+      { kind: "job", roleFamily: "swe", channelId: "222", guildId: "gone" },
+    ]);
+    mockClientChannelsFetch.mockImplementation(async (id: string) => {
+      if (id === "222") {
+        const err = new Error("Unknown Channel") as Error & { code: number };
+        err.code = 10003;
+        throw err;
+      }
+      return {
+        send: mockChannelSend.mockResolvedValue({ id: "msg1" }),
+        isTextBased: () => true,
+        guild: { roles: { cache: { find: () => undefined } } },
+      };
+    });
+    mockDeliveries
+      .mockResolvedValueOnce([])
+      .mockResolvedValueOnce([{ channelId: "111" }]);
+
+    await poster.send(samplePosting, "hash-partial");
+
+    expect(mockChannelSend).toHaveBeenCalledOnce();
+    expect(mockChannelDeleteMany).toHaveBeenCalledWith({ where: { channelId: "222" } });
+    expect(mockUpdate).toHaveBeenCalledWith({
+      where: { dedupHash: "hash-partial" },
+      data: expect.objectContaining({
+        postedAt: expect.any(Date),
+        channelIds: JSON.stringify(["111"]),
+      }),
+    });
   });
 });
