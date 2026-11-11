@@ -102,13 +102,26 @@ function safeUrl(url: string): string {
   return url.replace(/ /g, "%20").replace(/\(/g, "%28").replace(/\)/g, "%29").replace(/\|/g, "%7C");
 }
 
-function applyLink(url: string): string {
-  return `[Apply](${safeUrl(url)})`;
+const MAX_ROLE_CHARS = 56;
+const MAX_LOCATION_CHARS = 28;
+
+function clip(value: string, max: number): string {
+  if (value.length <= max) return value;
+  return `${value.slice(0, Math.max(1, max - 1)).trimEnd()}…`;
 }
 
-function companyLink(name: string, url: string): string {
-  const label = cell(name).replace(/\[/g, "").replace(/\]/g, "");
+function roleLink(title: string, url: string): string {
+  const label = clip(cell(title).replace(/\[/g, "").replace(/\]/g, ""), MAX_ROLE_CHARS);
   return `[${label}](${safeUrl(url)})`;
+}
+
+function companyCell(name: string): string {
+  return clip(cell(name).replace(/\[/g, "").replace(/\]/g, ""), 28);
+}
+
+function locationCell(location: string | null): string {
+  if (!location) return "—";
+  return clip(cell(location), MAX_LOCATION_CHARS);
 }
 
 function categoryAnchor(label: string): string {
@@ -150,12 +163,11 @@ function renderMarkdown(listings: InternshipListing[], now: Date, sourcesHref: s
       "",
       "[Back to top](#browse-by-category)",
       "",
-      "| Company | Role | Location | Application | Age |",
-      "| --- | --- | --- | --- | :---: |",
+      "| Company | Role | Location | Age |",
+      "| --- | --- | --- | :---: |",
       ...section.rows.map((listing) => {
         const posted = new Date(listing.date_posted);
-        const location = listing.location ? cell(listing.location) : "—";
-        return `| ${companyLink(listing.company_name, listing.url)} | ${cell(listing.title)} | ${location} | ${applyLink(listing.url)} | ${formatAge(posted, now)} |`;
+        return `| ${companyCell(listing.company_name)} | ${roleLink(listing.title, listing.url)} | ${locationCell(listing.location)} | ${formatAge(posted, now)} |`;
       }),
     ];
     parts.push(table.join("\n"));

@@ -142,7 +142,7 @@ describe("createListingsSync", () => {
     expect(blobs[0].content).toContain('"company_name": "Stripe"');
     expect(blobs[1].content).toContain("[What it scrapes](SOURCES.md)");
     expect(blobs[1].content).toContain("## Software Engineering");
-    expect(blobs[1].content).toContain("| Company | Role | Location | Application | Age |");
+    expect(blobs[1].content).toContain("| Company | Role | Location | Age |");
     expect(blobs[2].content).toContain("[What it scrapes](docs/SOURCES.md)");
     expect(blobs[2].content).toContain("[How the bot works](docs/BOT.md)");
     expect(treeBody).toEqual({

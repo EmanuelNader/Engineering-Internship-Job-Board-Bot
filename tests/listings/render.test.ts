@@ -30,7 +30,7 @@ describe("formatAge", () => {
 });
 
 describe("renderInternshipFiles", () => {
-  it("renders newest roles first with an apply link and age", () => {
+  it("renders newest roles first with a linked role title and age", () => {
     const files = renderInternshipFiles(
       [
         row({
@@ -54,13 +54,31 @@ describe("renderInternshipFiles", () => {
     expect(files.markdown).toContain("- [Software Engineering](#software-engineering) (2)");
     expect(files.markdown).toContain("## Software Engineering");
     expect(files.markdown).toContain("[Back to top](#browse-by-category)");
+    expect(files.markdown).toContain("| Company | Role | Location | Age |");
+    expect(files.markdown).not.toContain("| Application |");
     expect(files.markdown).toContain(
-      "| [Stripe](https://boards.greenhouse.io/stripe/jobs/1) | Software Engineer Intern | San Francisco, CA | [Apply](https://boards.greenhouse.io/stripe/jobs/1) | 1d |"
+      "| Stripe | [Software Engineer Intern](https://boards.greenhouse.io/stripe/jobs/1) | San Francisco, CA | 1d |"
     );
     expect(files.markdown.indexOf("Software Engineer Intern")).toBeLessThan(files.markdown.indexOf("Backend Intern"));
-    expect(files.markdown).toContain("| Backend Intern |");
+    expect(files.markdown).toContain("[Backend Intern](https://boards.greenhouse.io/stripe/jobs/1)");
     expect(files.markdown).toContain("| 2w |");
     expect(files.markdown).not.toContain("## Machine Learning");
+  });
+
+  it("shortens long role titles and locations in the table", () => {
+    const files = renderInternshipFiles(
+      [
+        row({
+          title: "Embedded Software Developer – Network/Payload Intern for Avionics Systems",
+          location: "7 locationsSeattle, WABurlingame, CARedmond, WAMenlo Park, CA",
+        }),
+      ],
+      NOW
+    );
+
+    expect(files.markdown).toContain("Embedded Software Developer – Network/Payload Intern fo…");
+    expect(files.markdown).toContain("7 locationsSeattle, WABurli…");
+    expect(files.markdown).not.toContain("[Apply](");
   });
 
   it("omits roles posted more than a year ago", () => {
@@ -99,7 +117,10 @@ describe("renderInternshipFiles", () => {
     const ml = files.markdown.indexOf("## Machine Learning");
     expect(swe).toBeGreaterThan(-1);
     expect(ml).toBeGreaterThan(swe);
-    expect(files.markdown.split("[Apply](https://jobs.ashbyhq.com/openai/abc)").length - 1).toBe(2);
+    expect(
+      files.markdown.split("[Machine Learning Software Engineer Intern](https://jobs.ashbyhq.com/openai/abc)")
+        .length - 1
+    ).toBe(2);
     expect(toListings([row({ title: "Machine Learning Software Engineer Intern" })])[0].role_families).toEqual([
       "swe",
       "ml",
@@ -118,7 +139,7 @@ describe("renderInternshipFiles", () => {
       NOW
     );
 
-    expect(files.markdown).toContain("Firmware \\| Intern");
+    expect(files.markdown).toContain("[Firmware \\| Intern](https://example.com/job%281%29)");
     expect(files.markdown).toContain("Austin, TX");
     const dropped = renderInternshipFiles(
       [
@@ -129,6 +150,5 @@ describe("renderInternshipFiles", () => {
     );
     expect(dropped.markdown).not.toContain("London Intern");
     expect(dropped.markdown).not.toContain("Unknown Intern");
-    expect(files.markdown).toContain("[Apply](https://example.com/job%281%29)");
   });
 });
