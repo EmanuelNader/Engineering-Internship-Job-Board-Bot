@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2190 roles.
+2191 roles.
 
 - [Software Engineering](#software-engineering) (1015)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (169)
-- [Data Science](#data-science) (427)
+- [Data Science](#data-science) (428)
 - [Machine Learning](#machine-learning) (220)
 - [Civil and Structural](#civil-and-structural) (37)
 - [Mechanical Engineering](#mechanical-engineering) (141)
@@ -1389,6 +1389,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [JM Family](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125?utm_source=Simplify&ref=Simplify) | Customer Experience Data Analyst Intern | Deerfield Beach, FL | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125?utm_source=Simplify&ref=Simplify) | 1w |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691?utm_source=Simplify&ref=Simplify) | Data Scientist Intern - Master's 🎓 | Santa Clara, CA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691?utm_source=Simplify&ref=Simplify) | 2w |
 | [Applied Materials](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409?utm_source=Simplify&ref=Simplify) | Data Scientist Intern | Austin, TX | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409?utm_source=Simplify&ref=Simplify) | 2w |
+| [SeatGeek](https://go.vansh.nyc/1tO?s=y) | Data Analyst - Internship | New York, NY | [Apply](https://go.vansh.nyc/1tO?s=y) | 2w |
 | [First Citizens BancShares](https://firstcitizens.jibeapply.com/jobs/36230?icims=1&utm_source=Simplify&ref=Simplify) | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | [Apply](https://firstcitizens.jibeapply.com/jobs/36230?icims=1&utm_source=Simplify&ref=Simplify) | 2w |
 | [GM Financial](https://go.vansh.nyc/Zs?s=y) | Data Engineer Intern | Arlington, TX | [Apply](https://go.vansh.nyc/Zs?s=y) | 2w |
 | [Sephora](https://go.vansh.nyc/11Q?s=y) | AI & Distribution Analytics Intern | United States | [Apply](https://go.vansh.nyc/11Q?s=y) | 2w |
