@@ -639,6 +639,19 @@
     ]
   },
   {
+    "id": "fe0d287744aaaebdda077f6fb9ba2191ed72a4e52a23bbb09e6a66ce9ecd0d76",
+    "company_name": "Unisys",
+    "title": "Software Engineer Intern",
+    "location": "Eagan, MN",
+    "url": "https://go.vansh.nyc/1uC?s=y",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "fe7d48add7912cea91e2887270a624c8bd7e5f54c0c4fd0223f62ddac7aa9cf3",
     "company_name": "ByteDance",
     "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",

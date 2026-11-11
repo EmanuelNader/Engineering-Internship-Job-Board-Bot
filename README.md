@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2192 roles.
+2193 roles.
 
-- [Software Engineering](#software-engineering) (1016)
+- [Software Engineering](#software-engineering) (1017)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (169)
 - [Data Science](#data-science) (428)
@@ -48,6 +48,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Rivet | [Full-Stack Engineering Intern](https://go.vansh.nyc/1ru?s=y) | United States | 1d |
 | 🔥 Tesla | [Mobile Application Developer Intern](https://www.tesla.com/careers/search/job/289480?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1d |
 | Ixana | [Embedded Hardware Engineer Intern, FPGA Design](https://go.vansh.nyc/1qS?s=y) | West Lafayette, IN | 1d |
+| Unisys | [Software Engineer Intern](https://go.vansh.nyc/1uC?s=y) | Eagan, MN | 1d |
 | ByteDance | [Site Reliability Engineer Intern, Data Platform, Comput…](https://go.vansh.nyc/1s7?s=y) | San Jose, CA | 1d |
 | General Dynamics Mission Sy… | [Full-Stack Software Engineer Intern](https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Chantilly, VAPittsfield, MA… | 2d |
 | Mettler Toledo | [Embedded Software Engineering Intern](https://mt.avature.net/en_US/careers/JobDetail/23080?utm_source=Simplify&ref=Simplify) | Oakland, CA | 2d |
