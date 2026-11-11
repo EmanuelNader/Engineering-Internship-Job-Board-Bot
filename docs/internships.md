@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2212 roles.
+2213 roles.
 
 - [Software Engineering](#software-engineering) (1028)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (173)
-- [Data Science](#data-science) (430)
+- [Data Science](#data-science) (431)
 - [Machine Learning](#machine-learning) (221)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (142)
@@ -1301,6 +1301,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Airbnb | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | United States | 0d |
 | ICF | [Data Analytics Intern](https://go.vansh.nyc/1uQ?s=y) | Reston, VARemoteUnited Stat… | 0d |
 | State of Wisconsin Investme… | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG?s=y) | Madison, WI | 0d |
 | Riot Games | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716&utm_source=Simplify&ref=Simplify) | Remote in USA | 0d |
