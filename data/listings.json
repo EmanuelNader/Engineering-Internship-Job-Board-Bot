@@ -91,6 +91,19 @@
     ]
   },
   {
+    "id": "c3ffac6469d8793ef853c27d05fb9a005a860a1d0d74a043b6a8eb05f237889e",
+    "company_name": "Brex",
+    "title": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "url": "https://go.vansh.nyc/1uO?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f75a1fbfc09ad99758bed7331ffd6e37696b611aca86eae6b045e24dc12c0183",
     "company_name": "Riot Games",
     "title": "Data Engineer Intern",
