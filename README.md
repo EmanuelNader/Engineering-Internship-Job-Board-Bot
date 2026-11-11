@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-1009 roles.
+1007 roles.
 
 - [Software Engineering](#software-engineering) (430)
 - [Product Management](#product-management) (26)
-- [Hardware Engineering](#hardware-engineering) (96)
+- [Hardware Engineering](#hardware-engineering) (94)
 - [Data Science](#data-science) (197)
 - [Machine Learning](#machine-learning) (77)
 - [Civil and Structural](#civil-and-structural) (25)
@@ -548,8 +548,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4704813006) | FPGA Associate (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704813006) | 1mo |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | FPGA Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | 1mo |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4704803006) | FPGA Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704803006) | 1mo |
-| [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4715983006) | Software Defined Radio Hardware Associate (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4715983006) | 1mo |
-| [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | Software Defined Radio Hardware Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | 1mo |
 | [Astranis](https://job-boards.greenhouse.io/astranis/jobs/4716087006) | Software Defined Radio Hardware Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4716087006) | 1mo |
 | [IMC](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | Hardware Machine Learning PhD Research Internship | Chicago, United States | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | 1mo |
 | [🔥 AMD](https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify) | Applied Artificial Intelligence Engineering Intern - Hardware AI 🎓 | Santa Clara, CA | [Apply](https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify) | 1mo |
