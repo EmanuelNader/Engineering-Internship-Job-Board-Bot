@@ -247,6 +247,19 @@
     ]
   },
   {
+    "id": "1140360a8a6dc7e60920669d7b3982691a1169bcf58278d62e5b4ac690a4a6b6",
+    "company_name": "REGENT",
+    "title": "Embedded Software Engineering Intern - Summer",
+    "location": "North Kingstown, RI",
+    "url": "https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "12aba9791a3ba91215768733d984061f8066595237972a338955c6ea1ec5468c",
     "company_name": "T-Mobile",
     "title": "Software Engineer Intern - T-Ads",
@@ -260,11 +273,51 @@
     ]
   },
   {
+    "id": "1408999cc3e0b0dfab10a173580a5c86022f36a70bd97ad1e5dab2b9833b0c92",
+    "company_name": "Meta",
+    "title": "Research Intern — Neural Network Training and Hardware-Software Co-Design",
+    "location": "Redmond, WA",
+    "url": "https://www.metacareers.com/jobs/1560905132724186",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "1aa9a4a01ad67f42d242a403acb39ae63ae892108b23b95338393a423b0845a0",
+    "company_name": "Skydio",
+    "title": "Hardware In Loop - HIL Software Engineer Intern - Winter 2027",
+    "location": "San Mateo, CA",
+    "url": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "hardware"
+    ]
+  },
+  {
     "id": "23961b3669bcc93426e8b4733024e2a53098a256f28c5f8e18ef13b541e714a0",
     "company_name": "Addepar",
     "title": "Software Engineer Intern",
     "location": "NYC",
     "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "3231f6c051fccf8a2fe84ad6c2523e97bd0e0badfb576f9d467a09cdfb8a9338",
+    "company_name": "EquipmentShare",
+    "title": "Intern: Engineering - Embedded",
+    "location": "Columbia, MO",
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8371891",
     "date_posted": "2026-11-10T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -416,6 +469,19 @@
     ]
   },
   {
+    "id": "5c5bf6ab27943f02cc6deaebf38df0631f62e9b7d4917458adea576f4a0de664",
+    "company_name": "Cisco",
+    "title": "Software Engineer Embedded Systems I - Intern - United States",
+    "location": "San Jose, CA +2",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "5f20f29a8547a5527b932d48c01ba515218583a26c1e62921af3068f3ddeb667",
     "company_name": "DreamWorks Animation",
     "title": "Studio Operations – Data Analytics Intern",
@@ -478,6 +544,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "75dfa036c59bf913f57b7ba90afb5cf9da26e98a6a749276ccb93a263dcf9c7c",
+    "company_name": "Visa",
+    "title": "Software Engineer - Intern - 2027 Foster City - CA",
+    "location": "Foster City, CA",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -700,6 +779,20 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "eda84c1adb9e2799a3e5718d3626be407b940498639ab8da1e87a50b55b9970c",
+    "company_name": "Veolia",
+    "title": "Manufacturing Software Engineer Intern",
+    "location": "Boulder, CO",
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern?oga=true",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "mechanical"
     ]
   },
   {
