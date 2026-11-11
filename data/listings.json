@@ -169,6 +169,19 @@
     ]
   },
   {
+    "id": "cdc15c3ec85db3ff233148e4ff70867e612861abe1ee5ff55f3dca44bad242b3",
+    "company_name": "MKS Instruments",
+    "title": "Software Engineer Co-op",
+    "location": "Andover, MA",
+    "url": "https://go.vansh.nyc/1vn?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f75a1fbfc09ad99758bed7331ffd6e37696b611aca86eae6b045e24dc12c0183",
     "company_name": "Riot Games",
     "title": "Data Engineer Intern",

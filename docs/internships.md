@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2216 roles.
+2217 roles.
 
-- [Software Engineering](#software-engineering) (1031)
+- [Software Engineering](#software-engineering) (1032)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (173)
 - [Data Science](#data-science) (431)
@@ -31,6 +31,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Astranis | [Embedded Software Developer – Network/Payload Intern](https://job-boards.greenhouse.io/astranis/jobs/4704569006?utm_source=Simplify&ref=Simplify) | SF | 0d |
 | Brex | [Software Engineer Intern](https://go.vansh.nyc/1uO?s=y) | San Francisco, CA | 0d |
 | Lightmatter | [Laser Firmware Intern](https://go.vansh.nyc/1vf?s=y) | Boston, MA | 0d |
+| MKS Instruments | [Software Engineer Co-op](https://go.vansh.nyc/1vn?s=y) | Andover, MA | 0d |
 | Palantir | [Software Engineer, Intern - Connectivity Platform and P…](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) | Denver, CO | 1d |
 | Uplimit | [Software Engineer Intern](https://go.vansh.nyc/1rm?s=y) | United States | 1d |
 | McDonald's | [Software Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1d |
