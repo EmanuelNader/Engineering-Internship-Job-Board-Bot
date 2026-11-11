@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2199 roles.
+2200 roles.
 
 - [Software Engineering](#software-engineering) (1019)
 - [Product Management](#product-management) (53)
-- [Hardware Engineering](#hardware-engineering) (170)
+- [Hardware Engineering](#hardware-engineering) (171)
 - [Data Science](#data-science) (429)
 - [Machine Learning](#machine-learning) (221)
 - [Civil and Structural](#civil-and-structural) (38)
@@ -1113,6 +1113,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | GlobalFoundries | [AI Processor Hardware/Software Integration Engineer Int…](https://go.vansh.nyc/1uH?s=y) | Richardson, TX | 0d |
+| RTX | [Electrical (FCS Hardware) Engineering Intern (Summer 20…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) | US-IA-CEDAR RAPIDS-193 ~ 11… | 0d |
 | General Dynamics Mission Sy… | [ASIC/FPGA Engineer Intern 🇺🇸](https://go.vansh.nyc/1rJ?s=y) | Scottsdale, AZ | 1d |
 | Western Digital | [Hardware Engineering Intern](https://go.vansh.nyc/1sa?s=y) | San Jose, CA | 1d |
 | Ixana | [Embedded Hardware Engineer Intern, FPGA Design](https://go.vansh.nyc/1qS?s=y) | West Lafayette, IN | 1d |
