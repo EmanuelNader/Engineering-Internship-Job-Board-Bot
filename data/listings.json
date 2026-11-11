@@ -1,5 +1,18 @@
 [
   {
+    "id": "1698df150ee5e6e8a61cbaf64ab123026e7921600cfef64c8881c1ca7e34d7bd",
+    "company_name": "Brex",
+    "title": "Software Engineer, Intern (Summer 2027(",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-11T16:23:25.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "0bf0009f67c1c493fd44ff022c48c22c186b3336c26ce567a7610f533b6a24be",
     "company_name": "Astranis",
     "title": "Embedded Software Developer – Network/Payload Intern",
