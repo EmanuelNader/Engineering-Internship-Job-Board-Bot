@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2200 roles.
+2201 roles.
 
 - [Software Engineering](#software-engineering) (1019)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (171)
-- [Data Science](#data-science) (429)
+- [Data Science](#data-science) (430)
 - [Machine Learning](#machine-learning) (221)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (141)
@@ -1290,6 +1290,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| ICF | [Data Analytics Intern](https://go.vansh.nyc/1uQ?s=y) | Reston, VARemoteUnited Stat… | 0d |
 | State of Wisconsin Investme… | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG?s=y) | Madison, WI | 0d |
 | Riot Games | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716&utm_source=Simplify&ref=Simplify) | Remote in USA | 0d |
 | Altice USA | [Product Analytics Intern](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Analytics-NY-11714/1449510900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Bethpage, NY | 1d |
