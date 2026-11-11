@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2196 roles.
+2197 roles.
 
 - [Software Engineering](#software-engineering) (1017)
 - [Product Management](#product-management) (53)
-- [Hardware Engineering](#hardware-engineering) (169)
+- [Hardware Engineering](#hardware-engineering) (170)
 - [Data Science](#data-science) (429)
 - [Machine Learning](#machine-learning) (221)
 - [Civil and Structural](#civil-and-structural) (38)
@@ -1110,6 +1110,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| GlobalFoundries | [AI Processor Hardware/Software Integration Engineer Int…](https://go.vansh.nyc/1uH?s=y) | Richardson, TX | 0d |
 | General Dynamics Mission Sy… | [ASIC/FPGA Engineer Intern 🇺🇸](https://go.vansh.nyc/1rJ?s=y) | Scottsdale, AZ | 1d |
 | Western Digital | [Hardware Engineering Intern](https://go.vansh.nyc/1sa?s=y) | San Jose, CA | 1d |
 | Ixana | [Embedded Hardware Engineer Intern, FPGA Design](https://go.vansh.nyc/1qS?s=y) | West Lafayette, IN | 1d |
