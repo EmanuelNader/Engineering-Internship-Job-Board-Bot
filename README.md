@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2227 roles.
+2228 roles.
 
-- [Software Engineering](#software-engineering) (1036)
+- [Software Engineering](#software-engineering) (1037)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (174)
 - [Data Science](#data-science) (431)
@@ -29,6 +29,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Brex | [Software Engineer, Intern (Summer 2027(](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | San Francisco, California,… | 0d |
 | Bask | [Backend Engineering Intern](https://go.vansh.nyc/1vi?s=y) | United States | 0d |
 | Astranis | [Embedded Software Developer – Network/Payload Intern](https://job-boards.greenhouse.io/astranis/jobs/4704569006?utm_source=Simplify&ref=Simplify) | SF | 0d |
+| Motorola Solutions | [Embedded SW Engineering Intern 🇺🇸](https://go.vansh.nyc/1vC?s=y) | Schaumburg, IL | 0d |
 | NBCUniversal | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529?utm_source=Simplify&ref=Simplify) | Universal City, LA | 0d |
 | RTX | [Electrical (Firmware) Engineering Intern (Summer 2027)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) | US-IN-FT WAYNE-150A ~ 1010… | 0d |
 | Brex | [Software Engineer Intern](https://go.vansh.nyc/1uO?s=y) | San Francisco, CA | 0d |
