@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2218 roles.
+2220 roles.
 
-- [Software Engineering](#software-engineering) (1032)
+- [Software Engineering](#software-engineering) (1034)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (173)
 - [Data Science](#data-science) (431)
@@ -37,6 +37,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | McDonald's | [Software Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1d |
 | REGENT | [Embedded Software Engineering Intern - Summer](https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7) | North Kingstown, RI | 1d |
 | T-Mobile | [Software Engineer Intern - T-Ads](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219?utm_source=Simplify&ref=Simplify) | Philadelphia, PA | 1d |
+| Zotec Partners | [Software Engineer Intern, RCI](https://go.vansh.nyc/1vo?s=y) | Carmel, IN | 1d |
 | Skydio | [Hardware In Loop - HIL Software Engineer Intern - Winte…](https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded) | San Mateo, CA | 1d |
 | Addepar | [Software Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8927531002?utm_source=Simplify&ref=Simplify) | NYC | 1d |
 | EquipmentShare | [Intern: Engineering - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8371891) | Columbia, MO | 1d |
@@ -56,6 +57,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | General Motors | [Software Engineer Intern - Machine Learning Engineer -…](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1d |
 | T-Mobile | [Site Reliability Engineering Intern](https://go.vansh.nyc/1qv?s=y) | Frisco, TXAtlanta, GA | 1d |
 | Ixana | [Embedded Software Engineer Intern, Wearables and IoT](https://go.vansh.nyc/1qR?s=y) | West Lafayette, IN | 1d |
+| Zotec Partners | [Software Engineer Intern](https://go.vansh.nyc/1vp?s=y) | Carmel, IN | 1d |
 | Veolia | [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern?oga=true) | Boulder, CO | 1d |
 | Rivet | [Full-Stack Engineering Intern](https://go.vansh.nyc/1ru?s=y) | United States | 1d |
 | 🔥 Tesla | [Mobile Application Developer Intern](https://www.tesla.com/careers/search/job/289480?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1d |

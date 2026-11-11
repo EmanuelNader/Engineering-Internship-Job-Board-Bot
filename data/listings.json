@@ -351,6 +351,19 @@
     ]
   },
   {
+    "id": "1768e0d18055fd3c929adf85c3d743ec7f22732980e7c626244b5f6fbc38d994",
+    "company_name": "Zotec Partners",
+    "title": "Software Engineer Intern, RCI",
+    "location": "Carmel, IN",
+    "url": "https://go.vansh.nyc/1vo?s=y",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "1aa9a4a01ad67f42d242a403acb39ae63ae892108b23b95338393a423b0845a0",
     "company_name": "Skydio",
     "title": "Hardware In Loop - HIL Software Engineer Intern - Winter 2027",
@@ -818,6 +831,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "c9681ea12cdf83bc499f0b6c08e7351063d51537cf589ec4e1ace7f4493cbfa7",
+    "company_name": "Zotec Partners",
+    "title": "Software Engineer Intern",
+    "location": "Carmel, IN",
+    "url": "https://go.vansh.nyc/1vp?s=y",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
