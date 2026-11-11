@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "0bfa75d8a880c09ab01644308726ce87f698870121e703f4970ccdb647308dd5",
+    "company_name": "Bose",
+    "title": "Digital Signal Processing Machine Learning Software Development Co-op",
+    "location": "Framingham, MA",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "114c4e5d6585cd05a49f9da6caf3fd156c1fe55c9b32971338e982a85691be4d",
     "company_name": "RTX",
     "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) - Onsite",
@@ -78,6 +91,19 @@
     ]
   },
   {
+    "id": "25a9e2baf6606bdaeee614bade8839a7faeff7ba34cafce0df55af71c75dae4c",
+    "company_name": "MSA Safety",
+    "title": "Electrical Engineering Technology Intern Co-op",
+    "location": "Cranberry Township, PA",
+    "url": "https://careers.msasafety.com/jobs/10392?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "2c81bb0012f8a70c8976f79c4d4e385d379e2f4c3a27a1ebcf0c0d572bf8bf6c",
     "company_name": "ICF",
     "title": "Data Analytics Intern",
@@ -88,6 +114,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "363a855cc6f1e8df6b4acf097914c2300a8a43ced0f6e36e5c1bcb1584703c33",
+    "company_name": "NBCUniversal",
+    "title": "Software Engineer Intern",
+    "location": "Universal City, LA",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -143,6 +182,19 @@
     ]
   },
   {
+    "id": "966cbd6e615ec6d1dc6cd8d879887a69c636839f5a5c34d228bed278582ac08e",
+    "company_name": "Formlabs",
+    "title": "Manufacturing Test Software Intern - Manufacturing",
+    "location": "Somerville, MA",
+    "url": "https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "aa04056dea64a106b05da147e1b3a178240894e68c9630873f9002654539598d",
     "company_name": "State of Wisconsin Investment Board",
     "title": "Data Analytics Engineering Intern",
@@ -153,6 +205,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "b944d2f6d35e54208c5d4bfd067f9fb314055f2645555c6aece9358a56441e81",
+    "company_name": "Rubrik",
+    "title": "Product Manager Intern - Managed Service Provider 🎓",
+    "location": "Palo Alto, CA",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "pm-program"
     ]
   },
   {
@@ -205,6 +270,20 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "f4c05428e83eeea63b4f859242b3b1b29001f8bec50d420dd25d6406121015d6",
+    "company_name": "RTX",
+    "title": "Electrical Engineer Intern - FCS Hardware",
+    "location": "Cedar Rapids, IA",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware",
+      "electrical"
     ]
   },
   {

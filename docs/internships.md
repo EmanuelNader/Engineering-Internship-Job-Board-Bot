@@ -6,16 +6,16 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2221 roles.
+2227 roles.
 
-- [Software Engineering](#software-engineering) (1035)
-- [Product Management](#product-management) (53)
-- [Hardware Engineering](#hardware-engineering) (173)
+- [Software Engineering](#software-engineering) (1036)
+- [Product Management](#product-management) (54)
+- [Hardware Engineering](#hardware-engineering) (174)
 - [Data Science](#data-science) (431)
-- [Machine Learning](#machine-learning) (221)
+- [Machine Learning](#machine-learning) (222)
 - [Civil and Structural](#civil-and-structural) (38)
-- [Mechanical Engineering](#mechanical-engineering) (142)
-- [Electrical Engineering](#electrical-engineering) (149)
+- [Mechanical Engineering](#mechanical-engineering) (143)
+- [Electrical Engineering](#electrical-engineering) (151)
 - [Chemical Engineering](#chemical-engineering) (40)
 - [Aerospace Engineering](#aerospace-engineering) (29)
 - [Other](#other) (28)
@@ -29,6 +29,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Brex | [Software Engineer, Intern (Summer 2027(](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | San Francisco, California,… | 0d |
 | Bask | [Backend Engineering Intern](https://go.vansh.nyc/1vi?s=y) | United States | 0d |
 | Astranis | [Embedded Software Developer – Network/Payload Intern](https://job-boards.greenhouse.io/astranis/jobs/4704569006?utm_source=Simplify&ref=Simplify) | SF | 0d |
+| NBCUniversal | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529?utm_source=Simplify&ref=Simplify) | Universal City, LA | 0d |
 | RTX | [Electrical (Firmware) Engineering Intern (Summer 2027)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) | US-IN-FT WAYNE-150A ~ 1010… | 0d |
 | Brex | [Software Engineer Intern](https://go.vansh.nyc/1uO?s=y) | San Francisco, CA | 0d |
 | Lightmatter | [Laser Firmware Intern](https://go.vansh.nyc/1vf?s=y) | Boston, MA | 0d |
@@ -1068,6 +1069,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Rubrik | [Product Manager Intern - Managed Service Provider 🎓](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967&utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 0d |
 | 🔥 TikTok | [GEO Content Product Manager Intern](https://lifeattiktok.com/search/7696000178264361269?utm_source=Simplify&ref=Simplify) | San Jose, CA | 4d |
 | Zoox | [Program Manager, Infrastructure Operations Intern Summe…](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) | Foster City, CA | 5d |
 | 🔥 TikTok | [POI Content Product Manager Intern](https://lifeattiktok.com/search/7696000179569854725?utm_source=Simplify&ref=Simplify) | San Jose, CA | 5d |
@@ -1130,6 +1132,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | GlobalFoundries | [AI Processor Hardware/Software Integration Engineer Int…](https://go.vansh.nyc/1uH?s=y) | Richardson, TX | 0d |
 | RTX | [Electrical (FCS Hardware) Engineering Intern (Summer 20…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815) | US-IA-CEDAR RAPIDS-193 ~ 11… | 0d |
+| RTX | [Electrical Engineer Intern - FCS Hardware](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 0d |
 | Meta | [Research Intern — Neural Network Training and Hardware-…](https://www.metacareers.com/jobs/1560905132724186) | Redmond, WA | 1d |
 | Skydio | [Hardware In Loop - HIL Software Engineer Intern - Winte…](https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded) | San Mateo, CA | 1d |
 | General Dynamics Mission Sy… | [ASIC/FPGA Engineer Intern 🇺🇸](https://go.vansh.nyc/1rJ?s=y) | Scottsdale, AZ | 1d |
@@ -1746,6 +1749,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Bose | [Digital Signal Processing Machine Learning Software Dev…](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372?utm_source=Simplify&ref=Simplify) | Framingham, MA | 0d |
 | Ribbon | [AI Engineer Co-op](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083?utm_source=Simplify&ref=Simplify) | Westford, MA | 0d |
 | International | [Artificial Intelligence/Machine Learning Intern](https://careers.international.com/jobs/60456?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Lisle, IL | 0d |
 | SRC, Inc | [Machine Learning Engineer Intern](https://go.vansh.nyc/1rU?s=y) | United States | 1d |
@@ -2019,6 +2023,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Formlabs | [Manufacturing Test Software Intern - Manufacturing](https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598&utm_source=Simplify&ref=Simplify) | Somerville, MA | 0d |
 | Veolia | [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern?oga=true) | Boulder, CO | 1d |
 | RTX | [Digital Hardware Design Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519-2?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 2d |
 | RTX | [Manufacturing Engineer Co-op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Spring-Summer-2027-_01887620) | US-NC-WILSON-4200 ~ 4200 Ai… | 2d |
@@ -2169,6 +2174,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | RTX | [Receiver, Exciter & Processing Architecture Electrical…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027----Onsite_01889033) | US-MA-TEWKSBURY-TB1 ~ 50 Ap… | 0d |
+| MSA Safety | [Electrical Engineering Technology Intern Co-op](https://careers.msasafety.com/jobs/10392?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 0d |
+| RTX | [Electrical Engineer Intern - FCS Hardware](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815?utm_source=Simplify&ref=Simplify) | Cedar Rapids, IA | 0d |
 | GFT | [Intern - Electrical Engineering](https://careers-gannettfleming.icims.com/jobs/15132/intern---electrical-engineering/job) | US-PA-Ebensburg | 1d |
 | BETA Technologies Summer 20… | [Software, Controls & Autonomy Intern](https://go.vansh.nyc/1v3?s=y) | South Burlington, VT | 1d |
 | Intuitive Surgical | [Robotics and Controls Engineer Intern 🎓](https://jobs.smartrecruiters.com/Intuitive/744000160747319?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1d |
