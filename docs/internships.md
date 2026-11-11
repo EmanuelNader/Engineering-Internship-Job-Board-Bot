@@ -6,16 +6,16 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2201 roles.
+2205 roles.
 
-- [Software Engineering](#software-engineering) (1019)
+- [Software Engineering](#software-engineering) (1022)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (171)
 - [Data Science](#data-science) (430)
 - [Machine Learning](#machine-learning) (221)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (141)
-- [Electrical Engineering](#electrical-engineering) (147)
+- [Electrical Engineering](#electrical-engineering) (148)
 - [Chemical Engineering](#chemical-engineering) (40)
 - [Aerospace Engineering](#aerospace-engineering) (29)
 - [Other](#other) (28)
@@ -307,11 +307,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | HP Inc. | [Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1?utm_source=Simplify&ref=Simplify) | SF | 2w |
 | Lockheed Martin | [Software Engineer Intern 🇺🇸](https://go.vansh.nyc/Xr?s=y) | Sunnyvale, CA | 2w |
 | Disney | [Full Stack Web Development Intern, Walt Disney Animatio…](https://go.vansh.nyc/YM?s=y) | Burbank, CA | 2w |
+| Astera Labs | [Firmware Engineer Intern, SCO2](https://go.vansh.nyc/1uT?s=y) | San Jose, CA | 2w |
 | Zoox | [Software Engineer Intern](https://go.vansh.nyc/ZY?s=y) | Foster City, CA | 2w |
 | Ace Hardware | [IT Associate Software Engineer 2027 Summer Internship -…](https://acehardware.wd1.myworkdayjobs.com/en-US/external/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797) | Oak Brook, IL | 2w |
 | Sonos | [Software Engineer Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1?utm_source=Simplify&ref=Simplify) | Boston, MA | 2w |
 | Nintendo | [Software Engineer Intern, Platform Security](https://go.vansh.nyc/12o?s=y) | Redmond, WA | 2w |
 | HP Inc. | [Software Engineer Intern - Connectivity](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1?utm_source=Simplify&ref=Simplify) | SF | 2w |
+| Astera Labs | [Firmware Engineer Intern, DevSecOps](https://go.vansh.nyc/1uV?s=y) | San Jose, CA | 2w |
 | 🔥 LinkedIn | [Software Engineer Intern - First Play](https://jobs.smartrecruiters.com/LinkedIn3/744000158394370?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2w |
 | VSP Vision | [Software Engineer Intern - Technology Innovation](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020?utm_source=Simplify&ref=Simplify) | Remote in USA | 2w |
 | KLA | [Software Engineer Intern](https://go.vansh.nyc/YS?s=y) | Milpitas, CA | 2w |
@@ -331,6 +333,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Nintendo | [Software Engineer Intern, DevOps](https://careers.nintendo.com/?gh_jid=4472002009) | Redmond, WA | 2w |
 | Nintendo | [Software Engineer Intern, Connectivity](https://go.vansh.nyc/12p?s=y) | Redmond, WA | 2w |
 | Nintendo | [Software Engineer Intern, Audio](https://go.vansh.nyc/12n?s=y) | Redmond, WA | 2w |
+| Astera Labs | [Firmware Engineer Intern, Leo](https://go.vansh.nyc/1uU?s=y) | San Jose, CA | 2w |
 | RTX | [Receiver, Exciter, & Processing Architecture Software E…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187) | US-MA-MARLBOROUGH-MA2 ~ 100… | 2w |
 | Philips | [Co-op -Embedded Test Engineer - Murrysville - PA-Januar…](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065) | Murrysville, PA | 2w |
 | Burns Engineering | [Software Engineer Intern](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009&utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 2w |
@@ -2149,6 +2152,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | GFT | [Intern - Electrical Engineering](https://careers-gannettfleming.icims.com/jobs/15132/intern---electrical-engineering/job) | US-PA-Ebensburg | 1d |
+| BETA Technologies Summer 20… | [Software, Controls & Autonomy Intern](https://go.vansh.nyc/1v3?s=y) | South Burlington, VT | 1d |
 | Intuitive Surgical | [Robotics and Controls Engineer Intern 🎓](https://jobs.smartrecruiters.com/Intuitive/744000160747319?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1d |
 | Marathon Petroleum | [Electrical Engineer I - Midstream Natural Gas & NGL Ser…](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Electrical-Engineer-I---Midstream-Natural-Gas---NGL-Services--Intern-to-Full-Time-Conversion-_00024745) | Canonsburg, Pennsylvania | 2d |
 | Pivotal Aero | [Electrical Engineering Intern](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb/apply?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 2d |

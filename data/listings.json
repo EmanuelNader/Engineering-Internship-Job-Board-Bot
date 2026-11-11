@@ -573,6 +573,19 @@
     ]
   },
   {
+    "id": "aa3b7b5b53c43179691edd8d12c7fd81f799290019de2b6b630173fca4d68857",
+    "company_name": "BETA Technologies Summer 2027",
+    "title": "Software, Controls & Autonomy Intern",
+    "location": "South Burlington, VT",
+    "url": "https://go.vansh.nyc/1v3?s=y",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "acd6a36e79517bd9e3a941119093b385ebe0c00167095e1611e8860f1a53728a",
     "company_name": "Addepar",
     "title": "Data Engineer Intern",
@@ -6993,6 +7006,19 @@
     ]
   },
   {
+    "id": "2f76a00cbccb3987a1429c3a7ed2796f535a32e739e818dd94832241b3358389",
+    "company_name": "Astera Labs",
+    "title": "Firmware Engineer Intern, SCO2",
+    "location": "San Jose, CA",
+    "url": "https://go.vansh.nyc/1uT?s=y",
+    "date_posted": "2026-10-28T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "402b0621a587843767694c0d6a68e475773893850f502751c597de7c2af06618",
     "company_name": "RTX",
     "title": "Manufacturing Execution System (MES) Co-Op (Spring/Summer 2027)",
@@ -7207,6 +7233,19 @@
     "title": "Software Engineer Intern - Connectivity",
     "location": "SF",
     "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-10-28T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "7924d2bd9b6d6fe0695ec3ff53f7fd97b432502fcc72d177ff89ee2fa3a7bc1e",
+    "company_name": "Astera Labs",
+    "title": "Firmware Engineer Intern, DevSecOps",
+    "location": "San Jose, CA",
+    "url": "https://go.vansh.nyc/1uV?s=y",
     "date_posted": "2026-10-28T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -7631,6 +7670,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "fec6c5b941fc6cb30297c4f9cf5594506fcd395c7874db2d9cd4fbfa45801c25",
+    "company_name": "Astera Labs",
+    "title": "Firmware Engineer Intern, Leo",
+    "location": "San Jose, CA",
+    "url": "https://go.vansh.nyc/1uU?s=y",
+    "date_posted": "2026-10-28T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
