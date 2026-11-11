@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2191 roles.
+2192 roles.
 
-- [Software Engineering](#software-engineering) (1015)
+- [Software Engineering](#software-engineering) (1016)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (169)
 - [Data Science](#data-science) (428)
@@ -38,6 +38,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Substrate | [Systems Software Engineer Intern](https://go.vansh.nyc/1rx?s=y) | San Francisco, CA | 1d |
 | Skydio | [Middleware Software Engineer Intern](https://go.vansh.nyc/1s9?s=y) | San Mateo, CA | 1d |
 | Palantir Technologies | [Software Engineer Intern, Connectivity Platform and Pro…](https://go.vansh.nyc/1rs?s=y) | Denver, CO | 1d |
+| Cisco | [Software Engineer Intern, Embedded Systems I](https://go.vansh.nyc/1uy?s=y) | San Jose, CA | 1d |
 | DreamWorks Animation | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459?utm_source=Simplify&ref=Simplify) | NYC | 1d |
 | Applied Materials | [2027 Spring Software Engineer Co-op (Billerica, MA)](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540) | Billerica,MA | 1d |
 | RetailReady | [Full Stack Intern](https://go.vansh.nyc/1rt?s=y) | San Francisco, CA | 1d |
