@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2217 roles.
+2218 roles.
 
 - [Software Engineering](#software-engineering) (1032)
 - [Product Management](#product-management) (53)
@@ -15,7 +15,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Machine Learning](#machine-learning) (221)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (142)
-- [Electrical Engineering](#electrical-engineering) (148)
+- [Electrical Engineering](#electrical-engineering) (149)
 - [Chemical Engineering](#chemical-engineering) (40)
 - [Aerospace Engineering](#aerospace-engineering) (29)
 - [Other](#other) (28)
@@ -2165,6 +2165,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| RTX | [Receiver, Exciter & Processing Architecture Electrical…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027----Onsite_01889033) | US-MA-TEWKSBURY-TB1 ~ 50 Ap… | 0d |
 | GFT | [Intern - Electrical Engineering](https://careers-gannettfleming.icims.com/jobs/15132/intern---electrical-engineering/job) | US-PA-Ebensburg | 1d |
 | BETA Technologies Summer 20… | [Software, Controls & Autonomy Intern](https://go.vansh.nyc/1v3?s=y) | South Burlington, VT | 1d |
 | Intuitive Surgical | [Robotics and Controls Engineer Intern 🎓](https://jobs.smartrecruiters.com/Intuitive/744000160747319?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1d |
