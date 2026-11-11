@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "03e5c3f275419fa460730d225813347e9a269b20d397543b8cf5294fe232a891",
+    "company_name": "Bask",
+    "title": "Backend Engineering Intern",
+    "location": "United States",
+    "url": "https://go.vansh.nyc/1vi?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "0bf0009f67c1c493fd44ff022c48c22c186b3336c26ce567a7610f533b6a24be",
     "company_name": "Astranis",
     "title": "Embedded Software Developer – Network/Payload Intern",
@@ -135,6 +148,19 @@
     "title": "Software Engineer Intern",
     "location": "San Francisco, CA",
     "url": "https://go.vansh.nyc/1uO?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "ca18deca9ea7083ef9d36ec80350311844857cec1bc7020537a5dfec4e49e4e4",
+    "company_name": "Lightmatter",
+    "title": "Laser Firmware Intern",
+    "location": "Boston, MA",
+    "url": "https://go.vansh.nyc/1vf?s=y",
     "date_posted": "2026-11-11T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -505,6 +531,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "616fc44dfea0abc16fad21fa7dbfed5a407ea14b8610fb1e9fee66134c374095",
+    "company_name": "Securitymetrics",
+    "title": "Software Engineer Intern",
+    "location": "Orem, UT",
+    "url": "https://go.vansh.nyc/1vg?s=y",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {

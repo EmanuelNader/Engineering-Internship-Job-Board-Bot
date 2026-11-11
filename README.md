@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2213 roles.
+2216 roles.
 
-- [Software Engineering](#software-engineering) (1028)
+- [Software Engineering](#software-engineering) (1031)
 - [Product Management](#product-management) (53)
 - [Hardware Engineering](#hardware-engineering) (173)
 - [Data Science](#data-science) (431)
@@ -27,8 +27,10 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | Brex | [Software Engineer, Intern (Summer 2027(](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | San Francisco, California,… | 0d |
+| Bask | [Backend Engineering Intern](https://go.vansh.nyc/1vi?s=y) | United States | 0d |
 | Astranis | [Embedded Software Developer – Network/Payload Intern](https://job-boards.greenhouse.io/astranis/jobs/4704569006?utm_source=Simplify&ref=Simplify) | SF | 0d |
 | Brex | [Software Engineer Intern](https://go.vansh.nyc/1uO?s=y) | San Francisco, CA | 0d |
+| Lightmatter | [Laser Firmware Intern](https://go.vansh.nyc/1vf?s=y) | Boston, MA | 0d |
 | Palantir | [Software Engineer, Intern - Connectivity Platform and P…](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) | Denver, CO | 1d |
 | Uplimit | [Software Engineer Intern](https://go.vansh.nyc/1rm?s=y) | United States | 1d |
 | McDonald's | [Software Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1d |
@@ -44,6 +46,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Skydio | [Middleware Software Engineer Intern](https://go.vansh.nyc/1s9?s=y) | San Mateo, CA | 1d |
 | Palantir Technologies | [Software Engineer Intern, Connectivity Platform and Pro…](https://go.vansh.nyc/1rs?s=y) | Denver, CO | 1d |
 | Cisco | [Software Engineer Embedded Systems I - Intern - United…](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1) | San Jose, CA +2 | 1d |
+| Securitymetrics | [Software Engineer Intern](https://go.vansh.nyc/1vg?s=y) | Orem, UT | 1d |
 | Cisco | [Software Engineer Intern, Embedded Systems I](https://go.vansh.nyc/1uy?s=y) | San Jose, CA | 1d |
 | DreamWorks Animation | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459?utm_source=Simplify&ref=Simplify) | NYC | 1d |
 | Visa | [Software Engineer - Intern - 2027 Foster City - CA](https://visa.wd5.myworkdayjobs.com/en-US/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W) | Foster City, CA | 1d |
