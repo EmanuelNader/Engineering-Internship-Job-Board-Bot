@@ -117,6 +117,19 @@
     ]
   },
   {
+    "id": "e5d80791aec7ddcbcec33198a30de019e6fa1e1580aca1288cb85069a994eafb",
+    "company_name": "PTC",
+    "title": "Site Reliability Engineering Intern, Onshape",
+    "location": "Boston, MA",
+    "url": "https://go.vansh.nyc/1wK?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "411d51db40fbaa345821572cb44aca44c922becf3f3f240dc39cbfb6972e19b7",
     "company_name": "Airbnb",
     "title": "Advanced Analytics Intern",
