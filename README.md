@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2253 roles.
+2260 roles.
 
-- [Software Engineering](#software-engineering) (1051)
+- [Software Engineering](#software-engineering) (1056)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (172)
-- [Data Science](#data-science) (439)
+- [Data Science](#data-science) (442)
 - [Machine Learning](#machine-learning) (226)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
@@ -29,9 +29,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | 🔥 TikTok | [Software Engineer Intern - TikTok Search 🎓](https://lifeattiktok.com/search/7704696088079010053?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | SK hynix | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | Entegris | [Embedded Software Engineering Intern](https://go.vansh.nyc/1wx?s=y) | Bloomington, MN | 0d |
+| Cboe Global Markets | [DevOps Intern](https://go.vansh.nyc/1xz?s=y) | Overland Park, KS | 0d |
 | Bask | [Frontend Engineering Intern](https://go.vansh.nyc/1wc?s=y) | United States | 0d |
 | Vertiv | [Software Engineer Intern 🎓](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 0d |
 | PTC | [Site Reliability Engineering Intern, Onshape](https://go.vansh.nyc/1wK?s=y) | Boston, MA | 0d |
+| CACI | [Embedded Software Development Intern](https://go.vansh.nyc/1xA?s=y) | Denver, CO | 0d |
 | Motorola Solutions | [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179?utm_source=Simplify&ref=Simplify) | Schaumburg, IL | 1d |
 | Bask | [Backend Engineering Intern](https://go.vansh.nyc/1vi?s=y) | United States | 1d |
 | Astranis | [Embedded Software Developer – Network/Payload Intern](https://job-boards.greenhouse.io/astranis/jobs/4704569006?utm_source=Simplify&ref=Simplify) | SF | 1d |
@@ -40,10 +42,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | RTX | [Electrical Engineering Intern, Firmware 🇺🇸](https://go.vansh.nyc/1vJ?s=y) | Ft Wayne, IN | 1d |
 | NBCUniversal | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529?utm_source=Simplify&ref=Simplify) | Universal City, LA | 1d |
 | Garmin International | [IT DevOps Administrator Intern](https://go.vansh.nyc/1xf?s=y) | Olathe, KS | 1d |
+| Kudu Dynamics | [Junior Software Engineer/Data Scientist Intern 🇺🇸](https://go.vansh.nyc/1xK?s=y) | Tucson, AZ | 1d |
 | Lynco Products | [Front End Development Intern](https://go.vansh.nyc/1x8?s=y) | West Milan, IL | 1d |
 | RTX | [Electrical (Firmware) Engineering Intern (Summer 2027)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) | US-IN-FT WAYNE-150A ~ 1010… | 1d |
 | Brex | [Software Engineer Intern](https://go.vansh.nyc/1uO?s=y) | San Francisco, CA | 1d |
 | Motorola Solutions | [Embedded Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1?utm_source=Simplify&ref=Simplify) | Schaumburg, IL | 1d |
+| CarGurus | [Site Reliability Engineer Intern](https://go.vansh.nyc/1xJ?s=y) | Boston, MA | 1d |
 | Lightmatter | [Laser Firmware Intern](https://go.vansh.nyc/1vf?s=y) | Boston, MA | 1d |
 | MKS Instruments | [Software Engineer Co-op](https://go.vansh.nyc/1vn?s=y) | Andover, MA | 1d |
 | US Internships Public Caree… | [Undergraduate Frontend Software Engineering Intern](https://go.vansh.nyc/1xb?s=y) | Los Angeles, CASan Mateo, CA | 1d |
@@ -245,6 +249,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Motorola Solutions | [Software Engineer Intern, Cybersecurity Services 🇺🇸](https://go.vansh.nyc/19M?s=y) | **7 locations**RemoteUnited… | 1w |
 | Constellation Brands | [Intern - Full Stack Engineer](https://cbrands.wd5.myworkdayjobs.com/en-US/cbi_external_careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600) | Rochester, NY | 1w |
 | Gordon Food Service | [Cloud DevOps Intern](https://go.vansh.nyc/1cv?s=y) | Atlanta, GA | 1w |
+| US Internships Public Caree… | [Undergraduate Backend Software Engineering Intern](https://go.vansh.nyc/1xF?s=y) | San Mateo, CA | 1w |
 | TikTok | [Software Engineer Intern, Global E-commerce-Search](https://go.vansh.nyc/17W?s=y) | Seattle, WA | 1w |
 | KnowBe4 | [Software Engineer Summer Internship](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) | Clearwater, FL | 1w |
 | ByteDance | [Security Software Engineer Project Intern, Network Secu…](https://go.vansh.nyc/14B?s=y) | San Jose, CA | 1w |
@@ -1327,9 +1332,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Pinterest | [Sales Analytics Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8214783) | San Francisco, CA, US; Remo… | 0d |
 | Microsoft | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj?s=y) | Redmond, WA | 0d |
 | 🔥 Microsoft | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390?utm_source=Simplify&ref=Simplify) | Redmond, WA | 0d |
+| Encore Global | [IT Data Analyst Intern](https://go.vansh.nyc/1xN?s=y) | Schiller Park, IL | 0d |
 | Vizient | [Contract Operations Intern - Analytics](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1?utm_source=Simplify&ref=Simplify) | Irving, TX | 0d |
 | Airbnb | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | United States | 1d |
 | ICF | [Data Analytics Intern](https://go.vansh.nyc/1uQ?s=y) | Reston, VARemoteUnited Stat… | 1d |
+| CarGurus | [Product Data Analyst Intern](https://go.vansh.nyc/1xI?s=y) | Boston, MA | 1d |
+| Kudu Dynamics | [Junior Software Engineer/Data Scientist Intern 🇺🇸](https://go.vansh.nyc/1xK?s=y) | Tucson, AZ | 1d |
 | Mum Industries | [Business Intelligence & Data Analytics Intern](https://go.vansh.nyc/1x5?s=y) | Mentor, OH | 1d |
 | CarGurus | [Data Analytics Engineer Intern](https://go.vansh.nyc/1xc?s=y) | Boston, MA | 1d |
 | State of Wisconsin Investme… | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG?s=y) | Madison, WI | 1d |

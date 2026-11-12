@@ -91,6 +91,32 @@
     ]
   },
   {
+    "id": "5241e09285327bfb033a6db7a65fad4b23deab04523a46c298be5c6b26e82a66",
+    "company_name": "Cboe Global Markets",
+    "title": "DevOps Intern",
+    "location": "Overland Park, KS",
+    "url": "https://go.vansh.nyc/1xz?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "83ab69ae3ba734bf8d4a61b6a704da52d89aaef940aadf23a5e1f96d19357491",
+    "company_name": "Encore Global",
+    "title": "IT Data Analyst Intern",
+    "location": "Schiller Park, IL",
+    "url": "https://go.vansh.nyc/1xN?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "8528986a4484e3a263f11c95e34df650d8bc4ae503825812d169b1df04cd7487",
     "company_name": "Riot Games",
     "title": "Machine Learning Engineer Intern 🎓",
@@ -161,6 +187,19 @@
     "title": "Site Reliability Engineering Intern, Onshape",
     "location": "Boston, MA",
     "url": "https://go.vansh.nyc/1wK?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "fecdb37241d31fbf2234f5c07a640e5e16a05fea83c272aa033187e1a111e065",
+    "company_name": "CACI",
+    "title": "Embedded Software Development Intern",
+    "location": "Denver, CO",
+    "url": "https://go.vansh.nyc/1xA?s=y",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -366,6 +405,19 @@
     ]
   },
   {
+    "id": "5aa74947a07130c1a1a6a308486334b50d643f34039524705dca872edd1e9ad3",
+    "company_name": "CarGurus",
+    "title": "Product Data Analyst Intern",
+    "location": "Boston, MA",
+    "url": "https://go.vansh.nyc/1xI?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "61588f6d950c07d02ae8e3ff9f2b95402d2a9d096546057652cc18a1b7c77fb2",
     "company_name": "Garmin International",
     "title": "IT DevOps Administrator Intern",
@@ -376,6 +428,20 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "651943437a4c335413ef4f9ee7565f93dc78848e345033817e150686000b0e32",
+    "company_name": "Kudu Dynamics",
+    "title": "Junior Software Engineer/Data Scientist Intern 🇺🇸",
+    "location": "Tucson, AZ",
+    "url": "https://go.vansh.nyc/1xK?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "data"
     ]
   },
   {
@@ -566,6 +632,19 @@
     "title": "Embedded Software Engineer Intern",
     "location": "Schaumburg, IL",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "ca10e25c00ab7ac49c65033ebc439ca642b99f17372e156e9a00c5e0379edaac",
+    "company_name": "CarGurus",
+    "title": "Site Reliability Engineer Intern",
+    "location": "Boston, MA",
+    "url": "https://go.vansh.nyc/1xJ?s=y",
     "date_posted": "2026-11-11T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -5279,6 +5358,19 @@
     "title": "Cloud DevOps Intern",
     "location": "Atlanta, GA",
     "url": "https://go.vansh.nyc/1cv?s=y",
+    "date_posted": "2026-11-02T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "ffa583b8f0435b599a64d82aa460f8a2b28bc9abbff277482b7f9ee3e3626e54",
+    "company_name": "US Internships Public Careers Site",
+    "title": "Undergraduate Backend Software Engineering Intern",
+    "location": "San Mateo, CA",
+    "url": "https://go.vansh.nyc/1xF?s=y",
     "date_posted": "2026-11-02T00:00:00.000Z",
     "level": "internship",
     "source": "github",
