@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": "4893222f4cb80351f2d165c6f9b41e99d2ba400b5f1b1c33d457d54c16933a83",
+    "company_name": "Muon Space",
+    "title": "Software Engineer Intern - Information Systems",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "4e40b395163444e9a8fead40a697f3e87596631d8eed34bbb16e19f5795bf9f5",
     "company_name": "Entegris",
     "title": "Embedded Software Engineering Intern",
@@ -96,6 +109,19 @@
     "title": "DevOps Intern",
     "location": "Overland Park, KS",
     "url": "https://go.vansh.nyc/1xz?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "5fc5f7c7626a7f576a5adb66140af0d5454aec7226205b20e8b45b5c026f9535",
+    "company_name": "North Atlantic Industries",
+    "title": "Embedded Software Engineer Intern",
+    "location": "Bohemia, NY",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112?utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -153,6 +179,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "a8d14e5bcb17c212d0d39231a4a55ebd7bae005e535f4b71176e7825bd928d06",
+    "company_name": "Shield AI",
+    "title": "Hardware Test Engineer Co-op",
+    "location": "Dallas, TX",
+    "url": "https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "hardware"
     ]
   },
   {
@@ -1368,6 +1407,19 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "ce0feba07f7d42efcc82dfab95a0aebdbfb3081adea70bc504b6a32eee9c7d6a",
+    "company_name": "General Dynamics Information Technology",
+    "title": "Data Analytics Associate Intern",
+    "location": "Falls Church, VA",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
