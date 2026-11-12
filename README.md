@@ -6,16 +6,16 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2235 roles.
+2234 roles.
 
 - [Software Engineering](#software-engineering) (1043)
 - [Product Management](#product-management) (54)
-- [Hardware Engineering](#hardware-engineering) (173)
+- [Hardware Engineering](#hardware-engineering) (172)
 - [Data Science](#data-science) (432)
 - [Machine Learning](#machine-learning) (223)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
-- [Electrical Engineering](#electrical-engineering) (152)
+- [Electrical Engineering](#electrical-engineering) (151)
 - [Chemical Engineering](#chemical-engineering) (40)
 - [Aerospace Engineering](#aerospace-engineering) (29)
 - [Other](#other) (28)
@@ -1240,7 +1240,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Schweitzer Engineering Labo… | [Hardware Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159?utm_source=Simplify&ref=Simplify) | Pullman, WA | 1mo |
 | Space Dynamics Laboratory | [FPGA Electrical Engineer Intern - Civil & Commercial Sp…](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern?utm_source=Simplify&ref=Simplify) | North Logan, UT | 1mo |
 | Astranis | [RF Hardware Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4708417006) | San Francisco | 1mo |
-| Astranis | [RF Hardware Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4708436006) | San Francisco | 1mo |
 | Rivian | [Engineering Intern/Co-op - Design Verification - Neural…](https://careers.rivian.com/jobs/33833?icims=1&utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1mo |
 | Rivian | [Audio Hardware Engineer Intern Co-op - Audio Hardware a…](https://careers.rivian.com/jobs/33874?icims=1&utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1mo |
 | 🔥 Tesla | [Embedded Software Engineer Intern - Silicon Development](https://www.tesla.com/careers/search/job/285084?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1mo |
@@ -2282,7 +2281,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Astranis | [Automation & Controls Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4718206006) | San Francisco | 1mo |
 | Astranis | [Automation & Controls Engineering Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4718203006) | San Francisco | 1mo |
 | Astranis | [RF Hardware Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4708417006) | San Francisco | 1mo |
-| Astranis | [RF Hardware Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4708436006) | San Francisco | 1mo |
 | 🔥 Microsoft | [Electrical Engineer Intern 🎓](https://apply.careers.microsoft.com/careers/job/1970393556986148?utm_source=Simplify&ref=Simplify) | Redmond, WA | 1mo |
 | Base Power | [Electrical Engineering Intern](https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97/application?embed=true&utm_source=Simplify&ref=Simplify) | Austin, TXSan Carlos, CA | 1mo |
 | DEKA Research & Development… | [Electrical Engineer Co-op](https://deka.applytojob.com/apply/IGTaMelH6z/Electrical-Engineer-CoOp-Spring-2027?utm_source=Simplify&ref=Simplify) | Manchester, NH | 1mo |
