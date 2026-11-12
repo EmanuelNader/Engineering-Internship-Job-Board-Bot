@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2237 roles.
+2238 roles.
 
 - [Software Engineering](#software-engineering) (1045)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (172)
-- [Data Science](#data-science) (433)
+- [Data Science](#data-science) (434)
 - [Machine Learning](#machine-learning) (223)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
@@ -1318,6 +1318,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Microsoft | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj?s=y) | Redmond, WA | 0d |
 | 🔥 Microsoft | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390?utm_source=Simplify&ref=Simplify) | Redmond, WA | 0d |
 | Airbnb | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | United States | 1d |
 | ICF | [Data Analytics Intern](https://go.vansh.nyc/1uQ?s=y) | Reston, VARemoteUnited Stat… | 1d |
