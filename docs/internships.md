@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2240 roles.
+2241 roles.
 
-- [Software Engineering](#software-engineering) (1046)
+- [Software Engineering](#software-engineering) (1047)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (172)
 - [Data Science](#data-science) (435)
@@ -300,6 +300,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | WEX | [Software Engineer Intern](https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Software-Engineer-Intern_R22585) | Remote - USA | 1w |
 | Talos | [Software Engineer Intern, Dealer](https://go.vansh.nyc/1kX?s=y) | New York, NY | 2w |
 | Nintendo | [Software Engineer Intern, Performance Tools](https://go.vansh.nyc/12q?s=y) | Redmond, WA | 2w |
+| Chatham Financial | [Software Engineer Intern](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348?utm_source=Simplify&ref=Simplify) | Kennett Square, PA | 2w |
 | Nintendo | [Intern - Software Engineer - Multimedia - NTD](https://careers.nintendo.com/?gh_jid=4469718009) | Redmond, WA | 2w |
 | Nintendo | [Software Engineer Intern, Graphics](https://go.vansh.nyc/121?s=y) | Redmond, WA | 2w |
 | Costco | [Software Developer Intern - Software Engineer - Costco…](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11021&utm_source=Simplify&ref=Simplify) | Issaquah, WA | 2w |
