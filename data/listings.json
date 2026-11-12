@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "4e40b395163444e9a8fead40a697f3e87596631d8eed34bbb16e19f5795bf9f5",
+    "company_name": "Entegris",
+    "title": "Embedded Software Engineering Intern",
+    "location": "Bloomington, MN",
+    "url": "https://go.vansh.nyc/1wx?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "8528986a4484e3a263f11c95e34df650d8bc4ae503825812d169b1df04cd7487",
     "company_name": "Riot Games",
     "title": "Machine Learning Engineer Intern 🎓",
@@ -88,6 +101,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "e1959d4b59159d1ba35c4fa68371f9e45bc68163439a1f1cf95d4e4fdf874f55",
+    "company_name": "Vizient",
+    "title": "Contract Operations Intern - Analytics",
+    "location": "Irving, TX",
+    "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {

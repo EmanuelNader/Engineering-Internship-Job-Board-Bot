@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2238 roles.
+2240 roles.
 
-- [Software Engineering](#software-engineering) (1045)
+- [Software Engineering](#software-engineering) (1046)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (172)
-- [Data Science](#data-science) (434)
+- [Data Science](#data-science) (435)
 - [Machine Learning](#machine-learning) (223)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
@@ -28,6 +28,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | 🔥 TikTok | [Software Engineer Intern - TikTok Search 🎓](https://lifeattiktok.com/search/7704696088079010053?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | SK hynix | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
+| Entegris | [Embedded Software Engineering Intern](https://go.vansh.nyc/1wx?s=y) | Bloomington, MN | 0d |
 | Bask | [Frontend Engineering Intern](https://go.vansh.nyc/1wc?s=y) | United States | 0d |
 | Vertiv | [Software Engineer Intern 🎓](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 0d |
 | Brex | [Software Engineer, Intern (Summer 2027(](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | San Francisco, California,… | 1d |
@@ -1320,6 +1321,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Microsoft | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj?s=y) | Redmond, WA | 0d |
 | 🔥 Microsoft | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390?utm_source=Simplify&ref=Simplify) | Redmond, WA | 0d |
+| Vizient | [Contract Operations Intern - Analytics](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1?utm_source=Simplify&ref=Simplify) | Irving, TX | 0d |
 | Airbnb | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | United States | 1d |
 | ICF | [Data Analytics Intern](https://go.vansh.nyc/1uQ?s=y) | Reston, VARemoteUnited Stat… | 1d |
 | State of Wisconsin Investme… | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG?s=y) | Madison, WI | 1d |
