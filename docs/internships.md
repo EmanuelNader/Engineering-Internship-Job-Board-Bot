@@ -6,19 +6,19 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2242 roles.
+2253 roles.
 
-- [Software Engineering](#software-engineering) (1047)
+- [Software Engineering](#software-engineering) (1051)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (172)
-- [Data Science](#data-science) (436)
-- [Machine Learning](#machine-learning) (223)
+- [Data Science](#data-science) (439)
+- [Machine Learning](#machine-learning) (226)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
 - [Electrical Engineering](#electrical-engineering) (151)
 - [Chemical Engineering](#chemical-engineering) (40)
 - [Aerospace Engineering](#aerospace-engineering) (29)
-- [Other](#other) (28)
+- [Other](#other) (29)
 
 ## Software Engineering
 
@@ -39,11 +39,14 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | RTX | [Electrical Engineer Intern - Firmware](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316?utm_source=Simplify&ref=Simplify) | Fort Wayne, IN | 1d |
 | RTX | [Electrical Engineering Intern, Firmware 🇺🇸](https://go.vansh.nyc/1vJ?s=y) | Ft Wayne, IN | 1d |
 | NBCUniversal | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529?utm_source=Simplify&ref=Simplify) | Universal City, LA | 1d |
+| Garmin International | [IT DevOps Administrator Intern](https://go.vansh.nyc/1xf?s=y) | Olathe, KS | 1d |
+| Lynco Products | [Front End Development Intern](https://go.vansh.nyc/1x8?s=y) | West Milan, IL | 1d |
 | RTX | [Electrical (Firmware) Engineering Intern (Summer 2027)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) | US-IN-FT WAYNE-150A ~ 1010… | 1d |
 | Brex | [Software Engineer Intern](https://go.vansh.nyc/1uO?s=y) | San Francisco, CA | 1d |
 | Motorola Solutions | [Embedded Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1?utm_source=Simplify&ref=Simplify) | Schaumburg, IL | 1d |
 | Lightmatter | [Laser Firmware Intern](https://go.vansh.nyc/1vf?s=y) | Boston, MA | 1d |
 | MKS Instruments | [Software Engineer Co-op](https://go.vansh.nyc/1vn?s=y) | Andover, MA | 1d |
+| US Internships Public Caree… | [Undergraduate Frontend Software Engineering Intern](https://go.vansh.nyc/1xb?s=y) | Los Angeles, CASan Mateo, CA | 1d |
 | Palantir | [Software Engineer, Intern - Connectivity Platform and P…](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) | Denver, CO | 2d |
 | Uplimit | [Software Engineer Intern](https://go.vansh.nyc/1rm?s=y) | United States | 2d |
 | McDonald's | [Software Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Chicago, IL | 2d |
@@ -70,6 +73,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | T-Mobile | [Site Reliability Engineering Intern](https://go.vansh.nyc/1qv?s=y) | Frisco, TXAtlanta, GA | 2d |
 | Ixana | [Embedded Software Engineer Intern, Wearables and IoT](https://go.vansh.nyc/1qR?s=y) | West Lafayette, IN | 2d |
 | Zotec Partners | [Software Engineer Intern](https://go.vansh.nyc/1vp?s=y) | Carmel, IN | 2d |
+| CarGurus | [Software Development Engineer Intern, Full Stack](https://go.vansh.nyc/1wW?s=y) | Boston, MA | 2d |
 | Veolia | [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern?oga=true) | Boulder, CO | 2d |
 | Rivet | [Full-Stack Engineering Intern](https://go.vansh.nyc/1ru?s=y) | United States | 2d |
 | 🔥 Tesla | [Mobile Application Developer Intern](https://www.tesla.com/careers/search/job/289480?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 2d |
@@ -1326,7 +1330,10 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Vizient | [Contract Operations Intern - Analytics](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1?utm_source=Simplify&ref=Simplify) | Irving, TX | 0d |
 | Airbnb | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | United States | 1d |
 | ICF | [Data Analytics Intern](https://go.vansh.nyc/1uQ?s=y) | Reston, VARemoteUnited Stat… | 1d |
+| Mum Industries | [Business Intelligence & Data Analytics Intern](https://go.vansh.nyc/1x5?s=y) | Mentor, OH | 1d |
+| CarGurus | [Data Analytics Engineer Intern](https://go.vansh.nyc/1xc?s=y) | Boston, MA | 1d |
 | State of Wisconsin Investme… | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG?s=y) | Madison, WI | 1d |
+| The Marzetti Company | [IT Analytics Intern](https://go.vansh.nyc/1xl?s=y) | United States | 1d |
 | Panera Bread | [Data Science & AI Analytics Intern](https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082?utm_source=Simplify&ref=Simplify) | Newton, MA | 1d |
 | Riot Games | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716&utm_source=Simplify&ref=Simplify) | Remote in USA | 1d |
 | Altice USA | [Product Analytics Intern](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Analytics-NY-11714/1449510900/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Bethpage, NY | 2d |
@@ -1763,10 +1770,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Intermountain Healthcare | [AI/ML Engineer Intern](https://go.vansh.nyc/1xt?s=y) | United States | 0d |
 | Riot Games | [Machine Learning Engineer Intern 🎓](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771&utm_source=Simplify&ref=Simplify) | Remote in USA | 0d |
+| Intermountain Healthcare | [Machine Learning Operations (MLOps) Intern](https://go.vansh.nyc/1xu?s=y) | United States | 0d |
 | Bose | [Digital Signal Processing Machine Learning Software Dev…](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372?utm_source=Simplify&ref=Simplify) | Framingham, MA | 1d |
 | Ribbon | [AI Engineer Co-op](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083?utm_source=Simplify&ref=Simplify) | Westford, MA | 1d |
 | International | [Artificial Intelligence/Machine Learning Intern](https://careers.international.com/jobs/60456?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Lisle, IL | 1d |
+| Ingersoll Rand | [AI Engineer Intern](https://go.vansh.nyc/1x4?s=y) | United States | 1d |
 | SRC, Inc | [Machine Learning Engineer Intern](https://go.vansh.nyc/1rU?s=y) | United States | 2d |
 | SigIQ.ai | [Machine Learning Intern/Resident](https://go.vansh.nyc/1rw?s=y) | Berkeley, CA | 2d |
 | General Motors | [Machine Learning Engineer Intern, Embodied AI](https://go.vansh.nyc/1rQ?s=y) | Sunnyvale, CA | 2d |
@@ -2429,6 +2439,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Systems Planning and Analys… | [UI/UX Software Intern](https://go.vansh.nyc/1xp?s=y) | Alexandria, VA | 1d |
 | Notion | [Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | New York, New York | 2d |
 | Pinterest | [Product Design Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) | San Francisco, CA, US; Remo… | 2d |
 | Disney | [Graphic Design & Communications Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graphic-Design---Communications-Intern--Spring-2027_10158440) | Lake Buena Vista, FL, USA | 3d |

@@ -78,6 +78,19 @@
     ]
   },
   {
+    "id": "4fc3f61e14d2df04955dcc3ac3ba349270595bdd649ada788641e3e4f7301734",
+    "company_name": "Intermountain Healthcare",
+    "title": "AI/ML Engineer Intern",
+    "location": "United States",
+    "url": "https://go.vansh.nyc/1xt?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "8528986a4484e3a263f11c95e34df650d8bc4ae503825812d169b1df04cd7487",
     "company_name": "Riot Games",
     "title": "Machine Learning Engineer Intern 🎓",
@@ -101,6 +114,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "9bb00045db0c836149d196e894de21941825f11dd3c20e8a100642484b603b4a",
+    "company_name": "Intermountain Healthcare",
+    "title": "Machine Learning Operations (MLOps) Intern",
+    "location": "United States",
+    "url": "https://go.vansh.nyc/1xu?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
     ]
   },
   {
@@ -340,6 +366,19 @@
     ]
   },
   {
+    "id": "61588f6d950c07d02ae8e3ff9f2b95402d2a9d096546057652cc18a1b7c77fb2",
+    "company_name": "Garmin International",
+    "title": "IT DevOps Administrator Intern",
+    "location": "Olathe, KS",
+    "url": "https://go.vansh.nyc/1xf?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "73f2322d705cee05dc9af943ea4d3c092db53e7395ea0088a39824ab95197029",
     "company_name": "RTX",
     "title": "Structural Engineering Intern (Summer 2027)(Onsite)",
@@ -366,6 +405,32 @@
     ]
   },
   {
+    "id": "7aeb3ffed10498c1f8d9d70e2f04cf030efbc852316ec5932297f25491b1315a",
+    "company_name": "Systems Planning and Analysis",
+    "title": "UI/UX Software Intern",
+    "location": "Alexandria, VA",
+    "url": "https://go.vansh.nyc/1xp?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "other"
+    ]
+  },
+  {
+    "id": "8c7994799cc405137fb85704fb7fccbcd10f4c399f4e7215d967ee3bba2ead8b",
+    "company_name": "Ingersoll Rand",
+    "title": "AI Engineer Intern",
+    "location": "United States",
+    "url": "https://go.vansh.nyc/1x4?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "966cbd6e615ec6d1dc6cd8d879887a69c636839f5a5c34d228bed278582ac08e",
     "company_name": "Formlabs",
     "title": "Manufacturing Test Software Intern - Manufacturing",
@@ -379,11 +444,63 @@
     ]
   },
   {
+    "id": "99f0ae92264f1a91f4ac8c9f173d3f6d33c65b6ff706cec0dd235b02a45051f6",
+    "company_name": "Mum Industries",
+    "title": "Business Intelligence & Data Analytics Intern",
+    "location": "Mentor, OH",
+    "url": "https://go.vansh.nyc/1x5?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "a63fe4667cf855296f0af51ed4672e11a8d45cdbf43503f1677dafac8e862976",
+    "company_name": "Lynco Products",
+    "title": "Front End Development Intern",
+    "location": "West Milan, IL",
+    "url": "https://go.vansh.nyc/1x8?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "a821a0a4ccd9e6877db672454d5fdbb48afdb90ad126fb39236640cfec3a4c37",
+    "company_name": "CarGurus",
+    "title": "Data Analytics Engineer Intern",
+    "location": "Boston, MA",
+    "url": "https://go.vansh.nyc/1xc?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "aa04056dea64a106b05da147e1b3a178240894e68c9630873f9002654539598d",
     "company_name": "State of Wisconsin Investment Board",
     "title": "Data Analytics Engineering Intern",
     "location": "Madison, WI",
     "url": "https://go.vansh.nyc/1uG?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "b0c92e66c575f3e27b2d445e00306e17b511a930d66fa81011480c5f827fd865",
+    "company_name": "The Marzetti Company",
+    "title": "IT Analytics Intern",
+    "location": "United States",
+    "url": "https://go.vansh.nyc/1xl?s=y",
     "date_posted": "2026-11-11T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -507,6 +624,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "f81bccd271b7c01e7d2b5c6dc6ca661a6ce7e1a6c5d6c65a2e530876cfbdcbe7",
+    "company_name": "US Internships Public Careers Site",
+    "title": "Undergraduate Frontend Software Engineering Intern",
+    "location": "Los Angeles, CASan Mateo, CA",
+    "url": "https://go.vansh.nyc/1xb?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -1185,6 +1315,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "ec5b5c40404f7893ea1ef070339b7b87afe20149b34eb1aeb80caa29239e601b",
+    "company_name": "CarGurus",
+    "title": "Software Development Engineer Intern, Full Stack",
+    "location": "Boston, MA",
+    "url": "https://go.vansh.nyc/1wW?s=y",
+    "date_posted": "2026-11-10T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
