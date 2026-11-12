@@ -1,5 +1,31 @@
 [
   {
+    "id": "8528986a4484e3a263f11c95e34df650d8bc4ae503825812d169b1df04cd7487",
+    "company_name": "Riot Games",
+    "title": "Machine Learning Engineer Intern 🎓",
+    "location": "Remote in USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "cad5767dbf02991fa18fb80aa02afb6fdf308bb7189c1c71d036cd3a81357c42",
+    "company_name": "Vertiv",
+    "title": "Software Engineer Intern 🎓",
+    "location": "Huntsville, AL",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "411d51db40fbaa345821572cb44aca44c922becf3f3f240dc39cbfb6972e19b7",
     "company_name": "Airbnb",
     "title": "Advanced Analytics Intern",
@@ -21,6 +47,19 @@
     "date_posted": "2026-11-11T16:23:25.000Z",
     "level": "internship",
     "source": "greenhouse",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "0080c7d66e842e7d90e5e485f29613f17d9ebc62573cfadd54aeb09167280fe7",
+    "company_name": "Motorola Solutions",
+    "title": "Software Engineer Intern",
+    "location": "Schaumburg, IL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
     "role_families": [
       "swe"
     ]
@@ -127,6 +166,20 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "2fd36f98dcbb229a5fd03c6744d68afbe3d5ca73485469819baa4392a772dd73",
+    "company_name": "RTX",
+    "title": "Electrical Engineering Intern, Firmware 🇺🇸",
+    "location": "Ft Wayne, IN",
+    "url": "https://go.vansh.nyc/1vJ?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "electrical"
     ]
   },
   {
@@ -247,11 +300,37 @@
     ]
   },
   {
+    "id": "be4fe432b05ade549bba6f34ebfa513c4caea0c053c2b6a8e875b4c063d473c9",
+    "company_name": "Panera Bread",
+    "title": "Data Science & AI Analytics Intern",
+    "location": "Newton, MA",
+    "url": "https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "c3ffac6469d8793ef853c27d05fb9a005a860a1d0d74a043b6a8eb05f237889e",
     "company_name": "Brex",
     "title": "Software Engineer Intern",
     "location": "San Francisco, CA",
     "url": "https://go.vansh.nyc/1uO?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "c85798d025160aa216f1d2902b22863f27d7d99754279452510f93c42c51c70e",
+    "company_name": "Motorola Solutions",
+    "title": "Embedded Software Engineer Intern",
+    "location": "Schaumburg, IL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1?utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-11T00:00:00.000Z",
     "level": "internship",
     "source": "github",
