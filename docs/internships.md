@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2241 roles.
+2242 roles.
 
 - [Software Engineering](#software-engineering) (1047)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (172)
-- [Data Science](#data-science) (435)
+- [Data Science](#data-science) (436)
 - [Machine Learning](#machine-learning) (223)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
@@ -1320,6 +1320,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Pinterest | [Sales Analytics Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8214783) | San Francisco, CA, US; Remo… | 0d |
 | Microsoft | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj?s=y) | Redmond, WA | 0d |
 | 🔥 Microsoft | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390?utm_source=Simplify&ref=Simplify) | Redmond, WA | 0d |
 | Vizient | [Contract Operations Intern - Analytics](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1?utm_source=Simplify&ref=Simplify) | Irving, TX | 0d |
