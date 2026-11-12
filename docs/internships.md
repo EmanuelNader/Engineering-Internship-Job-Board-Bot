@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2264 roles.
+2266 roles.
 
-- [Software Engineering](#software-engineering) (1058)
+- [Software Engineering](#software-engineering) (1060)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (173)
 - [Data Science](#data-science) (443)
@@ -28,6 +28,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | 🔥 TikTok | [Software Engineer Intern - TikTok Search 🎓](https://lifeattiktok.com/search/7704696088079010053?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | SK hynix | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
+| Muon Space | [Software Engineer Intern, Information Systems](https://go.vansh.nyc/1y6?s=y) | San Jose, CA | 0d |
 | Muon Space | [Software Engineer Intern - Information Systems](https://job-boards.greenhouse.io/muonspace/jobs/5293973007?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | Entegris | [Embedded Software Engineering Intern](https://go.vansh.nyc/1wx?s=y) | Bloomington, MN | 0d |
 | Cboe Global Markets | [DevOps Intern](https://go.vansh.nyc/1xz?s=y) | Overland Park, KS | 0d |
@@ -45,6 +46,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | NBCUniversal | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529?utm_source=Simplify&ref=Simplify) | Universal City, LA | 1d |
 | Garmin International | [IT DevOps Administrator Intern](https://go.vansh.nyc/1xf?s=y) | Olathe, KS | 1d |
 | Kudu Dynamics | [Junior Software Engineer/Data Scientist Intern 🇺🇸](https://go.vansh.nyc/1xK?s=y) | Tucson, AZ | 1d |
+| Wolters Kluwer | [Product Software Engineer Intern](https://go.vansh.nyc/1y3?s=y) | Waltham, MA | 1d |
 | Lynco Products | [Front End Development Intern](https://go.vansh.nyc/1x8?s=y) | West Milan, IL | 1d |
 | RTX | [Electrical (Firmware) Engineering Intern (Summer 2027)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) | US-IN-FT WAYNE-150A ~ 1010… | 1d |
 | Brex | [Software Engineer Intern](https://go.vansh.nyc/1uO?s=y) | San Francisco, CA | 1d |
