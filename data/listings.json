@@ -1,5 +1,18 @@
 [
   {
+    "id": "12619ea793aac12c81dad6a5d96228ab3c60a2a80a6ac458d9b2a8af13782f92",
+    "company_name": "🔥 TikTok",
+    "title": "Software Engineer Intern - TikTok Search 🎓",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7704696088079010053?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "15f706ee544d02293b04dbde3cd9564a04ed25bf946af64bcc8b6ae048c80d94",
     "company_name": "SK hynix",
     "title": "Embedded Software Engineer Intern",
