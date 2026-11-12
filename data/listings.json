@@ -1,5 +1,18 @@
 [
   {
+    "id": "15f706ee544d02293b04dbde3cd9564a04ed25bf946af64bcc8b6ae048c80d94",
+    "company_name": "SK hynix",
+    "title": "Embedded Software Engineer Intern",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "8528986a4484e3a263f11c95e34df650d8bc4ae503825812d169b1df04cd7487",
     "company_name": "Riot Games",
     "title": "Machine Learning Engineer Intern 🎓",

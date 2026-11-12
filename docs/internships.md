@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2234 roles.
+2235 roles.
 
-- [Software Engineering](#software-engineering) (1041)
+- [Software Engineering](#software-engineering) (1042)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (174)
 - [Data Science](#data-science) (432)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| SK hynix | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | Vertiv | [Software Engineer Intern 🎓](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 0d |
 | Brex | [Software Engineer, Intern (Summer 2027(](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | San Francisco, California,… | 1d |
 | Motorola Solutions | [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179?utm_source=Simplify&ref=Simplify) | Schaumburg, IL | 1d |
