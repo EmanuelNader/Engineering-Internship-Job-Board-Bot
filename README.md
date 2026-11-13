@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2278 roles.
+2279 roles.
 
-- [Software Engineering](#software-engineering) (1063)
+- [Software Engineering](#software-engineering) (1064)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (174)
 - [Data Science](#data-science) (449)
@@ -28,6 +28,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | 🔥 TikTok | [Software Engineer Intern - TikTok Search 🎓](https://lifeattiktok.com/search/7704696088079010053?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1d |
 | SK hynix | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1d |
+| Aurora Innovation | [Software Engineer Intern, Vehicle Platforms](https://go.vansh.nyc/1yu?s=y) | Mountain View, CA | 1d |
 | Muon Space | [Software Engineer Intern, Information Systems](https://go.vansh.nyc/1y6?s=y) | San Jose, CA | 1d |
 | Muon Space | [Software Engineer Intern - Information Systems](https://job-boards.greenhouse.io/muonspace/jobs/5293973007?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1d |
 | Entegris | [Embedded Software Engineering Intern](https://go.vansh.nyc/1wx?s=y) | Bloomington, MN | 1d |
