@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2277 roles.
+2278 roles.
 
 - [Software Engineering](#software-engineering) (1063)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (174)
 - [Data Science](#data-science) (449)
-- [Machine Learning](#machine-learning) (226)
+- [Machine Learning](#machine-learning) (227)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
 - [Electrical Engineering](#electrical-engineering) (151)
@@ -1798,6 +1798,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Riot Games | [Machine Learning Engineer Intern 🎓](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771&utm_source=Simplify&ref=Simplify) | Remote in USA | 1d |
 | Intermountain Healthcare | [Machine Learning Operations (MLOps) Intern](https://go.vansh.nyc/1xu?s=y) | United States | 1d |
 | TikTok | [Machine Learning Engineer Intern, Data-Global E-Commerc…](https://go.vansh.nyc/1ym?s=y) | San Jose, CA | 1d |
+| Bask | [Machine Learning Engineering Intern](https://go.vansh.nyc/1ys?s=y) | United States | 1d |
 | Bose | [Digital Signal Processing Machine Learning Software Dev…](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372?utm_source=Simplify&ref=Simplify) | Framingham, MA | 2d |
 | Ribbon | [AI Engineer Co-op](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083?utm_source=Simplify&ref=Simplify) | Westford, MA | 2d |
 | International | [Artificial Intelligence/Machine Learning Intern](https://careers.international.com/jobs/60456?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Lisle, IL | 2d |
