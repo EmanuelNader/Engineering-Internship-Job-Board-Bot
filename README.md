@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2281 roles.
+2282 roles.
 
 - [Software Engineering](#software-engineering) (1065)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (174)
-- [Data Science](#data-science) (449)
+- [Data Science](#data-science) (450)
 - [Machine Learning](#machine-learning) (228)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
@@ -1438,6 +1438,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | TikTok | [Data Engineer Intern, Data Platform Global Live](https://go.vansh.nyc/18d?s=y) | San Jose, CA | 1w |
 | TikTok | [Data Scientist Intern, VOD Data](https://go.vansh.nyc/18w?s=y) | San Jose, CA | 1w |
 | TikTok | [Data Engineer Intern, Data Platform TikTok BP](https://go.vansh.nyc/18a?s=y) | San Jose, CA | 1w |
+| Molina Healthcare | [Healthcare Quality Analytics Intern](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139?utm_source=Simplify&ref=Simplify) | Kentucky | 1w |
 | Molina Healthcare | [Data Analytics Intern](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160?utm_source=Simplify&ref=Simplify) | United States | 1w |
 | Cencora | [Data Analytics Intern 🛂](https://go.vansh.nyc/18K?s=y) | Corona, CA | 1w |
 | Snowflake | [Product Marketing- Agentic Analytics Intern (Spring 202…](https://jobs.ashbyhq.com/snowflake/97e37c43-2298-42c8-bb4c-1bcfadc80af9) | US-CA-Menlo Park | 2w |
