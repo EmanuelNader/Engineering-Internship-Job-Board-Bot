@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "7e2aa8677cc6888874766148874e3d63c04e3ce14876c1ee2055f333c6501024",
+    "company_name": "ASML",
+    "title": "EUV Data Science and Analytics Intern",
+    "location": "Austin, TX",
+    "url": "https://go.vansh.nyc/1yZ?s=y",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "a4dcd8efa78e57e214a47008057ffa8ce732d5275bf4399a9839daac8b0ccec0",
     "company_name": "Aurora Innovation",
     "title": "Software Engineer Intern - Vehicle Platforms",
@@ -187,6 +200,19 @@
     "title": "Software Engineer Intern",
     "location": "Troy, MI",
     "url": "https://go.vansh.nyc/1yC?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "3ea9d3eb5d4f5e9dec3f20107bcb045c9379b553797013be28134e95c4f071d6",
+    "company_name": "Punch Through Design",
+    "title": "Cloud Software Engineer Intern",
+    "location": "Minneapolis, MN",
+    "url": "https://go.vansh.nyc/1yY?s=y",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "internship",
     "source": "github",
