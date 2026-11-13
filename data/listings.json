@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "5274679e942f20ce8c5dc4ad776e245209e0e73ddc36b1ed7a5d85da3415e920",
+    "company_name": "Samsung Semiconductor",
+    "title": "SSD Firmware Development Intern",
+    "location": "San Jose, CA",
+    "url": "https://go.vansh.nyc/1z0?s=y",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "7e2aa8677cc6888874766148874e3d63c04e3ce14876c1ee2055f333c6501024",
     "company_name": "ASML",
     "title": "EUV Data Science and Analytics Intern",
@@ -70,6 +83,19 @@
     "title": "Software Engineer Intern - Vehicle Platforms",
     "location": "Mountain View, CA",
     "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "c1ee0e24d574e472d9639092979358c4d927170fd082558be2f5d51b5de55489",
+    "company_name": "Octant Bio",
+    "title": "Software Engineer - Internship",
+    "location": "Emeryville, CA",
+    "url": "https://www.octant.bio/jobs?gh_jid=6260895004",
     "date_posted": "2026-11-13T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -273,6 +299,19 @@
     ]
   },
   {
+    "id": "57cf3be9bcf177d935be52df812149b24908398ecaad244b799e0851106fb5fc",
+    "company_name": "PTC",
+    "title": "Onshape Site Reliability Engineering Intern - Summer 2027",
+    "location": "Boston, MA",
+    "url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "5fc5f7c7626a7f576a5adb66140af0d5454aec7226205b20e8b45b5c026f9535",
     "company_name": "North Atlantic Industries",
     "title": "Embedded Software Engineer Intern",
@@ -358,6 +397,19 @@
     "url": "https://go.vansh.nyc/1yj?s=y",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "93990ae3588235d3f5f5c4408366f1faeb55316e8cfea3858a90c8b9bbefccaf",
+    "company_name": "Ancestry",
+    "title": "Software Engineer - Observability - Co-op",
+    "location": "Draper, UT",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "co-op",
     "source": "github",
     "role_families": [
       "swe"
@@ -481,6 +533,20 @@
     ]
   },
   {
+    "id": "d1f278b66d8d24418a2f148fee8fb01b50d1857868d4e785cf7eb9b8073ac16c",
+    "company_name": "Leidos",
+    "title": "Junior Software Engineer / Data Scientist Intern",
+    "location": "Tucson, AZ",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "data"
+    ]
+  },
+  {
     "id": "e1959d4b59159d1ba35c4fa68371f9e45bc68163439a1f1cf95d4e4fdf874f55",
     "company_name": "Vizient",
     "title": "Contract Operations Intern - Analytics",
@@ -499,6 +565,19 @@
     "title": "Site Reliability Engineering Intern, Onshape",
     "location": "Boston, MA",
     "url": "https://go.vansh.nyc/1wK?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "f48e7688a4239f0ca55e474716d96adb86d7c7d969e5258e8c670a485c3b2d82",
+    "company_name": "Reliable Robotics Corporation",
+    "title": "Flight Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "url": "https://go.vansh.nyc/1z1?s=y",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -1024,6 +1103,19 @@
     "url": "https://go.vansh.nyc/1vn?s=y",
     "date_posted": "2026-11-11T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "e6472fbdd400059af0f19175dc90987779396224488abc12f8fd55627f18b21c",
+    "company_name": "Zotec Partners",
+    "title": "Software Engineer Intern - RCI",
+    "location": "Carmel, IN",
+    "url": "https://zotecpartners.applytojob.com/apply/kZD502wRCY/Software-Engineer-Intern-RCI",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
@@ -3477,6 +3569,19 @@
     "title": "Backend Engineer Intern",
     "location": "Palo Alto, CALos Angeles, CA",
     "url": "https://go.vansh.nyc/1kj?s=y",
+    "date_posted": "2026-11-05T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "93cdfa664d8a5d7355da9f74e940015ba8945ef04d643ecfff006fbbfab0a033",
+    "company_name": "TikTok",
+    "title": "Software Engineer - Intern - TikTok Search - 2027 Start",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7704696088079010053",
     "date_posted": "2026-11-05T00:00:00.000Z",
     "level": "internship",
     "source": "github",
