@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "1d94c0150342a433f6646fdd4d23b82e43412c320b076b8d1db574bbdf02c5a4",
+    "company_name": "Vertex Pharmaceuticals",
+    "title": "Data Analytics Intern - OSD Process Data Analytics",
+    "location": "Boston, MA",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "34044dd1ea053e6db340c5e71799da782988a6a7b40914ff449f090a7fd06e10",
     "company_name": "WTW",
     "title": "Data Analyst Intern",
@@ -65,6 +78,19 @@
     ]
   },
   {
+    "id": "37ff474655bdc097040098587ea044b40fa1496d006fda419dd30d8881906dc7",
+    "company_name": "Reliable Robotics",
+    "title": "Avionics Intern",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.ashbyhq.com/reliable-robotics/f4073938-ccdb-46fb-aa65-6715981d27ee/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "aerospace"
+    ]
+  },
+  {
     "id": "5274679e942f20ce8c5dc4ad776e245209e0e73ddc36b1ed7a5d85da3415e920",
     "company_name": "Samsung Semiconductor",
     "title": "SSD Firmware Development Intern",
@@ -75,6 +101,46 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "5de07368f49513a2f720414478629f8ec117c31125d8e691ec4b1300532f0c42",
+    "company_name": "Amgen",
+    "title": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern 🎓",
+    "location": "Remote in USA",
+    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "602dc548ba64de4c63d58e3c83a65499f61dbea264f91ae025c7bc15b5177f81",
+    "company_name": "Reliable Robotics",
+    "title": "Hardware Test Engineer Intern",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "6bbc49cbbc58b5c4b51761974f40ef9d8971fd3275e53c5fc1b6a9f64e42ef95",
+    "company_name": "Reliable Robotics",
+    "title": "FPGA Design Engineer Intern",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware",
+      "mechanical"
     ]
   },
   {
