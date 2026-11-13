@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2276 roles.
+2275 roles.
 
-- [Software Engineering](#software-engineering) (1064)
+- [Software Engineering](#software-engineering) (1063)
 - [Product Management](#product-management) (54)
 - [Hardware Engineering](#hardware-engineering) (173)
 - [Data Science](#data-science) (448)
-- [Machine Learning](#machine-learning) (227)
+- [Machine Learning](#machine-learning) (226)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
 - [Electrical Engineering](#electrical-engineering) (151)
@@ -713,7 +713,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | 🔥 NVIDIA | [Software Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958?utm_source=Simplify&ref=Simplify) | Santa Clara, CA | 1mo |
 | MasterControl | [DevOps Engineering Intern](https://www.mastercontrol.com/careers/job-listings/role/?role=4738483005&gh_jid=4738483005) | USA | 1mo |
 | WoodmenLife | [2027 Summer Software Engineer Intern](https://jobs.dayforcehcm.com/en-US/woodmenlife/candidateportal/jobs/2855) | Omaha, NE | 1mo |
-| Affirm | [Software Engineer (Machine Learning) Intern (Summer 202…](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | San Francisco, California,… | 1mo |
 | Affirm | [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011590003) | San Francisco, California,… | 1mo |
 | 🔥 Tesla | [Distributed Systems Software Engineer Intern - Energy E…](https://www.tesla.com/careers/search/job/285508?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1mo |
 | Wabtec Corporation | [Firmware Engineering Co-Op - January-June 2027](https://jobs.smartrecruiters.com/Wabtec/3743990015854776-firmware-engineering-co-op-january-june-2027-?oga=true) | Waltham, MA | 1mo |
@@ -1957,7 +1956,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | General Motors | [Machine Learning Intern - Autonomous Vehicles - Softwar…](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1mo |
 | General Motors | [2027 Summer Intern - Machine Learning Intern - Autonomo…](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655) | Sunnyvale, CA | 1mo |
 | Atoms | [Machine Learning Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8869106002?utm_source=Simplify&ref=Simplify) | SF | 1mo |
-| Affirm | [Software Engineer (Machine Learning) Intern (Summer 202…](https://job-boards.greenhouse.io/affirm/jobs/8008645003) | San Francisco, California,… | 1mo |
 | General Motors | [Machine Learning Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695?utm_source=Simplify&ref=Simplify) | Sunnyvale, CA | 1mo |
 | MasterControl | [AI/ML Engineer Intern](https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005&utm_source=Simplify&ref=Simplify) | United States | 1mo |
 | Bedrock Robotics | [Behavior ML Engineer Intern - Learned Manipulation Poli…](https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1mo |
