@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2299 roles.
+2300 roles.
 
 - [Software Engineering](#software-engineering) (1076)
 - [Product Management](#product-management) (55)
 - [Hardware Engineering](#hardware-engineering) (175)
-- [Data Science](#data-science) (455)
+- [Data Science](#data-science) (456)
 - [Machine Learning](#machine-learning) (228)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
@@ -1353,6 +1353,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Martin Marietta | [Data Scientist Intern](https://go.vansh.nyc/1ze?s=y) | Raleigh, NC | 0d |
 | Rocket Mortgage | [Data Analyst Intern](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832?utm_source=Simplify&ref=Simplify) | Detroit, MI | 0d |
 | WTW | [Data Analyst Intern](https://go.vansh.nyc/1yK?s=y) | New York, NY | 0d |
 | ASML | [EUV Data Science and Analytics Intern](https://go.vansh.nyc/1yZ?s=y) | Austin, TX | 0d |
