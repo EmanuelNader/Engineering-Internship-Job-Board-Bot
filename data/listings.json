@@ -1,5 +1,31 @@
 [
   {
+    "id": "343114a211f1fd712c4a7fb976246b9f79a17fb790fee844365261152dfa8d52",
+    "company_name": "🔥 TikTok",
+    "title": "Machine Learning Scientist Intern - Local Services 🎓",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7703925583541979445?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "a4dcd8efa78e57e214a47008057ffa8ce732d5275bf4399a9839daac8b0ccec0",
+    "company_name": "Aurora Innovation",
+    "title": "Software Engineer Intern - Vehicle Platforms",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "0aaa1a23a64760655b12338cc76cc47420f7ea5f0e403a875090d4f4a84130a9",
     "company_name": "Zoox",
     "title": "Data Scientist Intern [Summer 2027]",
