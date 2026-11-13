@@ -221,6 +221,19 @@
     ]
   },
   {
+    "id": "8947bed14ae38e55569bf9fdd5dca957da2456405b42f60706bbb167e5c12acd",
+    "company_name": "Cintas",
+    "title": "IT OT Software Engineer Intern",
+    "location": "Mason, OH",
+    "url": "https://go.vansh.nyc/1yj?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "98cef87dd1e2af002c9431738e7a86c20df26c2bc60b35b54b6f4bc72619eb55",
     "company_name": "Stanley Black & Decker",
     "title": "Data Analyst Intern 🎓",
@@ -270,6 +283,19 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "b6826b86bff3b3e5083c67637419c9fb49b48eeca2c5670cd69873a1494e3af8",
+    "company_name": "TikTok",
+    "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+    "location": "San Jose, CA",
+    "url": "https://go.vansh.nyc/1ym?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
     ]
   },
   {
@@ -335,6 +361,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "fed7aad4c0818397f083be5bfd8aa705b4680b548b56189c1e4cae297cfe2fe1",
+    "company_name": "ASML",
+    "title": "Data Scientist Intern",
+    "location": "Wilton, CT",
+    "url": "https://go.vansh.nyc/1yl?s=y",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
@@ -663,6 +702,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "9c4e77b397174be6de6f137e972851c021908b8bcb11ecdb535704c7992da6db",
+    "company_name": "Atalanta",
+    "title": "Software Engineer Intern",
+    "location": "Washington, DC",
+    "url": "https://go.vansh.nyc/1ye?s=y",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
