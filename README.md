@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2298 roles.
+2297 roles.
 
 - [Software Engineering](#software-engineering) (1075)
 - [Product Management](#product-management) (55)
 - [Hardware Engineering](#hardware-engineering) (174)
 - [Data Science](#data-science) (455)
-- [Machine Learning](#machine-learning) (229)
+- [Machine Learning](#machine-learning) (228)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (143)
 - [Electrical Engineering](#electrical-engineering) (151)
@@ -2014,7 +2014,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Genesis Molecular AI | [Machine Learning Research Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true&utm_source=Simplify&ref=Simplify) | SFNYC | 1mo |
 | IMC | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | Chicago, United States | 1mo |
 | Waymo | [2027 Summer Intern, PhD, Perception/Road Understanding,…](https://careers.withwaymo.com/jobs?gh_jid=8224746) | Mountain View, California | 1mo |
-| Waymo | [2027 Summer Intern, MS/PhD, Machine Learning Engineer -…](https://careers.withwaymo.com/jobs?gh_jid=8214350) | San Francisco, California,… | 1mo |
 | AQR Capital Management | [Machine Learning Research Associate Intern 🎓](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708&utm_source=Simplify&ref=Simplify) | Greenwich, CT | 1mo |
 | Klaviyo | [Machine Learning Engineer Intern 🎓](https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1mo |
 | Waymo | [2027 Summer Intern, MS/PhD, Machine Learning Engineer](https://careers.withwaymo.com/jobs?gh_jid=8223735) | San Francisco, CA, USA | 1mo |
