@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2314 roles.
+2315 roles.
 
 - [Software Engineering](#software-engineering) (1079)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (179)
 - [Data Science](#data-science) (459)
-- [Machine Learning](#machine-learning) (228)
+- [Machine Learning](#machine-learning) (229)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (144)
 - [Electrical Engineering](#electrical-engineering) (151)
@@ -1829,6 +1829,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | 🔥 TikTok | [Machine Learning Scientist Intern - Local Services 🎓](https://lifeattiktok.com/search/7703925583541979445?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1d |
+| Carnegie Mellon University | [Cyber AI Engineer Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 1d |
 | Intermountain Healthcare | [AI/ML Engineer Intern](https://go.vansh.nyc/1xt?s=y) | United States | 2d |
 | Riot Games | [Machine Learning Engineer Intern 🎓](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771&utm_source=Simplify&ref=Simplify) | Remote in USA | 2d |
 | Micron Technology | [AI Engineer Platform Intern](https://go.vansh.nyc/1z5?s=y) | Boise, ID | 2d |
