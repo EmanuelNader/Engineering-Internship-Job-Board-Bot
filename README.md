@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2316 roles.
+2317 roles.
 
-- [Software Engineering](#software-engineering) (1079)
+- [Software Engineering](#software-engineering) (1080)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (180)
 - [Data Science](#data-science) (459)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Ericsson | [AI Software Engineer Intern 🛂](https://go.vansh.nyc/1zB?s=y) | Plano, TX | 0d |
 | Samsung Semiconductor | [SSD Firmware Development Intern](https://go.vansh.nyc/1z0?s=y) | San Jose, CA | 1d |
 | NetApp | [Software Engineer Intern, Systems](https://go.vansh.nyc/1zs?s=y) | San Jose, CA | 1d |
 | KBR Wyle Services | [Image Processing Software Engineer Intern](https://go.vansh.nyc/1zx?s=y) | Sioux Falls, SD | 1d |
