@@ -1,5 +1,57 @@
 [
   {
+    "id": "0c7d37df9d4012a4f591094d695f8ac42f9fd425ab212fb6f0644c1602fd6201",
+    "company_name": "Lightmatter",
+    "title": "Physical Design Intern 🎓",
+    "location": "Boston, MA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5481668008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-14T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "ad7b699bcd439715888552454014522be6f7a85c5d9a4b70fab151e089c8b692",
+    "company_name": "🔥 ServiceNow",
+    "title": "Senior Inbound Product Manager Intern 🎓",
+    "location": "San Diego, CA",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161584449?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-14T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "pm-program"
+    ]
+  },
+  {
+    "id": "b71094dbd09a4aa63e173df66bb1de400cce7c7d27eeaf59efb4b7e4d08f0f6d",
+    "company_name": "Lightmatter",
+    "title": "Hardware Test Engineer Intern",
+    "location": "Mountain View, CA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-14T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "d2dbd0eb3f83228ca32d1f9887b81bb51abb0f1184e3023b3196469547f5f5b1",
+    "company_name": "🔥 ServiceNow",
+    "title": "Senior Outbound Product Manager Intern 🎓",
+    "location": "San Diego, CA",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161590090?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-14T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "pm-program"
+    ]
+  },
+  {
     "id": "0941f6a303d253c98c201f68ee6d73a5e4ae8219a373e780c76e3179b46af4e5",
     "company_name": "Entegris",
     "title": "Associate Product Manager Intern",
@@ -167,6 +219,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "ac098c1e3529d0a63f3faf0b37b884fbce62b099b7b0c496463d6a720815cbf8",
+    "company_name": "Nexus Cognitive Technologies",
+    "title": "Data Engineer Intern",
+    "location": "Atlanta, GA",
+    "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
