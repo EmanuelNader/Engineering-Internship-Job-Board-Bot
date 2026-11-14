@@ -196,6 +196,19 @@
     ]
   },
   {
+    "id": "751b618a6351accc949087df2927e70d6259efdd3387d676094bb4002c8bb428",
+    "company_name": "NetApp",
+    "title": "Software Engineer Intern, Systems",
+    "location": "San Jose, CA",
+    "url": "https://go.vansh.nyc/1zs?s=y",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "7e2aa8677cc6888874766148874e3d63c04e3ce14876c1ee2055f333c6501024",
     "company_name": "ASML",
     "title": "EUV Data Science and Analytics Intern",
@@ -232,6 +245,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "b556ab3ad596931fd4ae9e6e8f354f15ec4c139d893226ddc799f28f09eca6df",
+    "company_name": "NetApp",
+    "title": "Software Engineer Intern, Cloud",
+    "location": "San Jose, CA",
+    "url": "https://go.vansh.nyc/1zr?s=y",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
