@@ -27,6 +27,19 @@
     ]
   },
   {
+    "id": "36b8b2ac1e9669d5ddfcaf0eb390ff6609e37210c8fcff08d10cce455d98c4c6",
+    "company_name": "Samsung Semiconductor",
+    "title": "Intern - SSD Firmware Development",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+    "date_posted": "2026-11-14T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "ad7b699bcd439715888552454014522be6f7a85c5d9a4b70fab151e089c8b692",
     "company_name": "🔥 ServiceNow",
     "title": "Senior Inbound Product Manager Intern 🎓",
@@ -346,6 +359,19 @@
     "title": "Software Engineer Intern, Cloud",
     "location": "San Jose, CA",
     "url": "https://go.vansh.nyc/1zr?s=y",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "bd4ba700bb705d49fa37c17005562035c2bbbab12b8581d2101a7bae630fe222",
+    "company_name": "Valeo",
+    "title": "Software Engineer Intern - Year-Round",
+    "location": "Troy, MI",
+    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794",
     "date_posted": "2026-11-13T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -3515,6 +3541,19 @@
     ]
   },
   {
+    "id": "e1c6da8def63c320ccf0cb176cb24355c7c639a321bfef344f10e24a6913a724",
+    "company_name": "Raft",
+    "title": "Full Stack Engineering Intern - Summer 2027",
+    "location": "McLean, VA",
+    "url": "https://job-boards.greenhouse.io/raft/jobs/6240549004",
+    "date_posted": "2026-11-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "e4e8bfd5744f731535427b3834ce657e1634eb194b69f10a37db243440d94e14",
     "company_name": "Parspec",
     "title": "Applied AI Engineer Intern",
@@ -3525,6 +3564,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "e5915efeb42218e0e4c16875fbbfbb564a86698cfeffbfeb6d1301539e11c8f4",
+    "company_name": "Raft",
+    "title": "DevOps Engineering Intern - Summer 2027",
+    "location": "McLean, VA",
+    "url": "https://job-boards.greenhouse.io/raft/jobs/6239819004",
+    "date_posted": "2026-11-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {

@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2319 roles.
+2323 roles.
 
-- [Software Engineering](#software-engineering) (1081)
+- [Software Engineering](#software-engineering) (1085)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (180)
 - [Data Science](#data-science) (460)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Samsung Semiconductor | [Intern - SSD Firmware Development](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) | San Jose, CA | 0d |
 | Ericsson | [AI Software Engineer Intern 🛂](https://go.vansh.nyc/1zB?s=y) | Plano, TX | 0d |
 | Camping World | [Software Engineer Intern](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1d |
 | Samsung Semiconductor | [SSD Firmware Development Intern](https://go.vansh.nyc/1z0?s=y) | San Jose, CA | 1d |
@@ -33,6 +34,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | KBR Wyle Services | [Image Processing Software Engineer Intern](https://go.vansh.nyc/1zx?s=y) | Sioux Falls, SD | 1d |
 | Aurora Innovation | [Software Engineer Intern - Vehicle Platforms](https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1d |
 | NetApp | [Software Engineer Intern, Cloud](https://go.vansh.nyc/1zr?s=y) | San Jose, CA | 1d |
+| Valeo | [Software Engineer Intern - Year-Round](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794) | Troy, MI | 1d |
 | Octant Bio | [Software Engineer - Internship](https://www.octant.bio/jobs?gh_jid=6260895004) | Emeryville, CA | 1d |
 | IDEMIA North America | [Full Stack Software Engineering Intern](https://go.vansh.nyc/1z9?s=y) | Eden Prairie, MN | 1d |
 | 🔥 TikTok | [Software Engineer Intern - TikTok Search 🎓](https://lifeattiktok.com/search/7704696088079010053?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2d |
@@ -154,6 +156,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Nooks | [Software Engineer - Intern](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb) | San Francisco, CA | 1w |
 | T-Mobile | [Software Engineer HR Data Products Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766?utm_source=Simplify&ref=Simplify) | Bellevue, WA | 1w |
 | TikTok | [Software Engineer - Intern - TikTok BRIC - 2027 Start -…](https://lifeattiktok.com/search/7705012688944810245) | San Jose, CA | 1w |
+| Raft | [Full Stack Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6240549004) | McLean, VA | 1w |
+| Raft | [DevOps Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6239819004) | McLean, VA | 1w |
 | The New York Times | [Backend Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005?utm_source=Simplify&ref=Simplify) | NYC | 1w |
 | Cook Group | [Applied AI & Full Stack Development Intern](https://go.vansh.nyc/1k3?s=y) | Bloomington, IN | 1w |
 | The New York Times | [Full-Stack Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005?utm_source=Simplify&ref=Simplify) | NYC | 1w |
