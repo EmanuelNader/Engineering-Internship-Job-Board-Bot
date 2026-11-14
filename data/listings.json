@@ -183,6 +183,33 @@
     ]
   },
   {
+    "id": "3f153f7e1851fb94855ada978f859f43ad736678751d308bb82d8dea37cde2fd",
+    "company_name": "Camping World",
+    "title": "Software Engineer Intern",
+    "location": "Chicago, IL",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "3fd0e0b2e31e358c8a631d83fc1d56e1503921f293d01f8b14cbba209d342ad2",
+    "company_name": "Camping World",
+    "title": "Data Analyst Intern - AI & Machine Learning Focus 🎓",
+    "location": "Chicago, ILLincolnshire, IL",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data",
+      "ml"
+    ]
+  },
+  {
     "id": "4226079b6d150ef8fc8a0dd7d8029f3089cbb7a03687c54ff5044bc1cf6e0b44",
     "company_name": "Carnegie Mellon University",
     "title": "Cyber AI Engineer Intern",
