@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2323 roles.
+2324 roles.
 
-- [Software Engineering](#software-engineering) (1085)
+- [Software Engineering](#software-engineering) (1086)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (180)
 - [Data Science](#data-science) (460)
@@ -39,6 +39,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | IDEMIA North America | [Full Stack Software Engineering Intern](https://go.vansh.nyc/1z9?s=y) | Eden Prairie, MN | 1d |
 | 🔥 TikTok | [Software Engineer Intern - TikTok Search 🎓](https://lifeattiktok.com/search/7704696088079010053?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2d |
 | SK hynix | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2d |
+| Cintas | [OT Software Engineer Intern, IT](https://go.vansh.nyc/1zH?s=y) | United States | 2d |
 | Aurora Innovation | [Software Engineer Intern, Vehicle Platforms](https://go.vansh.nyc/1yu?s=y) | Mountain View, CA | 2d |
 | Muon Space | [Software Engineer Intern, Information Systems](https://go.vansh.nyc/1y6?s=y) | San Jose, CA | 2d |
 | Valeo | [Software Engineer Intern](https://go.vansh.nyc/1yC?s=y) | Troy, MI | 2d |
