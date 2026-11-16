@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2335 roles.
+2336 roles.
 
 - [Software Engineering](#software-engineering) (1088)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (181)
-- [Data Science](#data-science) (463)
+- [Data Science](#data-science) (464)
 - [Machine Learning](#machine-learning) (231)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (144)
@@ -1375,6 +1375,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Altice USA | [Data Analyst Intern - Modernization Program BSS/OSS Mig…](https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Bethpage, NY | 0d |
 | Milliman | [Data Analytics Intern, IntelliScript](https://go.vansh.nyc/1A2?s=y) | Brookfield, WI | 1d |
+| Carnival Corporation | [Data Analytics Intern](https://go.vansh.nyc/1Av?s=y) | Miami, FL | 1d |
 | NetApp | [Data Analyst Intern](https://go.vansh.nyc/1zX?s=y) | Research Triangle Park, NC | 2d |
 | Martin Marietta | [Data Scientist Intern](https://go.vansh.nyc/1ze?s=y) | Raleigh, NC | 3d |
 | Rocket Mortgage | [Data Analyst Intern](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832?utm_source=Simplify&ref=Simplify) | Detroit, MI | 3d |
