@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2334 roles.
+2335 roles.
 
 - [Software Engineering](#software-engineering) (1089)
 - [Product Management](#product-management) (57)
@@ -18,7 +18,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Electrical Engineering](#electrical-engineering) (154)
 - [Chemical Engineering](#chemical-engineering) (40)
 - [Aerospace Engineering](#aerospace-engineering) (30)
-- [Other](#other) (30)
+- [Other](#other) (31)
 
 ## Software Engineering
 
@@ -2523,6 +2523,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Anduril Industries | [2027 Product Marketing Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007) | Costa Mesa, California, Uni… | 0d |
 | Zoox | [Industrial Design Intern Summer 2027](https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd) | Foster City, CA | 3d |
 | Systems Planning and Analys… | [UI/UX Software Intern](https://go.vansh.nyc/1xp?s=y) | Alexandria, VA | 5d |
 | Notion | [Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | New York, New York | 6d |
