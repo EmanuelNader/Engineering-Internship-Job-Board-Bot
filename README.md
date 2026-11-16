@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2333 roles.
+2332 roles.
 
-- [Software Engineering](#software-engineering) (1089)
+- [Software Engineering](#software-engineering) (1088)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (181)
 - [Data Science](#data-science) (463)
@@ -949,7 +949,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Bot Auto | [Software Engineer Intern - AI Agents](https://job-boards.greenhouse.io/botauto/jobs/5429357008?utm_source=Simplify&ref=Simplify) | Houston, TX | 1mo |
 | Gemini | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272&utm_source=Simplify&ref=Simplify) | NYC | 1mo |
 | 🔥 Microsoft | [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556982258?utm_source=Simplify&ref=Simplify) | Redmond, WASanta Clara, CA | 1mo |
-| Waymo | [2027 Summer Intern, MS/PhD, Software Engineer, Multiver…](https://careers.withwaymo.com/jobs?gh_jid=8214519) | Mountain View, California,… | 1mo |
 | Keysight Technologies | [Software Engineer Intern - R&D](https://jobs.keysight.com/jobs/54327?icims=1&utm_source=Simplify&ref=Simplify) | Colorado Springs, CO | 1mo |
 | REV Robotics | [Software Engineer Intern](https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba?utm_source=Simplify&ref=Simplify) | Carrollton, TX | 1mo |
 | General Dynamics Mission Sy… | [Embedded Software Engineer - Intern](https://careers-gdms.icims.com/jobs/75013/embedded-software-engineer-%e2%80%93-intern/job) | Boise, ID +1 | 1mo |
