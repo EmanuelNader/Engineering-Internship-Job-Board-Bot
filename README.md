@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2335 roles.
+2334 roles.
 
-- [Software Engineering](#software-engineering) (1089)
+- [Software Engineering](#software-engineering) (1088)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (181)
 - [Data Science](#data-science) (463)
@@ -1019,7 +1019,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Enterprise Holdings | [Software Engineer Intern - Summer 2027](https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | St. Louis, MO | 2mo |
 | D3 Embedded | [Embedded Systems Design Co-op](https://d3engineering.applytojob.com/apply/uixxAbdlV5/Embedded-Systems-Design-Coop?utm_source=Simplify&ref=Simplify) | West Henrietta, NY | 2mo |
 | Gecko Robotics | [Full Stack Software Engineering Intern](https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082) | New York City, NY | 2mo |
-| Waymo | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Mountain View, California,… | 2mo |
 | SingleStore | [Software Engineer Intern](https://job-boards.greenhouse.io/singlestore/jobs/8154399) | San Francisco, CA | 2mo |
 | Nelnet | [Intern - UX/UI Front End Engineer](https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Madison-WI/Intern---UX-UI-Front-End-Engineer_R23118) | Madison, WI | 2mo |
 | DoorDash | [Software Engineer - Intern - Summer 2027 - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | San Francisco, CA +4 | 2mo |
