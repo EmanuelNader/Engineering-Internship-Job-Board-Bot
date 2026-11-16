@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2332 roles.
+2333 roles.
 
 - [Software Engineering](#software-engineering) (1089)
 - [Product Management](#product-management) (57)
-- [Hardware Engineering](#hardware-engineering) (180)
+- [Hardware Engineering](#hardware-engineering) (181)
 - [Data Science](#data-science) (463)
 - [Machine Learning](#machine-learning) (231)
 - [Civil and Structural](#civil-and-structural) (38)
@@ -1186,6 +1186,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| RTX | [Hardware in the Loop Engineering Intern - (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927) | US-AZ-TUCSON-805 ~ 1151 E H… | 0d |
 | Lightmatter | [Physical Design Intern 🎓](https://boards.greenhouse.io/lightmatter/jobs/5481668008?utm_source=Simplify&ref=Simplify) | Boston, MA | 2d |
 | 🔥 Tesla | [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 2d |
 | Lightmatter | [Hardware Test Engineer Intern](https://boards.greenhouse.io/lightmatter/jobs/5473869008?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2d |
