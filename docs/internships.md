@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2328 roles.
+2329 roles.
 
 - [Software Engineering](#software-engineering) (1088)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (180)
-- [Data Science](#data-science) (461)
+- [Data Science](#data-science) (462)
 - [Machine Learning](#machine-learning) (230)
 - [Civil and Structural](#civil-and-structural) (38)
 - [Mechanical Engineering](#mechanical-engineering) (144)
@@ -1372,6 +1372,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Milliman | [Data Analytics Intern, IntelliScript](https://go.vansh.nyc/1A2?s=y) | Brookfield, WI | 1d |
 | NetApp | [Data Analyst Intern](https://go.vansh.nyc/1zX?s=y) | Research Triangle Park, NC | 2d |
 | Martin Marietta | [Data Scientist Intern](https://go.vansh.nyc/1ze?s=y) | Raleigh, NC | 3d |
 | Rocket Mortgage | [Data Analyst Intern](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832?utm_source=Simplify&ref=Simplify) | Detroit, MI | 3d |
