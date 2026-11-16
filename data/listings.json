@@ -91,6 +91,19 @@
     ]
   },
   {
+    "id": "454776d939820f691a0f9990e87aaedf3413d4c18769eced22d7de8f1ad85947",
+    "company_name": "Carnegie Mellon University",
+    "title": "AI Engineer Intern, Mission Innovation Lab 🛂",
+    "location": "Pittsburgh, PA",
+    "url": "https://go.vansh.nyc/1Az?s=y",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "56ff9518679575186a88fa72b10650c7ca0bf1a032cbcd1324264df5baa3a50f",
     "company_name": "Ralliant",
     "title": "Hardware Verification Engineer Co-op",
@@ -101,6 +114,20 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "7f0d76cea7975607fe5433a79124de407d0c88c42d390c0db57f63f8981e2e63",
+    "company_name": "Impulse Space",
+    "title": "Digital Design Engineering Intern, FPGA/ASIC",
+    "location": "Redondo Beach, CA",
+    "url": "https://go.vansh.nyc/1Ay?s=y",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware",
+      "mechanical"
     ]
   },
   {
