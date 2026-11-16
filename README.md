@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2335 roles.
+2336 roles.
 
-- [Software Engineering](#software-engineering) (1088)
+- [Software Engineering](#software-engineering) (1089)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (181)
 - [Data Science](#data-science) (463)
@@ -70,6 +70,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | RTX | [Electrical Engineer Intern - Firmware](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316?utm_source=Simplify&ref=Simplify) | Fort Wayne, IN | 5d |
 | RTX | [Electrical Engineering Intern, Firmware 🇺🇸](https://go.vansh.nyc/1vJ?s=y) | Ft Wayne, IN | 5d |
 | NBCUniversal | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529?utm_source=Simplify&ref=Simplify) | Universal City, LA | 5d |
+| Raytheon | [Electrical - Firmware Engineering Intern - Summer 2027-…](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) | Ft Wayne, IN | 5d |
 | Garmin International | [IT DevOps Administrator Intern](https://go.vansh.nyc/1xf?s=y) | Olathe, KS | 5d |
 | Kudu Dynamics | [Junior Software Engineer/Data Scientist Intern 🇺🇸](https://go.vansh.nyc/1xK?s=y) | Tucson, AZ | 5d |
 | Wolters Kluwer | [Product Software Engineer Intern](https://go.vansh.nyc/1y3?s=y) | Waltham, MA | 5d |
