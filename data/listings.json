@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "0e63a1de037b9f45ce8eb6e2952575bf46f512207e1317f8f25460d32e90fcac",
+    "company_name": "🔥 TikTok",
+    "title": "Client Security & Data Foundation Machine Learning Engineer Intern 🎓",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7708750900450134325?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "110d39af7e9607ef2abcaedad059558fa97c87b2f4c5197375f063b522e42bac",
     "company_name": "RTX",
     "title": "Electrical Engineer Co-Op (Spring/Summer 2027)",
@@ -78,6 +91,19 @@
     ]
   },
   {
+    "id": "56ff9518679575186a88fa72b10650c7ca0bf1a032cbcd1324264df5baa3a50f",
+    "company_name": "Ralliant",
+    "title": "Hardware Verification Engineer Co-op",
+    "location": "Solon, OH",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "8ba7aa4484aafa999700a61f0e48886cbd060cfda0bdb0a87d620d3e58570c40",
     "company_name": "RTX",
     "title": "Hardware in the Loop Engineering Intern - (Summer 2027)",
@@ -104,6 +130,19 @@
     ]
   },
   {
+    "id": "e1fddfdcc8088e1099b1b3ed7c936cff230ee755fdba6422937e92e792ca963e",
+    "company_name": "Quest Analytics",
+    "title": "Software Engineer Intern - C# - ASP.NET",
+    "location": "Overland Park, KS",
+    "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "ef4b0b8afb19b8b8150a66be6a92184e451ca99ad5436b9f8d79e805faebad27",
     "company_name": "Pacific Fusion",
     "title": "HPC/DevOps Engineering Intern",
@@ -114,6 +153,20 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "f796a20779cccc6f962aa234948e42cd2d5ad6772b59b7fecf675ef1924ed462",
+    "company_name": "Impulse Space",
+    "title": "Digital Design Engineering Intern - FPGA/ASIC",
+    "location": "Redondo Beach, CA",
+    "url": "https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772?ats=pinpointhq&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware",
+      "mechanical"
     ]
   },
   {

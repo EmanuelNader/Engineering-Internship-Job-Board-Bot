@@ -6,15 +6,15 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2337 roles.
+2341 roles.
 
-- [Software Engineering](#software-engineering) (1089)
+- [Software Engineering](#software-engineering) (1090)
 - [Product Management](#product-management) (57)
-- [Hardware Engineering](#hardware-engineering) (181)
+- [Hardware Engineering](#hardware-engineering) (183)
 - [Data Science](#data-science) (464)
-- [Machine Learning](#machine-learning) (231)
+- [Machine Learning](#machine-learning) (232)
 - [Civil and Structural](#civil-and-structural) (39)
-- [Mechanical Engineering](#mechanical-engineering) (144)
+- [Mechanical Engineering](#mechanical-engineering) (145)
 - [Electrical Engineering](#electrical-engineering) (154)
 - [Chemical Engineering](#chemical-engineering) (40)
 - [Aerospace Engineering](#aerospace-engineering) (30)
@@ -27,6 +27,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | i3 | [Embedded Systems Reverse Engineer Intern 🇺🇸](https://go.vansh.nyc/1Af?s=y) | Washington, DC | 0d |
+| Quest Analytics | [Software Engineer Intern - C# - ASP.NET](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply?utm_source=Simplify&ref=Simplify) | Overland Park, KS | 0d |
 | Pacific Fusion | [HPC/DevOps Engineering Intern](https://go.vansh.nyc/1Ao?s=y) | San Leandro, CA | 0d |
 | Rodriguez Services | [Software Engineer Intern](https://go.vansh.nyc/1zS?s=y) | San Francisco, CA | 1d |
 | Samsung Semiconductor | [Intern - SSD Firmware Development](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) | San Jose, CA | 2d |
@@ -1186,7 +1187,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Ralliant | [Hardware Verification Engineer Co-op](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491?utm_source=Simplify&ref=Simplify) | Solon, OH | 0d |
 | RTX | [Hardware in the Loop Engineering Intern - (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927) | US-AZ-TUCSON-805 ~ 1151 E H… | 0d |
+| Impulse Space | [Digital Design Engineering Intern - FPGA/ASIC](https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Redondo Beach, CA | 0d |
 | Lightmatter | [Physical Design Intern 🎓](https://boards.greenhouse.io/lightmatter/jobs/5481668008?utm_source=Simplify&ref=Simplify) | Boston, MA | 2d |
 | 🔥 Tesla | [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 2d |
 | Lightmatter | [Hardware Test Engineer Intern](https://boards.greenhouse.io/lightmatter/jobs/5473869008?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 2d |
@@ -1845,6 +1848,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| 🔥 TikTok | [Client Security & Data Foundation Machine Learning Engi…](https://lifeattiktok.com/search/7708750900450134325?utm_source=Simplify&ref=Simplify) | San Jose, CA | 0d |
 | Boston Scientific | [AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837?utm_source=Simplify&ref=Simplify) | Marlborough, MAMaple Grove,… | 0d |
 | 🔥 TikTok | [Machine Learning Scientist Intern - Local Services 🎓](https://lifeattiktok.com/search/7703925583541979445?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3d |
 | Camping World | [Data Analyst Intern - AI & Machine Learning Focus 🎓](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300?utm_source=Simplify&ref=Simplify) | Chicago, ILLincolnshire, IL | 3d |
@@ -2129,6 +2133,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Impulse Space | [Digital Design Engineering Intern - FPGA/ASIC](https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Redondo Beach, CA | 0d |
 | Reliable Robotics | [FPGA Design Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 3d |
 | Formlabs | [Manufacturing Test Software Intern - Manufacturing](https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598&utm_source=Simplify&ref=Simplify) | Somerville, MA | 5d |
 | Veolia | [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern?oga=true) | Boulder, CO | 6d |
