@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2336 roles.
+2335 roles.
 
-- [Software Engineering](#software-engineering) (1089)
+- [Software Engineering](#software-engineering) (1088)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (181)
 - [Data Science](#data-science) (463)
@@ -698,7 +698,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | S&C Electric Company | [Software Engineer Intern](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1mo |
 | RTX | [Embedded Controls Hardware Co-Op (Summer/Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Summer-Fall-2027-_01872412) | US-IL-ROCKFORD-P6 ~ 4747 Ha… | 1mo |
 | Sigma Computing | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003?utm_source=Simplify&ref=Simplify) | SFNYC | 1mo |
-| Waymo | [2027 Summer Intern, MS, PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8250220) | Mountain View, California,… | 1mo |
 | Lyft | [Software Engineer Intern, Machine Learning, PhD only (S…](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | San Francisco, CA | 1mo |
 | Cook Medical | [Intern - Applied AI & Full Stack Development](https://americas-cookmedical.icims.com/jobs/19550/intern%2c-applied-ai-%26-full-stack-development/job) | Bloomington, IN | 1mo |
 | Alliance Laundry Systems | [Embedded Firmware Co-op](https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Ripon, WI | 1mo |
