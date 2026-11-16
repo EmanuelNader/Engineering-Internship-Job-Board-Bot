@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2336 roles.
+2337 roles.
 
-- [Software Engineering](#software-engineering) (1088)
+- [Software Engineering](#software-engineering) (1089)
 - [Product Management](#product-management) (57)
 - [Hardware Engineering](#hardware-engineering) (181)
 - [Data Science](#data-science) (464)
@@ -63,6 +63,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | PTC | [Site Reliability Engineering Intern, Onshape](https://go.vansh.nyc/1wK?s=y) | Boston, MA | 4d |
 | Reliable Robotics Corporati… | [Flight Software Engineer Intern](https://go.vansh.nyc/1z1?s=y) | Mountain View, CA | 4d |
 | CACI | [Embedded Software Development Intern](https://go.vansh.nyc/1xA?s=y) | Denver, CO | 4d |
+| Brex | [Software Engineer, Intern (Summer 2027)](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | San Francisco, California,… | 5d |
 | Motorola Solutions | [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179?utm_source=Simplify&ref=Simplify) | Schaumburg, IL | 5d |
 | Bask | [Backend Engineering Intern](https://go.vansh.nyc/1vi?s=y) | United States | 5d |
 | Astranis | [Embedded Software Developer – Network/Payload Intern](https://job-boards.greenhouse.io/astranis/jobs/4704569006?utm_source=Simplify&ref=Simplify) | SF | 5d |
