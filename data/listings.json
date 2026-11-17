@@ -78,6 +78,19 @@
     ]
   },
   {
+    "id": "e8eb6d0d73443cb592e17a71b817133eed635bc37d6b51c814df8423cd3cc8e2",
+    "company_name": "i3 Corps",
+    "title": "Embedded Systems Reverse Engineer Intern",
+    "location": "Washington, DC",
+    "url": "https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "eec311addadada2c045445a8eaa8fc79aaa152426cdac5e5a68e63fd43956f10",
     "company_name": "Integration Innovation (i3)",
     "title": "Embedded Systems Reverse Engineer Intern",
@@ -247,6 +260,19 @@
     ]
   },
   {
+    "id": "4d5e208c307dce4be686ac8f6f864c6418e16f45b9168c64e1e86e6dba2d35a0",
+    "company_name": "SRI International",
+    "title": "Drexel University Co-op: Software Engineering/Full stack development",
+    "location": "Princeton, NJ",
+    "url": "https://careers-sri.icims.com/jobs/6541/drexel-university-co-op%3a-software-engineering-full-stack-development/job",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "56ff9518679575186a88fa72b10650c7ca0bf1a032cbcd1324264df5baa3a50f",
     "company_name": "Ralliant",
     "title": "Hardware Verification Engineer Co-op",
@@ -376,6 +402,20 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "ea0a07254ce48a853f72c4ecb2fcb0f343072def7e7e737472eaff8e4e5fd413",
+    "company_name": "Analog Devices",
+    "title": "Embedded Hardware & Firmware Intern - Health Solutions",
+    "location": "Wilmington, MA",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "hardware"
     ]
   },
   {
@@ -1551,6 +1591,19 @@
     "source": "workday",
     "role_families": [
       "electrical"
+    ]
+  },
+  {
+    "id": "19be31c212146c0a941c53f70b1f00a45825cc0fc53e06a492af2ad2072e8cf5",
+    "company_name": "SecurityMetrics",
+    "title": "Intern - Software Engineer",
+    "location": "Orem, UT",
+    "url": "https://securitymetrics.bamboohr.com/careers/215",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -4160,6 +4213,19 @@
     "title": "Android Engineer Intern",
     "location": "NYC",
     "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-06T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "f53a2751d3efbbd5907e2289bb2adb4edce37545f74b57d561de39b799de38ff",
+    "company_name": "TikTok",
+    "title": "Agentic AI Decision Platform Software Engineer - Intern - TikTok BRIC - 2027 Start - PhD",
+    "location": "San Jose, CA",
+    "url": "https://lifeattiktok.com/search/7705012688944810245",
     "date_posted": "2026-11-06T00:00:00.000Z",
     "level": "internship",
     "source": "github",
