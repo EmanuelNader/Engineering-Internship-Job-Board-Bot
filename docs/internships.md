@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2348 roles.
+2350 roles.
 
 - [Software Engineering](#software-engineering) (1092)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (184)
-- [Data Science](#data-science) (464)
+- [Data Science](#data-science) (466)
 - [Machine Learning](#machine-learning) (234)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (146)
@@ -1381,7 +1381,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| National Interstate Insuran… | [Predictive Analytics Intern 🛂](https://go.vansh.nyc/1AE?s=y) | Cincinnati, OH | 1d |
 | Altice USA | [Data Analyst Intern - Modernization Program BSS/OSS Mig…](https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Bethpage, NY | 1d |
+| Bloomberg Industry Group | [Data Analyst Intern](https://go.vansh.nyc/1AF?s=y) | Arlington, VA | 1d |
 | Milliman | [Data Analytics Intern, IntelliScript](https://go.vansh.nyc/1A2?s=y) | Brookfield, WI | 2d |
 | Carnival Corporation | [Data Analytics Intern](https://go.vansh.nyc/1Av?s=y) | Miami, FL | 2d |
 | NetApp | [Data Analyst Intern](https://go.vansh.nyc/1zX?s=y) | Research Triangle Park, NC | 3d |
