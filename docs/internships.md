@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2374 roles.
+2375 roles.
 
-- [Software Engineering](#software-engineering) (1109)
+- [Software Engineering](#software-engineering) (1110)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (186)
 - [Data Science](#data-science) (469)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Draper | [Software Engineering & DevOps Intern](https://go.vansh.nyc/1BD?s=y) | Cambridge, MA | 0d |
 | Compunetix | [Software Engineer Co-op](https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Monroeville, PA | 0d |
 | Raptor Maps | [Software Engineer Intern](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a?utm_source=Simplify&ref=Simplify) | Somerville, MA | 0d |
 | APEX Analytix | [Product Management Intern - DevOps](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164?utm_source=Simplify&ref=Simplify) | Greensboro, NC | 0d |
