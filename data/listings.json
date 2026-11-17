@@ -274,6 +274,19 @@
     ]
   },
   {
+    "id": "f72d89f748df19259096473539e5770711fcbf39c15ff8095821efdcf341d911",
+    "company_name": "KLA",
+    "title": "Firmware Intern",
+    "location": "Milpitas, CA",
+    "url": "https://go.vansh.nyc/1AJ?s=y",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f796a20779cccc6f962aa234948e42cd2d5ad6772b59b7fecf675ef1924ed462",
     "company_name": "Impulse Space",
     "title": "Digital Design Engineering Intern - FPGA/ASIC",
