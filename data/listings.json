@@ -26,6 +26,19 @@
     ]
   },
   {
+    "id": "839c2d7423a63b38af6e5e314bb13caf3819b802ea746251c6f502fe17e729d0",
+    "company_name": "Sedaro",
+    "title": "DevOps Intern",
+    "location": "Arlington, VA",
+    "url": "https://go.vansh.nyc/1Be?s=y",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "eec311addadada2c045445a8eaa8fc79aaa152426cdac5e5a68e63fd43956f10",
     "company_name": "Integration Innovation (i3)",
     "title": "Embedded Systems Reverse Engineer Intern",

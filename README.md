@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2356 roles.
+2357 roles.
 
-- [Software Engineering](#software-engineering) (1096)
+- [Software Engineering](#software-engineering) (1097)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (184)
 - [Data Science](#data-science) (467)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Sedaro | [DevOps Intern](https://go.vansh.nyc/1Be?s=y) | Arlington, VA | 0d |
 | Integration Innovation (i3) | [Embedded Systems Reverse Engineer Intern](https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Washington, DC | 0d |
 | Sedaro | [Software Engineer Intern](https://go.vansh.nyc/1Bb?s=y) | Arlington, VA | 0d |
 | Reliable Robotics | [Displays Software Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1d |
