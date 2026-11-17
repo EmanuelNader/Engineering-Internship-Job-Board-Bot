@@ -52,6 +52,45 @@
     ]
   },
   {
+    "id": "4dfdd17da8e4d9578ec17047c21b1d8580bf904b73281200f5d488d0e7e004af",
+    "company_name": "Compunetix",
+    "title": "Software Engineer Co-op",
+    "location": "Monroeville, PA",
+    "url": "https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "51e53936595a3ef459cff70ccf566a5da088df920c4713fd8f32403693eb229b",
+    "company_name": "Raptor Maps",
+    "title": "Software Engineer Intern",
+    "location": "Somerville, MA",
+    "url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "6e4370259cdf554c52a791ac2fdd99f2bd18113aea3e63b14002751e3c1424bb",
+    "company_name": "APEX Analytix",
+    "title": "Product Management Intern - DevOps",
+    "location": "Greensboro, NC",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "839c2d7423a63b38af6e5e314bb13caf3819b802ea746251c6f502fe17e729d0",
     "company_name": "Sedaro",
     "title": "DevOps Intern",
@@ -78,6 +117,32 @@
     ]
   },
   {
+    "id": "a356e1bb847cba9e0a7c653a72f89df453392f08962966e7a4c74d088267e6c1",
+    "company_name": "Falcomm",
+    "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
+    "location": "Atlanta, GA",
+    "url": "https://apply.workable.com/falcomm/j/41F139E6F7/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "a4e04e9dbeefd4007d63f49dfe2d910a8a2956c6dffce8dab376ec32020e5885",
+    "company_name": "Attain Partners",
+    "title": "Data Analytics Intern",
+    "location": "McLean, VA",
+    "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "ae21477b1093c297568e26c03032fbc67bfb7f23ecc1a48334ffb12bb8e82fdf",
     "company_name": "Anduril",
     "title": "Machine Learning Engineer Intern",
@@ -91,6 +156,19 @@
     ]
   },
   {
+    "id": "d0d14254615498f88cd9dafc0e591ae0cc5c0ca62a841915ae7cd76005f538b7",
+    "company_name": "Falcomm",
+    "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
+    "location": "Atlanta, GA",
+    "url": "https://apply.workable.com/falcomm/j/64D0E86EFE/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "e8eb6d0d73443cb592e17a71b817133eed635bc37d6b51c814df8423cd3cc8e2",
     "company_name": "i3 Corps",
     "title": "Embedded Systems Reverse Engineer Intern",
@@ -101,6 +179,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "ee45a53b0ec871825bbb69a7d7e412c4f2e8ad7dbaad4f2a320a57141d7a8c12",
+    "company_name": "SAS",
+    "title": "IoT Analytics Intern 🎓",
+    "location": "Cary, NC",
+    "url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
