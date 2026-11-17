@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2352 roles.
+2354 roles.
 
-- [Software Engineering](#software-engineering) (1093)
+- [Software Engineering](#software-engineering) (1094)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (184)
-- [Data Science](#data-science) (466)
+- [Data Science](#data-science) (467)
 - [Machine Learning](#machine-learning) (234)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (146)
@@ -29,6 +29,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Integration Innovation (i3) | [Embedded Systems Reverse Engineer Intern](https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Washington, DC | 0d |
 | Reliable Robotics | [Displays Software Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1d |
 | i3 | [Embedded Systems Reverse Engineer Intern 🇺🇸](https://go.vansh.nyc/1Af?s=y) | Washington, DC | 1d |
+| Clera | [Full-Stack Software Engineering Intern](https://go.vansh.nyc/1AN?s=y) | New York, NY | 1d |
 | Quest Analytics | [Software Engineer Intern - C# - ASP.NET](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply?utm_source=Simplify&ref=Simplify) | Overland Park, KS | 1d |
 | Pacific Fusion | [HPC/DevOps Engineering Intern](https://go.vansh.nyc/1Ao?s=y) | San Leandro, CA | 1d |
 | KLA | [Firmware Intern](https://go.vansh.nyc/1AJ?s=y) | Milpitas, CA | 1d |
@@ -1385,6 +1386,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | National Interstate Insuran… | [Predictive Analytics Intern 🛂](https://go.vansh.nyc/1AE?s=y) | Cincinnati, OH | 1d |
 | Altice USA | [Data Analyst Intern - Modernization Program BSS/OSS Mig…](https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Bethpage, NY | 1d |
 | Bloomberg Industry Group | [Data Analyst Intern](https://go.vansh.nyc/1AF?s=y) | Arlington, VA | 1d |
+| Lumentum | [Data Science & Analytics Intern](https://go.vansh.nyc/1AP?s=y) | San Jose, CA | 1d |
 | Milliman | [Data Analytics Intern, IntelliScript](https://go.vansh.nyc/1A2?s=y) | Brookfield, WI | 2d |
 | Carnival Corporation | [Data Analytics Intern](https://go.vansh.nyc/1Av?s=y) | Miami, FL | 2d |
 | NetApp | [Data Analyst Intern](https://go.vansh.nyc/1zX?s=y) | Research Triangle Park, NC | 3d |

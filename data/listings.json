@@ -261,6 +261,32 @@
     ]
   },
   {
+    "id": "c7d93adbd3856f65a3c55022f7b4886c081bc29192e5f0154fc6c2f0f38cec80",
+    "company_name": "Clera",
+    "title": "Full-Stack Software Engineering Intern",
+    "location": "New York, NY",
+    "url": "https://go.vansh.nyc/1AN?s=y",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "d5fe16cefdbfd6d1bf22b0abd64ee44aff5ef91babcbc985ffc7683d301a7d7c",
+    "company_name": "Lumentum",
+    "title": "Data Science & Analytics Intern",
+    "location": "San Jose, CA",
+    "url": "https://go.vansh.nyc/1AP?s=y",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "e1fddfdcc8088e1099b1b3ed7c936cff230ee755fdba6422937e92e792ca963e",
     "company_name": "Quest Analytics",
     "title": "Software Engineer Intern - C# - ASP.NET",
