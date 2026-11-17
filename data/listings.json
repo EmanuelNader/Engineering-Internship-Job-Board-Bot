@@ -1,5 +1,44 @@
 [
   {
+    "id": "07084125ec66dfed622e423cdbc5c0efaf8e8429aa41bb508c3f553a8816f4d6",
+    "company_name": "bioMérieux",
+    "title": "Machine Learning Co-op",
+    "location": "Durham, NC",
+    "url": "https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "eec311addadada2c045445a8eaa8fc79aaa152426cdac5e5a68e63fd43956f10",
+    "company_name": "Integration Innovation (i3)",
+    "title": "Embedded Systems Reverse Engineer Intern",
+    "location": "Washington, DC",
+    "url": "https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "f8061b9d53551b9f3dad4d695367e4698d9ba42b455bafb7d741cbe20fb906e6",
+    "company_name": "🔥 ServiceNow",
+    "title": "Inbound Product Manager Intern 🎓",
+    "location": "San Diego, CA",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161885234?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "pm-program"
+    ]
+  },
+  {
     "id": "68076786f5ed92af916cb619f536149f3102b1f48a23da9f2ff85350cca63f69",
     "company_name": "RS&H",
     "title": "Airfield Civil Engineering Intern - Summer 2027",
@@ -141,6 +180,32 @@
     "source": "workday",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "8d6a1f1551fc38fae04a2ba7a07bec7dc5617f78a67682c72ae03683ac40cd1d",
+    "company_name": "JMP Statistical Discovery",
+    "title": "JMP Core User Interface Team R&D Intern - Master's/PhD 🎓",
+    "location": "Cary, NC",
+    "url": "https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "other"
+    ]
+  },
+  {
+    "id": "9c8fa48efda5c6be01e26a6bce705664171e9f1390ac82b12f86c42889c61004",
+    "company_name": "Reliable Robotics",
+    "title": "Displays Software Engineer Intern",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
