@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": "9f6d1a2cf1e524352784741a658d63b9044d88e00565497696c4ac3b18c74203",
+    "company_name": "Garmin",
+    "title": "Software Engineer Intern, Real Time Aviation Data",
+    "location": "Chanhassen, MN",
+    "url": "https://go.vansh.nyc/1Bs?s=y",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "ae21477b1093c297568e26c03032fbc67bfb7f23ecc1a48334ffb12bb8e82fdf",
     "company_name": "Anduril",
     "title": "Machine Learning Engineer Intern",
