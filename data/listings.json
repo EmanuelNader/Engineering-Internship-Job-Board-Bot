@@ -234,6 +234,20 @@
     ]
   },
   {
+    "id": "6b8f50e135d1b218813e84d89465063fcb6ac7fe22d88a8deae824694ad6e4fd",
+    "company_name": "Analog Devices",
+    "title": "Embedded Hardware & Firmware Intern, Health Solutions",
+    "location": "Wilmington, MA",
+    "url": "https://go.vansh.nyc/1Bm?s=y",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "hardware"
+    ]
+  },
+  {
     "id": "7f0d76cea7975607fe5433a79124de407d0c88c42d390c0db57f63f8981e2e63",
     "company_name": "Impulse Space",
     "title": "Digital Design Engineering Intern, FPGA/ASIC",
