@@ -313,6 +313,19 @@
     ]
   },
   {
+    "id": "f28e07f38fae0dfec0b16ebfa9a5669339a3c2a897be0276c25f38caca809d04",
+    "company_name": "HexArmor",
+    "title": "Software Engineer Intern",
+    "location": "Atlanta, GA",
+    "url": "https://go.vansh.nyc/1AQ?s=y",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f72d89f748df19259096473539e5770711fcbf39c15ff8095821efdcf341d911",
     "company_name": "KLA",
     "title": "Firmware Intern",

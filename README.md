@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2354 roles.
+2355 roles.
 
-- [Software Engineering](#software-engineering) (1094)
+- [Software Engineering](#software-engineering) (1095)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (184)
 - [Data Science](#data-science) (467)
@@ -32,6 +32,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Clera | [Full-Stack Software Engineering Intern](https://go.vansh.nyc/1AN?s=y) | New York, NY | 1d |
 | Quest Analytics | [Software Engineer Intern - C# - ASP.NET](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply?utm_source=Simplify&ref=Simplify) | Overland Park, KS | 1d |
 | Pacific Fusion | [HPC/DevOps Engineering Intern](https://go.vansh.nyc/1Ao?s=y) | San Leandro, CA | 1d |
+| HexArmor | [Software Engineer Intern](https://go.vansh.nyc/1AQ?s=y) | Atlanta, GA | 1d |
 | KLA | [Firmware Intern](https://go.vansh.nyc/1AJ?s=y) | Milpitas, CA | 1d |
 | Rodriguez Services | [Software Engineer Intern](https://go.vansh.nyc/1zS?s=y) | San Francisco, CA | 2d |
 | Samsung Semiconductor | [Intern - SSD Firmware Development](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) | San Jose, CA | 3d |
