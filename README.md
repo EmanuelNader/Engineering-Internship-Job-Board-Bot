@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2393 roles.
+2396 roles.
 
-- [Software Engineering](#software-engineering) (1123)
+- [Software Engineering](#software-engineering) (1125)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (188)
-- [Data Science](#data-science) (472)
+- [Data Science](#data-science) (473)
 - [Machine Learning](#machine-learning) (236)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (148)
@@ -31,6 +31,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Ixana | [Internship - Embedded Hardware Engineer FPGA Design - O…](https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/) | West Lafayette, IN | 0d |
 | 🔥 Airbnb | [Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478&utm_source=Simplify&ref=Simplify) | SF | 0d |
 | Samsung Semiconductor | [SSD Firmware Engineer Intern](https://go.vansh.nyc/1Cu?s=y) | San Jose, CA | 0d |
+| Kira Learning | [Software Engineer Intern](https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 0d |
+| Truveta | [Software Engineer Intern](https://job-boards.greenhouse.io/truveta/jobs/6249810004?utm_source=Simplify&ref=Simplify) | Seattle, WA | 0d |
 | Nelnet | [Intern - IT Software Engineer - Summer 2027](https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352) | Lincoln, NE | 1d |
 | Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 1d |
 | Draper | [Software Engineering & DevOps Intern](https://go.vansh.nyc/1BD?s=y) | Cambridge, MA | 1d |
@@ -1419,6 +1421,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Paccar | [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Denton, TX | 0d |
 | DriveWealth | [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, ILNYC | 0d |
 | Applied Materials | [2027 Spring System Data Scientist /Analyst Co-op, MS or…](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-System-Data-Scientist--Analyst-Co-op--MS-or-Phd---Gloucester--MA_R2632175) | Gloucester,MA | 0d |
+| Sheetz | [Business Intelligence Analytics Intern](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 0d |
 | Attain Partners | [Data Analytics Intern](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008?utm_source=Simplify&ref=Simplify) | McLean, VA | 1d |
 | State Street | [Data Scientist Intern](https://go.vansh.nyc/1C1?s=y) | Boston, MA | 1d |
 | SAS | [IoT Analytics Intern 🎓](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Cary, NC | 1d |

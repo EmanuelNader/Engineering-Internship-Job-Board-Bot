@@ -132,6 +132,32 @@
     ]
   },
   {
+    "id": "ddbca4ddc1985b31ca0755e32908eb3461102cf79bdeba50335c43c1502a59dc",
+    "company_name": "Sheetz",
+    "title": "Business Intelligence Analytics Intern",
+    "location": "Pittsburgh, PA",
+    "url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "ea382dadf47bb8337760352f9c192c642375fb5b3885479519a352c5cc96584d",
+    "company_name": "Kira Learning",
+    "title": "Software Engineer Intern",
+    "location": "SF",
+    "url": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "ebb8f82d766b55404ef4bd9696518fe0ee0a2f4bf63899460a274313c7ae87c5",
     "company_name": "RTX",
     "title": "Electrical Engineer Co-op (Summer/Fall 2027)(Onsite)",
@@ -142,6 +168,19 @@
     "source": "workday",
     "role_families": [
       "electrical"
+    ]
+  },
+  {
+    "id": "f26238f322503faf95261753fe68b55e95e4bf4ffe711cc5396122481787487d",
+    "company_name": "Truveta",
+    "title": "Software Engineer Intern",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/truveta/jobs/6249810004?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
