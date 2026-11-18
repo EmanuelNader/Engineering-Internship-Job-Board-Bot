@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2376 roles.
+2377 roles.
 
-- [Software Engineering](#software-engineering) (1110)
+- [Software Engineering](#software-engineering) (1111)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (186)
 - [Data Science](#data-science) (470)
@@ -33,6 +33,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Sedaro | [DevOps Intern](https://go.vansh.nyc/1Be?s=y) | Arlington, VA | 1d |
 | Garmin | [Software Engineer Intern, Real Time Aviation Data](https://go.vansh.nyc/1Bs?s=y) | Chanhassen, MN | 1d |
 | Falcomm | [AI/ML Software Engineer Graduate Intern - AI/CAD Integr…](https://apply.workable.com/falcomm/j/41F139E6F7/apply?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 1d |
+| Microsoft | [Research Intern, Firmware Security](https://go.vansh.nyc/1BR?s=y) | Redmond, WA | 1d |
 | Falcomm | [AI/ML Software Engineer Undergraduate Intern - AI/CAD I…](https://apply.workable.com/falcomm/j/64D0E86EFE/apply?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 1d |
 | i3 Corps | [Embedded Systems Reverse Engineer Intern](https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job) | Washington, DC | 1d |
 | Integration Innovation (i3) | [Embedded Systems Reverse Engineer Intern](https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Washington, DC | 1d |

@@ -182,6 +182,19 @@
     ]
   },
   {
+    "id": "bd315d8d89b0715bd9911697a842f9e2a7f51be17a7be55b8a4b48b712599015",
+    "company_name": "Microsoft",
+    "title": "Research Intern, Firmware Security",
+    "location": "Redmond, WA",
+    "url": "https://go.vansh.nyc/1BR?s=y",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "d0d14254615498f88cd9dafc0e591ae0cc5c0ca62a841915ae7cd76005f538b7",
     "company_name": "Falcomm",
     "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
