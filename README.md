@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2383 roles.
+2392 roles.
 
-- [Software Engineering](#software-engineering) (1113)
+- [Software Engineering](#software-engineering) (1122)
 - [Product Management](#product-management) (58)
-- [Hardware Engineering](#hardware-engineering) (186)
+- [Hardware Engineering](#hardware-engineering) (188)
 - [Data Science](#data-science) (472)
 - [Machine Learning](#machine-learning) (236)
 - [Civil and Structural](#civil-and-structural) (39)
@@ -26,11 +26,19 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 0d |
+| IDEMIA | [Full Stack Software Engineering Internship](https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job) | Reston, VA | 0d |
+| Ixana | [Internship - Embedded Hardware Engineer FPGA Design - O…](https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/) | West Lafayette, IN | 0d |
 | 🔥 Airbnb | [Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478&utm_source=Simplify&ref=Simplify) | SF | 0d |
+| Nelnet | [Intern - IT Software Engineer - Summer 2027](https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352) | Lincoln, NE | 1d |
 | Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623?utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 1d |
 | Draper | [Software Engineering & DevOps Intern](https://go.vansh.nyc/1BD?s=y) | Cambridge, MA | 1d |
+| Signify | [Firmware Development Engineer Intern - Cooper Lighting…](https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Atlanta/Firmware-Development-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_367134) | Atlanta, GA +1 | 1d |
 | Compunetix | [Software Engineer Co-op](https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Monroeville, PA | 1d |
+| State Street | [Software Engineer - Intergration Services - Full-time I…](https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234) | Quincy, MA | 1d |
 | Raptor Maps | [Software Engineer Intern](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a?utm_source=Simplify&ref=Simplify) | Somerville, MA | 1d |
+| Oracle | [OCI Intern Conversion - Undergrad Software Engineer Ful…](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350821) | Nashville, TN | 1d |
+| Motorola Solutions | [Software Engineer Co-op](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561) | Remote - Utah, USA | 1d |
 | APEX Analytix | [Product Management Intern - DevOps](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164?utm_source=Simplify&ref=Simplify) | Greensboro, NC | 1d |
 | Sedaro | [DevOps Intern](https://go.vansh.nyc/1Be?s=y) | Arlington, VA | 1d |
 | Garmin | [Software Engineer Intern, Real Time Aviation Data](https://go.vansh.nyc/1Bs?s=y) | Chanhassen, MN | 1d |
@@ -39,6 +47,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Falcomm | [AI/ML Software Engineer Undergraduate Intern - AI/CAD I…](https://apply.workable.com/falcomm/j/64D0E86EFE/apply?utm_source=Simplify&ref=Simplify) | Atlanta, GA | 1d |
 | i3 Corps | [Embedded Systems Reverse Engineer Intern](https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job) | Washington, DC | 1d |
 | Integration Innovation (i3) | [Embedded Systems Reverse Engineer Intern](https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Washington, DC | 1d |
+| State Street | [Full Stack Development Intern - Full-time Internship -…](https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Quincy-Massachusetts/Full-Stack-Development-Intern--Full-time-Internship--Jan---June-2027-_R-801232) | Quincy, MA | 1d |
 | Sedaro | [Software Engineer Intern](https://go.vansh.nyc/1Bb?s=y) | Arlington, VA | 1d |
 | SRI International | [Drexel University Co-op: Software Engineering/Full stac…](https://careers-sri.icims.com/jobs/6541/drexel-university-co-op%3a-software-engineering-full-stack-development/job) | Princeton, NJ | 2d |
 | Analog Devices | [Embedded Hardware & Firmware Intern, Health Solutions](https://go.vansh.nyc/1Bm?s=y) | Wilmington, MA | 2d |
@@ -1211,6 +1220,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 0d |
+| Ixana | [Internship - Embedded Hardware Engineer FPGA Design - O…](https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/) | West Lafayette, IN | 0d |
 | Ralliant | [Hardware Verification Engineer Co-op](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491?utm_source=Simplify&ref=Simplify) | Solon, OH | 2d |
 | Analog Devices | [Embedded Hardware & Firmware Intern, Health Solutions](https://go.vansh.nyc/1Bm?s=y) | Wilmington, MA | 2d |
 | Impulse Space | [Digital Design Engineering Intern, FPGA/ASIC](https://go.vansh.nyc/1Ay?s=y) | Redondo Beach, CA | 2d |

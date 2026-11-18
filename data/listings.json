@@ -13,6 +13,20 @@
     ]
   },
   {
+    "id": "02b47aae47d868839d65ad98c9a056f63abc65795c8e7306f73d6a5115e0aced",
+    "company_name": "Ixana",
+    "title": "Internship - Embedded Hardware Engineer - On-site. West Lafayette - USA",
+    "location": "West Lafayette, IN",
+    "url": "https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "hardware"
+    ]
+  },
+  {
     "id": "13566b3c75492c6aa973d576c4fd85376eea0f06bdc3d0b0a5938399334bf552",
     "company_name": "Paccar",
     "title": "Data Scientist Intern",
@@ -23,6 +37,33 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "78c9bd27ee055729c424664dc714f75f21349dfe0cc6d36c1ab4dbfef0d1618e",
+    "company_name": "IDEMIA",
+    "title": "Full Stack Software Engineering Internship",
+    "location": "Reston, VA",
+    "url": "https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "7da9ec3f1517467d626617f24cd3aa5424daba473b40e58b115d060247523cb5",
+    "company_name": "Ixana",
+    "title": "Internship - Embedded Hardware Engineer FPGA Design - On-site. West Lafayette - USA",
+    "location": "West Lafayette, IN",
+    "url": "https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "hardware"
     ]
   },
   {
@@ -117,6 +158,19 @@
     ]
   },
   {
+    "id": "05b22dd0341227027086df3f39242aca6c9e64ef24d317eea0b71533adae842c",
+    "company_name": "Nelnet",
+    "title": "Intern - IT Software Engineer - Summer 2027",
+    "location": "Lincoln, NE",
+    "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "07084125ec66dfed622e423cdbc5c0efaf8e8429aa41bb508c3f553a8816f4d6",
     "company_name": "bioMérieux",
     "title": "Machine Learning Co-op",
@@ -182,6 +236,19 @@
     ]
   },
   {
+    "id": "2c6b27d348b489f457f170003d758e55d977f91c89324e36706e1476c1afd7a1",
+    "company_name": "Signify",
+    "title": "Firmware Development Engineer Intern - Cooper Lighting Solutions - Spring 2027",
+    "location": "Atlanta, GA +1",
+    "url": "https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Atlanta/Firmware-Development-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_367134",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "4dfdd17da8e4d9578ec17047c21b1d8580bf904b73281200f5d488d0e7e004af",
     "company_name": "Compunetix",
     "title": "Software Engineer Co-op",
@@ -195,6 +262,19 @@
     ]
   },
   {
+    "id": "50bff62549efda9f9087829b594a07b5264fd671e3a0446ecbf72fdcca1e8006",
+    "company_name": "State Street",
+    "title": "Software Engineer - Intergration Services - Full-time Internship - Jan - June 2027",
+    "location": "Quincy, MA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "51e53936595a3ef459cff70ccf566a5da088df920c4713fd8f32403693eb229b",
     "company_name": "Raptor Maps",
     "title": "Software Engineer Intern",
@@ -202,6 +282,32 @@
     "url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a?utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-17T00:00:00.000Z",
     "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "5c864436e3aa74d0c478901795a69ad2c2bd685262bc0e0dd6d452b6d7f511d8",
+    "company_name": "Oracle",
+    "title": "OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville - TN - February 2027",
+    "location": "Nashville, TN",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350821",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "5feab4611c9310854a66ec05f4e378ea43d9aaf2c7235478a8f85bc9003e1a4b",
+    "company_name": "Motorola Solutions",
+    "title": "Software Engineer Co-op",
+    "location": "Remote - Utah, USA",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "co-op",
     "source": "github",
     "role_families": [
       "swe"
@@ -356,6 +462,19 @@
     "title": "Embedded Systems Reverse Engineer Intern",
     "location": "Washington, DC",
     "url": "https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "f156e0f21bb9efb9d71c3497a2ebd2c11083ce147ef4663a962e5539e30dfecc",
+    "company_name": "State Street",
+    "title": "Full Stack Development Intern - Full-time Internship - Jan - June 2027",
+    "location": "Quincy, MA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Quincy-Massachusetts/Full-Stack-Development-Intern--Full-time-Internship--Jan---June-2027-_R-801232",
     "date_posted": "2026-11-17T00:00:00.000Z",
     "level": "internship",
     "source": "github",
