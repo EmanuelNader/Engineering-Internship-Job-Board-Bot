@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2376 roles.
+2377 roles.
 
 - [Software Engineering](#software-engineering) (1111)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (186)
-- [Data Science](#data-science) (470)
+- [Data Science](#data-science) (471)
 - [Machine Learning](#machine-learning) (236)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (146)
@@ -1404,6 +1404,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Paccar | [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Denton, TX | 0d |
 | Attain Partners | [Data Analytics Intern](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008?utm_source=Simplify&ref=Simplify) | McLean, VA | 1d |
+| State Street | [Data Scientist Intern](https://go.vansh.nyc/1C1?s=y) | Boston, MA | 1d |
 | SAS | [IoT Analytics Intern 🎓](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Cary, NC | 1d |
 | National Interstate Insuran… | [Predictive Analytics Intern 🛂](https://go.vansh.nyc/1AE?s=y) | Cincinnati, OH | 2d |
 | Altice USA | [Data Analyst Intern - Modernization Program BSS/OSS Mig…](https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Bethpage, NY | 2d |
