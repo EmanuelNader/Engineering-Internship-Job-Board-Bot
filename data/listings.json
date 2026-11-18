@@ -1,5 +1,18 @@
 [
   {
+    "id": "13566b3c75492c6aa973d576c4fd85376eea0f06bdc3d0b0a5938399334bf552",
+    "company_name": "Paccar",
+    "title": "Data Scientist Intern",
+    "location": "Denton, TX",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "9303b97daf3719381513281cad2ded5787de89642ff756d085afad9489502f97",
     "company_name": "Anduril Industries",
     "title": "2027 Machine Learning Engineer Intern",
