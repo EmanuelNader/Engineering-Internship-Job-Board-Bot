@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2378 roles.
+2377 roles.
 
 - [Software Engineering](#software-engineering) (1112)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (186)
-- [Data Science](#data-science) (471)
+- [Data Science](#data-science) (470)
 - [Machine Learning](#machine-learning) (236)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (146)
@@ -1435,7 +1435,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Leidos | [Junior Software Engineer / Data Scientist Intern](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510) | Tucson, AZ | 6d |
 | Vizient | [Contract Operations Intern - Analytics](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1?utm_source=Simplify&ref=Simplify) | Irving, TX | 6d |
 | ASML | [Data Scientist Intern](https://go.vansh.nyc/1yl?s=y) | Wilton, CT | 6d |
-| Airbnb | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | United States | 1w |
 | ICF | [Data Analytics Intern](https://go.vansh.nyc/1uQ?s=y) | Reston, VARemoteUnited Stat… | 1w |
 | CarGurus | [Product Data Analyst Intern](https://go.vansh.nyc/1xI?s=y) | Boston, MA | 1w |
 | Kudu Dynamics | [Junior Software Engineer/Data Scientist Intern 🇺🇸](https://go.vansh.nyc/1xK?s=y) | Tucson, AZ | 1w |
