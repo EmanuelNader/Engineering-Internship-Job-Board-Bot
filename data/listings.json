@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": "070da020bcfe20f0016e690fb9f934f915e2ca272e406db8a1081392975ccb0d",
+    "company_name": "Sallie Mae",
+    "title": "Software Engineer Intern",
+    "location": "Indianapolis, IN",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-17T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "12fcea1af236cadc797dd8f383dddc4af2096ba71b496b73b809312eaa5395d8",
     "company_name": "Draper",
     "title": "Software Engineering & DevOps Intern",
