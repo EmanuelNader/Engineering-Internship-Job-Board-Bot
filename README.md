@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2378 roles.
+2377 roles.
 
 - [Software Engineering](#software-engineering) (1112)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (186)
-- [Data Science](#data-science) (471)
+- [Data Science](#data-science) (470)
 - [Machine Learning](#machine-learning) (236)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (146)
@@ -1429,7 +1429,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | 🔥 Microsoft | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390?utm_source=Simplify&ref=Simplify) | Redmond, WA | 6d |
 | CareSource | [Summer Internship Program – Provider Analytics AI Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481?utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
 | Encore Global | [IT Data Analyst Intern](https://go.vansh.nyc/1xN?s=y) | Schiller Park, IL | 6d |
-| 🔥 Airbnb | [Advanced Analytics Intern 🎓](https://careers.airbnb.com/positions/8380007?gh_jid=8380007&utm_source=Simplify&ref=Simplify) | Remote in USA | 6d |
 | E2 Consulting Engineers | [Data Analyst Intern](https://go.vansh.nyc/1yp?s=y) | San Diego, CA | 6d |
 | Stanley Black & Decker | [Data Analyst Intern 🎓](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481?utm_source=Simplify&ref=Simplify) | Towson, MD | 6d |
 | Environmental Defense Fund | [Consumer Energy Analytics Intern](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752?utm_source=Simplify&ref=Simplify) | Remote in USASt. Petersburg… | 6d |
