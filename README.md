@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2408 roles.
+2409 roles.
 
 - [Software Engineering](#software-engineering) (1132)
 - [Product Management](#product-management) (58)
@@ -14,7 +14,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (475)
 - [Machine Learning](#machine-learning) (237)
 - [Civil and Structural](#civil-and-structural) (39)
-- [Mechanical Engineering](#mechanical-engineering) (149)
+- [Mechanical Engineering](#mechanical-engineering) (150)
 - [Electrical Engineering](#electrical-engineering) (154)
 - [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (31)
@@ -2197,6 +2197,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| RTX | [Mechanical Engineer Intern Summer 2027 (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290) | US-CA-EL SEGUNDO-E02 ~ 2002… | 0d |
 | RTX | [Additive Manufacturing Process Intern (Summer 2027) - O…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-H--411-Silver-Ln--RTRC-H/Additive-Manufacturing-Process-Intern--Summer-2027----Onsite_01889149) | US-CT-EAST HARTFORD-RTRC H… | 1d |
 | Motorola Solutions | [RFIC Design Engineer Intern 🇺🇸](https://go.vansh.nyc/1Cl?s=y) | Plantation, FLSchaumburg, IL | 2d |
 | Sunday | [Manufacturing Engineering Intern (Winter 2027)](https://jobs.ashbyhq.com/sunday/fc993997-fb7f-4977-bdff-f09c51d96bf6) | Redwood City, CA | 3d |
