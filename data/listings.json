@@ -1,5 +1,18 @@
 [
   {
+    "id": "86bb93bfab2f6035c80fbeded8e56d271b57e434641ebdd17047dd9543331734",
+    "company_name": "Lucid Motors",
+    "title": "Intern, Software Engineer, SDET, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+    "date_posted": "2026-11-19T22:57:36.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "1d815c1783eb845274b1f4fb82039d1fb93da84860359a9f119c4b959ec53d38",
     "company_name": "Lutron",
     "title": "Embedded Firmware Engineering Intern",
