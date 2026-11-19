@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2402 roles.
+2407 roles.
 
-- [Software Engineering](#software-engineering) (1129)
+- [Software Engineering](#software-engineering) (1132)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (188)
-- [Data Science](#data-science) (474)
-- [Machine Learning](#machine-learning) (236)
+- [Data Science](#data-science) (475)
+- [Machine Learning](#machine-learning) (237)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (148)
 - [Electrical Engineering](#electrical-engineering) (154)
@@ -26,8 +26,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Samsung Semiconductor | [Intern - SSD Firmware Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | San Jose, CA | 0d |
 | Cirrus Logic | [Software Engineer AI/ML Intern 🎓](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 0d |
 | Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 1d |
+| Valeris | [Software Engineer Intern](https://valeris.wd108.myworkdayjobs.com/en-US/valeris/job/Louisville-KY/Software-Engineer-Intern_JR1044) | Louisville, KY | 1d |
+| Galaxy | [2027 Site Reliability Engineer Intern-Afton - Texas](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) | Texas, USA | 1d |
 | Bose | [Software Engineer Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387?utm_source=Simplify&ref=Simplify) | Framingham, MA | 1d |
 | Scout Space | [Embedded Firmware Engineering Intern 🇺🇸](https://go.vansh.nyc/1CU?s=y) | Reston, VARemoteUnited Stat… | 1d |
 | IDEMIA | [Full Stack Software Engineering Internship](https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job) | Reston, VA | 1d |
@@ -1424,6 +1427,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Atlantic Health System | [Pharmacy Intern - Data Analytics](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551?utm_source=Simplify&ref=Simplify) | Morristown, NJ | 0d |
 | Paccar | [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Denton, TX | 1d |
+| Great American Insurance Gr… | [Data Engineer Developer Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919) | Cincinnati, OH | 1d |
 | DriveWealth | [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, ILNYC | 1d |
 | Applied Materials | [2027 Spring System Data Scientist /Analyst Co-op, MS or…](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-System-Data-Scientist--Analyst-Co-op--MS-or-Phd---Gloucester--MA_R2632175) | Gloucester,MA | 1d |
 | Sheetz | [Business Intelligence Analytics Intern](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 1d |
@@ -1903,6 +1907,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Allied Consultants | [AI/ML Engineer Intern](https://go.vansh.nyc/1D1?s=y) | Austin, TX | 0d |
 | Anduril Industries | [2027 Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | Santa Ana, California, Unit… | 2d |
 | bioMérieux | [Machine Learning Co-op](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Durham, NC | 2d |
 | Anduril | [Machine Learning Engineer Intern](https://go.vansh.nyc/1Bo?s=y) | Santa Ana, CA | 2d |

@@ -1,5 +1,31 @@
 [
   {
+    "id": "39d478ce06371a2235540f9eaa5966783bc18c5c2045c7c52b6a90cf3b6d1cea",
+    "company_name": "Allied Consultants",
+    "title": "AI/ML Engineer Intern",
+    "location": "Austin, TX",
+    "url": "https://go.vansh.nyc/1D1?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "522cda256cfc1142aff71ad8323ffefb0fdd36a0ba9f245d52d83b4b61ed5f9e",
+    "company_name": "Samsung Semiconductor",
+    "title": "Intern - SSD Firmware Engineer",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "704374475ebbb3b163bd9581c7ba331d59cdfd3791afac6a2d1997d1508e5a5b",
     "company_name": "Atlantic Health System",
     "title": "Pharmacy Intern - Data Analytics",
@@ -76,6 +102,45 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "2ac37b0599e235c4a3c3401dcc03a761952de8444b7da6200d8a8d4b83ec88bb",
+    "company_name": "Valeris",
+    "title": "Software Engineer Intern",
+    "location": "Louisville, KY",
+    "url": "https://valeris.wd108.myworkdayjobs.com/en-US/valeris/job/Louisville-KY/Software-Engineer-Intern_JR1044",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "2da4592232f3619ec1a71c7f147e0ed5bf3b72dbe514b6ef07ea3eb2d5e5d75a",
+    "company_name": "Great American Insurance Group",
+    "title": "Data Engineer Developer Intern - Summer 2027",
+    "location": "Cincinnati, OH",
+    "url": "https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "47cf23ab6e039fdfd2b581c6bec57f6ecd2832035d6d691495cce036283c55bd",
+    "company_name": "Galaxy",
+    "title": "2027 Site Reliability Engineer Intern-Afton - Texas",
+    "location": "Texas, USA",
+    "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
