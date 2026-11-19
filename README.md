@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2401 roles.
+2402 roles.
 
 - [Software Engineering](#software-engineering) (1128)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (188)
-- [Data Science](#data-science) (473)
+- [Data Science](#data-science) (474)
 - [Machine Learning](#machine-learning) (237)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (148)
@@ -1421,6 +1421,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Atlantic Health System | [Pharmacy Intern - Data Analytics](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551?utm_source=Simplify&ref=Simplify) | Morristown, NJ | 0d |
 | Paccar | [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Denton, TX | 1d |
 | DriveWealth | [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, ILNYC | 1d |
 | Applied Materials | [2027 Spring System Data Scientist /Analyst Co-op, MS or…](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-System-Data-Scientist--Analyst-Co-op--MS-or-Phd---Gloucester--MA_R2632175) | Gloucester,MA | 1d |

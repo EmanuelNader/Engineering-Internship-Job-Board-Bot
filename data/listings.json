@@ -1,5 +1,18 @@
 [
   {
+    "id": "704374475ebbb3b163bd9581c7ba331d59cdfd3791afac6a2d1997d1508e5a5b",
+    "company_name": "Atlantic Health System",
+    "title": "Pharmacy Intern - Data Analytics",
+    "location": "Morristown, NJ",
+    "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "966af417283db0a3032c1eb4624d8f20935aa43a57fcd63f850c5c8585cd316a",
     "company_name": "MSA Safety",
     "title": "Electrical Engineering Intern/Co-op",
