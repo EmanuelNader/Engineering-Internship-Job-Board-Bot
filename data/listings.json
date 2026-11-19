@@ -91,6 +91,32 @@
     ]
   },
   {
+    "id": "46cf9ceac37bada28f835bab24035ae0cf4386a417ea3cc9535c3a58574ce218",
+    "company_name": "Lightmatter",
+    "title": "Silicon Validation & Test Automation Intern",
+    "location": "Mountain View, CA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5473832008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "4d54df2a4fe4abe758d2f050993d947bc3d3dafa9837ed96e92bd80ff0f554c8",
+    "company_name": "Ralliant",
+    "title": "Electrical Design Engineer Intern",
+    "location": "Beaverton, OR",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "522cda256cfc1142aff71ad8323ffefb0fdd36a0ba9f245d52d83b4b61ed5f9e",
     "company_name": "Samsung Semiconductor",
     "title": "Intern - SSD Firmware Engineer",
@@ -114,6 +140,32 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "7189989e60bc811d9cca0b36626fb76514e16f53407e1bd5a80e46861d243db7",
+    "company_name": "Ralliant",
+    "title": "System Level Verification Engineer Intern",
+    "location": "United States",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "7e351f2457d6cac1607760bec6bb43891a610f2fcfed43aa6a0d8d8a7af3c932",
+    "company_name": "V2X",
+    "title": "Electrical Engineer Production Support Intern",
+    "location": "Indianapolis, IN",
+    "url": "https://careers.gov2x.com/jobs/63954?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
     ]
   },
   {
@@ -143,11 +195,63 @@
     ]
   },
   {
+    "id": "9de6ac5368ff41b431e30859f1fb291586c7d7457a3df0f6879a8a302cfbc087",
+    "company_name": "Renesas Electronics",
+    "title": "Digital Design Engineer Intern 🎓",
+    "location": "Duluth, GA",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "a43474b31aa4c05bf8823f51a6856d8d4237fff8f4350f4389891188da7224e6",
+    "company_name": "Publicis Groupe",
+    "title": "Identity Analytics Intern",
+    "location": "Chicago, IL",
+    "url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "b5cf4bc12fe92cccd25c41559d11e1695fbf06d64604f882cdec3dcf3c8df26b",
     "company_name": "Cirrus Logic",
     "title": "Software Engineer AI/ML Intern 🎓",
     "location": "Austin, TX",
     "url": "https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "ba75c252b309b6953544e3834ae0a4a1aacf9b5d8957534e8de1fb6307ec8a29",
+    "company_name": "Barry's",
+    "title": "Undergraduate Summer Scholar Intern - Data Analyst",
+    "location": "NYC",
+    "url": "https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "d5ada8e8cbcedf42757c11a1d7c67834620e2b8ee4c94c406543531298d4ea82",
+    "company_name": "Ralliant",
+    "title": "Software Engineer Intern",
+    "location": "Beaverton, OR",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153?utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-19T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -1710,6 +1814,19 @@
     "source": "greenhouse",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "0d201a518135dfd31b40bb7bcac704844212eb68c29905703a963d72aa2fed5a",
+    "company_name": "Lightmatter",
+    "title": "Electrical Engineer Intern",
+    "location": "Mountain View, CA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5479814008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
     ]
   },
   {

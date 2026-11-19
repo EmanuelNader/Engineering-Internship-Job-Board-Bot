@@ -6,16 +6,16 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2418 roles.
+2427 roles.
 
-- [Software Engineering](#software-engineering) (1139)
+- [Software Engineering](#software-engineering) (1140)
 - [Product Management](#product-management) (58)
-- [Hardware Engineering](#hardware-engineering) (188)
-- [Data Science](#data-science) (475)
+- [Hardware Engineering](#hardware-engineering) (190)
+- [Data Science](#data-science) (477)
 - [Machine Learning](#machine-learning) (239)
 - [Civil and Structural](#civil-and-structural) (39)
-- [Mechanical Engineering](#mechanical-engineering) (150)
-- [Electrical Engineering](#electrical-engineering) (154)
+- [Mechanical Engineering](#mechanical-engineering) (152)
+- [Electrical Engineering](#electrical-engineering) (156)
 - [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (34)
@@ -32,6 +32,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Lutron | [Embedded Software Engineering Intern](https://go.vansh.nyc/1De?s=y) | Cincinnati, OH | 0d |
 | Samsung Semiconductor | [Intern - SSD Firmware Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | San Jose, CA | 0d |
 | Cirrus Logic | [Software Engineer AI/ML Intern 🎓](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 0d |
+| Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 0d |
 | Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 1d |
 | Valeris | [Software Engineer Intern](https://valeris.wd108.myworkdayjobs.com/en-US/valeris/job/Louisville-KY/Software-Engineer-Intern_JR1044) | Louisville, KY | 1d |
 | Galaxy | [2027 Site Reliability Engineer Intern-Afton - Texas](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) | Texas, USA | 1d |
@@ -1237,6 +1238,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Lightmatter | [Silicon Validation & Test Automation Intern](https://boards.greenhouse.io/lightmatter/jobs/5473832008?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 0d |
+| Ralliant | [System Level Verification Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168?utm_source=Simplify&ref=Simplify) | United States | 0d |
 | Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 1d |
 | Ixana | [Internship - Embedded Hardware Engineer FPGA Design - O…](https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/) | West Lafayette, IN | 1d |
 | Ralliant | [Hardware Verification Engineer Co-op](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10491?utm_source=Simplify&ref=Simplify) | Solon, OH | 3d |
@@ -1433,6 +1436,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | Atlantic Health System | [Pharmacy Intern - Data Analytics](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551?utm_source=Simplify&ref=Simplify) | Morristown, NJ | 0d |
+| Publicis Groupe | [Identity Analytics Intern](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Chicago, IL | 0d |
+| Barry's | [Undergraduate Summer Scholar Intern - Data Analyst](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f?utm_source=Simplify&ref=Simplify) | NYC | 0d |
 | Paccar | [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Denton, TX | 1d |
 | Great American Insurance Gr… | [Data Engineer Developer Intern - Summer 2027](https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919) | Cincinnati, OH | 1d |
 | DriveWealth | [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true&utm_source=Simplify&ref=Simplify) | Chicago, ILNYC | 1d |
@@ -2206,7 +2211,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Ralliant | [Electrical Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 0d |
 | RTX | [Mechanical Engineer Intern Summer 2027 (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/Mechanical-Engineer-Intern-Summer-2027--Onsite-_01890290) | US-CA-EL SEGUNDO-E02 ~ 2002… | 0d |
+| Renesas Electronics | [Digital Design Engineer Intern 🎓](https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079?utm_source=Simplify&ref=Simplify) | Duluth, GA | 0d |
 | RTX | [Additive Manufacturing Process Intern (Summer 2027) - O…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-H--411-Silver-Ln--RTRC-H/Additive-Manufacturing-Process-Intern--Summer-2027----Onsite_01889149) | US-CT-EAST HARTFORD-RTRC H… | 1d |
 | Motorola Solutions | [RFIC Design Engineer Intern 🇺🇸](https://go.vansh.nyc/1Cl?s=y) | Plantation, FLSchaumburg, IL | 2d |
 | Sunday | [Manufacturing Engineering Intern (Winter 2027)](https://jobs.ashbyhq.com/sunday/fc993997-fb7f-4977-bdff-f09c51d96bf6) | Redwood City, CA | 3d |
@@ -2363,11 +2370,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| V2X | [Electrical Engineer Production Support Intern](https://careers.gov2x.com/jobs/63954?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 0d |
 | MSA Safety | [Electrical Engineering Intern/Co-op](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 0d |
 | RTX | [Electrical Engineer Co-op (Summer/Fall 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Electrical-Engineer-Co-op--Summer-Fall-2027--Onsite-_01888661) | US-VA-STERLING-291 ~ 22640… | 1d |
 | RTX | [Electrical Engineer Co-Op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineer-Co-Op--Spring-Summer-2027-_01873469) | US-IA-CEDAR RAPIDS-131 ~ 54… | 3d |
 | Southern States, LLC | [Electrical Engineer Intern](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1?utm_source=Simplify&ref=Simplify) | Hampton, GA | 3d |
 | 🔥 Tesla | [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 5d |
+| Lightmatter | [Electrical Engineer Intern](https://boards.greenhouse.io/lightmatter/jobs/5479814008?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1w |
 | RTX | [Receiver, Exciter & Processing Architecture Electrical…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027----Onsite_01889033) | US-MA-TEWKSBURY-TB1 ~ 50 Ap… | 1w |
 | RTX | [Electrical Engineer Intern - Firmware](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316?utm_source=Simplify&ref=Simplify) | Fort Wayne, IN | 1w |
 | MSA Safety | [Electrical Engineering Technology Intern Co-op](https://careers.msasafety.com/jobs/10392?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 1w |
