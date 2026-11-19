@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2402 roles.
+2401 roles.
 
 - [Software Engineering](#software-engineering) (1128)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (188)
 - [Data Science](#data-science) (474)
-- [Machine Learning](#machine-learning) (237)
+- [Machine Learning](#machine-learning) (236)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (148)
 - [Electrical Engineering](#electrical-engineering) (154)
@@ -2133,7 +2133,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | 🔥 TikTok | [Machine Learning Engineer Intern - E-Commerce Recommend…](https://lifeattiktok.com/search/7686283601340369205?utm_source=Simplify&ref=Simplify) | San Jose, CA | 2mo |
 | Gecko Robotics | [AI/Machine Learning Engineer Intern](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true&utm_source=Simplify&ref=Simplify) | NYC | 2mo |
 | CoVar | [Machine Learning Intern](https://job-boards.greenhouse.io/covar/jobs/5240360007?utm_source=Simplify&ref=Simplify) | Durham, NC | 2mo |
-| Waymo | [2027 Summer Intern, PhD, Machine Learning, Computer Vis…](https://careers.withwaymo.com/jobs?gh_jid=8202025) | Mountain View, California,… | 2mo |
 | PressW | [Applied AI Engineer Intern](https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true&utm_source=Simplify&ref=Simplify) | Austin, TX | 2mo |
 | Charta Health | [Forward Deployed AI Engineer Intern](https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true&utm_source=Simplify&ref=Simplify) | SFNYC | 2mo |
 | Q2 | [Machine Learning Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797?utm_source=Simplify&ref=Simplify) | Austin, TX | 2mo |
