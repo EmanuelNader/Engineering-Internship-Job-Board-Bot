@@ -65,11 +65,37 @@
     ]
   },
   {
+    "id": "332a41358f33393f0e161a201a51719404b01b5875930c36a496de85123b0c68",
+    "company_name": "Lucid Motors",
+    "title": "Embedded Software Intern",
+    "location": "Newark, CA",
+    "url": "https://go.vansh.nyc/1Dv?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "39d478ce06371a2235540f9eaa5966783bc18c5c2045c7c52b6a90cf3b6d1cea",
     "company_name": "Allied Consultants",
     "title": "AI/ML Engineer Intern",
     "location": "Austin, TX",
     "url": "https://go.vansh.nyc/1D1?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "403457d2cc0dead668d18c5d47149fbebde1de529619f63ec2d7350c324cb3ac",
+    "company_name": "Microsoft",
+    "title": "Research Intern, AI/Machine Learning Numerics & Efficiency",
+    "location": "Redmond, WAMountain View, CA",
+    "url": "https://go.vansh.nyc/1Dx?s=y",
     "date_posted": "2026-11-19T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -475,6 +501,19 @@
     "title": "Software Engineer Intern, Core Infrastructure & Security",
     "location": "Menlo Park, CABellevue, WA",
     "url": "https://go.vansh.nyc/1Dq?s=y",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "cb1be0a7f389c64c54b2ee2e6a1911849388e6670576a3fc202f6d462456109b",
+    "company_name": "Lucid Motors",
+    "title": "Software Engineer Intern, SDET",
+    "location": "Newark, CA",
+    "url": "https://go.vansh.nyc/1Dw?s=y",
     "date_posted": "2026-11-18T00:00:00.000Z",
     "level": "internship",
     "source": "github",

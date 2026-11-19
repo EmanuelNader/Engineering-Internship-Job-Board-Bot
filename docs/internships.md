@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2427 roles.
+2430 roles.
 
-- [Software Engineering](#software-engineering) (1140)
+- [Software Engineering](#software-engineering) (1142)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (190)
 - [Data Science](#data-science) (477)
-- [Machine Learning](#machine-learning) (239)
+- [Machine Learning](#machine-learning) (240)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (152)
 - [Electrical Engineering](#electrical-engineering) (156)
@@ -30,6 +30,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Lucid Motors | [Intern, Software Engineer, SDET, Summer 2027](https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007) | Newark, CA | 0d |
 | Lutron | [Embedded Firmware Engineering Intern](https://go.vansh.nyc/1Db?s=y) | Boston, MA | 0d |
 | Lutron | [Embedded Software Engineering Intern](https://go.vansh.nyc/1De?s=y) | Cincinnati, OH | 0d |
+| Lucid Motors | [Embedded Software Intern](https://go.vansh.nyc/1Dv?s=y) | Newark, CA | 0d |
 | Samsung Semiconductor | [Intern - SSD Firmware Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | San Jose, CA | 0d |
 | Cirrus Logic | [Software Engineer AI/ML Intern 🎓](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 0d |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 0d |
@@ -45,6 +46,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | HERE Technologies | [Software Engineer Intern](https://go.vansh.nyc/1CC?s=y) | Chicago, IL | 1d |
 | 🔥 Airbnb | [Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478&utm_source=Simplify&ref=Simplify) | SF | 1d |
 | Snowflake | [Software Engineer Intern, Core Infrastructure & Security](https://go.vansh.nyc/1Dq?s=y) | Menlo Park, CABellevue, WA | 1d |
+| Lucid Motors | [Software Engineer Intern, SDET](https://go.vansh.nyc/1Dw?s=y) | Newark, CA | 1d |
 | Samsung Semiconductor | [SSD Firmware Engineer Intern](https://go.vansh.nyc/1Cu?s=y) | San Jose, CA | 1d |
 | Kira Learning | [Software Engineer Intern](https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1d |
 | Truveta | [Software Engineer Intern](https://job-boards.greenhouse.io/truveta/jobs/6249810004?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1d |
@@ -1921,6 +1923,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Lucid Motors | [Intern, AI & Data (Applied AI/Machine Learning), Summer…](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) | Newark, CA | 0d |
 | Allied Consultants | [AI/ML Engineer Intern](https://go.vansh.nyc/1D1?s=y) | Austin, TX | 0d |
+| Microsoft | [Research Intern, AI/Machine Learning Numerics & Efficie…](https://go.vansh.nyc/1Dx?s=y) | Redmond, WAMountain View, CA | 0d |
 | Lutron | [Data Science and Machine Learning Intern](https://go.vansh.nyc/1Dl?s=y) | Philadelphia, PA | 0d |
 | Anduril Industries | [2027 Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | Santa Ana, California, Unit… | 2d |
 | bioMérieux | [Machine Learning Co-op](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Durham, NC | 2d |
