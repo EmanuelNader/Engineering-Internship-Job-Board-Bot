@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2407 roles.
+2408 roles.
 
 - [Software Engineering](#software-engineering) (1132)
 - [Product Management](#product-management) (58)
@@ -14,9 +14,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (475)
 - [Machine Learning](#machine-learning) (237)
 - [Civil and Structural](#civil-and-structural) (39)
-- [Mechanical Engineering](#mechanical-engineering) (148)
+- [Mechanical Engineering](#mechanical-engineering) (149)
 - [Electrical Engineering](#electrical-engineering) (154)
-- [Chemical Engineering](#chemical-engineering) (40)
+- [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (34)
 
@@ -2199,6 +2199,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | RTX | [Additive Manufacturing Process Intern (Summer 2027) - O…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-H--411-Silver-Ln--RTRC-H/Additive-Manufacturing-Process-Intern--Summer-2027----Onsite_01889149) | US-CT-EAST HARTFORD-RTRC H… | 1d |
 | Motorola Solutions | [RFIC Design Engineer Intern 🇺🇸](https://go.vansh.nyc/1Cl?s=y) | Plantation, FLSchaumburg, IL | 2d |
+| Sunday | [Manufacturing Engineering Intern (Winter 2027)](https://jobs.ashbyhq.com/sunday/fc993997-fb7f-4977-bdff-f09c51d96bf6) | Redwood City, CA | 3d |
 | Impulse Space | [Digital Design Engineering Intern, FPGA/ASIC](https://go.vansh.nyc/1Ay?s=y) | Redondo Beach, CA | 3d |
 | Impulse Space | [Digital Design Engineering Intern - FPGA/ASIC](https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772?ats=pinpointhq&utm_source=Simplify&ref=Simplify) | Redondo Beach, CA | 3d |
 | Reliable Robotics | [FPGA Design Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 6d |
@@ -2513,6 +2514,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Sunday | [Manufacturing Engineering Intern (Winter 2027)](https://jobs.ashbyhq.com/sunday/fc993997-fb7f-4977-bdff-f09c51d96bf6) | Redwood City, CA | 3d |
 | RTX | [Materials Engineering Principal Technical Fellow (Remot…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VT-REMOTE/Materials-Engineering-Principal-Technical-Fellow--Remote-_01887094) | US-VT-REMOTE | 1w |
 | RTX | [Manufacturing Engineer Co-op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Spring-Summer-2027-_01887620) | US-NC-WILSON-4200 ~ 4200 Ai… | 1w |
 | RTX | [Manufacturing Engineer Co-op (Summer/Fall 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Summer-Fall-2027-_01887632) | US-NC-WILSON-4200 ~ 4200 Ai… | 1w |
