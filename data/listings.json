@@ -1,5 +1,18 @@
 [
   {
+    "id": "966af417283db0a3032c1eb4624d8f20935aa43a57fcd63f850c5c8585cd316a",
+    "company_name": "MSA Safety",
+    "title": "Electrical Engineering Intern/Co-op",
+    "location": "Cranberry Township, PA",
+    "url": "https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "b5cf4bc12fe92cccd25c41559d11e1695fbf06d64604f882cdec3dcf3c8df26b",
     "company_name": "Cirrus Logic",
     "title": "Software Engineer AI/ML Intern 🎓",

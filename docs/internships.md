@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2400 roles.
+2401 roles.
 
 - [Software Engineering](#software-engineering) (1128)
 - [Product Management](#product-management) (58)
@@ -15,7 +15,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Machine Learning](#machine-learning) (237)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (148)
-- [Electrical Engineering](#electrical-engineering) (153)
+- [Electrical Engineering](#electrical-engineering) (154)
 - [Chemical Engineering](#chemical-engineering) (40)
 - [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (34)
@@ -2346,6 +2346,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| MSA Safety | [Electrical Engineering Intern/Co-op](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 0d |
 | RTX | [Electrical Engineer Co-op (Summer/Fall 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Electrical-Engineer-Co-op--Summer-Fall-2027--Onsite-_01888661) | US-VA-STERLING-291 ~ 22640… | 1d |
 | RTX | [Electrical Engineer Co-Op (Spring/Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineer-Co-Op--Spring-Summer-2027-_01873469) | US-IA-CEDAR RAPIDS-131 ~ 54… | 3d |
 | Southern States, LLC | [Electrical Engineer Intern](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1?utm_source=Simplify&ref=Simplify) | Hampton, GA | 3d |
