@@ -1,5 +1,18 @@
 [
   {
+    "id": "bb5b338657d3e3b1d0ac4ae8451634e97e1374d835f2e5590ee07197f32bb820",
+    "company_name": "Lucid Motors",
+    "title": "Intern, Embedded Software, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+    "date_posted": "2026-11-19T23:14:26.000Z",
+    "level": "internship",
+    "source": "greenhouse",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "86bb93bfab2f6035c80fbeded8e56d271b57e434641ebdd17047dd9543331734",
     "company_name": "Lucid Motors",
     "title": "Intern, Software Engineer, SDET, Summer 2027",

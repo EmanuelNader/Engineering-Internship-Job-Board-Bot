@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2416 roles.
+2417 roles.
 
-- [Software Engineering](#software-engineering) (1138)
+- [Software Engineering](#software-engineering) (1139)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (188)
 - [Data Science](#data-science) (475)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Lucid Motors | [Intern, Embedded Software, Summer 2027](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) | Newark, CA | 0d |
 | Lucid Motors | [Intern, Software Engineer, SDET, Summer 2027](https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007) | Newark, CA | 0d |
 | Lutron | [Embedded Firmware Engineering Intern](https://go.vansh.nyc/1Db?s=y) | Boston, MA | 0d |
 | Lutron | [Embedded Software Engineering Intern](https://go.vansh.nyc/1De?s=y) | Cincinnati, OH | 0d |
