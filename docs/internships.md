@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2412 roles.
+2415 roles.
 
-- [Software Engineering](#software-engineering) (1134)
+- [Software Engineering](#software-engineering) (1137)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (188)
 - [Data Science](#data-science) (475)
@@ -33,12 +33,15 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 1d |
 | Valeris | [Software Engineer Intern](https://valeris.wd108.myworkdayjobs.com/en-US/valeris/job/Louisville-KY/Software-Engineer-Intern_JR1044) | Louisville, KY | 1d |
 | Galaxy | [2027 Site Reliability Engineer Intern-Afton - Texas](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) | Texas, USA | 1d |
+| Snowflake | [Software Engineer Intern, AI/ML](https://go.vansh.nyc/1Dr?s=y) | Menlo Park, CABellevue, WA | 1d |
 | Bose | [Software Engineer Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387?utm_source=Simplify&ref=Simplify) | Framingham, MA | 1d |
 | Scout Space | [Embedded Firmware Engineering Intern 🇺🇸](https://go.vansh.nyc/1CU?s=y) | Reston, VARemoteUnited Stat… | 1d |
 | IDEMIA | [Full Stack Software Engineering Internship](https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job) | Reston, VA | 1d |
 | Ixana | [Internship - Embedded Hardware Engineer FPGA Design - O…](https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/) | West Lafayette, IN | 1d |
+| Snowflake | [Software Engineer Intern, Database Engineering](https://go.vansh.nyc/1Dp?s=y) | Menlo Park, CABellevue, WA | 1d |
 | HERE Technologies | [Software Engineer Intern](https://go.vansh.nyc/1CC?s=y) | Chicago, IL | 1d |
 | 🔥 Airbnb | [Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478&utm_source=Simplify&ref=Simplify) | SF | 1d |
+| Snowflake | [Software Engineer Intern, Core Infrastructure & Security](https://go.vansh.nyc/1Dq?s=y) | Menlo Park, CABellevue, WA | 1d |
 | Samsung Semiconductor | [SSD Firmware Engineer Intern](https://go.vansh.nyc/1Cu?s=y) | San Jose, CA | 1d |
 | Kira Learning | [Software Engineer Intern](https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1d |
 | Truveta | [Software Engineer Intern](https://job-boards.greenhouse.io/truveta/jobs/6249810004?utm_source=Simplify&ref=Simplify) | Seattle, WA | 1d |
