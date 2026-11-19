@@ -53,6 +53,19 @@
     ]
   },
   {
+    "id": "62c0e2ba53d77f8902386c3ae82a28ac721fe9b7b2c9083f57e3114b66ae1a24",
+    "company_name": "Bose",
+    "title": "Software Engineer Co-op",
+    "location": "Framingham, MA",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-18T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "78c9bd27ee055729c424664dc714f75f21349dfe0cc6d36c1ab4dbfef0d1618e",
     "company_name": "IDEMIA",
     "title": "Full Stack Software Engineering Internship",
@@ -675,6 +688,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "37036f9ebf9fd3996f2cdcdbceea26d594228dfdb36d185e98901fb0dd6305a9",
+    "company_name": "Carnegie Mellon University",
+    "title": "AI Engineer Intern - Mission Innovation Lab",
+    "location": "Pittsburgh, PA",
+    "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
     ]
   },
   {

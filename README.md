@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2398 roles.
+2400 roles.
 
-- [Software Engineering](#software-engineering) (1127)
+- [Software Engineering](#software-engineering) (1128)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (188)
 - [Data Science](#data-science) (473)
-- [Machine Learning](#machine-learning) (236)
+- [Machine Learning](#machine-learning) (237)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (148)
 - [Electrical Engineering](#electrical-engineering) (153)
@@ -28,6 +28,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Cirrus Logic | [Software Engineer AI/ML Intern 🎓](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 0d |
 | Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 1d |
+| Bose | [Software Engineer Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387?utm_source=Simplify&ref=Simplify) | Framingham, MA | 1d |
 | IDEMIA | [Full Stack Software Engineering Internship](https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job) | Reston, VA | 1d |
 | Ixana | [Internship - Embedded Hardware Engineer FPGA Design - O…](https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/) | West Lafayette, IN | 1d |
 | HERE Technologies | [Software Engineer Intern](https://go.vansh.nyc/1CC?s=y) | Chicago, IL | 1d |
@@ -1904,6 +1905,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | bioMérieux | [Machine Learning Co-op](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify) | Durham, NC | 2d |
 | Anduril | [Machine Learning Engineer Intern](https://go.vansh.nyc/1Bo?s=y) | Santa Ana, CA | 2d |
 | 🔥 TikTok | [Client Security & Data Foundation Machine Learning Engi…](https://lifeattiktok.com/search/7708750900450134325?utm_source=Simplify&ref=Simplify) | San Jose, CA | 3d |
+| Carnegie Mellon University | [AI Engineer Intern - Mission Innovation Lab](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 3d |
 | Boston Scientific | [AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837?utm_source=Simplify&ref=Simplify) | Marlborough, MAMaple Grove,… | 3d |
 | Carnegie Mellon University | [AI Engineer Intern, Mission Innovation Lab 🛂](https://go.vansh.nyc/1Az?s=y) | Pittsburgh, PA | 3d |
 | 🔥 TikTok | [Machine Learning Scientist Intern - Local Services 🎓](https://lifeattiktok.com/search/7703925583541979445?utm_source=Simplify&ref=Simplify) | San Jose, CA | 6d |
