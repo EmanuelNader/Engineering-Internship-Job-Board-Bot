@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2417 roles.
+2418 roles.
 
 - [Software Engineering](#software-engineering) (1139)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (188)
 - [Data Science](#data-science) (475)
-- [Machine Learning](#machine-learning) (238)
+- [Machine Learning](#machine-learning) (239)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (150)
 - [Electrical Engineering](#electrical-engineering) (154)
@@ -1914,6 +1914,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Lucid Motors | [Intern, AI & Data (Applied AI/Machine Learning), Summer…](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) | Newark, CA | 0d |
 | Allied Consultants | [AI/ML Engineer Intern](https://go.vansh.nyc/1D1?s=y) | Austin, TX | 0d |
 | Lutron | [Data Science and Machine Learning Intern](https://go.vansh.nyc/1Dl?s=y) | Philadelphia, PA | 0d |
 | Anduril Industries | [2027 Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | Santa Ana, California, Unit… | 2d |
