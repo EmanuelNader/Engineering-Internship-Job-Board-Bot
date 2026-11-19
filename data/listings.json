@@ -1,10 +1,49 @@
 [
   {
+    "id": "1d815c1783eb845274b1f4fb82039d1fb93da84860359a9f119c4b959ec53d38",
+    "company_name": "Lutron",
+    "title": "Embedded Firmware Engineering Intern",
+    "location": "Boston, MA",
+    "url": "https://go.vansh.nyc/1Db?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "32a2fae014e098869af628e107415917d2c485fcbcb9c2735d044c203124a563",
+    "company_name": "Lutron",
+    "title": "Embedded Software Engineering Intern",
+    "location": "Cincinnati, OH",
+    "url": "https://go.vansh.nyc/1De?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "39d478ce06371a2235540f9eaa5966783bc18c5c2045c7c52b6a90cf3b6d1cea",
     "company_name": "Allied Consultants",
     "title": "AI/ML Engineer Intern",
     "location": "Austin, TX",
     "url": "https://go.vansh.nyc/1D1?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "465d9114ed921e806d527f290f1569761f07fd6b715b3bacd4ff5919bf388c43",
+    "company_name": "Lutron",
+    "title": "Data Science and Machine Learning Intern",
+    "location": "Philadelphia, PA",
+    "url": "https://go.vansh.nyc/1Dl?s=y",
     "date_posted": "2026-11-19T00:00:00.000Z",
     "level": "internship",
     "source": "github",
