@@ -195,6 +195,19 @@
     ]
   },
   {
+    "id": "557c0361fefd9a314bba25a159ff360d9da939354fb4c6f4fec13f311765d0e8",
+    "company_name": "LLNL",
+    "title": "Computing Undergraduate Student Intern, DevOps",
+    "location": "Livermore, CA",
+    "url": "https://go.vansh.nyc/1DM?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "5bc022d91f73ac997166b43bea460143c96c877f7791812ea6d69dc3872436be",
     "company_name": "🔥 Snowflake",
     "title": "Software Engineer Intern - Core - Infrastructure & Security",
@@ -361,6 +374,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "e6f169fc62f17ccb465678ae17c72c4bcf4fd05e0d367f29076c1f56d391139d",
+    "company_name": "Lucid Motors",
+    "title": "AI & Data Intern, Applied AI/Machine Learning",
+    "location": "Newark, CA",
+    "url": "https://go.vansh.nyc/1DI?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
     ]
   },
   {
