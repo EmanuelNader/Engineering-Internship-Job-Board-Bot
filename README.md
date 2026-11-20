@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2443 roles.
+2445 roles.
 
-- [Software Engineering](#software-engineering) (1149)
+- [Software Engineering](#software-engineering) (1150)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (190)
-- [Data Science](#data-science) (478)
+- [Data Science](#data-science) (479)
 - [Machine Learning](#machine-learning) (244)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (153)
@@ -37,6 +37,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Samsung Semiconductor | [Intern - SSD Firmware Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | San Jose, CA | 1d |
 | LLNL | [Computing Undergraduate Student Intern, DevOps](https://go.vansh.nyc/1DM?s=y) | Livermore, CA | 1d |
 | 🔥 Snowflake | [Software Engineer Intern - Core - Infrastructure & Secu…](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true&utm_source=Simplify&ref=Simplify) | Menlo Park, CABellevue, WA | 1d |
+| Lucid Motors | [Embedded Software Intern, BSP/Platform, ADAS/Autonomous…](https://go.vansh.nyc/1DT?s=y) | Newark, CA | 1d |
 | 🔥 Snowflake | [Software Engineer Intern - AI / ML](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true&utm_source=Simplify&ref=Simplify) | Menlo Park, CABellevue, WA | 1d |
 | Cirrus Logic | [Software Engineer AI/ML Intern 🎓](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 1d |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 1d |
@@ -1446,6 +1447,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | enGen | [Data Engineer & Analyst Undergraduate Intern](https://go.vansh.nyc/1DQ?s=y) | Pittsburgh, PA | 1d |
 | Atlantic Health System | [Pharmacy Intern - Data Analytics](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551?utm_source=Simplify&ref=Simplify) | Morristown, NJ | 1d |
+| Southern Mississippi Trading | [AI and Business Analytics Intern](https://go.vansh.nyc/1DV?s=y) | Waynesboro, MS | 1d |
 | Publicis Groupe | [Identity Analytics Intern](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1d |
 | Barry's | [Undergraduate Summer Scholar Intern - Data Analyst](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f?utm_source=Simplify&ref=Simplify) | NYC | 1d |
 | Paccar | [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Denton, TX | 2d |
