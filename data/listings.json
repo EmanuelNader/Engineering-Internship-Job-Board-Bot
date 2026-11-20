@@ -91,6 +91,19 @@
     ]
   },
   {
+    "id": "7094f4a672c52490f7582c7b90a3d4af475c0ae91cdee856fa57302de8cf4ae9",
+    "company_name": "Symbotic",
+    "title": "Software Engineer Intern, Front-End",
+    "location": "Austin, TX",
+    "url": "https://go.vansh.nyc/1Ez?s=y",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "7e5cc01d8aff096b3f954f78633f6655037a11ca11f5277e7f664b38517a50b2",
     "company_name": "Smule",
     "title": "Machine Learning Engineer Intern",
@@ -192,6 +205,20 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "f1bd58dfe82b6f0647d214e141a192a0b96399df15bf264d8a364a27153af0e4",
+    "company_name": "GlobalFoundries",
+    "title": "AI/ML Analytics Intern, Digital Manufacturing",
+    "location": "New York, NYMalta, NY",
+    "url": "https://go.vansh.nyc/1EA?s=y",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data",
+      "mechanical"
     ]
   },
   {
