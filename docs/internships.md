@@ -6,16 +6,16 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2470 roles.
+2478 roles.
 
-- [Software Engineering](#software-engineering) (1162)
+- [Software Engineering](#software-engineering) (1163)
 - [Product Management](#product-management) (58)
-- [Hardware Engineering](#hardware-engineering) (190)
-- [Data Science](#data-science) (488)
+- [Hardware Engineering](#hardware-engineering) (191)
+- [Data Science](#data-science) (493)
 - [Machine Learning](#machine-learning) (245)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (154)
-- [Electrical Engineering](#electrical-engineering) (158)
+- [Electrical Engineering](#electrical-engineering) (159)
 - [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (35)
@@ -37,6 +37,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Scout Space | [Embedded Firmware Engineer Intern](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008?utm_source=Simplify&ref=Simplify) | Reston, VA | 0d |
 | Rockwell Automation | [Firmware Engineering Intern 🛂](https://go.vansh.nyc/1Ey?s=y) | Milwaukee, WI | 0d |
 | Lawrence Livermore National… | [Computing Undergraduate Student Intern: DevOps Internsh…](https://jobs.smartrecruiters.com/LLNL/3743990016985486-computing-undergraduate-student-intern-devops-internship-program-summer-2027?oga=true) | Livermore, CA | 0d |
+| Renesas Electronics | [Firmware Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555?utm_source=Simplify&ref=Simplify) | Austin, TX | 0d |
 | Lucid Motors | [Intern, Embedded Software, Summer 2027](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) | Newark, CA | 1d |
 | Lucid Motors | [Intern, Software Engineer, SDET, Summer 2027](https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007) | Newark, CA | 1d |
 | Lutron | [Embedded Firmware Engineering Intern](https://go.vansh.nyc/1Db?s=y) | Boston, MA | 1d |
@@ -1260,6 +1261,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Renesas Electronics | [System Verification Engineer Intern 🎓](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903?utm_source=Simplify&ref=Simplify) | Austin, TX | 0d |
 | Lightmatter | [Silicon Validation & Test Automation Intern](https://boards.greenhouse.io/lightmatter/jobs/5473832008?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1d |
 | Ralliant | [System Level Verification Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168?utm_source=Simplify&ref=Simplify) | United States | 1d |
 | Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 2d |
@@ -1457,9 +1459,14 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Jewelers Mutual Group | [Behavioral Analytics Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e&utm_source=Simplify&ref=Simplify) | Raleigh, NC | 0d |
 | Systems Planning and Analys… | [Integrated Analytics Intern](https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Alexandria, VA | 0d |
 | CAS | [Business Data Analytics Intern - AI/ML Focus](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a&utm_source=Simplify&ref=Simplify) | Columbus, OH | 0d |
+| Encore | [IT Data Analyst Intern](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0&utm_source=Simplify&ref=Simplify) | Schiller Park, IL | 0d |
+| Daikin Comfort | [Data Analyst Intern](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87&utm_source=Simplify&ref=Simplify) | Waller, TX | 0d |
+| Avista | [Central Analytics Intern - Multiple Teams](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=6985c6f8-7b03-4906-8c45-1636863e8a58&utm_source=Simplify&ref=Simplify) | Spokane, WA | 0d |
 | iA | [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 0d |
+| Constellation Energy | [Powerfolio Data Analyst Intern](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Houston, TX | 0d |
 | DraftKings | [Data Engineer Intern](https://go.vansh.nyc/1Ex?s=y) | Boston, MA | 0d |
 | GlobalFoundries | [AI/ML Analytics Intern, Digital Manufacturing](https://go.vansh.nyc/1EA?s=y) | New York, NYMalta, NY | 0d |
 | CAS | [Business Data Analytics Intern, AI/ML Focus](https://go.vansh.nyc/1E5?s=y) | Columbus, OH | 1d |
@@ -2413,6 +2420,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Lucid Motors | [Power Electronics Control Engineer Intern, Summer 2027](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) | Newark, CA | 0d |
 | Lucid Motors | [Intern, Vehicle Motion Controls Engineer, Summer 2027](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) | Newark, CA | 0d |
+| SIG SAUER | [Electrical Engineer Intern](https://recruiting.ultipro.com/sig1011sigsa/JobBoard/9ec422f8-2ba7-4e60-983b-b473bf030bd6/OpportunityDetail?opportunityId=17fa465e-b4ef-4e7e-bbcb-d55fe5bddb1e&utm_source=Simplify&ref=Simplify) | Exeter, NH | 0d |
 | V2X | [Electrical Engineer Production Support Intern](https://careers.gov2x.com/jobs/63954?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 1d |
 | MSA Safety | [Electrical Engineering Intern/Co-op](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 1d |
 | RTX | [Electrical Engineer Co-op (Summer/Fall 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Electrical-Engineer-Co-op--Summer-Fall-2027--Onsite-_01888661) | US-VA-STERLING-291 ~ 22640… | 2d |
