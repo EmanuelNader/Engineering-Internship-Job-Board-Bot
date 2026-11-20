@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2469 roles.
+2470 roles.
 
 - [Software Engineering](#software-engineering) (1161)
 - [Product Management](#product-management) (58)
@@ -15,7 +15,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Machine Learning](#machine-learning) (246)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (154)
-- [Electrical Engineering](#electrical-engineering) (157)
+- [Electrical Engineering](#electrical-engineering) (158)
 - [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (35)
@@ -2411,6 +2411,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Lucid Motors | [Power Electronics Control Engineer Intern, Summer 2027](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) | Newark, CA | 0d |
 | Lucid Motors | [Intern, Vehicle Motion Controls Engineer, Summer 2027](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) | Newark, CA | 0d |
 | V2X | [Electrical Engineer Production Support Intern](https://careers.gov2x.com/jobs/63954?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 1d |
 | MSA Safety | [Electrical Engineering Intern/Co-op](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 1d |
