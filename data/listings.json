@@ -39,6 +39,32 @@
     ]
   },
   {
+    "id": "8358329d24dfe29c097c07a9def08c05ac839124ecdc2522a368082ed6141ec0",
+    "company_name": "🔥 LinkedIn",
+    "title": "AI/ML Engineer Intern 🎓",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162628808?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "d72e510a808d605945acce76a583d3387f8102ab6da0ba4bffff994727d32f2f",
+    "company_name": "🔥 LinkedIn",
+    "title": "AI/ML Engineer Intern - Generative AI 🎓",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623639?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "db92c9aa3366cd1342866109320ed6a4553d8b71473195cf6ce098b76135e38e",
     "company_name": "Scout Space",
     "title": "Embedded Firmware Engineer Intern",
@@ -49,6 +75,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "e94dc0c87718c04831eb0ca4a7cd1db7d77622a591cd23857c3c8febf2ec9085",
+    "company_name": "🔥 LinkedIn",
+    "title": "Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems 🎓",
+    "location": "Mountain View, CA",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000162623368?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
     ]
   },
   {
