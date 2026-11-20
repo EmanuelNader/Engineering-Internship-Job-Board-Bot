@@ -117,6 +117,19 @@
     ]
   },
   {
+    "id": "a357cd1f89958350b59098bf9f778acca14307f5e89dd85ae305a866c697cea1",
+    "company_name": "DraftKings",
+    "title": "Data Engineer Intern",
+    "location": "Boston, MA",
+    "url": "https://go.vansh.nyc/1Ex?s=y",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "a53c6cbc64ecb09d717bfe99db62ef7c25332a101ea9258ff97f28b30c2140ce",
     "company_name": "Honeywell Aerospace",
     "title": "AI Software Engineer Intern",
@@ -148,6 +161,19 @@
     "title": "Embedded Firmware Engineer Intern",
     "location": "Reston, VA",
     "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489232008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "db931de295b629377aeb5da53a031f90912e1c468094fa80ad8bf7c505808cf0",
+    "company_name": "Rockwell Automation",
+    "title": "Firmware Engineering Intern 🛂",
+    "location": "Milwaukee, WI",
+    "url": "https://go.vansh.nyc/1Ey?s=y",
     "date_posted": "2026-11-20T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -244,6 +270,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "32e3da71c0440633a10f9157b54d79381da2cec490b55a4493274aded8fa9145",
+    "company_name": "Nelnet",
+    "title": "Data Analytics Intern",
+    "location": "Lincoln, NE",
+    "url": "https://go.vansh.nyc/1Ev?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
