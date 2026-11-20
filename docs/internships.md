@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2468 roles.
+2469 roles.
 
 - [Software Engineering](#software-engineering) (1161)
 - [Product Management](#product-management) (58)
@@ -15,7 +15,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Machine Learning](#machine-learning) (246)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (154)
-- [Electrical Engineering](#electrical-engineering) (156)
+- [Electrical Engineering](#electrical-engineering) (157)
 - [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (35)
@@ -2411,6 +2411,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Lucid Motors | [Intern, Vehicle Motion Controls Engineer, Summer 2027](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) | Newark, CA | 0d |
 | V2X | [Electrical Engineer Production Support Intern](https://careers.gov2x.com/jobs/63954?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 1d |
 | MSA Safety | [Electrical Engineering Intern/Co-op](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Cranberry Township, PA | 1d |
 | RTX | [Electrical Engineer Co-op (Summer/Fall 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Electrical-Engineer-Co-op--Summer-Fall-2027--Onsite-_01888661) | US-VA-STERLING-291 ~ 22640… | 2d |
