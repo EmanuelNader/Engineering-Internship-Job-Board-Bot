@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2461 roles.
+2462 roles.
 
 - [Software Engineering](#software-engineering) (1156)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (190)
 - [Data Science](#data-science) (488)
-- [Machine Learning](#machine-learning) (245)
+- [Machine Learning](#machine-learning) (246)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (154)
 - [Electrical Engineering](#electrical-engineering) (156)
@@ -1948,6 +1948,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Smule | [Machine Learning Engineer Intern](https://go.vansh.nyc/1En?s=y) | Salt Lake City, UT | 0d |
 | 🔥 LinkedIn | [AI/ML Engineer Intern 🎓](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 0d |
+| The SilverLogic | [AI Engineer/Consultant Intern](https://go.vansh.nyc/1EE?s=y) | Boca Raton, FL | 0d |
 | 🔥 LinkedIn | [AI/ML Engineer Intern - Generative AI 🎓](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 0d |
 | 🔥 LinkedIn | [Artificial Intelligence/Machine Learning Engineer Inter…](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 0d |
 | Lucid Motors | [Intern, AI & Data (Applied AI/Machine Learning), Summer…](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) | Newark, CA | 1d |
