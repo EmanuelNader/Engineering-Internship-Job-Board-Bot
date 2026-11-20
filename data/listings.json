@@ -1,5 +1,31 @@
 [
   {
+    "id": "1b6c2dd649f8c01b36dbe62df63a1b85ef89df9292df92fb171fe589416de934",
+    "company_name": "Uplinq",
+    "title": "Software Engineer Intern - ASU",
+    "location": "Scottsdale, AZ",
+    "url": "https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "db92c9aa3366cd1342866109320ed6a4553d8b71473195cf6ce098b76135e38e",
+    "company_name": "Scout Space",
+    "title": "Embedded Firmware Engineer Intern",
+    "location": "Reston, VA",
+    "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489232008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "754af404b4f6acd97f19e8b0c5adafeffec6f31fdf5de5d2024df21567482238",
     "company_name": "Lucid Motors",
     "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
@@ -156,6 +182,19 @@
     ]
   },
   {
+    "id": "5bc022d91f73ac997166b43bea460143c96c877f7791812ea6d69dc3872436be",
+    "company_name": "🔥 Snowflake",
+    "title": "Software Engineer Intern - Core - Infrastructure & Security",
+    "location": "Menlo Park, CABellevue, WA",
+    "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "704374475ebbb3b163bd9581c7ba331d59cdfd3791afac6a2d1997d1508e5a5b",
     "company_name": "Atlantic Health System",
     "title": "Pharmacy Intern - Data Analytics",
@@ -192,6 +231,19 @@
     "source": "github",
     "role_families": [
       "electrical"
+    ]
+  },
+  {
+    "id": "8bac039f71a1201153b9688240e9afbd563acf45b655c4668574e9215b5de142",
+    "company_name": "🔥 Snowflake",
+    "title": "Software Engineer Intern - AI / ML",
+    "location": "Menlo Park, CABellevue, WA",
+    "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -278,6 +330,19 @@
     "title": "Software Engineer Intern",
     "location": "Beaverton, OR",
     "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "e1ebcabf712fd9ff47b5be8d37ed3d20e5e93b496f1c252b79c610e73b5200d6",
+    "company_name": "🔥 Snowflake",
+    "title": "Software Engineer Intern - Database Engineering",
+    "location": "Menlo Park, CABellevue, WA",
+    "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true&utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-19T00:00:00.000Z",
     "level": "internship",
     "source": "github",
