@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2470 roles.
+2471 roles.
 
-- [Software Engineering](#software-engineering) (1161)
+- [Software Engineering](#software-engineering) (1162)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (190)
 - [Data Science](#data-science) (488)
@@ -47,6 +47,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | LLNL | [Computing Undergraduate Student Intern, DevOps](https://go.vansh.nyc/1DM?s=y) | Livermore, CA | 1d |
 | 🔥 Snowflake | [Software Engineer Intern - Core - Infrastructure & Secu…](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true&utm_source=Simplify&ref=Simplify) | Menlo Park, CABellevue, WA | 1d |
 | Lucid Motors | [Embedded Software Intern, BSP/Platform, ADAS/Autonomous…](https://go.vansh.nyc/1DT?s=y) | Newark, CA | 1d |
+| PTC | [Full-Stack Engineering Intern, Cloud Data Management (C…](https://go.vansh.nyc/1EX?s=y) | Boston, MA | 1d |
 | 🔥 Snowflake | [Software Engineer Intern - AI / ML](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true&utm_source=Simplify&ref=Simplify) | Menlo Park, CABellevue, WA | 1d |
 | Cirrus Logic | [Software Engineer AI/ML Intern 🎓](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 1d |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 1d |
