@@ -273,6 +273,19 @@
     ]
   },
   {
+    "id": "eb1fd3e47a2a57196a11e1a17498be4572e02fff555f96d88c05c27647456163",
+    "company_name": "Lawrence Livermore National Laboratory",
+    "title": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
+    "location": "Livermore, CA",
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990016985486-computing-undergraduate-student-intern-devops-internship-program-summer-2027?oga=true",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f1bd58dfe82b6f0647d214e141a192a0b96399df15bf264d8a364a27153af0e4",
     "company_name": "GlobalFoundries",
     "title": "AI/ML Analytics Intern, Digital Manufacturing",
@@ -414,6 +427,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "45352d19e85f5088cff681c9beea884be321adc089c34761d5d47f52570f8a05",
+    "company_name": "PTC",
+    "title": "Full-Stack Engineering Intern - Cloud Data Management - CAD",
+    "location": "Boston, MA",
+    "url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -690,6 +716,19 @@
     ]
   },
   {
+    "id": "e275f048c5b01be4658949f5eb53a227f160e4652857ee847c0255c2d6a024c8",
+    "company_name": "Gentuity",
+    "title": "Software Engineer Co-Op",
+    "location": "Sudbury, MA",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679467",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "e6f169fc62f17ccb465678ae17c72c4bcf4fd05e0d367f29076c1f56d391139d",
     "company_name": "Lucid Motors",
     "title": "AI & Data Intern, Applied AI/Machine Learning",
@@ -700,6 +739,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "fd08688df3bb18a9674d1a452e709e3b7c2e70e146c37119832c6cf5f33ffb1b",
+    "company_name": "T-Mobile",
+    "title": "Summer 2027 AI Engineering Internship - Site Reliability & Automation",
+    "location": "Atlanta, GA",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {

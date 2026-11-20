@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2464 roles.
+2468 roles.
 
-- [Software Engineering](#software-engineering) (1157)
+- [Software Engineering](#software-engineering) (1161)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (190)
 - [Data Science](#data-science) (488)
@@ -36,11 +36,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Honeywell Aerospace | [AI Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899?utm_source=Simplify&ref=Simplify) | United States | 0d |
 | Scout Space | [Embedded Firmware Engineer Intern](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008?utm_source=Simplify&ref=Simplify) | Reston, VA | 0d |
 | Rockwell Automation | [Firmware Engineering Intern 🛂](https://go.vansh.nyc/1Ey?s=y) | Milwaukee, WI | 0d |
+| Lawrence Livermore National… | [Computing Undergraduate Student Intern: DevOps Internsh…](https://jobs.smartrecruiters.com/LLNL/3743990016985486-computing-undergraduate-student-intern-devops-internship-program-summer-2027?oga=true) | Livermore, CA | 0d |
 | Lucid Motors | [Intern, Embedded Software, Summer 2027](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) | Newark, CA | 1d |
 | Lucid Motors | [Intern, Software Engineer, SDET, Summer 2027](https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007) | Newark, CA | 1d |
 | Lutron | [Embedded Firmware Engineering Intern](https://go.vansh.nyc/1Db?s=y) | Boston, MA | 1d |
 | Lutron | [Embedded Software Engineering Intern](https://go.vansh.nyc/1De?s=y) | Cincinnati, OH | 1d |
 | Lucid Motors | [Embedded Software Intern](https://go.vansh.nyc/1Dv?s=y) | Newark, CA | 1d |
+| PTC | [Full-Stack Engineering Intern - Cloud Data Management -…](https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015) | Boston, MA | 1d |
 | Samsung Semiconductor | [Intern - SSD Firmware Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | San Jose, CA | 1d |
 | LLNL | [Computing Undergraduate Student Intern, DevOps](https://go.vansh.nyc/1DM?s=y) | Livermore, CA | 1d |
 | 🔥 Snowflake | [Software Engineer Intern - Core - Infrastructure & Secu…](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true&utm_source=Simplify&ref=Simplify) | Menlo Park, CABellevue, WA | 1d |
@@ -49,6 +51,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Cirrus Logic | [Software Engineer AI/ML Intern 🎓](https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 1d |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 1d |
 | 🔥 Snowflake | [Software Engineer Intern - Database Engineering](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d/application?embed=true&utm_source=Simplify&ref=Simplify) | Menlo Park, CABellevue, WA | 1d |
+| Gentuity | [Software Engineer Co-Op](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679467) | Sudbury, MA | 1d |
+| T-Mobile | [Summer 2027 AI Engineering Internship - Site Reliabilit…](https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239) | Atlanta, GA | 1d |
 | Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 2d |
 | Valeris | [Software Engineer Intern](https://valeris.wd108.myworkdayjobs.com/en-US/valeris/job/Louisville-KY/Software-Engineer-Intern_JR1044) | Louisville, KY | 2d |
 | Galaxy | [2027 Site Reliability Engineer Intern-Afton - Texas](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) | Texas, USA | 2d |
