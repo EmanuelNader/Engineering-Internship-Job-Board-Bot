@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2438 roles.
+2439 roles.
 
 - [Software Engineering](#software-engineering) (1149)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (190)
-- [Data Science](#data-science) (477)
+- [Data Science](#data-science) (478)
 - [Machine Learning](#machine-learning) (241)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (152)
@@ -1444,6 +1444,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| enGen | [Data Engineer & Analyst Undergraduate Intern](https://go.vansh.nyc/1DQ?s=y) | Pittsburgh, PA | 1d |
 | Atlantic Health System | [Pharmacy Intern - Data Analytics](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551?utm_source=Simplify&ref=Simplify) | Morristown, NJ | 1d |
 | Publicis Groupe | [Identity Analytics Intern](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Chicago, IL | 1d |
 | Barry's | [Undergraduate Summer Scholar Intern - Data Analyst](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f?utm_source=Simplify&ref=Simplify) | NYC | 1d |
