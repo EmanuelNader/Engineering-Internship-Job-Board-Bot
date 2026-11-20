@@ -13,11 +13,50 @@
     ]
   },
   {
+    "id": "092deb3cd981b19446065377d2d1cb57c4d96564ab06636f62a4eba2c1fc2580",
+    "company_name": "Honeywell Aerospace",
+    "title": "Software Engineer Intern",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "1b6c2dd649f8c01b36dbe62df63a1b85ef89df9292df92fb171fe589416de934",
     "company_name": "Uplinq",
     "title": "Software Engineer Intern - ASU",
     "location": "Scottsdale, AZ",
     "url": "https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "344759d84437a81ea01a43c5f2e0682cbb0711e759f26c5ef09abd1257c3e0f7",
+    "company_name": "CAS",
+    "title": "Business Data Analytics Intern - AI/ML Focus",
+    "location": "Columbus, OH",
+    "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "4fe43b7ed006035398dee231f844ced91f6ca4089c395ec6b3fc2a71637edd56",
+    "company_name": "Honeywell Aerospace",
+    "title": "Embedded Engineer Intern",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120770?utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-20T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -39,6 +78,19 @@
     ]
   },
   {
+    "id": "62480e5f67789097f2fc71ba66990bfcc3f0dc21f62f92a2da20ec1e4146bc73",
+    "company_name": "iA",
+    "title": "Software Data Engineer Intern",
+    "location": "Indianapolis, IN",
+    "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "8358329d24dfe29c097c07a9def08c05ac839124ecdc2522a368082ed6141ec0",
     "company_name": "🔥 LinkedIn",
     "title": "AI/ML Engineer Intern 🎓",
@@ -49,6 +101,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "a53c6cbc64ecb09d717bfe99db62ef7c25332a101ea9258ff97f28b30c2140ce",
+    "company_name": "Honeywell Aerospace",
+    "title": "AI Software Engineer Intern",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
