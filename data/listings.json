@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "32f001165ce89d8ac18335ee7688bdb585d4e19c9cdf7303f0687d407788b57a",
+    "company_name": "Systems Planning and Analysis",
+    "title": "Integrated Analytics Intern",
+    "location": "Alexandria, VA",
+    "url": "https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "344759d84437a81ea01a43c5f2e0682cbb0711e759f26c5ef09abd1257c3e0f7",
     "company_name": "CAS",
     "title": "Business Data Analytics Intern - AI/ML Focus",
@@ -75,6 +88,19 @@
     "source": "workday",
     "role_families": [
       "mechanical"
+    ]
+  },
+  {
+    "id": "59ce29bcd110b7b7c2d3d939afe1e7f67ed07fbd9c07bddd195f99709fe7f06b",
+    "company_name": "Symbotic",
+    "title": "Software Engineer Intern - Front-End",
+    "location": "Austin, TX",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
