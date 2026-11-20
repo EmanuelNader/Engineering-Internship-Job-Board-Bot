@@ -208,6 +208,19 @@
     ]
   },
   {
+    "id": "2340bd87726f613474f48b7b6e8c8dc59c578e75df64d26c1496f4f4b5d5a9d2",
+    "company_name": "CAS",
+    "title": "Business Data Analytics Intern, AI/ML Focus",
+    "location": "Columbus, OH",
+    "url": "https://go.vansh.nyc/1E5?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "32a2fae014e098869af628e107415917d2c485fcbcb9c2735d044c203124a563",
     "company_name": "Lutron",
     "title": "Embedded Software Engineering Intern",
@@ -543,6 +556,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "ff76d48bee485b4e82df9a8e6341f0d8aa1eda5103a9779fab8e21d3ee5e7604",
+    "company_name": "TransUnion",
+    "title": "Data Science & Analytics Intern",
+    "location": "Chicago, IL",
+    "url": "https://go.vansh.nyc/1Ea?s=y",
+    "date_posted": "2026-11-19T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
