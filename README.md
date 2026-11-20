@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2478 roles.
+2481 roles.
 
-- [Software Engineering](#software-engineering) (1163)
+- [Software Engineering](#software-engineering) (1164)
 - [Product Management](#product-management) (58)
-- [Hardware Engineering](#hardware-engineering) (191)
-- [Data Science](#data-science) (493)
+- [Hardware Engineering](#hardware-engineering) (192)
+- [Data Science](#data-science) (494)
 - [Machine Learning](#machine-learning) (245)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (154)
@@ -37,6 +37,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Scout Space | [Embedded Firmware Engineer Intern](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008?utm_source=Simplify&ref=Simplify) | Reston, VA | 0d |
 | Rockwell Automation | [Firmware Engineering Intern 🛂](https://go.vansh.nyc/1Ey?s=y) | Milwaukee, WI | 0d |
 | Lawrence Livermore National… | [Computing Undergraduate Student Intern: DevOps Internsh…](https://jobs.smartrecruiters.com/LLNL/3743990016985486-computing-undergraduate-student-intern-devops-internship-program-summer-2027?oga=true) | Livermore, CA | 0d |
+| Garmin | [Software Engineer Intern, Web/Mobile](https://go.vansh.nyc/1Fa?s=y) | Yarmouth, ME | 0d |
 | Renesas Electronics | [Firmware Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555?utm_source=Simplify&ref=Simplify) | Austin, TX | 0d |
 | Lucid Motors | [Intern, Embedded Software, Summer 2027](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) | Newark, CA | 1d |
 | Lucid Motors | [Intern, Software Engineer, SDET, Summer 2027](https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007) | Newark, CA | 1d |
@@ -1263,6 +1264,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Renesas Electronics | [System Verification Engineer Intern 🎓](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903?utm_source=Simplify&ref=Simplify) | Austin, TX | 0d |
 | Lightmatter | [Silicon Validation & Test Automation Intern](https://boards.greenhouse.io/lightmatter/jobs/5473832008?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1d |
+| Microchip Technology | [ASIC Verification Engineer Intern](https://go.vansh.nyc/1F9?s=y) | San Jose, CA | 1d |
 | Ralliant | [System Level Verification Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168?utm_source=Simplify&ref=Simplify) | United States | 1d |
 | Ixana | [Internship - Embedded Hardware Engineer - On-site. West…](https://app.dover.io/apply/job/030b48dd-85d4-4e24-bee5-48c5005f59f0/) | West Lafayette, IN | 2d |
 | Ixana | [Internship - Embedded Hardware Engineer FPGA Design - O…](https://app.dover.io/apply/job/4a34a955-615f-4b8a-8fca-5707d23d9bb4/) | West Lafayette, IN | 2d |
@@ -1468,6 +1470,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | iA | [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1&utm_source=Simplify&ref=Simplify) | Indianapolis, IN | 0d |
 | Constellation Energy | [Powerfolio Data Analyst Intern](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Houston, TX | 0d |
 | DraftKings | [Data Engineer Intern](https://go.vansh.nyc/1Ex?s=y) | Boston, MA | 0d |
+| John Deere | [Data Analytics Student Intern](https://go.vansh.nyc/1Fb?s=y) | Des Moines, IAWaterloo, IAM… | 0d |
 | GlobalFoundries | [AI/ML Analytics Intern, Digital Manufacturing](https://go.vansh.nyc/1EA?s=y) | New York, NYMalta, NY | 0d |
 | CAS | [Business Data Analytics Intern, AI/ML Focus](https://go.vansh.nyc/1E5?s=y) | Columbus, OH | 1d |
 | Nelnet | [Data Analytics Intern](https://go.vansh.nyc/1Ev?s=y) | Lincoln, NE | 1d |
