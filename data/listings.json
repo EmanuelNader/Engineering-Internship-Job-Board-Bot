@@ -1,5 +1,97 @@
 [
   {
+    "id": "5bf7737f9b861496a6f86021d9b00dd15f9c53f63d4e56f30f0eac5a83c919e0",
+    "company_name": "🔥 ServiceNow",
+    "title": "Security Software Engineer Intern 🎓",
+    "location": "Kirkland, WA",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162827365?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "7c5b549ca057bebbc3aa74e56e3aa03eaa7faa885b3a95064e679d2afefe22c2",
+    "company_name": "Milliman",
+    "title": "Data Analyst Intern",
+    "location": "Brookfield, WI",
+    "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "913b90f01f07e0f62876c9491c841a7daa59a12e41a32fdb88c51d5f297cd360",
+    "company_name": "Great Southern Wood Preserving",
+    "title": "Engineering Intern - Data Analyst",
+    "location": "Abbeville, AL",
+    "url": "https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "a733097d1a614c33ef22633a649ff915a281d1441bb796e8f46ac988545b2c0f",
+    "company_name": "🔥 Tesla",
+    "title": "Software Engineer Intern - SI Hardware Architecture Simulation",
+    "location": "Palo Alto, CA",
+    "url": "https://www.tesla.com/careers/search/job/290756?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe",
+      "hardware"
+    ]
+  },
+  {
+    "id": "b834b1ef0aeffdfe950df60a2ba7aaf2971e6f1c66988ead5efc790aedd3934b",
+    "company_name": "Mom's Meals",
+    "title": "Data Analytics Intern",
+    "location": "Ankeny, IA",
+    "url": "https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "ce0787e09fe7b02daa285ac954c9d613b9863cf09bb546611383fc0d378ce8e9",
+    "company_name": "EP Wealth Advisors",
+    "title": "Data AI Engineer Intern",
+    "location": "Austin, TXTorrance, CA",
+    "url": "https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "f415e2e41f97e86eee7dd278c783590f731fafe3737061c965a421631da37757",
+    "company_name": "Southern Farm Bureau Life Insurance",
+    "title": "Data Analytics Intern 🎓",
+    "location": "Jackson, MS",
+    "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "46e535c243507047cf985b3b43ddeab046699714c6b2f268b0c419db7c03924e",
     "company_name": "Lucid Motors",
     "title": "Power Electronics Control Engineer Intern, Summer 2027",
