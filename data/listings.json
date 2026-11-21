@@ -1,5 +1,18 @@
 [
   {
+    "id": "14a5d2458ef4205168e2546454bf090bd7929708f485388c59500be2ea808fc9",
+    "company_name": "Neros Technologies",
+    "title": "Electrical Engineer Intern",
+    "location": "Torrance, CA",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "2b2d7ce538c8f82cce8567b36cb4378981fca67cecc85583973f7345465f703f",
     "company_name": "Acuity Insurance",
     "title": "Software Engineer Intern",
