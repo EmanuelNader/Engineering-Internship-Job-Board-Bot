@@ -6,10 +6,10 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2496 roles.
+2497 roles.
 
 - [Software Engineering](#software-engineering) (1171)
-- [Product Management](#product-management) (58)
+- [Product Management](#product-management) (59)
 - [Hardware Engineering](#hardware-engineering) (193)
 - [Data Science](#data-science) (501)
 - [Machine Learning](#machine-learning) (246)
@@ -1204,6 +1204,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Walmart | [MBA Product Manager Intern - MBA 🎓](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166?utm_source=Simplify&ref=Simplify) | Bentonville, AR | 1d |
 | 🔥 ServiceNow | [Inbound Product Manager Intern 🎓](https://jobs.smartrecruiters.com/ServiceNow/744000161885234?utm_source=Simplify&ref=Simplify) | San Diego, CA | 4d |
 | 🔥 ServiceNow | [Senior Inbound Product Manager Intern 🎓](https://jobs.smartrecruiters.com/ServiceNow/744000161584449?utm_source=Simplify&ref=Simplify) | San Diego, CA | 1w |
 | 🔥 ServiceNow | [Senior Outbound Product Manager Intern 🎓](https://jobs.smartrecruiters.com/ServiceNow/744000161590090?utm_source=Simplify&ref=Simplify) | San Diego, CA | 1w |
