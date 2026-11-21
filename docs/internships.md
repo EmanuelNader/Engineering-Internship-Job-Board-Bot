@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2492 roles.
+2494 roles.
 
-- [Software Engineering](#software-engineering) (1169)
+- [Software Engineering](#software-engineering) (1170)
 - [Product Management](#product-management) (58)
 - [Hardware Engineering](#hardware-engineering) (193)
-- [Data Science](#data-science) (499)
+- [Data Science](#data-science) (500)
 - [Machine Learning](#machine-learning) (246)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (154)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Acuity Insurance | [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217&utm_source=Simplify&ref=Simplify) | Remote in USASheboygan, WI | 0d |
 | 🔥 ServiceNow | [Security Software Engineer Intern 🎓](https://jobs.smartrecruiters.com/ServiceNow/744000162827365?utm_source=Simplify&ref=Simplify) | Kirkland, WA | 0d |
 | 🔥 Tesla | [Software Engineer Intern - SI Hardware Architecture Sim…](https://www.tesla.com/careers/search/job/290756?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 0d |
 | Lucid Motors | [Intern, Embedded Software – BSP/Platform (ADAS/Autonomo…](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | Newark, CA | 1d |
@@ -1468,6 +1469,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | Milliman | [Data Analyst Intern](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba&utm_source=Simplify&ref=Simplify) | Brookfield, WI | 0d |
+| Acuity Insurance | [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7&utm_source=Simplify&ref=Simplify) | Sheboygan, WI | 0d |
 | Great Southern Wood Preserv… | [Engineering Intern - Data Analyst](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1&utm_source=Simplify&ref=Simplify) | Abbeville, AL | 0d |
 | Mom's Meals | [Data Analytics Intern](https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774/apply?utm_source=Simplify&ref=Simplify) | Ankeny, IA | 0d |
 | Southern Farm Bureau Life I… | [Data Analytics Intern 🎓](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf&utm_source=Simplify&ref=Simplify) | Jackson, MS | 0d |

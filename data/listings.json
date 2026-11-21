@@ -1,5 +1,18 @@
 [
   {
+    "id": "2b2d7ce538c8f82cce8567b36cb4378981fca67cecc85583973f7345465f703f",
+    "company_name": "Acuity Insurance",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USASheboygan, WI",
+    "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "5bf7737f9b861496a6f86021d9b00dd15f9c53f63d4e56f30f0eac5a83c919e0",
     "company_name": "🔥 ServiceNow",
     "title": "Security Software Engineer Intern 🎓",
@@ -18,6 +31,19 @@
     "title": "Data Analyst Intern",
     "location": "Brookfield, WI",
     "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "7d44ea0501a8aa01580795d826b26a4040bbb5daecf5abd9d4c28e9f7dcdddd5",
+    "company_name": "Acuity Insurance",
+    "title": "Data Analytics Intern - Data Science",
+    "location": "Sheboygan, WI",
+    "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7&utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-21T00:00:00.000Z",
     "level": "internship",
     "source": "github",
