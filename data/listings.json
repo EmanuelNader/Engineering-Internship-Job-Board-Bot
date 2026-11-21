@@ -222,6 +222,19 @@
     ]
   },
   {
+    "id": "4ed18ab0a1db59d189e5ed4df70f5cc2b918bdc81e5a3d0b47cb66a95ff4641e",
+    "company_name": "TASI Measurement",
+    "title": "Embedded Engineer Intern",
+    "location": "Kent, WA",
+    "url": "https://go.vansh.nyc/1Fr?s=y",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "4fe43b7ed006035398dee231f844ced91f6ca4089c395ec6b3fc2a71637edd56",
     "company_name": "Honeywell Aerospace",
     "title": "Embedded Engineer Intern",
@@ -300,6 +313,19 @@
     ]
   },
   {
+    "id": "634f8163cdba71662b6b4681907898cd4d40be1f8218500b25ad0b37f9a7925d",
+    "company_name": "TCOM",
+    "title": "Software Engineer Intern",
+    "location": "Sioux Falls, SD",
+    "url": "https://go.vansh.nyc/1FB?s=y",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "7094f4a672c52490f7582c7b90a3d4af475c0ae91cdee856fa57302de8cf4ae9",
     "company_name": "Symbotic",
     "title": "Software Engineer Intern, Front-End",
@@ -318,6 +344,19 @@
     "title": "Powerfolio Data Analyst Intern",
     "location": "Houston, TX",
     "url": "https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "7676e016bd82f562c5d3315e6df28720103d1b8c0b1c8c15492ce53e164dafad",
+    "company_name": "Southern Farm Bureau Life Insurance",
+    "title": "Data Engineer Intern",
+    "location": "Jackson, MS",
+    "url": "https://go.vansh.nyc/1Fu?s=y",
     "date_posted": "2026-11-20T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -440,6 +479,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "da11eeb6ed714989e31e21275cad5a5a41559dc872869b9f86cd5e908ab128a7",
+    "company_name": "Applied Research Associates",
+    "title": "Software Engineer Intern",
+    "location": "Baton Rouge, LA",
+    "url": "https://go.vansh.nyc/1Fx?s=y",
+    "date_posted": "2026-11-20T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
