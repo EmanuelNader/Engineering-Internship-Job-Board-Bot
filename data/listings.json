@@ -1,5 +1,18 @@
 [
   {
+    "id": "21cf8a078cb601e4392ffb776de9099c9910824f6a8f4aa6e1ef673693bde264",
+    "company_name": "Neros Technologies",
+    "title": "Firmware/Embedded Software Engineer Intern",
+    "location": "Torrance, CA",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-22T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "14a5d2458ef4205168e2546454bf090bd7929708f485388c59500be2ea808fc9",
     "company_name": "Neros Technologies",
     "title": "Electrical Engineer Intern",
