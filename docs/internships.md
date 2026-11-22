@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2505 roles.
+2506 roles.
 
 - [Software Engineering](#software-engineering) (1177)
 - [Product Management](#product-management) (59)
-- [Hardware Engineering](#hardware-engineering) (193)
+- [Hardware Engineering](#hardware-engineering) (194)
 - [Data Science](#data-science) (502)
 - [Machine Learning](#machine-learning) (246)
 - [Civil and Structural](#civil-and-structural) (39)
@@ -1276,6 +1276,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Neuromorphic | [Robotics Hardware Intern (Winter, Dec 15th - January 15…](https://www.workatastartup.com/jobs/124424) | San Francisco, CA | 0d |
 | 🔥 Tesla | [Software Engineer Intern - SI Hardware Architecture Sim…](https://www.tesla.com/careers/search/job/290756?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 1d |
 | Renesas Electronics | [System Verification Engineer Intern 🎓](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903?utm_source=Simplify&ref=Simplify) | Austin, TX | 2d |
 | Lightmatter | [Silicon Validation & Test Automation Intern](https://boards.greenhouse.io/lightmatter/jobs/5473832008?utm_source=Simplify&ref=Simplify) | Mountain View, CA | 3d |
