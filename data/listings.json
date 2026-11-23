@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "226caafaa22ea4c599989f129185e148ffa8d3a2b329a5ba9404e71a5dc6d861",
+    "company_name": "Artefact",
+    "title": "AI Engineer Intern",
+    "location": "New York, NY",
+    "url": "https://go.vansh.nyc/1Gz?s=y",
+    "date_posted": "2026-11-22T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "28c8e6c553b6b906f9aaef92190e7d2ecd900d319a22e2db8a8b2621ad9228c2",
     "company_name": "Neogen",
     "title": "Embedded Systems Engineer Intern",
@@ -229,6 +242,19 @@
     "url": "https://nottinghamspirk.applytojob.com/apply/udpROpEzBV/Firmware-Spring-2027-CoOp?utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-21T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "eea12898da8c5453c8cf04f8554197359015394e6ac50ac9d74e23baa93588a4",
+    "company_name": "MITRE",
+    "title": "Embedded Security Intern, Electronics Prototype",
+    "location": "Bedford, MA",
+    "url": "https://go.vansh.nyc/1GA?s=y",
+    "date_posted": "2026-11-21T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
@@ -3204,6 +3230,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
