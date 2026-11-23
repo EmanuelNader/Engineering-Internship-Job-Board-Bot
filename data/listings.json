@@ -119,6 +119,19 @@
     ]
   },
   {
+    "id": "859523ad1ae40c508b889899418f9d8a39d5489cc06262c81189eb1fc37d7913",
+    "company_name": "First Resonance",
+    "title": "Software Engineer Intern - Platform",
+    "location": "LA",
+    "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "81d9c6a1be8da660d8eee7725b659ddd67fb92b9c19982a3a9128c868dfe5967",
     "company_name": "Neuromorphic",
     "title": "Robotics Hardware Intern (Winter, Dec 15th - January 15th)",
@@ -3349,6 +3362,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
