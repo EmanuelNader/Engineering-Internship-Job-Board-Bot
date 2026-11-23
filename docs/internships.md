@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2521 roles.
+2522 roles.
 
-- [Software Engineering](#software-engineering) (1183)
+- [Software Engineering](#software-engineering) (1184)
 - [Product Management](#product-management) (59)
 - [Hardware Engineering](#hardware-engineering) (197)
 - [Data Science](#data-science) (504)
@@ -29,6 +29,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | APEX Analytix | [Software Engineer Intern - Platform Tooling](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19?utm_source=Simplify&ref=Simplify) | Greensboro, NC | 0d |
 | First Resonance | [Software Engineer Intern - Platform](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 0d |
 | Benchling | [Software Engineer Intern](https://go.vansh.nyc/1GP?s=y) | San Francisco, CA | 0d |
+| RTX | [Embedded System Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950) | US-CT-WINDSOR LOCKS-B1 ~ 1… | 0d |
 | Garmin | [Software Engineer Intern, Automotive OEM](https://go.vansh.nyc/1H2?s=y) | Novi, MI | 1d |
 | Neros Technologies | [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007?utm_source=Simplify&ref=Simplify) | Torrance, CA | 1d |
 | Neogen | [Embedded Systems Engineer Intern](https://go.vansh.nyc/1Gp?s=y) | Oakdale, MN | 1d |
