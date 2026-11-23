@@ -132,6 +132,19 @@
     ]
   },
   {
+    "id": "318dc51676bbb1a00ddd1aa8fc8628ce2f807bee0da35e7871c9a267b8d995c2",
+    "company_name": "Motorola Solutions",
+    "title": "Mission Critical Networks Software Engineer Intern 🇺🇸",
+    "location": "Schaumburg, ILChicago, IL",
+    "url": "https://go.vansh.nyc/1Hn?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "3ccb56f5c587eac49d9aef01bfbfb1734668102062eb126be763f293a9b46257",
     "company_name": "RTX",
     "title": "Avionics Supplier Quality Intern (Summer 2027)",
@@ -3505,6 +3518,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
