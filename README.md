@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2518 roles.
+2521 roles.
 
-- [Software Engineering](#software-engineering) (1180)
+- [Software Engineering](#software-engineering) (1183)
 - [Product Management](#product-management) (59)
 - [Hardware Engineering](#hardware-engineering) (197)
 - [Data Science](#data-science) (504)
@@ -29,8 +29,10 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | APEX Analytix | [Software Engineer Intern - Platform Tooling](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19?utm_source=Simplify&ref=Simplify) | Greensboro, NC | 0d |
 | First Resonance | [Software Engineer Intern - Platform](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 0d |
 | Benchling | [Software Engineer Intern](https://go.vansh.nyc/1GP?s=y) | San Francisco, CA | 0d |
+| Garmin | [Software Engineer Intern, Automotive OEM](https://go.vansh.nyc/1H2?s=y) | Novi, MI | 1d |
 | Neros Technologies | [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007?utm_source=Simplify&ref=Simplify) | Torrance, CA | 1d |
 | Neogen | [Embedded Systems Engineer Intern](https://go.vansh.nyc/1Gp?s=y) | Oakdale, MN | 1d |
+| Garmin | [Software Engineer Intern, Aviation Web Development](https://go.vansh.nyc/1H0?s=y) | Middlebury, CT | 1d |
 | Fabri | [DevOps - IT & Cybersecurity Intern](https://app.dover.io/apply/job/3d3ef9d6-40f3-47cf-ada4-a90a4e0744f5/) | Billerica, MA | 1d |
 | Acuity Insurance | [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217&utm_source=Simplify&ref=Simplify) | Remote in USASheboygan, WI | 2d |
 | 🔥 ServiceNow | [Security Software Engineer Intern 🎓](https://jobs.smartrecruiters.com/ServiceNow/744000162827365?utm_source=Simplify&ref=Simplify) | Kirkland, WA | 2d |
@@ -147,6 +149,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Bask | [Frontend Engineering Intern](https://go.vansh.nyc/1wc?s=y) | United States | 1w |
 | Cintas | [IT OT Software Engineer Intern](https://go.vansh.nyc/1yj?s=y) | Mason, OH | 1w |
 | Ancestry | [Software Engineer - Observability - Co-op](https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434) | Draper, UT | 1w |
+| Brex | [Software Engineer - Intern - Summer 2027](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | New York City, NY +2 | 1w |
 | Vital Lyfe | [Software Engineer Intern](https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true&utm_source=Simplify&ref=Simplify) | Torrance, CA | 1w |
 | Vertiv | [Software Engineer Intern 🎓](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 1w |
 | Leidos | [Junior Software Engineer / Data Scientist Intern](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510) | Tucson, AZ | 1w |

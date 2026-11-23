@@ -197,6 +197,19 @@
     ]
   },
   {
+    "id": "00b6c1f464eb12c787ef53baac4e663618df83b4d6f245751aa9047da7ffd85a",
+    "company_name": "Garmin",
+    "title": "Software Engineer Intern, Automotive OEM",
+    "location": "Novi, MI",
+    "url": "https://go.vansh.nyc/1H2?s=y",
+    "date_posted": "2026-11-22T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "21cf8a078cb601e4392ffb776de9099c9910824f6a8f4aa6e1ef673693bde264",
     "company_name": "Neros Technologies",
     "title": "Firmware/Embedded Software Engineer Intern",
@@ -246,6 +259,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "bd44502622350fac0c107de24222d997402ce083459849de95d21bde591df06a",
+    "company_name": "Garmin",
+    "title": "Software Engineer Intern, Aviation Web Development",
+    "location": "Middlebury, CT",
+    "url": "https://go.vansh.nyc/1H0?s=y",
+    "date_posted": "2026-11-22T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -3414,6 +3440,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
