@@ -132,6 +132,19 @@
     ]
   },
   {
+    "id": "0b4516ea799c6642d80873104f2c0bba0a013abe0a5261c07489f30933380611",
+    "company_name": "Lifeway",
+    "title": "Software Engineer Intern - Full Stack - Back-End",
+    "location": "Remote in USA",
+    "url": "https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "1dd3360a06cfe4d37b8f91271dbea398a4c23dad0930d006dde3bddebf10ca25",
     "company_name": "APEX Analytix",
     "title": "Software Engineer Intern - Platform Tooling",
@@ -176,6 +189,19 @@
     "title": "Robotics Software Engineer Intern, Autonomy & Automation",
     "location": "Austin, TX",
     "url": "https://go.vansh.nyc/1Hp?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "61369d8a266fcab3440eb0d870515e58723415b9150fb52acbb05f1e1235fe41",
+    "company_name": "Lifeway",
+    "title": "Front-End Engineer Intern",
+    "location": "Nashville, TNRemote in USA",
+    "url": "https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
     "date_posted": "2026-11-23T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -4084,6 +4110,19 @@
     "source": "github",
     "role_families": [
       "ml"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-11T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
