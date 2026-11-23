@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2520 roles.
+2521 roles.
 
 - [Software Engineering](#software-engineering) (1184)
 - [Product Management](#product-management) (59)
@@ -14,7 +14,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (504)
 - [Machine Learning](#machine-learning) (247)
 - [Civil and Structural](#civil-and-structural) (39)
-- [Mechanical Engineering](#mechanical-engineering) (157)
+- [Mechanical Engineering](#mechanical-engineering) (158)
 - [Electrical Engineering](#electrical-engineering) (161)
 - [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (30)
@@ -2307,6 +2307,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | GFT | [Intern - Mechanical Engineering (Buildings & Facilities)](https://careers-gannettfleming.icims.com/jobs/14875/intern---mechanical-engineering-%28buildings-%26-facilities%29/job) | US-PA-State College | 0d |
 | CEC | [Mechanical Engineering Internship- Summer 2027](https://careers-cecinc.icims.com/jobs/6558/mechanical-engineering-internship--summer-2027/job) | US-PA-Pittsburgh (Moon Town… | 0d |
 | Kimley-Horn | [Mechanical Engineering Intern](https://careers-kimley-horn.icims.com/jobs/26609/mechanical-engineering-intern/job) | US-FL-Palm Beach Gardens | 0d |
+| 3M | [Internship - 2027 Undergraduate Manufacturing Technolog…](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Manufacturing-Technology-Intern_R01174449) | US, Minnesota, Maplewood | 0d |
 | NVIDIA | [Cost Accountant Intern, Global Operations and Manufactu…](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1) | US, CA, Santa Clara | 3d |
 | GlobalFoundries | [AI/ML Analytics Intern, Digital Manufacturing](https://go.vansh.nyc/1EA?s=y) | New York, NYMalta, NY | 3d |
 | Ralliant | [Electrical Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 4d |
