@@ -119,6 +119,32 @@
     ]
   },
   {
+    "id": "1dd3360a06cfe4d37b8f91271dbea398a4c23dad0930d006dde3bddebf10ca25",
+    "company_name": "APEX Analytix",
+    "title": "Software Engineer Intern - Platform Tooling",
+    "location": "Greensboro, NC",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "64c1aebaf35c99579d75b004326d4e459eef315db574d75cb11ef9fe221ab120",
+    "company_name": "Stantec",
+    "title": "Data Scientist Intern - Water",
+    "location": "Boston, MADenver, COSan Diego, CA",
+    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "859523ad1ae40c508b889899418f9d8a39d5489cc06262c81189eb1fc37d7913",
     "company_name": "First Resonance",
     "title": "Software Engineer Intern - Platform",
@@ -3388,6 +3414,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
