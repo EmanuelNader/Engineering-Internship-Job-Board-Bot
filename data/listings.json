@@ -171,6 +171,19 @@
     ]
   },
   {
+    "id": "54d959a217a22bec1db546fcf83c808505757cc2cd9aa995673256436ef7a36c",
+    "company_name": "Contoro Robotics",
+    "title": "Robotics Software Engineer Intern, Autonomy & Automation",
+    "location": "Austin, TX",
+    "url": "https://go.vansh.nyc/1Hp?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "64c1aebaf35c99579d75b004326d4e459eef315db574d75cb11ef9fe221ab120",
     "company_name": "Stantec",
     "title": "Data Scientist Intern - Water",
@@ -3544,6 +3557,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
