@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2524 roles.
+2522 roles.
 
-- [Software Engineering](#software-engineering) (1186)
+- [Software Engineering](#software-engineering) (1185)
 - [Product Management](#product-management) (59)
 - [Hardware Engineering](#hardware-engineering) (197)
 - [Data Science](#data-science) (504)
@@ -17,7 +17,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Mechanical Engineering](#mechanical-engineering) (158)
 - [Electrical Engineering](#electrical-engineering) (161)
 - [Chemical Engineering](#chemical-engineering) (41)
-- [Aerospace Engineering](#aerospace-engineering) (31)
+- [Aerospace Engineering](#aerospace-engineering) (30)
 - [Other](#other) (35)
 
 ## Software Engineering
@@ -152,7 +152,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Bask | [Frontend Engineering Intern](https://go.vansh.nyc/1wc?s=y) | United States | 1w |
 | Cintas | [IT OT Software Engineer Intern](https://go.vansh.nyc/1yj?s=y) | Mason, OH | 1w |
 | Ancestry | [Software Engineer - Observability - Co-op](https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434) | Draper, UT | 1w |
-| Brex | [Software Engineer - Intern - Summer 2027](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | New York City, NY +2 | 1w |
 | Vital Lyfe | [Software Engineer Intern](https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true&utm_source=Simplify&ref=Simplify) | Torrance, CA | 1w |
 | Vertiv | [Software Engineer Intern 🎓](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 1w |
 | Leidos | [Junior Software Engineer / Data Scientist Intern](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510) | Tucson, AZ | 1w |
@@ -2698,7 +2697,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | RTX | [Software Engineering Co-Op (Avionics) (Summer/Fall 2027…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664) | US-PR-AGUADILLA-110 ~ Rd 11… | 1mo |
 | Muon | [GNC Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/muonspace/jobs/5252680007) | Mountain View, CA | 1mo |
 | Astranis | [Propulsion Engineer Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4713183006) | San Francisco | 2mo |
-| Astranis | [Propulsion Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4713184006) | San Francisco | 2mo |
 | Astranis | [Avionics Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4706025006) | San Francisco | 2mo |
 | Astranis | [Avionics Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4706024006) | San Francisco | 2mo |
 | Astranis | [Avionics Associate Engineer (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4680324006) | San Francisco | 2mo |

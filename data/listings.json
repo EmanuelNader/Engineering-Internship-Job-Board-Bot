@@ -3511,19 +3511,6 @@
     ]
   },
   {
-    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
-    "company_name": "Brex",
-    "title": "Software Engineer - Intern - Summer 2027",
-    "location": "New York City, NY +2",
-    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-    "date_posted": "2026-11-12T00:00:00.000Z",
-    "level": "internship",
-    "source": "github",
-    "role_families": [
-      "swe"
-    ]
-  },
-  {
     "id": "97257a075937e76bbf7e74e9c50bbb3fffe6b5dbcdee81202bd767d974cf74dd",
     "company_name": "E2 Consulting Engineers",
     "title": "Data Analyst Intern",
@@ -26515,19 +26502,6 @@
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4713183006",
     "date_posted": "2026-09-23T19:51:42.000Z",
-    "level": "internship",
-    "source": "greenhouse",
-    "role_families": [
-      "aerospace"
-    ]
-  },
-  {
-    "id": "f78d1eae9e8e5c90078c9f0012189cb830f11b4733f978a92c9a05b87efd9d78",
-    "company_name": "Astranis",
-    "title": "Propulsion Engineer Intern (Summer 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4713184006",
-    "date_posted": "2026-09-23T19:51:39.000Z",
     "level": "internship",
     "source": "greenhouse",
     "role_families": [
