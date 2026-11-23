@@ -197,6 +197,19 @@
     ]
   },
   {
+    "id": "6ba24166ffbe0ed1555572181bcfcc24f9fa612366d9d96bd5f3da07570383fb",
+    "company_name": "Stantec",
+    "title": "Data Scientist Intern, Water",
+    "location": "San Diego, CA",
+    "url": "https://go.vansh.nyc/1GO?s=y",
+    "date_posted": "2026-11-22T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "ecc3727eb7a883087277b432c6e9de36b18f4f4bbcbf1a7fb1817d93de0328f9",
     "company_name": "Fabri",
     "title": "DevOps - IT & Cybersecurity Intern",
@@ -3362,6 +3375,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
