@@ -1,5 +1,124 @@
 [
   {
+    "id": "a0a03ce2c9a81283b1c2a344c139ab80aa44de85c99f68d60fb5f43a3dc9dacc",
+    "company_name": "RTX",
+    "title": "Mechanical Engineering Intern (Summer 2027)",
+    "location": "US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineering-Intern--Summer-2027-_01876207",
+    "date_posted": "2026-11-23T07:03:55.631Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "fff8bbd36dd33b43f38c1e9883a83f7c19e2e7842ced0024f4a18567dbc4978f",
+    "company_name": "RTX",
+    "title": "Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite)",
+    "location": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1",
+    "date_posted": "2026-11-23T07:03:53.365Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "hardware",
+      "mechanical"
+    ]
+  },
+  {
+    "id": "1ef86f595ad18c2d568a1d791cb2b8d02022b677c263435a656771f9b5787986",
+    "company_name": "RTX",
+    "title": "Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite)",
+    "location": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
+    "date_posted": "2026-11-23T07:03:51.096Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "hardware",
+      "mechanical"
+    ]
+  },
+  {
+    "id": "295b7de008c8286585a675df9557256d885d01d41167afb1325502b7952d2b63",
+    "company_name": "RTX",
+    "title": "Mechanical Engineer Intern - Test Equipment",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237",
+    "date_posted": "2026-11-23T07:03:37.313Z",
+    "level": "internship",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "768c03eb46139c0d7376ce7f8054916b6bef26258d8cfc8818db438da3269cff",
+    "company_name": "Kimley-Horn",
+    "title": "Mechanical Engineering Intern - MEP",
+    "location": "US-AZ-Phoenix",
+    "url": "https://careers-kimley-horn.icims.com/jobs/27250/mechanical-engineering-intern---mep/job",
+    "date_posted": "2026-11-23T07:03:14.375Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "e66e4443f8dcd6700302446dcb1a07cac16b783c5ba644b3614c52aa3ec93b77",
+    "company_name": "RTX",
+    "title": "Mechanical Design Engineering Co-op (Spring 2027)",
+    "location": "US-OH-UNIONTOWN-1555 ~ 1555 Corporate Woods Pkwy ~ CORP WOODS",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486",
+    "date_posted": "2026-11-23T07:03:12.362Z",
+    "level": "co-op",
+    "source": "workday",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "2ac83d648ea7cdf3f1d39d5d820bd9208c27b18566b7b40a284158c48ce630b8",
+    "company_name": "GFT",
+    "title": "Intern - Mechanical Engineering (Buildings & Facilities)",
+    "location": "US-PA-State College",
+    "url": "https://careers-gannettfleming.icims.com/jobs/14875/intern---mechanical-engineering-%28buildings-%26-facilities%29/job",
+    "date_posted": "2026-11-23T07:03:10.349Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "cae071416c692193e51cbaa8380a373a590de645c6f568d2384f01feeb136f4b",
+    "company_name": "CEC",
+    "title": "Mechanical Engineering Internship- Summer 2027",
+    "location": "US-PA-Pittsburgh (Moon Township)",
+    "url": "https://careers-cecinc.icims.com/jobs/6558/mechanical-engineering-internship--summer-2027/job",
+    "date_posted": "2026-11-23T07:03:08.334Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "b3d3355fbe0b9824c177a5bef876272f5083df987cc0a48d6def3a1f91cc7b78",
+    "company_name": "Kimley-Horn",
+    "title": "Mechanical Engineering Intern",
+    "location": "US-FL-Palm Beach Gardens",
+    "url": "https://careers-kimley-horn.icims.com/jobs/26609/mechanical-engineering-intern/job",
+    "date_posted": "2026-11-23T07:03:06.321Z",
+    "level": "internship",
+    "source": "icims",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "81d9c6a1be8da660d8eee7725b659ddd67fb92b9c19982a3a9128c868dfe5967",
     "company_name": "Neuromorphic",
     "title": "Robotics Hardware Intern (Winter, Dec 15th - January 15th)",
@@ -15412,19 +15531,6 @@
     ]
   },
   {
-    "id": "768c03eb46139c0d7376ce7f8054916b6bef26258d8cfc8818db438da3269cff",
-    "company_name": "Kimley-Horn",
-    "title": "Mechanical Engineering Intern - MEP",
-    "location": "US-AZ-Phoenix",
-    "url": "https://careers-kimley-horn.icims.com/jobs/27250/mechanical-engineering-intern---mep/job",
-    "date_posted": "2026-10-19T18:40:57.608Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "1ba9ee648de9f0ec514736341d24db64cc516d50676363058ce7644bb3fa7fa0",
     "company_name": "Scale AI",
     "title": "Machine Learning Research Intern (Summer 2027)",
@@ -19532,19 +19638,6 @@
     ]
   },
   {
-    "id": "cae071416c692193e51cbaa8380a373a590de645c6f568d2384f01feeb136f4b",
-    "company_name": "CEC",
-    "title": "Mechanical Engineering Internship- Summer 2027",
-    "location": "US-PA-Pittsburgh (Moon Township)",
-    "url": "https://careers-cecinc.icims.com/jobs/6558/mechanical-engineering-internship--summer-2027/job",
-    "date_posted": "2026-10-08T08:10:06.581Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "1ec7dc93bb00257119fda4d64ddfea65ac9a24b4fd0fc22e5e2791aa1474e2f4",
     "company_name": "CEC",
     "title": "Electrical Engineering Internship- Summer 2027",
@@ -19607,19 +19700,6 @@
     "source": "icims",
     "role_families": [
       "civil-structural"
-    ]
-  },
-  {
-    "id": "b3d3355fbe0b9824c177a5bef876272f5083df987cc0a48d6def3a1f91cc7b78",
-    "company_name": "Kimley-Horn",
-    "title": "Mechanical Engineering Intern",
-    "location": "US-FL-Palm Beach Gardens",
-    "url": "https://careers-kimley-horn.icims.com/jobs/26609/mechanical-engineering-intern/job",
-    "date_posted": "2026-10-08T08:09:54.504Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
     ]
   },
   {
@@ -21989,19 +22069,6 @@
     ]
   },
   {
-    "id": "e66e4443f8dcd6700302446dcb1a07cac16b783c5ba644b3614c52aa3ec93b77",
-    "company_name": "RTX",
-    "title": "Mechanical Design Engineering Co-op (Spring 2027)",
-    "location": "US-OH-UNIONTOWN-1555 ~ 1555 Corporate Woods Pkwy ~ CORP WOODS",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486",
-    "date_posted": "2026-10-04T06:58:08.578Z",
-    "level": "co-op",
-    "source": "workday",
-    "role_families": [
-      "mechanical"
-    ]
-  },
-  {
     "id": "d425dcb59b29b0f128b7dd7406defce783c83a6acf274dd3b881af8a42df79b1",
     "company_name": "RS&H",
     "title": "Roadway/Traffic Control Engineering Intern - Summer 2027",
@@ -22130,19 +22197,6 @@
     "source": "icims",
     "role_families": [
       "electrical"
-    ]
-  },
-  {
-    "id": "2ac83d648ea7cdf3f1d39d5d820bd9208c27b18566b7b40a284158c48ce630b8",
-    "company_name": "GFT",
-    "title": "Intern - Mechanical Engineering (Buildings & Facilities)",
-    "location": "US-PA-State College",
-    "url": "https://careers-gannettfleming.icims.com/jobs/14875/intern---mechanical-engineering-%28buildings-%26-facilities%29/job",
-    "date_posted": "2026-10-02T18:09:20.279Z",
-    "level": "internship",
-    "source": "icims",
-    "role_families": [
-      "mechanical"
     ]
   },
   {

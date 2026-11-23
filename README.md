@@ -6,15 +6,15 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2509 roles.
+2513 roles.
 
 - [Software Engineering](#software-engineering) (1177)
 - [Product Management](#product-management) (59)
-- [Hardware Engineering](#hardware-engineering) (195)
+- [Hardware Engineering](#hardware-engineering) (197)
 - [Data Science](#data-science) (502)
 - [Machine Learning](#machine-learning) (247)
 - [Civil and Structural](#civil-and-structural) (39)
-- [Mechanical Engineering](#mechanical-engineering) (154)
+- [Mechanical Engineering](#mechanical-engineering) (158)
 - [Electrical Engineering](#electrical-engineering) (161)
 - [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (31)
@@ -1276,6 +1276,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| RTX | [Digital Hardware Design Engineer Co-op (Winter/Spring)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1) | US-IA-CEDAR RAPIDS-130 ~ 53… | 0d |
+| RTX | [Digital Hardware Design Engineer Co-op (Summer/Fall 202…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519) | US-IA-CEDAR RAPIDS-130 ~ 53… | 0d |
 | Neuromorphic | [Robotics Hardware Intern (Winter, Dec 15th - January 15…](https://www.workatastartup.com/jobs/124424) | San Francisco, CA | 1d |
 | Neuromorphic | [Robotics Hardware Intern (Winter, Dec 15th - January 15…](https://www.workatastartup.com/jobs/124424) | San Francisco, CA | 1d |
 | 🔥 Tesla | [Software Engineer Intern - SI Hardware Architecture Sim…](https://www.tesla.com/careers/search/job/290756?utm_source=Simplify&ref=Simplify) | Palo Alto, CA | 2d |
@@ -2287,6 +2289,15 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| RTX | [Mechanical Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineering-Intern--Summer-2027-_01876207) | US-MA-MARLBOROUGH-MA1 ~ 100… | 0d |
+| RTX | [Digital Hardware Design Engineer Co-op (Winter/Spring)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1) | US-IA-CEDAR RAPIDS-130 ~ 53… | 0d |
+| RTX | [Digital Hardware Design Engineer Co-op (Summer/Fall 202…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519) | US-IA-CEDAR RAPIDS-130 ~ 53… | 0d |
+| RTX | [Mechanical Engineer Intern - Test Equipment](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237) | US-AZ-TUCSON-805 ~ 1151 E H… | 0d |
+| Kimley-Horn | [Mechanical Engineering Intern - MEP](https://careers-kimley-horn.icims.com/jobs/27250/mechanical-engineering-intern---mep/job) | US-AZ-Phoenix | 0d |
+| RTX | [Mechanical Design Engineering Co-op (Spring 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486) | US-OH-UNIONTOWN-1555 ~ 1555… | 0d |
+| GFT | [Intern - Mechanical Engineering (Buildings & Facilities)](https://careers-gannettfleming.icims.com/jobs/14875/intern---mechanical-engineering-%28buildings-%26-facilities%29/job) | US-PA-State College | 0d |
+| CEC | [Mechanical Engineering Internship- Summer 2027](https://careers-cecinc.icims.com/jobs/6558/mechanical-engineering-internship--summer-2027/job) | US-PA-Pittsburgh (Moon Town… | 0d |
+| Kimley-Horn | [Mechanical Engineering Intern](https://careers-kimley-horn.icims.com/jobs/26609/mechanical-engineering-intern/job) | US-FL-Palm Beach Gardens | 0d |
 | NVIDIA | [Cost Accountant Intern, Global Operations and Manufactu…](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1) | US, CA, Santa Clara | 3d |
 | GlobalFoundries | [AI/ML Analytics Intern, Digital Manufacturing](https://go.vansh.nyc/1EA?s=y) | New York, NYMalta, NY | 3d |
 | Ralliant | [Electrical Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169?utm_source=Simplify&ref=Simplify) | Beaverton, OR | 4d |
@@ -2338,7 +2349,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | RTX | [Mechanical - Structural/Thermal Engineering Intern (Sum…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical---Structural-Thermal-Engineering-Intern--Summer-2027-_01882958) | US-AZ-TUCSON-805 ~ 1151 E H… | 1mo |
 | RTX | [Turbine Aero-Thermal Systems Intern (Summer 2027) (Onsi…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Turbine-Aero-Thermal-Systems-Intern--Summer-2027---Onsite-_01882307) | US-CT-EAST HARTFORD-ETC ~ 4… | 1mo |
 | Zebra Technologies | [Mechanical Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627?utm_source=Simplify&ref=Simplify) | Holtsville, NY | 1mo |
-| Kimley-Horn | [Mechanical Engineering Intern - MEP](https://careers-kimley-horn.icims.com/jobs/27250/mechanical-engineering-intern---mep/job) | US-AZ-Phoenix | 1mo |
 | Micron Technology | [Design Engineer Intern, Pathfinding](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189?utm_source=github-vansh-ouckah) | San Jose, CAFolsom, CA | 1mo |
 | Micron Technology | [Design Engineer Intern, HBM](https://micron.wd1.myworkdayjobs.com/external/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552?utm_source=github-vansh-ouckah) | Richardson, TX | 1mo |
 | Micron Technology | [HBM Design Engineer Intern - HBM](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545?utm_source=github-vansh-ouckah) | Richardson, TX | 1mo |
@@ -2361,8 +2371,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Applied Materials | [2027 Summer Mechanical Engineer Intern - BS or MS (Glou…](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657) | Gloucester,MA | 1mo |
 | Applied Materials | [2027 Summer Intern - Mechanical Engineer - BS/MS Degree…](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426) | Santa Clara,CA | 1mo |
 | RTX | [FPGA Electrical Design Engineer Intern (Summer 2027)(On…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989) | US-AZ-TUCSON-M02 ~ 1151 E H… | 1mo |
-| CEC | [Mechanical Engineering Internship- Summer 2027](https://careers-cecinc.icims.com/jobs/6558/mechanical-engineering-internship--summer-2027/job) | US-PA-Pittsburgh (Moon Town… | 1mo |
-| Kimley-Horn | [Mechanical Engineering Intern](https://careers-kimley-horn.icims.com/jobs/26609/mechanical-engineering-intern/job) | US-FL-Palm Beach Gardens | 1mo |
 | RTX | [RF Mechanical Engineer Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Mechanical-Engineer-Intern--Summer-2027--Onsite-_01871998) | US-AZ-TUCSON-M02 ~ 1151 E H… | 1mo |
 | Motiva | [Motiva Summer Internship Position: Mechanical Engineeri…](https://motiva.wd1.myworkdayjobs.com/MotivaCareers/job/Port-Arthur-TX/Motiva-Summer-Internship-Position--Mechanical-Engineering-Degree_4405) | Port Arthur, TX | 1mo |
 | Nissan Global | [Manufacturing Digital Data Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881?utm_source=Simplify&ref=Simplify) | Decherd, TN | 1mo |
@@ -2381,10 +2389,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Cirrus Logic | [Analog Design Engineer Intern 🎓](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
 | Cirrus Logic | [Digital Design Engineer Intern 🎓](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply?utm_source=Simplify&ref=Simplify) | Austin, TX | 1mo |
 | General Motors | [Summer Intern - Global Manufacturing Robotics & Automat…](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348?utm_source=Simplify&ref=Simplify) | Warren, MI | 1mo |
-| RTX | [Mechanical Design Engineering Co-op (Spring 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486) | US-OH-UNIONTOWN-1555 ~ 1555… | 1mo |
 | Vertiv | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257?utm_source=Simplify&ref=Simplify) | Delaware, OHFort Lauderdale… | 1mo |
 | 🔥 AMD | [Masters Photonics Design Engineering Co-op 🎓](https://careers.amd.com/jobs/91633?icims=1&utm_source=Simplify&ref=Simplify) | San Jose, CA | 1mo |
-| GFT | [Intern - Mechanical Engineering (Buildings & Facilities)](https://careers-gannettfleming.icims.com/jobs/14875/intern---mechanical-engineering-%28buildings-%26-facilities%29/job) | US-PA-State College | 1mo |
 | Charter Manufacturing | [Smart Manufacturing Engineer Intern](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133?utm_source=Simplify&ref=Simplify) | Mequon, WISaukville, WI | 1mo |
 | RTX | [Aftermarket and Sustainment Engineering - Repair Design…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Repair-Design-Engineer-Co-Op--January-2027---Hybrid-_01874095) | US-PR-AGUADILLA-110 ~ Rd 11… | 1mo |
 | Regeneron Pharmaceuticals | [Data Science & Digital Innovation Co-op - Preclinical M…](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1?utm_source=Simplify&ref=Simplify) | Tarrytown, NY | 1mo |
