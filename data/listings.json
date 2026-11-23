@@ -2833,6 +2833,19 @@
     ]
   },
   {
+    "id": "2b7a190ab0585fbd7d2b43f9076256e18397d34540ce4fb6e1e1180d27fb105c",
+    "company_name": "Strava",
+    "title": "Software Engineering Intern, Android, Subscriptions",
+    "location": "San Francisco, CA",
+    "url": "https://go.vansh.nyc/1He?s=y",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "34044dd1ea053e6db340c5e71799da782988a6a7b40914ff449f090a7fd06e10",
     "company_name": "WTW",
     "title": "Data Analyst Intern",
@@ -3440,6 +3453,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
