@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2522 roles.
+2520 roles.
 
 - [Software Engineering](#software-engineering) (1184)
 - [Product Management](#product-management) (59)
@@ -14,10 +14,10 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Data Science](#data-science) (504)
 - [Machine Learning](#machine-learning) (247)
 - [Civil and Structural](#civil-and-structural) (39)
-- [Mechanical Engineering](#mechanical-engineering) (158)
+- [Mechanical Engineering](#mechanical-engineering) (157)
 - [Electrical Engineering](#electrical-engineering) (161)
 - [Chemical Engineering](#chemical-engineering) (41)
-- [Aerospace Engineering](#aerospace-engineering) (31)
+- [Aerospace Engineering](#aerospace-engineering) (30)
 - [Other](#other) (35)
 
 ## Software Engineering
@@ -2449,7 +2449,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Rocket Lab Corporation | [Manufacturing Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) | Long Beach, CA | 2mo |
 | Rocket Lab Corporation | [Manufacturing Engineering Intern Spring 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7987020003) | Middle River, MD | 2mo |
 | Rocket Lab Corporation | [Manufacturing Engineering Intern Spring 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7984943003) | Long Beach, CA | 2mo |
-| Anduril Industries | [Winter 2027 Mechanical Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) | Quincy, Massachusetts, Unit… | 2mo |
 | Anduril Industries | [Winter 2027 Manufacturing Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) | Lexington, Massachusetts, U… | 2mo |
 | Micron Technology | [HBM SoC Physical Design Engineer Intern 🎓](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041?utm_source=Simplify&ref=Simplify) | Folsom, CA | 2mo |
 | Rocket Lab Corporation | [Mechanical Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) | Long Beach, CA | 2mo |
@@ -2704,7 +2703,6 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Astranis | [Propulsion Manufacturing Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705649006) | San Francisco | 2mo |
 | Rocket Lab Corporation | [Propulsion Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) | Long Beach, CA | 2mo |
 | Rocket Lab Corporation | [Propulsion Analyst Intern Spring 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986824003) | Long Beach, CA | 2mo |
-| Anduril Industries | [Winter 2027 Propulsion Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) | Costa Mesa, California, Uni… | 2mo |
 | Vast | [Emerging Talent - Mechanical/Aerospace Engineering Inte…](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) | Long Beach, California, Uni… | 2mo |
 | Apex Technology Inc | [Avionics Test Engineering Internship (Spring 2027)](https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673) | Los Angeles | 2mo |
 | Apex Technology Inc | [Propulsion Internship (Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/1a4b78cb-f601-451c-ad27-e5e03324650e) | Los Angeles | 2mo |
