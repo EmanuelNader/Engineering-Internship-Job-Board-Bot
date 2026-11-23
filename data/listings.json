@@ -145,6 +145,19 @@
     ]
   },
   {
+    "id": "78fba5c91101cdc62f804ffd013067d4b8de0cc0b9cb17c40fa2a607fe78aaa5",
+    "company_name": "Saab",
+    "title": "Software Engineer Co-op 🇺🇸",
+    "location": "East Syracuse, NY",
+    "url": "https://go.vansh.nyc/1Hk?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "859523ad1ae40c508b889899418f9d8a39d5489cc06262c81189eb1fc37d7913",
     "company_name": "First Resonance",
     "title": "Software Engineer Intern - Platform",
@@ -3479,6 +3492,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
