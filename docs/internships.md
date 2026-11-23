@@ -6,7 +6,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2522 roles.
+2523 roles.
 
 - [Software Engineering](#software-engineering) (1185)
 - [Product Management](#product-management) (59)
@@ -17,7 +17,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 - [Mechanical Engineering](#mechanical-engineering) (158)
 - [Electrical Engineering](#electrical-engineering) (161)
 - [Chemical Engineering](#chemical-engineering) (41)
-- [Aerospace Engineering](#aerospace-engineering) (30)
+- [Aerospace Engineering](#aerospace-engineering) (31)
 - [Other](#other) (35)
 
 ## Software Engineering
@@ -2680,6 +2680,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| RTX | [Avionics Supplier Quality Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Avionics-Supplier-Quality-Intern--Summer-2027-_01890601) | US-IA-CEDAR RAPIDS-108 ~ 40… | 0d |
 | RTX | [F135 Engine Propulsion Systems Analysis Engineering Int…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Engine-Propulsion-Systems-Analysis-Engineering-Intern--Summer-2027---Onsite-_01886311) | US-CT-EAST HARTFORD-ETC ~ 4… | 6d |
 | Reliable Robotics | [Avionics Intern](https://jobs.ashbyhq.com/reliable-robotics/f4073938-ccdb-46fb-aa65-6715981d27ee/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1w |
 | RTX | [Sr. Technical Fellow, Gas Turbine Combustors and Advanc…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-L--411-Silver-Ln--RTRC-L/Sr-Technical-Fellow--Gas-Turbine-Combustors-and-Advanced-Propulsion_01874675-1) | US-CT-EAST HARTFORD-RTRC L… | 3w |
