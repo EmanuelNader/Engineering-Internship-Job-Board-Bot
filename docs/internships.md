@@ -6,14 +6,14 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2543 roles.
+2544 roles.
 
 - [Software Engineering](#software-engineering) (1198)
 - [Product Management](#product-management) (61)
 - [Hardware Engineering](#hardware-engineering) (198)
 - [Data Science](#data-science) (505)
 - [Machine Learning](#machine-learning) (248)
-- [Civil and Structural](#civil-and-structural) (39)
+- [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (159)
 - [Electrical Engineering](#electrical-engineering) (163)
 - [Chemical Engineering](#chemical-engineering) (41)
@@ -2271,6 +2271,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| CEC | [Civil Engineering Co-Op/Intern -Summer 2027](https://careers-cecinc.icims.com/jobs/6853/civil-engineering-co-op-intern--summer-2027/job) | US-OH-Columbus | 0d |
 | RS&H | [Airfield Civil Engineering Intern - Summer 2027](https://careers-rsandh.icims.com/jobs/8769/airfield-civil-engineering-intern---summer-2027/job) | US-AZ-Phoenix | 1w |
 | RTX | [Structural Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158) | US-CT-EAST HARTFORD-ENG ~ 4… | 1w |
 | Kimley-Horn | [Civil Engineering Intern - Water/Wastewater](https://careers-kimley-horn.icims.com/jobs/27668/civil-engineering-intern---water-wastewater/job) | US-TX-Weatherford | 2w |
