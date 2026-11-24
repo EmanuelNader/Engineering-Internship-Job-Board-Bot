@@ -1,5 +1,57 @@
 [
   {
+    "id": "158535c5fae7beb641bc3a6d5d19c5a4371bdffe4219b7d5ba5ee9a30363fcc2",
+    "company_name": "Legrand",
+    "title": "Electrical Engineer Intern",
+    "location": "Canonsburg, PA",
+    "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "8da9227fd59ad81029c73ae8c35f85f2d74e833843a6d0af3f1b130ee8db35fa",
+    "company_name": "Culver's",
+    "title": "Business Analytics Intern",
+    "location": "Prairie du Sac, WI",
+    "url": "https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "b7fc1f247647bf98c6a1ef55d2a3655e60e9e1232153613ff14d8d791fb17848",
+    "company_name": "ViaSat",
+    "title": "Embedded Software Engineer Intern",
+    "location": "Tempe, AZ",
+    "url": "https://careers.viasat.com/jobs/10478?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "f8827c985db3fa5c373a753f05c01f0750dd9c10aa9335f30b0b8641332d653e",
+    "company_name": "Oscar Health",
+    "title": "Software Engineer Intern",
+    "location": "NYC",
+    "url": "https://oscarhealth.com/careers/jobs?gh_jid=8407472&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "ef9740d5fb7a983a530662770d6cb21a25c634818f808e88ae46d0a97d09f210",
     "company_name": "Nuro",
     "title": "Technical Program Manager, Systems Intern",
@@ -3583,6 +3635,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
