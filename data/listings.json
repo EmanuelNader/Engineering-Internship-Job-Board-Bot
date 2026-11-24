@@ -249,6 +249,19 @@
     ]
   },
   {
+    "id": "5508f82aae090fbc4d9c9f22f85c87745bb3e0bff89fb5bb0622681fee9901e5",
+    "company_name": "Rockwell Automation",
+    "title": "Software Engineer Intern 🛂",
+    "location": "Milwaukee, WI",
+    "url": "https://go.vansh.nyc/1HN?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "61369d8a266fcab3440eb0d870515e58723415b9150fb52acbb05f1e1235fe41",
     "company_name": "Lifeway",
     "title": "Front-End Engineer Intern",
@@ -3726,6 +3739,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
