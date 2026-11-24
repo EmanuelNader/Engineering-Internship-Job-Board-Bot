@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2533 roles.
+2539 roles.
 
-- [Software Engineering](#software-engineering) (1191)
+- [Software Engineering](#software-engineering) (1196)
 - [Product Management](#product-management) (61)
 - [Hardware Engineering](#hardware-engineering) (197)
 - [Data Science](#data-science) (505)
-- [Machine Learning](#machine-learning) (247)
+- [Machine Learning](#machine-learning) (248)
 - [Civil and Structural](#civil-and-structural) (39)
 - [Mechanical Engineering](#mechanical-engineering) (158)
 - [Electrical Engineering](#electrical-engineering) (163)
@@ -132,16 +132,20 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Samsung Semiconductor | [Intern - SSD Firmware Development](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) | San Jose, CA | 1w |
 | Ericsson | [AI Software Engineer Intern 🛂](https://go.vansh.nyc/1zB?s=y) | Plano, TX | 1w |
 | Eight Sleep | [Firmware Intern](https://go.vansh.nyc/1zP?s=y) | **4 locations**San Francisc… | 1w |
+| Strava | [Software Engineer Intern - Server - Next Sports](https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1w |
 | Strava | [Software Engineering Intern, Android, Subscriptions](https://go.vansh.nyc/1He?s=y) | San Francisco, CA | 1w |
 | Camping World | [Software Engineer Intern](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1w |
 | Samsung Semiconductor | [SSD Firmware Development Intern](https://go.vansh.nyc/1z0?s=y) | San Jose, CA | 1w |
+| Strava | [Software Engineer Intern - Server - Comms](https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1w |
 | NetApp | [Software Engineer Intern, Systems](https://go.vansh.nyc/1zs?s=y) | San Jose, CA | 1w |
 | KBR Wyle Services | [Image Processing Software Engineer Intern](https://go.vansh.nyc/1zx?s=y) | Sioux Falls, SD | 1w |
 | Aurora Innovation | [Software Engineer Intern - Vehicle Platforms](https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true&utm_source=Simplify&ref=Simplify) | Mountain View, CA | 1w |
 | NetApp | [Software Engineer Intern, Cloud](https://go.vansh.nyc/1zr?s=y) | San Jose, CA | 1w |
+| Strava | [Software Engineer Intern - Server - User Lifecycle](https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1w |
 | Valeo | [Software Engineer Intern - Year-Round](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794) | Troy, MI | 1w |
 | Octant Bio | [Software Engineer - Internship](https://www.octant.bio/jobs?gh_jid=6260895004) | Emeryville, CA | 1w |
 | IDEMIA North America | [Full Stack Software Engineering Intern](https://go.vansh.nyc/1z9?s=y) | Eden Prairie, MN | 1w |
+| Strava | [Software Engineer Intern - Android - Subscriptions](https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1w |
 | 🔥 TikTok | [Software Engineer Intern - TikTok Search 🎓](https://lifeattiktok.com/search/7704696088079010053?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1w |
 | SK hynix | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1w |
 | Cintas | [OT Software Engineer Intern, IT](https://go.vansh.nyc/1zH?s=y) | United States | 1w |
@@ -158,6 +162,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Bask | [Frontend Engineering Intern](https://go.vansh.nyc/1wc?s=y) | United States | 1w |
 | Cintas | [IT OT Software Engineer Intern](https://go.vansh.nyc/1yj?s=y) | Mason, OH | 1w |
 | Ancestry | [Software Engineer - Observability - Co-op](https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434) | Draper, UT | 1w |
+| Brex | [Software Engineer - Intern - Summer 2027](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | New York City, NY +2 | 1w |
 | Vital Lyfe | [Software Engineer Intern](https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true&utm_source=Simplify&ref=Simplify) | Torrance, CA | 1w |
 | Vertiv | [Software Engineer Intern 🎓](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817?utm_source=Simplify&ref=Simplify) | Huntsville, AL | 1w |
 | Leidos | [Junior Software Engineer / Data Scientist Intern](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510) | Tucson, AZ | 1w |
@@ -2028,6 +2033,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Boston Scientific | [AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837?utm_source=Simplify&ref=Simplify) | Marlborough, MAMaple Grove,… | 1w |
 | Carnegie Mellon University | [AI Engineer Intern, Mission Innovation Lab 🛂](https://go.vansh.nyc/1Az?s=y) | Pittsburgh, PA | 1w |
 | 🔥 TikTok | [Machine Learning Scientist Intern - Local Services 🎓](https://lifeattiktok.com/search/7703925583541979445?utm_source=Simplify&ref=Simplify) | San Jose, CA | 1w |
+| Strava | [Machine Learning Engineer Intern - AI/ML Data Products](https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 1w |
 | Camping World | [Data Analyst Intern - AI & Machine Learning Focus 🎓](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300?utm_source=Simplify&ref=Simplify) | Chicago, ILLincolnshire, IL | 1w |
 | Carnegie Mellon University | [Cyber AI Engineer Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 1w |
 | Intermountain Healthcare | [AI/ML Engineer Intern](https://go.vansh.nyc/1xt?s=y) | United States | 1w |
