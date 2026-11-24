@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "c288630bb34d3a1014cb2d9694f2cbc6f04482bc838ebf5d0621119142aaefbd",
+    "company_name": "Intel",
+    "title": "Design Verification Intern",
+    "location": "**4 locations**Fort Collins, COHillsboro, ORSanta Clara, CAAustin, TX",
+    "url": "https://go.vansh.nyc/1Ie?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "d2f9f01c7bd6551ea43e8aa8dfdbc030ef3c80e472207fc61e7d12f8c5d92723",
     "company_name": "SharkNinja",
     "title": "Firmware Engineer Intern - Advanced Development",
@@ -3765,6 +3778,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
