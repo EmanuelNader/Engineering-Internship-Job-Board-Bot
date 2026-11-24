@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "d2f9f01c7bd6551ea43e8aa8dfdbc030ef3c80e472207fc61e7d12f8c5d92723",
+    "company_name": "SharkNinja",
+    "title": "Firmware Engineer Intern - Advanced Development",
+    "location": "Needham, MA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "f8827c985db3fa5c373a753f05c01f0750dd9c10aa9335f30b0b8641332d653e",
     "company_name": "Oscar Health",
     "title": "Software Engineer Intern",
@@ -3739,6 +3752,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
