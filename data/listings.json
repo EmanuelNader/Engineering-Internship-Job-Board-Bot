@@ -340,6 +340,19 @@
     ]
   },
   {
+    "id": "c2a36f1e1f580f4bcccda488026711a2935a7e2cb602b4af98f4fe88b58c81d9",
+    "company_name": "Illumio",
+    "title": "Product Manager Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://go.vansh.nyc/1HC?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "pm-program"
+    ]
+  },
+  {
     "id": "e79cd46884629a86b85795df20a63d590eb565609f0c517a6974e4a9b37dbd64",
     "company_name": "RTX",
     "title": "Embedded System Engineering Intern",
@@ -3635,6 +3648,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
