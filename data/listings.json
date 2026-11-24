@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "8d5d383df7405a705354fd5c25401875d931bfe5b8e3b3085cb8bd3155ca8826",
+    "company_name": "🔥 AMD",
+    "title": "Masters AI Rack/Cluster Design Engineering Co-op 🎓",
+    "location": "Austin, TX",
+    "url": "https://careers.amd.com/jobs/89564?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "mechanical"
+    ]
+  },
+  {
     "id": "8da9227fd59ad81029c73ae8c35f85f2d74e833843a6d0af3f1b130ee8db35fa",
     "company_name": "Culver's",
     "title": "Business Analytics Intern",
@@ -3752,6 +3765,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
