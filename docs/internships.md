@@ -6,9 +6,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2551 roles.
+2563 roles.
 
-- [Software Engineering](#software-engineering) (1203)
+- [Software Engineering](#software-engineering) (1215)
 - [Product Management](#product-management) (61)
 - [Hardware Engineering](#hardware-engineering) (200)
 - [Data Science](#data-science) (505)
@@ -27,21 +27,33 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | Apex Technology Inc | [Software Engineer, Test Automation Internship (Summer 2…](https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d) | Los Angeles | 0d |
+| Contoro Robotics | [Robotics Software Engineer Intern - Autonomy - Automati…](https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434) | Austin, TX | 0d |
 | Apex Technology, Inc. | [Software Engineer Intern, Test Automation](https://go.vansh.nyc/1It?s=y) | Los Angeles, CA | 0d |
 | ViaSat | [Embedded Software Engineer Intern](https://careers.viasat.com/jobs/10478?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Tempe, AZ | 0d |
 | SharkNinja | [Firmware Engineer Intern - Advanced Development](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006?utm_source=Simplify&ref=Simplify) | Needham, MA | 0d |
 | Oscar Health | [Software Engineer Intern](https://oscarhealth.com/careers/jobs?gh_jid=8407472&utm_source=Simplify&ref=Simplify) | NYC | 0d |
 | Lifeway | [Software Engineer Intern - Full Stack - Back-End](https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Remote in USA | 1d |
 | APEX Analytix | [Software Engineer Intern - Platform Tooling](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19?utm_source=Simplify&ref=Simplify) | Greensboro, NC | 1d |
+| Lifeway | [Summer Internship - Software Engineer Full Stack - Back…](https://hq-lifeway.icims.com/jobs/27217/summer-internship-%7c-software-engineer-full-stack-%7c-back-end/job) | Remote - USA | 1d |
 | Motorola Solutions | [Mission Critical Networks Software Engineer Intern 🇺🇸](https://go.vansh.nyc/1Hn?s=y) | Schaumburg, ILChicago, IL | 1d |
+| T-Mobile | [Summer 2027 Database Platform Engineering Site Reliabil…](https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE--Internship_REQ380920) | Atlanta, GA | 1d |
+| T-Mobile | [Summer 2027 Database Platform Engineering Site Reliabil…](https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE---Internship_REQ380923) | Atlanta, GA | 1d |
 | Contoro Robotics | [Robotics Software Engineer Intern, Autonomy & Automation](https://go.vansh.nyc/1Hp?s=y) | Austin, TX | 1d |
 | Rockwell Automation | [Software Engineer Intern 🛂](https://go.vansh.nyc/1HN?s=y) | Milwaukee, WI | 1d |
 | Lifeway | [Front-End Engineer Intern](https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Nashville, TNRemote in USA | 1d |
+| Rockwell Automation | [Intern - Software Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-1) | Milwaukee, WI | 1d |
 | Aptima Inc. (All Jobs) | [Software Engineer Intern](https://go.vansh.nyc/1Is?s=y) | Fairborn, OH | 1d |
 | Saab | [Software Engineer Co-op 🇺🇸](https://go.vansh.nyc/1Hk?s=y) | East Syracuse, NY | 1d |
+| Lifeway | [Summer Internship - Front-End Engineer](https://hq-lifeway.icims.com/jobs/27216/summer-internship-%7c-front-end-engineer/job) | Remote - USA | 1d |
 | First Resonance | [Software Engineer Intern - Platform](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 1d |
+| Viasat | [Embedded Software Engineer Intern - Viasat Government](https://careers-viasat.icims.com/jobs/10478/job) | Tempe, AZ | 1d |
 | SharkNinja | [Firmware Engineering Intern, Advanced Development](https://go.vansh.nyc/1HJ?s=y) | Needham, MA | 1d |
 | Benchling | [Software Engineer Intern](https://go.vansh.nyc/1GP?s=y) | San Francisco, CA | 1d |
+| Raytheon | [Embedded System Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950) | Windsor Locks, CT | 1d |
+| Philips | [Intern - AI-Agentic Embedded Software Development - Bot…](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989) | Bothell, WA | 1d |
+| Benchling | [Software Engineer - Intern - Summer 2027](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099) | San Francisco, CA | 1d |
+| Genentech | [2027 Summer Intern - Software Engineer - Robotics - Lab…](https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832) | South San Francisco, CA | 1d |
+| Motorola Solutions | [Mission Critical Networks Software Engineer - Summer 20…](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631) | Schaumburg, IL +1 | 1d |
 | T-Mobile | [Site Reliability Engineering (SRE) Intern, Database Pla…](https://go.vansh.nyc/1Ik?s=y) | Atlanta, GA | 1d |
 | RTX | [Embedded System Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950) | US-CT-WINDSOR LOCKS-B1 ~ 1… | 1d |
 | Philips | [Embedded Software Development Intern, AI-Agentic](https://go.vansh.nyc/1Ij?s=y) | Bothell, WA | 1d |

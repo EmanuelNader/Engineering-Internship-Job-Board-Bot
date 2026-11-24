@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "47f2c31a8912ca3011575f8d96fbb01ecb8c4ecf30fd01ed6446f3f0d0b9387f",
+    "company_name": "Contoro Robotics",
+    "title": "Robotics Software Engineer Intern - Autonomy - Automation",
+    "location": "Austin, TX",
+    "url": "https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "5b9b4df0897c893642909bd3b85a19b30cf73ab8d58c55204c3b4043673ee37b",
     "company_name": "RTX",
     "title": "FPGA Electrical Engineer Intern (Summer 2027)",
@@ -315,6 +328,19 @@
     ]
   },
   {
+    "id": "23588ea11e0afb8cfb18ab16b41e405c058740c1320478c444eeb8ad673d0364",
+    "company_name": "Lifeway",
+    "title": "Summer Internship - Software Engineer Full Stack - Back-End",
+    "location": "Remote - USA",
+    "url": "https://hq-lifeway.icims.com/jobs/27217/summer-internship-%7c-software-engineer-full-stack-%7c-back-end/job",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "318dc51676bbb1a00ddd1aa8fc8628ce2f807bee0da35e7871c9a267b8d995c2",
     "company_name": "Motorola Solutions",
     "title": "Mission Critical Networks Software Engineer Intern 🇺🇸",
@@ -338,6 +364,32 @@
     "source": "workday",
     "role_families": [
       "aerospace"
+    ]
+  },
+  {
+    "id": "4fe020c703b00b02890f9a521ac9a986f7ab91a3d4c8ca8edb1fed265219af37",
+    "company_name": "T-Mobile",
+    "title": "Summer 2027 Database Platform Engineering Site Reliability Engineering - SRE- Internship",
+    "location": "Atlanta, GA",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE--Internship_REQ380920",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "50f56a71efc7d903c19ed82e33719c37d38d2c19d54db0eb481625791d905f69",
+    "company_name": "T-Mobile",
+    "title": "Summer 2027 Database Platform Engineering Site Reliability Engineering - SRE - Internship",
+    "location": "Atlanta, GA",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE---Internship_REQ380923",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -393,6 +445,19 @@
     ]
   },
   {
+    "id": "6503f63e7ea69a891f0ad6b723c8ba521f4e4c2ce4e0625c19bd821307dd13e5",
+    "company_name": "Rockwell Automation",
+    "title": "Intern - Software Engineer",
+    "location": "Milwaukee, WI",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external-rockwell-automation-early-careers/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-1",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "6a3506d89498626cc5f4d2cb703826c0597179bbeba361d737d37050785b02db",
     "company_name": "Aptima Inc. (All Jobs)",
     "title": "Software Engineer Intern",
@@ -419,11 +484,37 @@
     ]
   },
   {
+    "id": "84091b863b6b83a330f9ff987d503ec01bde206959a31fe66b89392353f8ee5e",
+    "company_name": "Lifeway",
+    "title": "Summer Internship - Front-End Engineer",
+    "location": "Remote - USA",
+    "url": "https://hq-lifeway.icims.com/jobs/27216/summer-internship-%7c-front-end-engineer/job",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "859523ad1ae40c508b889899418f9d8a39d5489cc06262c81189eb1fc37d7913",
     "company_name": "First Resonance",
     "title": "Software Engineer Intern - Platform",
     "location": "LA",
     "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "87ca159435b510799a3b7d89244d08005de76f730b1179e2fa510b50f190468f",
+    "company_name": "Viasat",
+    "title": "Embedded Software Engineer Intern - Viasat Government",
+    "location": "Tempe, AZ",
+    "url": "https://careers-viasat.icims.com/jobs/10478/job",
     "date_posted": "2026-11-23T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -484,6 +575,45 @@
     ]
   },
   {
+    "id": "b0d42a9b6c9654db8c89cca73b0195d79e4e1af2bb455626c55c2a5346f5d838",
+    "company_name": "Raytheon",
+    "title": "Embedded System Engineering Intern",
+    "location": "Windsor Locks, CT",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "b832f2c453175b990ff6a31518a7f533839c090e6e2529d6ccd77a479937c6dc",
+    "company_name": "Philips",
+    "title": "Intern - AI-Agentic Embedded Software Development - Bothell - WA - Summer 2027",
+    "location": "Bothell, WA",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "c1fac403d0ccdfb56fc538ff81549624d8810b49fa5d29233451966c62066087",
+    "company_name": "Benchling",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "c2a36f1e1f580f4bcccda488026711a2935a7e2cb602b4af98f4fe88b58c81d9",
     "company_name": "Illumio",
     "title": "Product Manager Intern",
@@ -494,6 +624,32 @@
     "source": "github",
     "role_families": [
       "pm-program"
+    ]
+  },
+  {
+    "id": "ca2dbbfe64bb0dac891c7ad5d4d0bd42b22afe6d1524504a8de3962135bf9fdb",
+    "company_name": "Genentech",
+    "title": "2027 Summer Intern - Software Engineer - Robotics - Lab Automation",
+    "location": "South San Francisco, CA",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "cf0a970e66c1cde635b3bc1a610749f1eccb4cddcba61ca64e70e8d88e005484",
+    "company_name": "Motorola Solutions",
+    "title": "Mission Critical Networks Software Engineer - Summer 2027 Internship",
+    "location": "Schaumburg, IL +1",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
