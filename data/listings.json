@@ -301,6 +301,19 @@
     ]
   },
   {
+    "id": "8a8820d923aba06d2206d112be1faee8c256388a3b60e99a2535bcbbb66c9ab5",
+    "company_name": "SharkNinja",
+    "title": "Firmware Engineering Intern, Advanced Development",
+    "location": "Needham, MA",
+    "url": "https://go.vansh.nyc/1HJ?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "92a38fbb3a2b297a64984e1fdb7dffeafda3336f779848cdf4bf5ce9bcd83a8f",
     "company_name": "3M",
     "title": "Internship - 2027 Undergraduate Manufacturing Technology Intern",
@@ -3713,6 +3726,19 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "date_posted": "2026-11-12T00:00:00.000Z",
     "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "946431b70ceb43de9eaa6f71c2b88078bc638214f9abe000d3675aea2712fad0",
+    "company_name": "Brex",
+    "title": "Software Engineer - Intern - Summer 2027",
+    "location": "New York City, NY +2",
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "date_posted": "2026-11-12T00:00:00.000Z",
+    "level": "internship",
     "source": "github",
     "role_families": [
       "swe"
