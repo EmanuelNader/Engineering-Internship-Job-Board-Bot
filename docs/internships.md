@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2574 roles.
+2575 roles.
 
 - [Software Engineering](#software-engineering) (1219)
 - [Product Management](#product-management) (61)
 - [Hardware Engineering](#hardware-engineering) (203)
 - [Data Science](#data-science) (509)
-- [Machine Learning](#machine-learning) (248)
+- [Machine Learning](#machine-learning) (249)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (159)
 - [Electrical Engineering](#electrical-engineering) (164)
@@ -2046,6 +2046,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Aerospace Corporation | [Machine Learning Engineer Undergrad Intern 🇺🇸](https://go.vansh.nyc/1Jh?s=y) | El Segundo, CAChantilly, VA | 2d |
 | Artefact | [AI Engineer Intern](https://go.vansh.nyc/1Gz?s=y) | New York, NY | 3d |
 | EP Wealth Advisors | [Data AI Engineer Intern](https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply?utm_source=Simplify&ref=Simplify) | Austin, TXTorrance, CA | 4d |
 | Smule | [Machine Learning Engineer Intern](https://go.vansh.nyc/1En?s=y) | Salt Lake City, UT | 5d |
