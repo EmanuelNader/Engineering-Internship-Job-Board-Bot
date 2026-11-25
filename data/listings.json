@@ -1,5 +1,44 @@
 [
   {
+    "id": "abb73fd962c1981ec835324af75090a24a373afc01fd45cd4c642a6538d8db7e",
+    "company_name": "Advanced Energy",
+    "title": "Firmware Engineer Intern",
+    "location": "Fort Collins, CO",
+    "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "c7694211472e99cc72fd7e54102d49c9fb668ca584e01e2b1b615f00566fe320",
+    "company_name": "Ralliant",
+    "title": "Hardware Engineering Co-op",
+    "location": "Solon, OH",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "co-op",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "e9409f3611cb68b2935715af3e57df32dfc28208aa5d88fcb4c4f46777645b66",
+    "company_name": "Lightmatter",
+    "title": "Design Verification Intern",
+    "location": "Boston, MA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5493962008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "53c94bab2e3b75dc960b04b5e630ba46e98d6f5b743351c0ed9c9147a6c11cc6",
     "company_name": "Apex Technology Inc",
     "title": "Software Engineer, Test Automation Internship (Summer 2027)",

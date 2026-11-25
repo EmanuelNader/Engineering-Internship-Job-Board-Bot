@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2566 roles.
+2569 roles.
 
-- [Software Engineering](#software-engineering) (1216)
+- [Software Engineering](#software-engineering) (1217)
 - [Product Management](#product-management) (61)
-- [Hardware Engineering](#hardware-engineering) (201)
+- [Hardware Engineering](#hardware-engineering) (203)
 - [Data Science](#data-science) (506)
 - [Machine Learning](#machine-learning) (248)
 - [Civil and Structural](#civil-and-structural) (40)
@@ -26,6 +26,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Advanced Energy | [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Fort Collins, CO | 0d |
 | Apex Technology Inc | [Software Engineer, Test Automation Internship (Summer 2…](https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d) | Los Angeles | 1d |
 | Contoro Robotics | [Robotics Software Engineer Intern - Autonomy - Automati…](https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434) | Austin, TX | 1d |
 | Apex Technology, Inc. | [Software Engineer Intern, Test Automation](https://go.vansh.nyc/1It?s=y) | Los Angeles, CA | 1d |
@@ -1317,6 +1318,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Ralliant | [Hardware Engineering Co-op](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451?utm_source=Simplify&ref=Simplify) | Solon, OH | 0d |
+| Lightmatter | [Design Verification Intern](https://boards.greenhouse.io/lightmatter/jobs/5493962008?utm_source=Simplify&ref=Simplify) | Boston, MA | 0d |
 | Reach Labs | [Hardware Prototyping Intern](https://go.vansh.nyc/1IF?s=y) | Redwood City, CA | 1d |
 | RTX | [FPGA Electrical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/FPGA-Electrical-Engineer-Intern--Summer-2027-_01890532) | US-CA-EL SEGUNDO-E01 ~ 2000… | 1d |
 | General Motors | [Software Verification Engineer Intern, AV/AI Platform](https://go.vansh.nyc/1Ir?s=y) | Warren, MI | 1d |
