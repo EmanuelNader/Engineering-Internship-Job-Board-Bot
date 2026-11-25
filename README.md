@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2564 roles.
+2566 roles.
 
 - [Software Engineering](#software-engineering) (1216)
 - [Product Management](#product-management) (61)
-- [Hardware Engineering](#hardware-engineering) (200)
-- [Data Science](#data-science) (505)
+- [Hardware Engineering](#hardware-engineering) (201)
+- [Data Science](#data-science) (506)
 - [Machine Learning](#machine-learning) (248)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (159)
@@ -1317,6 +1317,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Reach Labs | [Hardware Prototyping Intern](https://go.vansh.nyc/1IF?s=y) | Redwood City, CA | 1d |
 | RTX | [FPGA Electrical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/FPGA-Electrical-Engineer-Intern--Summer-2027-_01890532) | US-CA-EL SEGUNDO-E01 ~ 2000… | 1d |
 | General Motors | [Software Verification Engineer Intern, AV/AI Platform](https://go.vansh.nyc/1Ir?s=y) | Warren, MI | 1d |
 | Intel | [Design Verification Intern](https://go.vansh.nyc/1Ie?s=y) | **4 locations**Fort Collins… | 1d |
@@ -1567,6 +1568,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Altice USA | [Data Analyst Intern - Modernization Program BSS/OSS Mig…](https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Bethpage, NY | 1w |
 | Bloomberg Industry Group | [Data Analyst Intern](https://go.vansh.nyc/1AF?s=y) | Arlington, VA | 1w |
 | Lumentum | [Data Science & Analytics Intern](https://go.vansh.nyc/1AP?s=y) | San Jose, CA | 1w |
+| TransUnion | [Data Analyst Intern](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654?utm_source=Simplify&ref=Simplify) | Chicago, IL | 1w |
 | Milliman | [Data Analytics Intern, IntelliScript](https://go.vansh.nyc/1A2?s=y) | Brookfield, WI | 1w |
 | Carnival Corporation | [Data Analytics Intern](https://go.vansh.nyc/1Av?s=y) | Miami, FL | 1w |
 | NetApp | [Data Analyst Intern](https://go.vansh.nyc/1zX?s=y) | Research Triangle Park, NC | 1w |

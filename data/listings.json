@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "46311d1f950ee5dbf126bcde64ab75a4ae51ea4fbe11458f9e661e87207755fa",
+    "company_name": "Reach Labs",
+    "title": "Hardware Prototyping Intern",
+    "location": "Redwood City, CA",
+    "url": "https://go.vansh.nyc/1IF?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
     "id": "47f2c31a8912ca3011575f8d96fbb01ecb8c4ecf30fd01ed6446f3f0d0b9387f",
     "company_name": "Contoro Robotics",
     "title": "Robotics Software Engineer Intern - Autonomy - Automation",
@@ -3115,6 +3128,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "f5170c3d937c845924526fe2997acbacc3b2685fcf489885784e1cb3b4ce3ef3",
+    "company_name": "TransUnion",
+    "title": "Data Analyst Intern",
+    "location": "Chicago, IL",
+    "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-16T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
