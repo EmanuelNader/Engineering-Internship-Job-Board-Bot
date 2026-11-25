@@ -13,6 +13,19 @@
     ]
   },
   {
+    "id": "2855ef4fa5e7475d4b945f65d26d618023b2ce905c5e6d2a1edfee2075db4ce6",
+    "company_name": "Staples",
+    "title": "Full Stack Software Engineer Intern 🎓",
+    "location": "Austin, TX",
+    "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "562999056894bf1e8d82288d77182fc4a08faf171f0b9c099123ef9a134d7b53",
     "company_name": "SambaNova",
     "title": "Machine Learning Engineer Intern",
