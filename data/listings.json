@@ -65,6 +65,19 @@
     ]
   },
   {
+    "id": "0a132deda1805c5c9be96d9939200e382b7a944c49ba51feca3f52c88b9f9de3",
+    "company_name": "Bandwidth Inc.",
+    "title": "Software Engineer Intern",
+    "location": "Raleigh, NC",
+    "url": "https://go.vansh.nyc/1IS?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "158535c5fae7beb641bc3a6d5d19c5a4371bdffe4219b7d5ba5ee9a30363fcc2",
     "company_name": "Legrand",
     "title": "Electrical Engineer Intern",
