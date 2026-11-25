@@ -6,10 +6,10 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2579 roles.
+2581 roles.
 
-- [Software Engineering](#software-engineering) (1220)
-- [Product Management](#product-management) (61)
+- [Software Engineering](#software-engineering) (1221)
+- [Product Management](#product-management) (62)
 - [Hardware Engineering](#hardware-engineering) (203)
 - [Data Science](#data-science) (510)
 - [Machine Learning](#machine-learning) (250)
@@ -33,6 +33,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Aerospace Corporation | [Embedded Software Engineering Undergrad Intern 🇺🇸](https://go.vansh.nyc/1J8?s=y) | El Segundo, CA | 1d |
 | Contoro Robotics | [Robotics Software Engineer Intern - Autonomy - Automati…](https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434) | Austin, TX | 1d |
 | Apex Technology, Inc. | [Software Engineer Intern, Test Automation](https://go.vansh.nyc/1It?s=y) | Los Angeles, CA | 1d |
+| CodeRabbit | [Software Engineer Intern](https://go.vansh.nyc/1JE?s=y) | San Francisco, CA | 1d |
 | 🔥 Amazon | [Front-End Engineer Intern](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify) | Seattle, WAChicago, ILBelle… | 1d |
 | ViaSat | [Embedded Software Engineer Intern](https://careers.viasat.com/jobs/10478?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Tempe, AZ | 1d |
 | SharkNinja | [Firmware Engineer Intern - Advanced Development](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006?utm_source=Simplify&ref=Simplify) | Needham, MA | 1d |
@@ -1253,6 +1254,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| Docusign | [Product Manager Intern](https://go.vansh.nyc/1JC?s=y) | Seattle, WASan Francisco, CA | 0d |
 | Nuro | [Technical Program Manager, Systems Intern](https://nuro.ai/careersitem?gh_jid=8412577) | Mountain View, California (… | 2d |
 | Illumio | [Product Manager Intern](https://go.vansh.nyc/1HC?s=y) | Sunnyvale, CA | 2d |
 | Walmart | [MBA Product Manager Intern - MBA 🎓](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166?utm_source=Simplify&ref=Simplify) | Bentonville, AR | 5d |

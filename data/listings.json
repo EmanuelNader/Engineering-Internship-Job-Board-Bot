@@ -91,6 +91,19 @@
     ]
   },
   {
+    "id": "ea2332dc26c96530fdb77099e98903f82bc45a3c995aacd0e6ff99620c6c636d",
+    "company_name": "Docusign",
+    "title": "Product Manager Intern",
+    "location": "Seattle, WASan Francisco, CA",
+    "url": "https://go.vansh.nyc/1JC?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "pm-program"
+    ]
+  },
+  {
     "id": "53c94bab2e3b75dc960b04b5e630ba46e98d6f5b743351c0ed9c9147a6c11cc6",
     "company_name": "Apex Technology Inc",
     "title": "Software Engineer, Test Automation Internship (Summer 2027)",
@@ -227,6 +240,19 @@
     "title": "Software Engineer Intern, Test Automation",
     "location": "Los Angeles, CA",
     "url": "https://go.vansh.nyc/1It?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "7e8c67c7822362704d2821d60eb9b476fbdba91e322b5d4ce3fed3fe82b8e239",
+    "company_name": "CodeRabbit",
+    "title": "Software Engineer Intern",
+    "location": "San Francisco, CA",
+    "url": "https://go.vansh.nyc/1JE?s=y",
     "date_posted": "2026-11-24T00:00:00.000Z",
     "level": "internship",
     "source": "github",
