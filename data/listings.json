@@ -209,6 +209,19 @@
     ]
   },
   {
+    "id": "c1b95fbb4ee0f2129622fa3943729a55aec694079b2ae226e9f2615026c4804f",
+    "company_name": "PatientPoint",
+    "title": "Data Engineer Intern",
+    "location": "Cincinnati, OH",
+    "url": "https://go.vansh.nyc/1J3?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "c288630bb34d3a1014cb2d9694f2cbc6f04482bc838ebf5d0621119142aaefbd",
     "company_name": "Intel",
     "title": "Design Verification Intern",

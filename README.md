@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2570 roles.
+2571 roles.
 
 - [Software Engineering](#software-engineering) (1218)
 - [Product Management](#product-management) (61)
 - [Hardware Engineering](#hardware-engineering) (203)
-- [Data Science](#data-science) (506)
+- [Data Science](#data-science) (507)
 - [Machine Learning](#machine-learning) (248)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (159)
@@ -1530,6 +1530,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | Culver's | [Business Analytics Intern](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79&utm_source=Simplify&ref=Simplify) | Prairie du Sac, WI | 1d |
+| PatientPoint | [Data Engineer Intern](https://go.vansh.nyc/1J3?s=y) | Cincinnati, OH | 1d |
 | Stantec | [Data Scientist Intern - Water](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005?utm_source=Simplify&ref=Simplify) | Boston, MADenver, COSan Die… | 2d |
 | Stantec | [Data Scientist Intern, Water](https://go.vansh.nyc/1GO?s=y) | San Diego, CA | 3d |
 | Milliman | [Data Analyst Intern](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba&utm_source=Simplify&ref=Simplify) | Brookfield, WI | 4d |
