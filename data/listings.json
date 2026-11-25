@@ -1,5 +1,31 @@
 [
   {
+    "id": "562999056894bf1e8d82288d77182fc4a08faf171f0b9c099123ef9a134d7b53",
+    "company_name": "SambaNova",
+    "title": "Machine Learning Engineer Intern",
+    "location": "Austin, TXSan Jose, CA",
+    "url": "https://go.vansh.nyc/1Jr?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
+    "id": "7d2f4e2222ef1676ec24c4a4a85e48cc2800d08e69379822c3f1260eac6314de",
+    "company_name": "Jabil",
+    "title": "Data Scientist Intern",
+    "location": "St. Petersburg, FLTampa, FL",
+    "url": "https://go.vansh.nyc/1Jo?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "abb73fd962c1981ec835324af75090a24a373afc01fd45cd4c642a6538d8db7e",
     "company_name": "Advanced Energy",
     "title": "Firmware Engineer Intern",
