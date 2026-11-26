@@ -1,5 +1,84 @@
 [
   {
+    "id": "1fbaf03dea44244f7f3b31b3707ad3cfda949069b2145861513d28ca95bbdaab",
+    "company_name": "Digital Control",
+    "title": "Software Engineer Intern",
+    "location": "Kent, WA",
+    "url": "https://apply.workable.com/digital-control/j/AB9A181560/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "283af250513021efd72daac6598333927718469019f9142fbed86dd2e8f62327",
+    "company_name": "Veeva Systems",
+    "title": "Software Engineer Intern",
+    "location": "Pleasanton, CA",
+    "url": "https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "85a57bbdf4e33aba84d88de19eda34d5bd3d11b39e21191d5042498cfdf37827",
+    "company_name": "Total Quality Logistics",
+    "title": "Data Science & Analytics Intern",
+    "location": "Cincinnati, OH",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "966cc63a9ec06d6df145d0ef712b213a1c32677a6cc478bfeb7b360799e278d8",
+    "company_name": "Jack Henry",
+    "title": "Enterprise Pricing & Data Analytics Intern",
+    "location": "6 locationsAllen, TXBirmingham, ALMonett, MOLenexa, KSSpringfield, MOOverland Park, KS",
+    "url": "https://jackhenry.avature.net/careers/JobDetail/17682?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
+    "id": "980b6aa3704f6f7b94e99624cfe3141a9585e6b57a99cbe355d47576dd6ac4e7",
+    "company_name": "SambaNova Systems",
+    "title": "Post-Silicon Validation Engineer Intern",
+    "location": "Austin, TXSan Jose, CA",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "afd870f37b2237a08089a9d92ab400ed89e5f601c58fe5ffd365c925477e5c0a",
+    "company_name": "SambaNova Systems",
+    "title": "Physical Design Engineer Intern",
+    "location": "Austin, TXSan Jose, CA",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware",
+      "mechanical"
+    ]
+  },
+  {
     "id": "18f7dd7094dd95a1d4f3e14b23b715bc5008a94ebd45625c83583b2a80853766",
     "company_name": "Carrier Global",
     "title": "Software & Controls Engineering Intern 🛂",
@@ -75,6 +154,19 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "c9dcd5c1b46c14c1e5f35dc769db3785b1f7beecb17ba37edf3a4f6163341380",
+    "company_name": "Apex",
+    "title": "Flight Software Engineer Intern",
+    "location": "LA",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
