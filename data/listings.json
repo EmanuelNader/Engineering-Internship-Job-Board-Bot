@@ -1,5 +1,18 @@
 [
   {
+    "id": "0395d2a07d200c0587c7e4393fdd8893552d5671f417e03a24dee0bc9393bbc0",
+    "company_name": "🔥 TikTok",
+    "title": "Machine Learning Engineer Intern - PhD 🎓",
+    "location": "Seattle, WA",
+    "url": "https://lifeattiktok.com/search/7712192759532357893?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "1fbaf03dea44244f7f3b31b3707ad3cfda949069b2145861513d28ca95bbdaab",
     "company_name": "Digital Control",
     "title": "Software Engineer Intern",
@@ -36,6 +49,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "86fc8a1adbb65746c7f20c3df47dbc4185d5880f059681363bb0ef9b950283d0",
+    "company_name": "OpenSesame",
+    "title": "Software Engineer Intern",
+    "location": "Remote in USA",
+    "url": "https://boards.greenhouse.io/opensesame/jobs/8418272?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
@@ -76,6 +102,19 @@
     "role_families": [
       "hardware",
       "mechanical"
+    ]
+  },
+  {
+    "id": "bfd2e0f592246bfb517aa6fbc86c81a2b2dc52878db65d0544f82b548a60e95b",
+    "company_name": "QuEra Computing",
+    "title": "Photonics Data Engineer Intern - Data Management",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {

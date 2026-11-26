@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2589 roles.
+2592 roles.
 
-- [Software Engineering](#software-engineering) (1224)
+- [Software Engineering](#software-engineering) (1225)
 - [Product Management](#product-management) (62)
 - [Hardware Engineering](#hardware-engineering) (207)
-- [Data Science](#data-science) (512)
-- [Machine Learning](#machine-learning) (250)
+- [Data Science](#data-science) (513)
+- [Machine Learning](#machine-learning) (251)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (161)
 - [Electrical Engineering](#electrical-engineering) (165)
@@ -28,6 +28,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Digital Control | [Software Engineer Intern](https://apply.workable.com/digital-control/j/AB9A181560/apply?utm_source=Simplify&ref=Simplify) | Kent, WA | 0d |
 | Veeva Systems | [Software Engineer Intern](https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply?utm_source=Simplify&ref=Simplify) | Pleasanton, CA | 0d |
+| OpenSesame | [Software Engineer Intern](https://boards.greenhouse.io/opensesame/jobs/8418272?utm_source=Simplify&ref=Simplify) | Remote in USA | 0d |
 | Staples | [Full Stack Software Engineer Intern 🎓](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=Simplify&ref=Simplify) | Austin, TX | 1d |
 | Advanced Energy | [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Fort Collins, CO | 1d |
 | Apex | [Flight Software Engineer Intern](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 1d |
@@ -1542,6 +1543,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | Total Quality Logistics | [Data Science & Analytics Intern](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764?utm_source=Simplify&ref=Simplify) | Cincinnati, OH | 0d |
 | Jack Henry | [Enterprise Pricing & Data Analytics Intern](https://jackhenry.avature.net/careers/JobDetail/17682?utm_source=Simplify&ref=Simplify) | 6 locationsAllen, TXBirming… | 0d |
+| QuEra Computing | [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008?utm_source=Simplify&ref=Simplify) | Boston, MA | 0d |
 | Jabil | [Data Scientist Intern](https://go.vansh.nyc/1Jo?s=y) | St. Petersburg, FLTampa, FL | 1d |
 | ConnectPrep | [Data Analyst Intern](https://go.vansh.nyc/1J5?s=y) | Washington, DC | 2d |
 | Culver's | [Business Analytics Intern](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79&utm_source=Simplify&ref=Simplify) | Prairie du Sac, WI | 2d |
@@ -2059,6 +2061,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
+| 🔥 TikTok | [Machine Learning Engineer Intern - PhD 🎓](https://lifeattiktok.com/search/7712192759532357893?utm_source=Simplify&ref=Simplify) | Seattle, WA | 0d |
 | SambaNova | [Machine Learning Engineer Intern](https://go.vansh.nyc/1Jr?s=y) | Austin, TXSan Jose, CA | 1d |
 | Aerospace Corporation | [Machine Learning Engineer Undergrad Intern 🇺🇸](https://go.vansh.nyc/1Jh?s=y) | El Segundo, CAChantilly, VA | 3d |
 | Artefact | [AI Engineer Intern](https://go.vansh.nyc/1Gz?s=y) | New York, NY | 4d |
