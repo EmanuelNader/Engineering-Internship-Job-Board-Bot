@@ -118,6 +118,32 @@
     ]
   },
   {
+    "id": "f67c3deae4f03d62e209640093fa274161762a0e04c57e76526e308d1c7391d6",
+    "company_name": "CodeRabbit",
+    "title": "Software Engineer - Intern",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9",
+    "date_posted": "2026-11-26T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "13c26fce707f607749bd5e47fbb780df0da6807951dfce007ec7a69b4dd36005",
+    "company_name": "Lightmatter",
+    "title": "Firmware Intern - Summer 2027",
+    "location": "Boston, MA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "18f7dd7094dd95a1d4f3e14b23b715bc5008a94ebd45625c83583b2a80853766",
     "company_name": "Carrier Global",
     "title": "Software & Controls Engineering Intern 🛂",
@@ -136,6 +162,32 @@
     "title": "Full Stack Software Engineer Intern 🎓",
     "location": "Austin, TX",
     "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=Simplify&ref=Simplify",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "2ed337d38f3ad2ca050d0dc06d242d1215f7df38cbed2e773bc88330fb5b21eb",
+    "company_name": "Carrier",
+    "title": "Software & Controls Engineering Intern - Summer",
+    "location": "Charlotte, NC",
+    "url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Software---Controls-Engineering-Intern---Summer_30222979",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
+    "id": "307ac628d800efeb25caceb5ddd2186fb3b5930c21029eeec8c74ace5c78bfbe",
+    "company_name": "ASML",
+    "title": "Internship - Software Engineer",
+    "location": "San Diego, CA",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineer_J-00357859",
     "date_posted": "2026-11-25T00:00:00.000Z",
     "level": "internship",
     "source": "github",
@@ -363,6 +415,32 @@
     "source": "github",
     "role_families": [
       "electrical"
+    ]
+  },
+  {
+    "id": "2767ae349cb90e95f01ba8ac0d7c1e2204b8a8c689310869b22cbd8e9eba4748",
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Firmware Engineering Security Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "2be4a3212891cc169fe4d605f81f382a6a4ea9f6e2e74fdb54117b970d124167",
+    "company_name": "QinetiQ",
+    "title": "Software Engineer Intern",
+    "location": "Fort Belvoir, VA",
+    "url": "https://careers-qinetiqus.icims.com/jobs/12880/software-engineer-intern/job",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
     ]
   },
   {
