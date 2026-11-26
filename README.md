@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2592 roles.
+2593 roles.
 
 - [Software Engineering](#software-engineering) (1225)
 - [Product Management](#product-management) (62)
 - [Hardware Engineering](#hardware-engineering) (207)
-- [Data Science](#data-science) (513)
+- [Data Science](#data-science) (514)
 - [Machine Learning](#machine-learning) (251)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (161)
@@ -1546,6 +1546,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | QuEra Computing | [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008?utm_source=Simplify&ref=Simplify) | Boston, MA | 0d |
 | Jabil | [Data Scientist Intern](https://go.vansh.nyc/1Jo?s=y) | St. Petersburg, FLTampa, FL | 1d |
 | ConnectPrep | [Data Analyst Intern](https://go.vansh.nyc/1J5?s=y) | Washington, DC | 2d |
+| Elevance Health | [Undergraduate Clinical Analytics Intern](https://go.vansh.nyc/1K7?s=y) | Chicago, IL | 2d |
 | Culver's | [Business Analytics Intern](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79&utm_source=Simplify&ref=Simplify) | Prairie du Sac, WI | 2d |
 | PatientPoint | [Data Engineer Intern](https://go.vansh.nyc/1J3?s=y) | Cincinnati, OH | 2d |
 | Stantec | [Data Scientist Intern - Water](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005?utm_source=Simplify&ref=Simplify) | Boston, MADenver, COSan Die… | 3d |
