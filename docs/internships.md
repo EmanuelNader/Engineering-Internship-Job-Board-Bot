@@ -6,13 +6,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2597 roles.
+2601 roles.
 
-- [Software Engineering](#software-engineering) (1227)
+- [Software Engineering](#software-engineering) (1228)
 - [Product Management](#product-management) (62)
 - [Hardware Engineering](#hardware-engineering) (208)
-- [Data Science](#data-science) (514)
-- [Machine Learning](#machine-learning) (251)
+- [Data Science](#data-science) (516)
+- [Machine Learning](#machine-learning) (252)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (161)
 - [Electrical Engineering](#electrical-engineering) (165)
@@ -32,6 +32,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Staples | [Full Stack Software Engineer Intern 🎓](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=Simplify&ref=Simplify) | Austin, TX | 1d |
 | Advanced Energy | [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Fort Collins, CO | 1d |
 | Apex | [Flight Software Engineer Intern](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 1d |
+| HII | [DevOps Engineer Intern 🇺🇸](https://go.vansh.nyc/1KE?s=y) | Columbia, MD | 1d |
 | Apex Technology Inc | [Software Engineer, Test Automation Internship (Summer 2…](https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d) | Los Angeles | 2d |
 | Bandwidth Inc. | [Software Engineer Intern](https://go.vansh.nyc/1IS?s=y) | Raleigh, NC | 2d |
 | Aerospace Corporation | [Embedded Software Engineering Undergrad Intern 🇺🇸](https://go.vansh.nyc/1J8?s=y) | El Segundo, CA | 2d |
@@ -1548,7 +1549,9 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Jack Henry | [Enterprise Pricing & Data Analytics Intern](https://jackhenry.avature.net/careers/JobDetail/17682?utm_source=Simplify&ref=Simplify) | 6 locationsAllen, TXBirming… | 0d |
 | QuEra Computing | [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008?utm_source=Simplify&ref=Simplify) | Boston, MA | 0d |
 | Jabil | [Data Scientist Intern](https://go.vansh.nyc/1Jo?s=y) | St. Petersburg, FLTampa, FL | 1d |
+| Capital Blue Cross | [Data Science, Analytics & AI Intern](https://go.vansh.nyc/1Ku?s=y) | Harrisburg, PA | 2d |
 | ConnectPrep | [Data Analyst Intern](https://go.vansh.nyc/1J5?s=y) | Washington, DC | 2d |
+| Illinois Policy | [Analytics Intern](https://go.vansh.nyc/1Ky?s=y) | Chicago, IL | 2d |
 | Elevance Health | [Undergraduate Clinical Analytics Intern](https://go.vansh.nyc/1K7?s=y) | Chicago, IL | 2d |
 | Culver's | [Business Analytics Intern](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79&utm_source=Simplify&ref=Simplify) | Prairie du Sac, WI | 2d |
 | PatientPoint | [Data Engineer Intern](https://go.vansh.nyc/1J3?s=y) | Cincinnati, OH | 2d |
@@ -2067,6 +2070,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | 🔥 TikTok | [Machine Learning Engineer Intern - PhD 🎓](https://lifeattiktok.com/search/7712192759532357893?utm_source=Simplify&ref=Simplify) | Seattle, WA | 0d |
 | SambaNova | [Machine Learning Engineer Intern](https://go.vansh.nyc/1Jr?s=y) | Austin, TXSan Jose, CA | 1d |
+| Aptima Inc. (All Jobs) | [AI Engineer Intern](https://go.vansh.nyc/1KA?s=y) | Woburn, MA | 1d |
 | Aerospace Corporation | [Machine Learning Engineer Undergrad Intern 🇺🇸](https://go.vansh.nyc/1Jh?s=y) | El Segundo, CAChantilly, VA | 3d |
 | Artefact | [AI Engineer Intern](https://go.vansh.nyc/1Gz?s=y) | New York, NY | 4d |
 | EP Wealth Advisors | [Data AI Engineer Intern](https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply?utm_source=Simplify&ref=Simplify) | Austin, TXTorrance, CA | 5d |

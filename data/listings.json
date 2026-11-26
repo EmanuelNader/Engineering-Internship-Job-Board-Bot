@@ -184,6 +184,19 @@
     ]
   },
   {
+    "id": "6a5011186f7b7be9dd4c2d93c02b49eae3f0a8f406ae353f6569f23f029d7832",
+    "company_name": "Aptima Inc. (All Jobs)",
+    "title": "AI Engineer Intern",
+    "location": "Woburn, MA",
+    "url": "https://go.vansh.nyc/1KA?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
+    ]
+  },
+  {
     "id": "7d2f4e2222ef1676ec24c4a4a85e48cc2800d08e69379822c3f1260eac6314de",
     "company_name": "Jabil",
     "title": "Data Scientist Intern",
@@ -275,6 +288,19 @@
     ]
   },
   {
+    "id": "f7324320f0b07fc2f554b408f0763453c6b24151685b7a3066fb81e6a4e9b1c5",
+    "company_name": "HII",
+    "title": "DevOps Engineer Intern 🇺🇸",
+    "location": "Columbia, MD",
+    "url": "https://go.vansh.nyc/1KE?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "53c94bab2e3b75dc960b04b5e630ba46e98d6f5b743351c0ed9c9147a6c11cc6",
     "company_name": "Apex Technology Inc",
     "title": "Software Engineer, Test Automation Internship (Summer 2027)",
@@ -311,6 +337,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "13e0a36c96d29e84766d2f07387abb8ca042a7538f1aaed688efe1748b54d5be",
+    "company_name": "Capital Blue Cross",
+    "title": "Data Science, Analytics & AI Intern",
+    "location": "Harrisburg, PA",
+    "url": "https://go.vansh.nyc/1Ku?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
@@ -403,6 +442,19 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "67a281bb86d3834ee2caca18e01526e7dcbd76c368692bb908eab003714b66b7",
+    "company_name": "Illinois Policy",
+    "title": "Analytics Intern",
+    "location": "Chicago, IL",
+    "url": "https://go.vansh.nyc/1Ky?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
