@@ -6,15 +6,15 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2587 roles.
+2589 roles.
 
 - [Software Engineering](#software-engineering) (1224)
 - [Product Management](#product-management) (62)
-- [Hardware Engineering](#hardware-engineering) (205)
+- [Hardware Engineering](#hardware-engineering) (207)
 - [Data Science](#data-science) (512)
 - [Machine Learning](#machine-learning) (250)
 - [Civil and Structural](#civil-and-structural) (40)
-- [Mechanical Engineering](#mechanical-engineering) (160)
+- [Mechanical Engineering](#mechanical-engineering) (161)
 - [Electrical Engineering](#electrical-engineering) (165)
 - [Chemical Engineering](#chemical-engineering) (41)
 - [Aerospace Engineering](#aerospace-engineering) (29)
@@ -1328,6 +1328,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | SambaNova Systems | [Post-Silicon Validation Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004&utm_source=Simplify&ref=Simplify) | Austin, TXSan Jose, CA | 0d |
 | SambaNova Systems | [Physical Design Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004&utm_source=Simplify&ref=Simplify) | Austin, TXSan Jose, CA | 0d |
+| SambaNova | [Physical Design Engineer Intern](https://go.vansh.nyc/1JK?s=y) | Austin, TXSan Jose, CA | 1d |
+| SambaNova | [Post-Silicon Validation Engineer Intern](https://go.vansh.nyc/1JJ?s=y) | Austin, TXSan Jose, CA | 1d |
 | Ralliant | [Hardware Engineering Co-op](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451?utm_source=Simplify&ref=Simplify) | Solon, OH | 1d |
 | Lightmatter | [Design Verification Intern](https://boards.greenhouse.io/lightmatter/jobs/5493962008?utm_source=Simplify&ref=Simplify) | Boston, MA | 1d |
 | Reach Labs | [Hardware Prototyping Intern](https://go.vansh.nyc/1IF?s=y) | Redwood City, CA | 2d |
@@ -2362,6 +2364,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Company | Role | Location | Age |
 | --- | --- | --- | :---: |
 | SambaNova Systems | [Physical Design Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004&utm_source=Simplify&ref=Simplify) | Austin, TXSan Jose, CA | 0d |
+| SambaNova | [Physical Design Engineer Intern](https://go.vansh.nyc/1JK?s=y) | Austin, TXSan Jose, CA | 1d |
 | 🔥 AMD | [Masters AI Rack/Cluster Design Engineering Co-op 🎓](https://careers.amd.com/jobs/89564?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Austin, TX | 2d |
 | RTX | [Mechanical Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineering-Intern--Summer-2027-_01876207) | US-MA-MARLBOROUGH-MA1 ~ 100… | 3d |
 | RTX | [Digital Hardware Design Engineer Co-op (Winter/Spring)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1) | US-IA-CEDAR RAPIDS-130 ~ 53… | 3d |

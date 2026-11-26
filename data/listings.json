@@ -118,6 +118,20 @@
     ]
   },
   {
+    "id": "5a13e1f11ece71b49f354755248c2d23e9c58ff3833dbd31bb19a60b7a2617b8",
+    "company_name": "SambaNova",
+    "title": "Physical Design Engineer Intern",
+    "location": "Austin, TXSan Jose, CA",
+    "url": "https://go.vansh.nyc/1JK?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware",
+      "mechanical"
+    ]
+  },
+  {
     "id": "7d2f4e2222ef1676ec24c4a4a85e48cc2800d08e69379822c3f1260eac6314de",
     "company_name": "Jabil",
     "title": "Data Scientist Intern",
@@ -128,6 +142,19 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "81ba114f0f9e88c00ff753a70bbc3317de1392f0135e113c489b924e5efc8f6c",
+    "company_name": "SambaNova",
+    "title": "Post-Silicon Validation Engineer Intern",
+    "location": "Austin, TXSan Jose, CA",
+    "url": "https://go.vansh.nyc/1JJ?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware"
     ]
   },
   {
