@@ -6,11 +6,11 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2594 roles.
+2595 roles.
 
 - [Software Engineering](#software-engineering) (1225)
 - [Product Management](#product-management) (62)
-- [Hardware Engineering](#hardware-engineering) (207)
+- [Hardware Engineering](#hardware-engineering) (208)
 - [Data Science](#data-science) (514)
 - [Machine Learning](#machine-learning) (251)
 - [Civil and Structural](#civil-and-structural) (40)
@@ -1329,6 +1329,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | --- | --- | --- | :---: |
 | SambaNova Systems | [Post-Silicon Validation Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004&utm_source=Simplify&ref=Simplify) | Austin, TXSan Jose, CA | 0d |
 | SambaNova Systems | [Physical Design Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004&utm_source=Simplify&ref=Simplify) | Austin, TXSan Jose, CA | 0d |
+| Lockheed Martin | [FPGA Engineer Intern, Security Focus 🇺🇸](https://go.vansh.nyc/1Ke?s=y) | Owego, NY | 1d |
 | SambaNova | [Physical Design Engineer Intern](https://go.vansh.nyc/1JK?s=y) | Austin, TXSan Jose, CA | 1d |
 | SambaNova | [Post-Silicon Validation Engineer Intern](https://go.vansh.nyc/1JJ?s=y) | Austin, TXSan Jose, CA | 1d |
 | Ralliant | [Hardware Engineering Co-op](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451?utm_source=Simplify&ref=Simplify) | Solon, OH | 1d |
