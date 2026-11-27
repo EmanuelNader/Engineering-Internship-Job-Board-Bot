@@ -196,6 +196,19 @@
     ]
   },
   {
+    "id": "3e084682c427829eda09104379b8a9d5cb28577e4af3b584cdb9a1a68886b7cc",
+    "company_name": "Siemens",
+    "title": "Software Engineer Intern",
+    "location": "United States",
+    "url": "https://go.vansh.nyc/1Lk?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "5614009e6c74e8fe080ce97624ffbf07389afb646d672fcdcfea65dbe7171792",
     "company_name": "Lockheed Martin",
     "title": "FPGA Engineer Intern, Security Focus 🇺🇸",
@@ -272,6 +285,19 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "89b753175a335fba5e0037d1c9762339b1b2e3e23d12681c2100cf214a3bdf1b",
+    "company_name": "Siemens",
+    "title": "Agentic Analytics & Data Intern",
+    "location": "United States",
+    "url": "https://go.vansh.nyc/1Ll?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {

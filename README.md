@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2616 roles.
+2618 roles.
 
-- [Software Engineering](#software-engineering) (1236)
+- [Software Engineering](#software-engineering) (1237)
 - [Product Management](#product-management) (62)
 - [Hardware Engineering](#hardware-engineering) (209)
-- [Data Science](#data-science) (519)
+- [Data Science](#data-science) (520)
 - [Machine Learning](#machine-learning) (253)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (161)
@@ -33,6 +33,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Lightmatter | [Firmware Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) | Boston, MA | 2d |
 | Staples | [Full Stack Software Engineer Intern 🎓](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145?utm_source=Simplify&ref=Simplify) | Austin, TX | 2d |
 | ASML | [Internship - Software Engineer](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineer_J-00357859) | San Diego, CA | 2d |
+| Siemens | [Software Engineer Intern](https://go.vansh.nyc/1Lk?s=y) | United States | 2d |
 | Advanced Energy | [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Fort Collins, CO | 2d |
 | Apex | [Flight Software Engineer Intern](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 2d |
 | ASML | [Software Engineer Intern](https://go.vansh.nyc/1KQ?s=y) | San Diego, CA | 2d |
@@ -1558,6 +1559,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Jack Henry | [Enterprise Pricing & Data Analytics Intern](https://jackhenry.avature.net/careers/JobDetail/17682?utm_source=Simplify&ref=Simplify) | 6 locationsAllen, TXBirming… | 1d |
 | QuEra Computing | [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008?utm_source=Simplify&ref=Simplify) | Boston, MA | 1d |
 | Jabil | [Data Scientist Intern](https://go.vansh.nyc/1Jo?s=y) | St. Petersburg, FLTampa, FL | 2d |
+| Siemens | [Agentic Analytics & Data Intern](https://go.vansh.nyc/1Ll?s=y) | United States | 2d |
 | Capital Blue Cross | [Data Science, Analytics & AI Intern](https://go.vansh.nyc/1Ku?s=y) | Harrisburg, PA | 3d |
 | ConnectPrep | [Data Analyst Intern](https://go.vansh.nyc/1J5?s=y) | Washington, DC | 3d |
 | Illinois Policy | [Analytics Intern](https://go.vansh.nyc/1Ky?s=y) | Chicago, IL | 3d |
