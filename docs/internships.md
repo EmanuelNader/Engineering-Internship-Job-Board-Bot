@@ -6,12 +6,12 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2607 roles.
+2608 roles.
 
 - [Software Engineering](#software-engineering) (1233)
 - [Product Management](#product-management) (62)
 - [Hardware Engineering](#hardware-engineering) (208)
-- [Data Science](#data-science) (516)
+- [Data Science](#data-science) (517)
 - [Machine Learning](#machine-learning) (252)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (161)
@@ -1599,6 +1599,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Attain Partners | [Data Analytics Intern](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008?utm_source=Simplify&ref=Simplify) | McLean, VA | 1w |
 | State Street | [Data Scientist Intern](https://go.vansh.nyc/1C1?s=y) | Boston, MA | 1w |
 | SAS | [IoT Analytics Intern 🎓](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify) | Cary, NC | 1w |
+| ICONIQ Capital | [Data & Analytics Intern](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973?utm_source=Simplify&ref=Simplify) | NYC | 1w |
 | National Interstate Insuran… | [Predictive Analytics Intern 🛂](https://go.vansh.nyc/1AE?s=y) | Cincinnati, OH | 1w |
 | Altice USA | [Data Analyst Intern - Modernization Program BSS/OSS Mig…](https://www.optimumcareers.com/job/Bethpage-Intern-Data-Analyst,-Modernization-Program-BSSOSS-Migration-NY-11714/1450883000/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Bethpage, NY | 1w |
 | Bloomberg Industry Group | [Data Analyst Intern](https://go.vansh.nyc/1AF?s=y) | Arlington, VA | 1w |
