@@ -327,6 +327,19 @@
     ]
   },
   {
+    "id": "e978d7566fb1c27fb050a38d380651a9b9b4133c1b73aa87e2811142fb348e18",
+    "company_name": "ASML",
+    "title": "Software Engineer Intern",
+    "location": "San Diego, CA",
+    "url": "https://go.vansh.nyc/1KQ?s=y",
+    "date_posted": "2026-11-25T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "ea2332dc26c96530fdb77099e98903f82bc45a3c995aacd0e6ff99620c6c636d",
     "company_name": "Docusign",
     "title": "Product Manager Intern",
@@ -549,6 +562,19 @@
     ]
   },
   {
+    "id": "799ba7bd54475e24f2d10f2bd6d70fc6a6f5762e657005af5b97a35aaddfc867",
+    "company_name": "Samsung",
+    "title": "Data Engineer Intern",
+    "location": "Plano, TX",
+    "url": "https://go.vansh.nyc/1L3?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
+    ]
+  },
+  {
     "id": "7e8c67c7822362704d2821d60eb9b476fbdba91e322b5d4ce3fed3fe82b8e239",
     "company_name": "CodeRabbit",
     "title": "Software Engineer Intern",
@@ -611,6 +637,33 @@
     "source": "github",
     "role_families": [
       "data"
+    ]
+  },
+  {
+    "id": "97ad1f91fb27fb0fef9ab5da134b834c551104c5a1b143f4970bcb51b385c9db",
+    "company_name": "RTX",
+    "title": "Embedded System Engineering Intern 🇺🇸",
+    "location": "Windsor Locks, CT",
+    "url": "https://go.vansh.nyc/1L2?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
+    "id": "b366039d6f35f9ec8d999f8f686e396219af1de2171caf973eeadd2bfe07fd05",
+    "company_name": "RTX",
+    "title": "FPGA Electrical Engineer Intern 🇺🇸",
+    "location": "El Segundo, CA",
+    "url": "https://go.vansh.nyc/1KX?s=y",
+    "date_posted": "2026-11-24T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "hardware",
+      "electrical"
     ]
   },
   {
@@ -1045,6 +1098,19 @@
     ]
   },
   {
+    "id": "7e4e4ccbd05df8114f7d112957b9ad6ea01008bc88c7384fbc8108f02fbb52cf",
+    "company_name": "Genentech",
+    "title": "Software Engineer Intern, Robotics Lab Automation",
+    "location": "South San Francisco, CA",
+    "url": "https://go.vansh.nyc/1KV?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "swe"
+    ]
+  },
+  {
     "id": "84091b863b6b83a330f9ff987d503ec01bde206959a31fe66b89392353f8ee5e",
     "company_name": "Lifeway",
     "title": "Summer Internship - Front-End Engineer",
@@ -1110,6 +1176,19 @@
     ]
   },
   {
+    "id": "9bbcaeacf0903c93f231984682dfd469e1da4b7dfe65b4009209c1dacf50d528",
+    "company_name": "ASML",
+    "title": "Data & AI Intern, Controls",
+    "location": "San Diego, CA",
+    "url": "https://go.vansh.nyc/1KZ?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "electrical"
+    ]
+  },
+  {
     "id": "a912558ec9100be7cda25a6b10a0a4969c3e3d5114b44c056db6cc2296508e10",
     "company_name": "RTX",
     "title": "Electrical Engineering Electromagnetic Environmental Effects Intern (Summer 2027)",
@@ -1159,6 +1238,19 @@
     "source": "github",
     "role_families": [
       "swe"
+    ]
+  },
+  {
+    "id": "c0766dd3e03fe5cf3de46b7a932d72207b18ed82963c16bd2fb38baf3c9cc28b",
+    "company_name": "Genentech",
+    "title": "Service Data and Analytics Intern",
+    "location": "Indianapolis, IN",
+    "url": "https://go.vansh.nyc/1L0?s=y",
+    "date_posted": "2026-11-23T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "data"
     ]
   },
   {
@@ -4095,6 +4187,19 @@
     "source": "github",
     "role_families": [
       "hardware"
+    ]
+  },
+  {
+    "id": "68ade190815301355595f1fdda59737b01a6b593f2272fb7a88facc506ea5fa0",
+    "company_name": "ICONIQ Capital",
+    "title": "AI Engineer Intern",
+    "location": "New York, NY",
+    "url": "https://go.vansh.nyc/1KM?s=y",
+    "date_posted": "2026-11-13T00:00:00.000Z",
+    "level": "internship",
+    "source": "github",
+    "role_families": [
+      "ml"
     ]
   },
   {

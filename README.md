@@ -6,16 +6,16 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 
 ## Browse by category
 
-2608 roles.
+2616 roles.
 
-- [Software Engineering](#software-engineering) (1233)
+- [Software Engineering](#software-engineering) (1236)
 - [Product Management](#product-management) (62)
-- [Hardware Engineering](#hardware-engineering) (208)
-- [Data Science](#data-science) (517)
-- [Machine Learning](#machine-learning) (252)
+- [Hardware Engineering](#hardware-engineering) (209)
+- [Data Science](#data-science) (519)
+- [Machine Learning](#machine-learning) (253)
 - [Civil and Structural](#civil-and-structural) (40)
 - [Mechanical Engineering](#mechanical-engineering) (161)
-- [Electrical Engineering](#electrical-engineering) (166)
+- [Electrical Engineering](#electrical-engineering) (168)
 - [Chemical Engineering](#chemical-engineering) (42)
 - [Aerospace Engineering](#aerospace-engineering) (29)
 - [Other](#other) (35)
@@ -35,6 +35,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | ASML | [Internship - Software Engineer](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineer_J-00357859) | San Diego, CA | 2d |
 | Advanced Energy | [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Fort Collins, CO | 2d |
 | Apex | [Flight Software Engineer Intern](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 2d |
+| ASML | [Software Engineer Intern](https://go.vansh.nyc/1KQ?s=y) | San Diego, CA | 2d |
 | HII | [DevOps Engineer Intern 🇺🇸](https://go.vansh.nyc/1KE?s=y) | Columbia, MD | 2d |
 | Apex Technology Inc | [Software Engineer, Test Automation Internship (Summer 2…](https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d) | Los Angeles | 3d |
 | Bandwidth Inc. | [Software Engineer Intern](https://go.vansh.nyc/1IS?s=y) | Raleigh, NC | 3d |
@@ -45,6 +46,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Apex Technology, Inc. | [Software Engineer Intern, Test Automation](https://go.vansh.nyc/1It?s=y) | Los Angeles, CA | 3d |
 | CodeRabbit | [Software Engineer Intern](https://go.vansh.nyc/1JE?s=y) | San Francisco, CA | 3d |
 | 🔥 Amazon | [Front-End Engineer Intern](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us?utm_source=Simplify&ref=Simplify) | Seattle, WAChicago, ILBelle… | 3d |
+| RTX | [Embedded System Engineering Intern 🇺🇸](https://go.vansh.nyc/1L2?s=y) | Windsor Locks, CT | 3d |
 | ViaSat | [Embedded Software Engineer Intern](https://careers.viasat.com/jobs/10478?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify) | Tempe, AZ | 3d |
 | SharkNinja | [Firmware Engineer Intern - Advanced Development](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006?utm_source=Simplify&ref=Simplify) | Needham, MA | 3d |
 | Oscar Health | [Software Engineer Intern](https://oscarhealth.com/careers/jobs?gh_jid=8407472&utm_source=Simplify&ref=Simplify) | NYC | 3d |
@@ -62,6 +64,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Toshiba America Electronic… | [Firmware Engineer Intern](https://go.vansh.nyc/1Kk?s=y) | San Jose, CA | 4d |
 | Aptima Inc. (All Jobs) | [Software Engineer Intern](https://go.vansh.nyc/1Is?s=y) | Fairborn, OH | 4d |
 | Saab | [Software Engineer Co-op 🇺🇸](https://go.vansh.nyc/1Hk?s=y) | East Syracuse, NY | 4d |
+| Genentech | [Software Engineer Intern, Robotics Lab Automation](https://go.vansh.nyc/1KV?s=y) | South San Francisco, CA | 4d |
 | Lifeway | [Summer Internship - Front-End Engineer](https://hq-lifeway.icims.com/jobs/27216/summer-internship-%7c-front-end-engineer/job) | Remote - USA | 4d |
 | First Resonance | [Software Engineer Intern - Platform](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true&utm_source=Simplify&ref=Simplify) | LA | 4d |
 | Viasat | [Embedded Software Engineer Intern - Viasat Government](https://careers-viasat.icims.com/jobs/10478/job) | Tempe, AZ | 4d |
@@ -1345,6 +1348,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Reach Labs | [Hardware Prototyping Intern](https://go.vansh.nyc/1IF?s=y) | Redwood City, CA | 3d |
 | RTX | [FPGA Electrical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/FPGA-Electrical-Engineer-Intern--Summer-2027-_01890532) | US-CA-EL SEGUNDO-E01 ~ 2000… | 3d |
 | General Motors | [Software Verification Engineer Intern, AV/AI Platform](https://go.vansh.nyc/1Ir?s=y) | Warren, MI | 3d |
+| RTX | [FPGA Electrical Engineer Intern 🇺🇸](https://go.vansh.nyc/1KX?s=y) | El Segundo, CA | 3d |
 | Intel | [Design Verification Intern](https://go.vansh.nyc/1Ie?s=y) | **4 locations**Fort Collins… | 3d |
 | RTX | [Digital Hardware Design Engineer Co-op (Winter/Spring)(…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1) | US-IA-CEDAR RAPIDS-130 ~ 53… | 4d |
 | RTX | [Digital Hardware Design Engineer Co-op (Summer/Fall 202…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519) | US-IA-CEDAR RAPIDS-130 ~ 53… | 4d |
@@ -1557,11 +1561,13 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Capital Blue Cross | [Data Science, Analytics & AI Intern](https://go.vansh.nyc/1Ku?s=y) | Harrisburg, PA | 3d |
 | ConnectPrep | [Data Analyst Intern](https://go.vansh.nyc/1J5?s=y) | Washington, DC | 3d |
 | Illinois Policy | [Analytics Intern](https://go.vansh.nyc/1Ky?s=y) | Chicago, IL | 3d |
+| Samsung | [Data Engineer Intern](https://go.vansh.nyc/1L3?s=y) | Plano, TX | 3d |
 | Elevance Health | [Undergraduate Clinical Analytics Intern](https://go.vansh.nyc/1K7?s=y) | Chicago, IL | 3d |
 | Culver's | [Business Analytics Intern](https://recruiting2.ultipro.com/CUL1004CULFS/JobBoard/e532cf53-c07c-4c3b-ba54-03feb99aa4f3/OpportunityDetail?opportunityId=737547cd-aea2-4209-b596-9be908de7f79&utm_source=Simplify&ref=Simplify) | Prairie du Sac, WI | 3d |
 | PatientPoint | [Data Engineer Intern](https://go.vansh.nyc/1J3?s=y) | Cincinnati, OH | 3d |
 | Stantec | [Data Scientist Intern - Water](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005?utm_source=Simplify&ref=Simplify) | Boston, MADenver, COSan Die… | 4d |
 | Genworth | [Data Analytics Intern 🛂](https://go.vansh.nyc/1Jc?s=y) | Richmond, VA | 4d |
+| Genentech | [Service Data and Analytics Intern](https://go.vansh.nyc/1L0?s=y) | Indianapolis, IN | 4d |
 | Stantec | [Data Scientist Intern, Water](https://go.vansh.nyc/1GO?s=y) | San Diego, CA | 5d |
 | Milliman | [Data Analyst Intern](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=7eb5c04b-2e0c-4485-a005-aacb831a23ba&utm_source=Simplify&ref=Simplify) | Brookfield, WI | 6d |
 | Acuity Insurance | [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7&utm_source=Simplify&ref=Simplify) | Sheboygan, WI | 6d |
@@ -2101,6 +2107,7 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Strava | [Machine Learning Engineer Intern - AI/ML Data Products](https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true&utm_source=Simplify&ref=Simplify) | SF | 2w |
 | Camping World | [Data Analyst Intern - AI & Machine Learning Focus 🎓](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300?utm_source=Simplify&ref=Simplify) | Chicago, ILLincolnshire, IL | 2w |
 | Carnegie Mellon University | [Cyber AI Engineer Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2?utm_source=Simplify&ref=Simplify) | Pittsburgh, PA | 2w |
+| ICONIQ Capital | [AI Engineer Intern](https://go.vansh.nyc/1KM?s=y) | New York, NY | 2w |
 | Intermountain Healthcare | [AI/ML Engineer Intern](https://go.vansh.nyc/1xt?s=y) | United States | 2w |
 | Riot Games | [Machine Learning Engineer Intern 🎓](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771&utm_source=Simplify&ref=Simplify) | Remote in USA | 2w |
 | Micron Technology | [AI Engineer Platform Intern](https://go.vansh.nyc/1z5?s=y) | Boise, ID | 2w |
@@ -2552,6 +2559,8 @@ US intern, co-op, and fellowship roles posted to Discord. This page is generated
 | Carrier | [Software & Controls Engineering Intern - Summer](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Software---Controls-Engineering-Intern---Summer_30222979) | Charlotte, NC | 2d |
 | Legrand | [Electrical Engineer Intern](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948?utm_source=Simplify&ref=Simplify) | Canonsburg, PA | 3d |
 | RTX | [FPGA Electrical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/FPGA-Electrical-Engineer-Intern--Summer-2027-_01890532) | US-CA-EL SEGUNDO-E01 ~ 2000… | 3d |
+| RTX | [FPGA Electrical Engineer Intern 🇺🇸](https://go.vansh.nyc/1KX?s=y) | El Segundo, CA | 3d |
+| ASML | [Data & AI Intern, Controls](https://go.vansh.nyc/1KZ?s=y) | San Diego, CA | 4d |
 | RTX | [Electrical Engineering Electromagnetic Environmental Ef…](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Electrical-Engineering-Electromagnetic-Environmental-Effects-Intern--Summer-2027-_01885207) | US-AZ-TUCSON-M02 ~ 1151 E H… | 4d |
 | Neros Technologies | [Electrical Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007?utm_source=Simplify&ref=Simplify) | Torrance, CA | 6d |
 | Lucid Motors | [Power Electronics Control Engineer Intern, Summer 2027](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) | Newark, CA | 1w |
